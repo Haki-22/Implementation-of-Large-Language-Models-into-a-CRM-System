@@ -1,0 +1,40 @@
+{
+  "contact_id": 40,
+  "reviewer_id": "A2B7BUH8834Y6M",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 115,
+  "reviews_used": 15,
+  "prompt_chars": 9652,
+  "status": "ok",
+  "seconds": 109.99,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 3.7,
+    "E": 4.05,
+    "A": 3.95,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "side by side so you can compare color depth along the entire gamut as well as refresh rates, intensity, glare, etc.",
+      "C": "I can't say enough about how handy it is with taking notes.",
+      "E": "and I have been evangelizing this GO2435 to everyone I know since I got it.",
+      "A": "My mother's portable handsets needed battery replacements, and since the older model required harder-to-find, more expensive batteries, we opted to get her a whole new set.",
+      "N": "When my point-n-shoot stopped focusing, I took advantage of this situation by rationalizing this bigger purchase."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 3.7,
+    "E": 4.05,
+    "N": 2.35,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "My mother's portable handsets needed battery replacements, and since the older model required harder-to-find, more expensive batteries, we opted to get her a whole new set.",
+      "C": "I can't say enough about how handy it is with taking notes.",
+      "E": "and I have been evangelizing this GO2435 to everyone I know since I got it.",
+      "N": "When my point-n-shoot stopped focusing, I took advantage of this situation by rationalizing this bigger purchase.",
+      "O": "side by side so you can compare color depth along the entire gamut as well as refresh rates, intensity, glare, etc."
+    }
+  }
+}

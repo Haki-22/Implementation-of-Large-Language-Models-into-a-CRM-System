@@ -1,0 +1,40 @@
+{
+  "contact_id": 62,
+  "reviewer_id": "ARX7Z3NI6O0F7",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 8527,
+  "status": "ok",
+  "seconds": 191.32,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.3,
+    "E": 3.3,
+    "A": 3.5,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "I shoot Nature and Travel photographs.",
+      "C": "I read the instructions (and reviews) and made certain to work in a CLEAN environment.",
+      "E": "I'll venture to post the first review on this lens.",
+      "A": "I know other reviewers have had better luck, so this may be user shake, or the particular camera that I received",
+      "N": "This lens is not what I had hoped for. It's a good lens, don't get me wrong, but really, REALLY?"
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.3,
+    "E": 3.3,
+    "N": 2.8,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I know other reviewers have had better luck, so this may be user shake, or the particular camera that I received",
+      "C": "I read the instructions (and reviews) and made certain to work in a CLEAN environment.",
+      "E": "I'll venture to post the first review on this lens.",
+      "N": "This lens is not what I had hoped for. It's a good lens, don't get me wrong, but really, REALLY?",
+      "O": "I shoot Nature and Travel photographs."
+    }
+  }
+}

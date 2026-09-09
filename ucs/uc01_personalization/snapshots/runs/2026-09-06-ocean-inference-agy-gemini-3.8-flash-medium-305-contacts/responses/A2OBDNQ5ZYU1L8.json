@@ -1,0 +1,40 @@
+{
+  "contact_id": 54,
+  "reviewer_id": "A2OBDNQ5ZYU1L8",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 10066,
+  "status": "ok",
+  "seconds": 168.43,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.1,
+    "E": 3.6,
+    "A": 4.15,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "This is a piece of hardware that hits the gadget geeks like myself right in the sweet spot conceptually.",
+      "C": "Ham Radio is known as a last resort for emergency communications and what a better way to back it up with short emergency power than with this UPS unit",
+      "E": "This is the nicest and smallest camcorder I have ever had the pleasure using. A true pleasure it is!",
+      "A": "I am a complete photography novice and I like to approach my reviews with that in mind.",
+      "N": "I realized that it had to be a grounding issue on my side and it seems to have dissipated."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.1,
+    "E": 3.6,
+    "N": 2.25,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I am a complete photography novice and I like to approach my reviews with that in mind.",
+      "C": "Ham Radio is known as a last resort for emergency communications and what a better way to back it up with short emergency power than with this UPS unit",
+      "E": "This is the nicest and smallest camcorder I have ever had the pleasure using. A true pleasure it is!",
+      "N": "I realized that it had to be a grounding issue on my side and it seems to have dissipated.",
+      "O": "This is a piece of hardware that hits the gadget geeks like myself right in the sweet spot conceptually."
+    }
+  }
+}

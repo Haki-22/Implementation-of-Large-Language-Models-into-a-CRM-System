@@ -1,0 +1,40 @@
+{
+  "contact_id": 319,
+  "reviewer_id": "A35Q0RBM3YNQNF",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 82,
+  "reviews_used": 15,
+  "prompt_chars": 9819,
+  "status": "ok",
+  "seconds": 319.36,
+  "error": "",
+  "profile": {
+    "O": 3.3,
+    "C": 4.35,
+    "E": 3.05,
+    "A": 4.1,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "I am not an audiophile and when talk turns to impedances and ohms my eyes glaze over. I want a solid system that sounds great.",
+      "C": "For months I studied reviews of different models on the internet hoping to at least discover which manufacturers had the most service problems to avoid that aggravation",
+      "E": "so I can take great shots while at a ball game all in a compact body.",
+      "A": "I readily admit that $50,000 worth of speakers would undoubtedly be wasted on me.",
+      "N": "Speakers that are not subwoofers, yet muddy everything with heavy bass response, or those that have tinny upper ranges because of subpar tweeters are intolerable."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 3.05,
+    "N": 2.8,
+    "O": 3.3,
+    "evidence_quotes": {
+      "A": "I readily admit that $50,000 worth of speakers would undoubtedly be wasted on me.",
+      "C": "For months I studied reviews of different models on the internet hoping to at least discover which manufacturers had the most service problems to avoid that aggravation",
+      "E": "so I can take great shots while at a ball game all in a compact body.",
+      "N": "Speakers that are not subwoofers, yet muddy everything with heavy bass response, or those that have tinny upper ranges because of subpar tweeters are intolerable.",
+      "O": "I am not an audiophile and when talk turns to impedances and ohms my eyes glaze over. I want a solid system that sounds great."
+    }
+  }
+}

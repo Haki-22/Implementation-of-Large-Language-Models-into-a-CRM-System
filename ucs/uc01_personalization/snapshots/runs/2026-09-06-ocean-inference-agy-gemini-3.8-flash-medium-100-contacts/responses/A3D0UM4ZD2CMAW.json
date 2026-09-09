@@ -1,0 +1,40 @@
+{
+  "contact_id": 209,
+  "reviewer_id": "A3D0UM4ZD2CMAW",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 9096,
+  "status": "ok",
+  "seconds": 154.47,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.6,
+    "A": 3.4,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I've used it extensively for quite a few computer builds as well as a few 'special projects'",
+      "C": "Looks cool, tested fine (no errors), and apparently runs with better stats than advertised. Stably I might add.",
+      "E": "Been using this for the last 7 months. IT IS A BEAST. This is one purchase I have not regretted!",
+      "A": "The ignorant will probably reduce ratings as one has to enable XMP in the BIOS to fully utilize the speed of this memory.",
+      "N": "Shipped with a very old BIOS version that made it nearly impossible to use. Flash before use and everything is fine."
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.25,
+    "E": 3.6,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "The ignorant will probably reduce ratings as one has to enable XMP in the BIOS to fully utilize the speed of this memory.",
+      "C": "Looks cool, tested fine (no errors), and apparently runs with better stats than advertised. Stably I might add.",
+      "E": "Been using this for the last 7 months. IT IS A BEAST. This is one purchase I have not regretted!",
+      "N": "Shipped with a very old BIOS version that made it nearly impossible to use. Flash before use and everything is fine.",
+      "O": "I've used it extensively for quite a few computer builds as well as a few 'special projects'"
+    }
+  }
+}

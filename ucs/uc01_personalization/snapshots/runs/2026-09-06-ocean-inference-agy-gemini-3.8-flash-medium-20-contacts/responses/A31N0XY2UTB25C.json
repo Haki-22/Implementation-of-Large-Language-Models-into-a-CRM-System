@@ -1,0 +1,40 @@
+{
+  "contact_id": 7,
+  "reviewer_id": "A31N0XY2UTB25C",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16",
+  "reviews_total": 200,
+  "reviews_used": 15,
+  "prompt_chars": 9620,
+  "status": "ok",
+  "seconds": 24.24,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.45,
+    "E": 3.25,
+    "A": 3.95,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I choose super white so the products I am photographing will appear to be \"floating\" over a white background.",
+      "C": "I'll update the review as I've lived with the drive for a while and share what I learn.",
+      "E": "A client wanted mobile storage for presentations and after-work entertainment. The Corsair Voyager 1TB met their requirements and they have been very happy with it since.",
+      "A": "I hope the review with updates are helpful to potential seagate purchasers.",
+      "N": "While any drive noise may bother some people, I find it useful feedback that the drive is busy."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.45,
+    "E": 3.25,
+    "N": 2.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I hope the review with updates are helpful to potential seagate purchasers.",
+      "C": "I'll update the review as I've lived with the drive for a while and share what I learn.",
+      "E": "A client wanted mobile storage for presentations and after-work entertainment. The Corsair Voyager 1TB met their requirements and they have been very happy with it since.",
+      "N": "While any drive noise may bother some people, I find it useful feedback that the drive is busy.",
+      "O": "I choose super white so the products I am photographing will appear to be \"floating\" over a white background."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 44,
+  "reviewer_id": "AEJAGHLC675A7",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 210,
+  "reviews_used": 15,
+  "prompt_chars": 10028,
+  "status": "ok",
+  "seconds": 138.19,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.45,
+    "E": 3.4,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "As a current owner of the Nikon COOLPIX P7100, I was curious as to what improvements might have been made.",
+      "C": "If you want just the highlights as to why, see my Short Notes below. If you want the full review, go to Detailed Notes further down.",
+      "E": "it's actually smaller than US paper currency, and that's just one of the things that make this small radio so appealing!",
+      "A": "But do not buy it like I did. Read the 'Add Kindle Accessories' section on the right side of the various new Kindle models",
+      "N": "The price has gone up and down since I first purchased it here for the then-prevailing price of $19.99, yet I don't regret purchasing it here."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.45,
+    "E": 3.4,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "But do not buy it like I did. Read the 'Add Kindle Accessories' section on the right side of the various new Kindle models",
+      "C": "If you want just the highlights as to why, see my Short Notes below. If you want the full review, go to Detailed Notes further down.",
+      "E": "it's actually smaller than US paper currency, and that's just one of the things that make this small radio so appealing!",
+      "N": "The price has gone up and down since I first purchased it here for the then-prevailing price of $19.99, yet I don't regret purchasing it here.",
+      "O": "As a current owner of the Nikon COOLPIX P7100, I was curious as to what improvements might have been made."
+    }
+  }
+}

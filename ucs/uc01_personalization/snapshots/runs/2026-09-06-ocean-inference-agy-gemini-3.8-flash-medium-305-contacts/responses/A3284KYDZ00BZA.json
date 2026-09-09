@@ -1,0 +1,40 @@
+{
+  "contact_id": 165,
+  "reviewer_id": "A3284KYDZ00BZA",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 107,
+  "reviews_used": 15,
+  "prompt_chars": 9612,
+  "status": "ok",
+  "seconds": 614.25,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.4,
+    "E": 3.15,
+    "A": 3.1,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "Aesthetics: It's very small and can easily fit into pant pockets. It's comparable in size to a \"fat\" wallet. Additionally, the attractive black plastic feels durable.",
+      "C": "I always read the manual of every electronic device I buy, and even though this particular gadget comes in a neat looking box there wasn't a manual included",
+      "E": "I finally replaced the horrible generic case in my secondary rig with this one, and am VERY happy with it.",
+      "A": "It did warn me a few times, but at this point I just can't trust it.",
+      "N": "This is completely unacceptable."
+    }
+  },
+  "raw": {
+    "A": 3.1,
+    "C": 4.4,
+    "E": 3.15,
+    "N": 3.25,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "It did warn me a few times, but at this point I just can't trust it.",
+      "C": "I always read the manual of every electronic device I buy, and even though this particular gadget comes in a neat looking box there wasn't a manual included",
+      "E": "I finally replaced the horrible generic case in my secondary rig with this one, and am VERY happy with it.",
+      "N": "This is completely unacceptable.",
+      "O": "Aesthetics: It's very small and can easily fit into pant pockets. It's comparable in size to a \"fat\" wallet. Additionally, the attractive black plastic feels durable."
+    }
+  }
+}

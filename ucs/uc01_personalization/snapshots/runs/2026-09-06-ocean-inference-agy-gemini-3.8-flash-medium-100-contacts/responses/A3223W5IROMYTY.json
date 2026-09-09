@@ -1,0 +1,40 @@
+{
+  "contact_id": 303,
+  "reviewer_id": "A3223W5IROMYTY",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 57,
+  "reviews_used": 15,
+  "prompt_chars": 9889,
+  "status": "ok",
+  "seconds": 243.69,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.65,
+    "A": 3.5,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I spent the last few months testing and analyzing the 4770K and now it's time to share those results with you guys.",
+      "C": "I have noticed that I need to add at least a minimum of 0.007 volts every few months because my CPU starts to crash",
+      "E": "I'm seeing a lot of people on forums that say 3GB VRAM isn't enough for high resolution gaming but they are wrong, it's more than enough for any game.",
+      "A": "Lenovo was kind enough to send me a review unit of the X1 Carbon Touch for a few weeks to play around with and write a review of it.",
+      "N": "I have had the Sabertooth Z87 for a few weeks now and I have absolutely no complaints."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.25,
+    "E": 3.65,
+    "N": 2.25,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Lenovo was kind enough to send me a review unit of the X1 Carbon Touch for a few weeks to play around with and write a review of it.",
+      "C": "I have noticed that I need to add at least a minimum of 0.007 volts every few months because my CPU starts to crash",
+      "E": "I'm seeing a lot of people on forums that say 3GB VRAM isn't enough for high resolution gaming but they are wrong, it's more than enough for any game.",
+      "N": "I have had the Sabertooth Z87 for a few weeks now and I have absolutely no complaints.",
+      "O": "I spent the last few months testing and analyzing the 4770K and now it's time to share those results with you guys."
+    }
+  }
+}

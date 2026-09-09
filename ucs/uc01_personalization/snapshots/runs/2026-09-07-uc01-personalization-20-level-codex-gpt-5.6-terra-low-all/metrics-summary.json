@@ -1,0 +1,92 @@
+{
+  "0": {
+    "n": 60,
+    "lsm_mean": 0.526,
+    "overlap_mean": 0.0073,
+    "chars_mean": 258.7
+  },
+  "1": {
+    "n": 60,
+    "lsm_mean": 0.528,
+    "overlap_mean": 0.0073,
+    "chars_mean": 272.1
+  },
+  "2": {
+    "n": 60,
+    "lsm_mean": 0.5277,
+    "overlap_mean": 0.0073,
+    "chars_mean": 274.7
+  },
+  "3a": {
+    "n": 16,
+    "lsm_mean": 0.6278,
+    "overlap_mean": 0.0438,
+    "chars_mean": 337.6
+  },
+  "3b": {
+    "n": 16,
+    "lsm_mean": 0.4245,
+    "overlap_mean": 0.0,
+    "chars_mean": 121.4
+  },
+  "3c": {
+    "n": 16,
+    "lsm_mean": 0.4156,
+    "overlap_mean": 0.0,
+    "chars_mean": 119.8
+  },
+  "3d": {
+    "n": 7,
+    "lsm_mean": 0.6228,
+    "overlap_mean": 0.0,
+    "chars_mean": 347.3
+  },
+  "3": {
+    "n": 48,
+    "lsm_mean": 0.5128,
+    "overlap_mean": 0.0458,
+    "chars_mean": 262.8
+  },
+  "4": {
+    "n": 16,
+    "lsm_mean": 0.4607,
+    "overlap_mean": 0.0187,
+    "chars_mean": 133.8
+  },
+  "5": {
+    "n": 48,
+    "lsm_mean": 0.5032,
+    "overlap_mean": 0.0427,
+    "chars_mean": 241.0
+  },
+  "6a": {
+    "n": 16,
+    "lsm_mean": 0.52,
+    "overlap_mean": 0.0719,
+    "chars_mean": 200.9
+  },
+  "6b": {
+    "n": 16,
+    "lsm_mean": 0.4526,
+    "overlap_mean": 0.0031,
+    "chars_mean": 131.9
+  },
+  "6c": {
+    "n": 16,
+    "lsm_mean": 0.4762,
+    "overlap_mean": 0.05,
+    "chars_mean": 278.0
+  },
+  "6d": {
+    "n": 16,
+    "lsm_mean": 0.4417,
+    "overlap_mean": 0.0875,
+    "chars_mean": 315.8
+  },
+  "6": {
+    "n": 48,
+    "lsm_mean": 0.5041,
+    "overlap_mean": 0.0854,
+    "chars_mean": 273.6
+  }
+}

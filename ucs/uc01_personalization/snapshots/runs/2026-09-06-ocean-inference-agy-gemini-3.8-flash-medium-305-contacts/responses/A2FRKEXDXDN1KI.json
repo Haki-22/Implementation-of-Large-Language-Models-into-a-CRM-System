@@ -1,0 +1,40 @@
+{
+  "contact_id": 253,
+  "reviewer_id": "A2FRKEXDXDN1KI",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 10549,
+  "status": "ok",
+  "seconds": 939.9,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.2,
+    "E": 3.65,
+    "A": 4.05,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I have been an avid user of Wacom products for almost a decade now and for digital artwork, I still use my Intuous 3 Graphic Tablet.",
+      "C": "These do take two AAA batteries each, so as always with my electronic equipment, attached the Eneloop batteries and they work perfectly.",
+      "E": "Because I travel and cover so many events and there are times where our photographers are busy covering things, I figured...It would be great to have a DSLR.",
+      "A": "I figured that I can help others out there to decide if this 5-and-1 device is for you or not.",
+      "N": "At $36-$40, you can't really complain (note: The two shown on Amazon are the same product)...but here is my experience which varies from others..."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.2,
+    "E": 3.65,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I figured that I can help others out there to decide if this 5-and-1 device is for you or not.",
+      "C": "These do take two AAA batteries each, so as always with my electronic equipment, attached the Eneloop batteries and they work perfectly.",
+      "E": "Because I travel and cover so many events and there are times where our photographers are busy covering things, I figured...It would be great to have a DSLR.",
+      "N": "At $36-$40, you can't really complain (note: The two shown on Amazon are the same product)...but here is my experience which varies from others...",
+      "O": "I have been an avid user of Wacom products for almost a decade now and for digital artwork, I still use my Intuous 3 Graphic Tablet."
+    }
+  }
+}

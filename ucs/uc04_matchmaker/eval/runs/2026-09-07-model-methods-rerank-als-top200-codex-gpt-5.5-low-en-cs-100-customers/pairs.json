@@ -1,0 +1,28 @@
+[
+  {
+    "method": "rerank_als_top200",
+    "lang": "en",
+    "protocol": "full",
+    "versus": "als_cf",
+    "n": 44,
+    "hits_first": 11,
+    "hits_second": 6,
+    "difference": 5,
+    "only_first": 6,
+    "only_second": 1,
+    "p_sign": 0.125
+  },
+  {
+    "method": "rerank_als_top200",
+    "lang": "cs",
+    "protocol": "full",
+    "versus": "als_cf",
+    "n": 44,
+    "hits_first": 10,
+    "hits_second": 6,
+    "difference": 4,
+    "only_first": 6,
+    "only_second": 2,
+    "p_sign": 0.289
+  }
+]

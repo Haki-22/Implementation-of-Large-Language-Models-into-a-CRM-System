@@ -1,0 +1,40 @@
+{
+  "contact_id": 125,
+  "reviewer_id": "A28UMA3GW9L124",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 133,
+  "reviews_used": 15,
+  "prompt_chars": 9726,
+  "status": "ok",
+  "seconds": 457.47,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.5,
+    "E": 2.9,
+    "A": 3.85,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I spent a week playing with the Seagate FreeAgent GoFlex Net STAK100 before writing this review.",
+      "C": "I ran each test 4 times. The router was about 30ft from the macbook pro with some obstructions. Everything was kept constant for all tests.",
+      "E": "I won't go into too much detail because I really just want to add my own perspective.",
+      "A": "Since it often comes down to reliability and performance I thought I'd run some tests myself. Hopefully others will find this useful.",
+      "N": "Well my flash unit died after a few months. I changed the batteries and fiddled with it but no luck."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.5,
+    "E": 2.9,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Since it often comes down to reliability and performance I thought I'd run some tests myself. Hopefully others will find this useful.",
+      "C": "I ran each test 4 times. The router was about 30ft from the macbook pro with some obstructions. Everything was kept constant for all tests.",
+      "E": "I won't go into too much detail because I really just want to add my own perspective.",
+      "N": "Well my flash unit died after a few months. I changed the batteries and fiddled with it but no luck.",
+      "O": "I spent a week playing with the Seagate FreeAgent GoFlex Net STAK100 before writing this review."
+    }
+  }
+}

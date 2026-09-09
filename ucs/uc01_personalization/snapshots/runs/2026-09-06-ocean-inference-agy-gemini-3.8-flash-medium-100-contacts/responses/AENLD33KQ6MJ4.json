@@ -1,0 +1,40 @@
+{
+  "contact_id": 336,
+  "reviewer_id": "AENLD33KQ6MJ4",
+  "group": "B",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 20,
+  "reviews_used": 15,
+  "prompt_chars": 10233,
+  "status": "ok",
+  "seconds": 391.58,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.1,
+    "E": 3.6,
+    "A": 3.8,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "Contrary to popular belief, CPU chip fabrication is really an imprecise art, and manufacturing perfection cannot be found in this industry.",
+      "C": "I've broken down my comparison by specific sections, detailing often-overlooked characteristics of computers.",
+      "E": "in hopes of making this the most helpful iPad review on Amazon!",
+      "A": "I hope you find my review helpful and that the insight I share positively impacts your buying decision.",
+      "N": "Most netbooks are unusable to me, especially where the keyboard is concerned."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.1,
+    "E": 3.6,
+    "N": 2.3,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I hope you find my review helpful and that the insight I share positively impacts your buying decision.",
+      "C": "I've broken down my comparison by specific sections, detailing often-overlooked characteristics of computers.",
+      "E": "in hopes of making this the most helpful iPad review on Amazon!",
+      "N": "Most netbooks are unusable to me, especially where the keyboard is concerned.",
+      "O": "Contrary to popular belief, CPU chip fabrication is really an imprecise art, and manufacturing perfection cannot be found in this industry."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "run": "2026-09-05-sandwich-live-codex-entity-tokens-20-messages",
+  "kind": "live-check",
+  "started": "2026-09-05T20:15:35",
+  "duration_seconds": 153.2,
+  "corpus": {
+    "corpus_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-corpus.json",
+    "corpus_sha256": "1171eab3e747bbde40c440f175d469cfe311de04765acf4134175ea029ccd422",
+    "messages": 100,
+    "corpus_id": "uc02-corpus-v2-model",
+    "gold_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-gold.jsonl",
+    "gold_sha256": "6384feddcb9bb5fea3c781c3682e5ce89797aabc78b0a2663c8dba18407b538d",
+    "gold_spans": 345
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "optimum": "2.1.0",
+      "onnxruntime": "1.26.0",
+      "gliner": "0.2.26",
+      "presidio_analyzer": "2.2.362",
+      "spacy": "3.8.14"
+    }
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "requested": {
+    "model": null,
+    "tier": "low"
+  },
+  "task": "summarize",
+  "task_prompt": "Shrň následující zprávu ze CRM do tří vět. Drž věcný tón, nic nevymýšlej.",
+  "unify": "entity",
+  "n": 20,
+  "timeout_per_attempt": 300.0,
+  "default_ner_backend": "bardsai"
+}

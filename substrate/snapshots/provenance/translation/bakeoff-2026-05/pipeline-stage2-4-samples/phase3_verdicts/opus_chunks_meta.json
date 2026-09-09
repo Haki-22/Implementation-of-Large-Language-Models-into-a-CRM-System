@@ -1,0 +1,1028 @@
+[
+  {
+    "chunk_idx": 0,
+    "items": 1000,
+    "chars": 2483401,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 1,
+    "items": 1000,
+    "chars": 913839,
+    "invalid": 7,
+    "hallu": 0,
+    "wall_seconds": 190.5,
+    "error": null
+  },
+  {
+    "chunk_idx": 2,
+    "items": 1000,
+    "chars": 1527875,
+    "invalid": 2,
+    "hallu": 15,
+    "wall_seconds": 551.2,
+    "error": null
+  },
+  {
+    "chunk_idx": 3,
+    "items": 1000,
+    "chars": 1596723,
+    "invalid": 4,
+    "hallu": 0,
+    "wall_seconds": 251.1,
+    "error": null
+  },
+  {
+    "chunk_idx": 4,
+    "items": 1000,
+    "chars": 1078376,
+    "invalid": 7,
+    "hallu": 0,
+    "wall_seconds": 458.7,
+    "error": null
+  },
+  {
+    "chunk_idx": 5,
+    "items": 1000,
+    "chars": 1337105,
+    "invalid": 3,
+    "hallu": 0,
+    "wall_seconds": 213.6,
+    "error": null
+  },
+  {
+    "chunk_idx": 6,
+    "items": 1000,
+    "chars": 1364804,
+    "invalid": 9,
+    "hallu": 2,
+    "wall_seconds": 367.9,
+    "error": null
+  },
+  {
+    "chunk_idx": 7,
+    "items": 1000,
+    "chars": 2161942,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 777.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 8,
+    "items": 1000,
+    "chars": 1371086,
+    "invalid": 2,
+    "hallu": 0,
+    "wall_seconds": 115.9,
+    "error": null
+  },
+  {
+    "chunk_idx": 9,
+    "items": 1000,
+    "chars": 1530208,
+    "invalid": 1,
+    "hallu": 1,
+    "wall_seconds": 105.7,
+    "error": null
+  },
+  {
+    "chunk_idx": 10,
+    "items": 1000,
+    "chars": 1577426,
+    "invalid": 10,
+    "hallu": 1,
+    "wall_seconds": 223.2,
+    "error": null
+  },
+  {
+    "chunk_idx": 11,
+    "items": 1000,
+    "chars": 1926193,
+    "invalid": 268,
+    "hallu": 194,
+    "wall_seconds": 621.4,
+    "error": null
+  },
+  {
+    "chunk_idx": 12,
+    "items": 1000,
+    "chars": 1406659,
+    "invalid": 1,
+    "hallu": 7,
+    "wall_seconds": 253.1,
+    "error": null
+  },
+  {
+    "chunk_idx": 13,
+    "items": 1000,
+    "chars": 2067879,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 17.1,
+    "error": "ProviderRateLimitError: claude: CLI exited with code 1. Provider rate limit or temporary overload blocked the request. Hint: Wait and retry later, or lower concurrency/effort. No fallback was attempted. Details: API Error: S"
+  },
+  {
+    "chunk_idx": 14,
+    "items": 1000,
+    "chars": 1845739,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.3,
+    "error": "ProviderRateLimitError: claude: CLI exited with code 1. Provider rate limit or temporary overload blocked the request. Hint: Wait and retry later, or lower concurrency/effort. No fallback was attempted. Details: API Error: S"
+  },
+  {
+    "chunk_idx": 15,
+    "items": 1000,
+    "chars": 1421948,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.7,
+    "error": "ProviderRateLimitError: claude: CLI exited with code 1. Provider rate limit or temporary overload blocked the request. Hint: Wait and retry later, or lower concurrency/effort. No fallback was attempted. Details: API Error: S"
+  },
+  {
+    "chunk_idx": 16,
+    "items": 1000,
+    "chars": 1803178,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 5.1,
+    "error": "ProviderRateLimitError: claude: CLI exited with code 1. Provider rate limit or temporary overload blocked the request. Hint: Wait and retry later, or lower concurrency/effort. No fallback was attempted. Details: API Error: S"
+  },
+  {
+    "chunk_idx": 17,
+    "items": 1000,
+    "chars": 877801,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderRateLimitError: claude: CLI exited with code 1. Provider rate limit or temporary overload blocked the request. Hint: Wait and retry later, or lower concurrency/effort. No fallback was attempted. Details: API Error: S"
+  },
+  {
+    "chunk_idx": 18,
+    "items": 1000,
+    "chars": 2175938,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 54.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 19,
+    "items": 1000,
+    "chars": 1108463,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 20,
+    "items": 1000,
+    "chars": 1422727,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 21,
+    "items": 1000,
+    "chars": 1274977,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 22,
+    "items": 1000,
+    "chars": 1446675,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 23,
+    "items": 1000,
+    "chars": 1144279,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 24,
+    "items": 1000,
+    "chars": 2164328,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 25,
+    "items": 1000,
+    "chars": 1142506,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 26,
+    "items": 1000,
+    "chars": 2039784,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 27,
+    "items": 1000,
+    "chars": 1771054,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 28,
+    "items": 1000,
+    "chars": 1265396,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 29,
+    "items": 1000,
+    "chars": 1552218,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 30,
+    "items": 1000,
+    "chars": 1895006,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 31,
+    "items": 1000,
+    "chars": 795346,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 32,
+    "items": 1000,
+    "chars": 1298331,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 33,
+    "items": 1000,
+    "chars": 1770918,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 34,
+    "items": 1000,
+    "chars": 2004307,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 35,
+    "items": 1000,
+    "chars": 1582603,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.5,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 36,
+    "items": 1000,
+    "chars": 1682491,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 37,
+    "items": 1000,
+    "chars": 1108432,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 5.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 38,
+    "items": 1000,
+    "chars": 1167245,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 39,
+    "items": 1000,
+    "chars": 1431105,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 40,
+    "items": 1000,
+    "chars": 1723442,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.3,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 41,
+    "items": 1000,
+    "chars": 1500022,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 42,
+    "items": 1000,
+    "chars": 1497059,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 43,
+    "items": 1000,
+    "chars": 1625412,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 44,
+    "items": 1000,
+    "chars": 1678754,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 45,
+    "items": 1000,
+    "chars": 1703296,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 46,
+    "items": 1000,
+    "chars": 1723593,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 47,
+    "items": 1000,
+    "chars": 1382372,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.5,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 48,
+    "items": 1000,
+    "chars": 2156756,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.3,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 49,
+    "items": 1000,
+    "chars": 1273777,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 50,
+    "items": 1000,
+    "chars": 1624513,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.4,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 51,
+    "items": 1000,
+    "chars": 876267,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.4,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 52,
+    "items": 1000,
+    "chars": 1716651,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 53,
+    "items": 1000,
+    "chars": 1626486,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 54,
+    "items": 1000,
+    "chars": 1924074,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 55,
+    "items": 1000,
+    "chars": 1701080,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 56,
+    "items": 1000,
+    "chars": 1793382,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 57,
+    "items": 1000,
+    "chars": 1888185,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 58,
+    "items": 1000,
+    "chars": 1072897,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 59,
+    "items": 1000,
+    "chars": 1520038,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 60,
+    "items": 1000,
+    "chars": 1777021,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 61,
+    "items": 1000,
+    "chars": 1236930,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 62,
+    "items": 1000,
+    "chars": 1311489,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 63,
+    "items": 1000,
+    "chars": 1527981,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 64,
+    "items": 1000,
+    "chars": 956867,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 65,
+    "items": 1000,
+    "chars": 1372912,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 66,
+    "items": 1000,
+    "chars": 1123739,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.3,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 67,
+    "items": 1000,
+    "chars": 863409,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 68,
+    "items": 1000,
+    "chars": 1713426,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 69,
+    "items": 1000,
+    "chars": 1202077,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 70,
+    "items": 1000,
+    "chars": 2210405,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.3,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 71,
+    "items": 1000,
+    "chars": 1661273,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.5,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 72,
+    "items": 1000,
+    "chars": 1388321,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 73,
+    "items": 1000,
+    "chars": 1520702,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.4,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 74,
+    "items": 1000,
+    "chars": 801459,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.3,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 75,
+    "items": 1000,
+    "chars": 906476,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 76,
+    "items": 1000,
+    "chars": 830983,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 77,
+    "items": 1000,
+    "chars": 1592816,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 78,
+    "items": 1000,
+    "chars": 1601727,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.5,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 79,
+    "items": 1000,
+    "chars": 1572783,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 80,
+    "items": 1000,
+    "chars": 981350,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 81,
+    "items": 1000,
+    "chars": 1645568,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 82,
+    "items": 1000,
+    "chars": 1343214,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 83,
+    "items": 1000,
+    "chars": 702917,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 84,
+    "items": 1000,
+    "chars": 905556,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 85,
+    "items": 1000,
+    "chars": 1266398,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 86,
+    "items": 1000,
+    "chars": 1743974,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 87,
+    "items": 1000,
+    "chars": 1628151,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 88,
+    "items": 1000,
+    "chars": 1270529,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 89,
+    "items": 1000,
+    "chars": 4630192,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 90,
+    "items": 1000,
+    "chars": 4004853,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.4,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 91,
+    "items": 1000,
+    "chars": 3319179,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 92,
+    "items": 1000,
+    "chars": 3330887,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.4,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 93,
+    "items": 1000,
+    "chars": 3161544,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 94,
+    "items": 1000,
+    "chars": 2937092,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.5,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 95,
+    "items": 1000,
+    "chars": 3387268,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 2.4,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: Prompt is too long"
+  },
+  {
+    "chunk_idx": 96,
+    "items": 1000,
+    "chars": 2623664,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 97,
+    "items": 1000,
+    "chars": 2536724,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 98,
+    "items": 1000,
+    "chars": 2461984,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.4,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 99,
+    "items": 1000,
+    "chars": 2427647,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 100,
+    "items": 1000,
+    "chars": 1992143,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 101,
+    "items": 1000,
+    "chars": 2340855,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.3,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 102,
+    "items": 1000,
+    "chars": 2480444,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.0,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 103,
+    "items": 1000,
+    "chars": 2165669,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 104,
+    "items": 1000,
+    "chars": 2064760,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.6,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 105,
+    "items": 1000,
+    "chars": 1766767,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 106,
+    "items": 1000,
+    "chars": 1764633,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 107,
+    "items": 1000,
+    "chars": 2241930,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 4.1,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 108,
+    "items": 1000,
+    "chars": 2146234,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.9,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 109,
+    "items": 1000,
+    "chars": 1900515,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.7,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 110,
+    "items": 1000,
+    "chars": 1816146,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.3,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 111,
+    "items": 1000,
+    "chars": 1769046,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.2,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 112,
+    "items": 1000,
+    "chars": 1844581,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.8,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  },
+  {
+    "chunk_idx": 113,
+    "items": 687,
+    "chars": 1598584,
+    "invalid": 0,
+    "hallu": 0,
+    "wall_seconds": 3.5,
+    "error": "ProviderCliError: claude: CLI exited with code 1. Details: You've hit your session limit · resets 9:40am (Europe/Prague)"
+  }
+]

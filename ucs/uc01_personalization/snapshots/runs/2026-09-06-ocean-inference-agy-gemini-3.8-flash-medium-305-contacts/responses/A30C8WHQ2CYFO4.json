@@ -1,0 +1,40 @@
+{
+  "contact_id": 396,
+  "reviewer_id": "A30C8WHQ2CYFO4",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 41,
+  "reviews_used": 15,
+  "prompt_chars": 10065,
+  "status": "ok",
+  "seconds": 1344.97,
+  "error": "",
+  "profile": {
+    "O": 4.4,
+    "C": 3.85,
+    "E": 2.95,
+    "A": 3.1,
+    "N": 3.3,
+    "evidence_quotes": {
+      "O": "The Tester 13 firmware code opens up new possibilities for independent filmmakers and video artists such as myself.",
+      "C": "This is a head-to-head comparison of the Canon SX30 IS and the Olympus SP-590UZ, which are both competitors in the super-zoom class of compact cameras.",
+      "E": "I shoot mostly nature photography and am not a professional portrait photographer, but I was anxious to try this lens out",
+      "A": "This Canon starts out at only a 58mm filter size, which means that larger lenses will be blocked by the ring, and that's a really poor design choice.",
+      "N": "This camera is wonderful and frustrating at the same time."
+    }
+  },
+  "raw": {
+    "A": 3.1,
+    "C": 3.85,
+    "E": 2.95,
+    "N": 3.3,
+    "O": 4.4,
+    "evidence_quotes": {
+      "A": "This Canon starts out at only a 58mm filter size, which means that larger lenses will be blocked by the ring, and that's a really poor design choice.",
+      "C": "This is a head-to-head comparison of the Canon SX30 IS and the Olympus SP-590UZ, which are both competitors in the super-zoom class of compact cameras.",
+      "E": "I shoot mostly nature photography and am not a professional portrait photographer, but I was anxious to try this lens out",
+      "N": "This camera is wonderful and frustrating at the same time.",
+      "O": "The Tester 13 firmware code opens up new possibilities for independent filmmakers and video artists such as myself."
+    }
+  }
+}

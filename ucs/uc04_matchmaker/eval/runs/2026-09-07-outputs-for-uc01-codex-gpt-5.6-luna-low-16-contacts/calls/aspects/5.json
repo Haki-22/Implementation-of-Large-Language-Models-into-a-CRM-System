@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "5",
+  "status": "ok",
+  "seconds": 11.91,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "Ani při vyšších hlasitostech nedochází ke zkreslení."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Instalace byla snadná a trvala jen několik minut."
+      },
+      {
+        "aspect": "Konektivita",
+        "sentiment": "mixed",
+        "evidence": "Při pokusu o použití televizoru LG jako primárního nebo sekundárního monitoru přes WiDi se však objevilo několik problémů a po několika ztracených hodinách a stahování softwaru jsem od tohoto úsilí nakonec upustil."
+      },
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Tělo z uhlíkových vláken s tkaným vzorem a hliníkový rám tvoří výraznou kombinaci a příjemně se drží v ruce."
+      },
+      {
+        "aspect": "Cena",
+        "sentiment": "positive",
+        "evidence": "Je těžké srovnávat Sound Blaster Roar s jinými přenosnými reproduktory, protože je to velký krok vpřed v kvalitě zvuku a funkcích oproti všemu, co jsem v této cenové relaci viděl, což z něj dělá vynikající volbu pro každodenní použití jako primární osobní reproduktor, zejména tam, kde je omezený pro"
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-5 (anonymizován).\nRecenze (228, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nDell XPS XPSU12-8000CRBFB 12,5palcový konvertibilní notebook 2 v 1: Vynikající notebook a nepraktický tablet Dell XPS 12 je ultrabook s procesorem Intel s obrazovkou, kterou lze překlopit do tabletu, a vypadá hezky a je dobře vyrobený. Tělo z uhlíkových vláken s tkaným vzorem a hliníkový rám tvoří výraznou kombinaci a příjemně se drží v ruce. Klávesnice je pevná a podsvícená. Dotyková obrazovka má krásný obraz a je velmi citlivá. Bez námahy se přepne do režimu tabletu s dvousekundovým zpožděním pro změnu orientace displeje. SSD disk Samsung umožňuje rychlé spouštění a procesor Core i7 a 8 GB RAM zajišťují velmi citlivou odezvu a rychlé používání. K dispozici je mnoho promyšlených detailů, jako je napájecí adaptér, který lze zapojit přímo do zásuvky nebo použít v kabelu s odnímatelným napájecím kabelem, LED indikátor zbývající kapacity baterie, který lze vypnout, tlačítko pro deaktivaci gyroskopu, posuvný vypínač a USB port určený pro nabíjení elektronických zařízení. Kamera, mikrofon, reproduktory, touchpad, baterie: to vše jsou vysoce kvalitní komponenty a fungují velmi dobře. Mini DisplayPort umožňuje bezproblémové připojení k externímu monitoru pomocí technologie Plug & Play. Při pokusu o použití televizoru LG jako primárního nebo sekundárního monitoru přes WiDi se však objevilo několik problémů a po několika ztracených hodinách a stahování softwaru jsem od tohoto úsilí nakonec upustil. To bylo velké zklamání, i když je přehrávání mediálních souborů na televizoru prostřednictvím sítě a softwaru serveru DLNA poměrně jednoduché. Existují i drobné nepříjemnosti. V konfiguraci notebooku se obrazovka někdy neúmyslně překlopí při dotyku v horní části a jindy se celý notebook nakloní dozadu, protože je nahoře trochu těžký. Jediným dalším problémem je, že se tělo i obrazovka snadno zašpiní. Součástí tohoto zařízení by měl být čisticí hadřík z mikrovlákna. Kde tento ultrabook zaostává, je jako tablet, protože se s ním špatně manipuluje. Vzhledem k dnešní technologii se tomu opravdu nedá nic vyhnout, a to především kvůli jeho hmotnosti, která je 1512 g (3 lb. 5,3 oz) ve srovnání s iPadem Air, který váží mnohem méně než třetinu této hmotnosti. Díky tomu je jeho dlouhé držení nepohodlné, a to i přes dlouhé výstupky vespod, které poskytují pohodlný úchop. Konečky prstů se nevyhnutelně ocitnou nad větracími otvory vespod a jsou vystaveny nepříjemnému teplu. Hliníkový rám se ohýbá odděleně od obrazovky. Nejlepší využití XPS 12 v konfiguraci tabletu je asi pro sledování videa, protože při mírném otevření si může vytvořit vlastní stojan. Celkově se jedná o vysoce kvalitní 12palcový notebook, a to jak fyzicky, tak funkčně, ale kombinace dvou forem v jedné vytváří poněkud neohrabaný tablet.\nNOVINKA! Creative Sound Blaster Roar: Přenosný bezdrátový Bluetooth reproduktor s technologií NFC a aptX/AAC. 5 měničů, vestavěný subwoofer, neuvěřitelně výkonný. Úžasná cena 149,99 $!: Vysoce kvalitní, přizpůsobitelný zvuk Creative Sound Blaster Roar nabízí na tak malý rozměr působivý zvuk, a to nejen co se týče hlasitosti, ale i kvality a možností přizpůsobení uživateli. Reproduktory jsou vybaveny dvěma 1,5palcovými vysokofrekvenčními měniči směřujícími dopředu a 2,5palcovým středobasovým/basovým měničem směřujícím nahoru s basovými porty na obou koncích pro velmi hlubokou a širokou zvukovou scénu v rámci jednodílného stereofonního reproduktoru. Reproduktor má dva specializované zesilovače, které podporují velmi přesnou a rovnoměrnou reprodukci zvuku. Ani při vyšších hlasitostech nedochází ke zkreslení. Zvuk lze však snadno přizpůsobit. Pokud je požadováno zdůraznění basů, jsou k dispozici dvě tlačítka pro nastavení basů a celkové intenzity. Tlačítko TERA pro basy dynamicky zvyšuje basy při nižších až středních hlasitostech a v místnostech se špatnou akustikou. Tlačítko ROAR zvyšuje celkovou hlasitost a vytváří otevřenější zvuk, který je velmi příjemný i na krátkou vzdálenost. Tyto funkce lze aktivovat samostatně nebo současně. Další přizpůsobení podporuje software Sound Blaster Control Panel po připojení k počítači pomocí kabelu USB. Software nabízí devět přednastavených profilů pro hudbu, filmy a hry a tato nastavení profilů lze kalibrovat dle libosti. Jedná se o kompletní ovládací panel zvuku, ale v softwarové podobě. Bluetooth 4.0 s kodeky AptX a AAC se bez problémů připojuje jako „SB Roar SR20A“ a podporuje také NFC připojení. Kabelové připojení lze provést k počítači buď pomocí dodaného kabelu USB, nebo k jakémukoli audio zařízení s 3,5mm jackem pomocí dodaného audio kabelu. Další možností je použití karty microSD pro přehrávání souborů MP3, WAV a WMA. K dispozici je vestavěný mikrofon, který funguje dobře pro volání a telekonference. Mezi další zábavné funkce patří režim náhodných hlasitých zvuků, režim před spaním, siréna a hlasový záznamník. Velkokapacitní lithium-iontová baterie s kapacitou 6 000 mAh poskytuje sedm až osm hodin poslechu při normální hlasitosti přes Bluetooth a k dispozici je 1A USB port pro nabíjení malých elektronických zařízení, jako je například spárovaný smartphone. Dodává se v pěkné a pohodlné krabičce, kterou lze použít k uložení dat, a obsahuje uživatelskou příručku. Má roční záruku. Mezi dostupné příslušenství patří proprietární kabel pro párování a síťové přepravní pouzdro s ramenním popruhem a poutkem na ruku pro přenosné použití. Je těžké srovnávat Sound Blaster Roar s jinými přenosnými reproduktory, protože je to velký krok vpřed v kvalitě zvuku a funkcích oproti všemu, co jsem v této cenové relaci viděl, což z něj dělá vynikající volbu pro každodenní použití jako primární osobní reproduktor, zejména tam, kde je omezený prostor, a také pro přenosné použití. Na mém stole vypadá velmi hezky a vypadá a působí mnohem dražší, než ve skutečnosti je. Společnost Creative poskytla Sound Blaster Roar k ohodnocení a recenzi.\nBezdrátový Wireless-N Wifi adaptér Blurex s vysokým výkonem 1000 Mw – až 150 Mb/s: Snadné nastavení, okamžité zesílení WiFi signálu WiFi adaptér a anténa Blurex Rocket jsou o něco málo přes 46 cm dlouhé a dodávají se s odsazeným montážním držákem z lakovaného kovu a šrouby a stahovacími páskami pro instalaci. Trvale připojený kabel s konektorem USB 2.0 je dlouhý přibližně 5 metrů. Lze jej použít uvnitř nebo namontovat venku. Ovladače pro Windows, Linux a Mac OS X jsou součástí mini disku. Instalace byla snadná a trvala jen několik minut. Anténa má široký dosah a poskytuje výrazné zesílení signálu na plnou sílu v mém vlastním bytě a na chodbě. Rychlost přenosu dat 802.11n je až 150 Mb/s nahoru i dolů. Tuto anténu jsem použil k nastavení otevřené hostující sítě, protože jsem těžil z otevřené hostující sítě souseda, když jsem měl problémy s vlastním internetem. Společnost Blurex poskytla anténu Rocket k otestování a recenzi.\n1Byone® 0,02\" tenká digitální vnitřní televizní anténa Ultra tenká, lehká a měkká konstrukce s vysokým ziskem a nízkým šumem Vynikající příjem digitálních DVB a analogových televizních HDTV digitálních pozemních signálů Typ č. 0189: Snadné nastavení a fungování dobře Tato anténa má poměrně jednoduchý design a vzhled, ale funguje překvapivě dobře. Je velmi snadno použitelná. Stačí ji zapojit do anténního konektoru digitální televize nebo do digitálního převodníku u starších televizorů a poté upravit umístění antény pro nejlepší příjem, nejlépe poblíž okna. Trvale připojený kabel je dlouhý asi 1,7 m a součástí balení je jedna lepicí kabelová spona. Anténa má přísavnou základnu, která funguje docela dobře na hladkých površích, ale je dostatečně lehká na to, aby se dala připevnit připínáčkem nebo kouskem pásky. Bydlím v hustě osídlené městské oblasti, ale podařilo se mi přijmout několik kanálů, ke kterým jsem se bez antény nedostal. Kvalita signálu je velmi dobrá, i když lepší u digitálních kanálů než u analogových, jak se dalo očekávat. Anténu k ohodnocení a recenzi poskytl 1Byone.\nBrightech Remix5™ – Ultra robustní provedení – Voděodolný a nárazuvzdorný Bluetooth reproduktor s technologií NFC Tap & Play – Nyní \n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "Ani při vyšších hlasitostech nedochází ke zkreslení."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Instalace byla snadná a trvala jen několik minut."
+      },
+      {
+        "aspect": "Konektivita",
+        "sentiment": "mixed",
+        "evidence": "Při pokusu o použití televizoru LG jako primárního nebo sekundárního monitoru přes WiDi se však objevilo několik problémů a po několika ztracených hodinách a stahování softwaru jsem od tohoto úsilí nakonec upustil."
+      },
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Tělo z uhlíkových vláken s tkaným vzorem a hliníkový rám tvoří výraznou kombinaci a příjemně se drží v ruce."
+      },
+      {
+        "aspect": "Cena",
+        "sentiment": "positive",
+        "evidence": "Je těžké srovnávat Sound Blaster Roar s jinými přenosnými reproduktory, protože je to velký krok vpřed v kvalitě zvuku a funkcích oproti všemu, co jsem v této cenové relaci viděl, což z něj dělá vynikající volbu pro každodenní použití jako primární osobní reproduktor, zejména tam, kde je omezený pro"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 345,
+  "reviewer_id": "A1WUQF5HWBAQJU",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 56,
+  "reviews_used": 15,
+  "prompt_chars": 10196,
+  "status": "ok",
+  "seconds": 432.66,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.35,
+    "A": 3.85,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "The black and silver body with its curved top gives it a classy, stylish look.",
+      "C": "I tested cameras and lenses all the time while managing the camera store so whenever I purchase a new camera or lens I always test it.",
+      "E": "I've been very happy with the Panasonic G5 and M43 system.",
+      "A": "I thought my review of the 2 TB version may be helpfully.",
+      "N": "The Canon 300 HS doesn't produce the quality of images my Nikon D7000 does but I didn't expect it to."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.35,
+    "E": 3.35,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I thought my review of the 2 TB version may be helpfully.",
+      "C": "I tested cameras and lenses all the time while managing the camera store so whenever I purchase a new camera or lens I always test it.",
+      "E": "I've been very happy with the Panasonic G5 and M43 system.",
+      "N": "The Canon 300 HS doesn't produce the quality of images my Nikon D7000 does but I didn't expect it to.",
+      "O": "The black and silver body with its curved top gives it a classy, stylish look."
+    }
+  }
+}

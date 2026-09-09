@@ -1,0 +1,40 @@
+{
+  "contact_id": 233,
+  "reviewer_id": "A2PZXXPGLXXKZU",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 9733,
+  "status": "ok",
+  "seconds": 862.79,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.05,
+    "A": 3.35,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "I also wanted to be able to customize my tablet more and have more options in terms rooting. Jailbreaking my iPad was still very limited for me.",
+      "C": "The targus and griffin stylus are identical in terms of dimensions (weight, length, diameter).",
+      "E": "I only use it for certain tasks like downloading files, converting files, heavy typing tasks and pc gaming.",
+      "A": "Dont get me wrong it is a great case and looks very nice and feels nice in your hands.",
+      "N": "At first I was angry that apple released a newer version after 6 months."
+    }
+  },
+  "raw": {
+    "A": 3.35,
+    "C": 4.2,
+    "E": 3.05,
+    "N": 3.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Dont get me wrong it is a great case and looks very nice and feels nice in your hands.",
+      "C": "The targus and griffin stylus are identical in terms of dimensions (weight, length, diameter).",
+      "E": "I only use it for certain tasks like downloading files, converting files, heavy typing tasks and pc gaming.",
+      "N": "At first I was angry that apple released a newer version after 6 months.",
+      "O": "I also wanted to be able to customize my tablet more and have more options in terms rooting. Jailbreaking my iPad was still very limited for me."
+    }
+  }
+}

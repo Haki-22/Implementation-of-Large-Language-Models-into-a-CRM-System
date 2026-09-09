@@ -1,0 +1,40 @@
+{
+  "contact_id": 166,
+  "reviewer_id": "A1B4MIXYVIKMU2",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 103,
+  "reviews_used": 15,
+  "prompt_chars": 9833,
+  "status": "ok",
+  "seconds": 611.98,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.6,
+    "A": 3.95,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I have to admit that when I first saw this product advertised that I thought it was a fantastic 2-in-1 idea.",
+      "C": "I clocked mine at around 4.5MB/s to 5MB/s which is consistent with their claims.",
+      "E": "If you're in the market for a super tiny USB drive that will easily fit on your key chain... look no further.",
+      "A": "I noticed some of the reviewers say that it is too small. I disagree, I think they used the case incorrectly.",
+      "N": "It's been working well in my Galaxy Tab and I really can't complain."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.25,
+    "E": 3.6,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I noticed some of the reviewers say that it is too small. I disagree, I think they used the case incorrectly.",
+      "C": "I clocked mine at around 4.5MB/s to 5MB/s which is consistent with their claims.",
+      "E": "If you're in the market for a super tiny USB drive that will easily fit on your key chain... look no further.",
+      "N": "It's been working well in my Galaxy Tab and I really can't complain.",
+      "O": "I have to admit that when I first saw this product advertised that I thought it was a fantastic 2-in-1 idea."
+    }
+  }
+}

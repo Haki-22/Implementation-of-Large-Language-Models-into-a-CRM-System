@@ -1,0 +1,40 @@
+{
+  "contact_id": 191,
+  "reviewer_id": "A2SKEQT0WTB954",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 98,
+  "reviews_used": 15,
+  "prompt_chars": 7715,
+  "status": "ok",
+  "seconds": 705.55,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.3,
+    "E": 3.4,
+    "A": 3.25,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "Coming from the film school, I have not seen many digitals that could replace Kodak or Fuji slide film... until now.",
+      "C": "I have tried 4 headsets/headphones with the unit, following syncing directions carefully. I am an advanced tech user, with more than 30 years experience with high tech.",
+      "E": "I have shared a pair with a friend for more than a year and I must say I was amazed the first time I looked through them",
+      "A": "I am very fussy about headsets for my land line phones and find very few acceptable.",
+      "N": "went back to first headphones tried and started again. It connected this time, so now I can listen to my Kindle with this unit."
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.3,
+    "E": 3.4,
+    "N": 2.5,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I am very fussy about headsets for my land line phones and find very few acceptable.",
+      "C": "I have tried 4 headsets/headphones with the unit, following syncing directions carefully. I am an advanced tech user, with more than 30 years experience with high tech.",
+      "E": "I have shared a pair with a friend for more than a year and I must say I was amazed the first time I looked through them",
+      "N": "went back to first headphones tried and started again. It connected this time, so now I can listen to my Kindle with this unit.",
+      "O": "Coming from the film school, I have not seen many digitals that could replace Kodak or Fuji slide film... until now."
+    }
+  }
+}

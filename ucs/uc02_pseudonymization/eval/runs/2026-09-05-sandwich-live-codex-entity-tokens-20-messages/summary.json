@@ -1,0 +1,14 @@
+{
+  "messages": 20,
+  "ok": 20,
+  "integrity_errors": 0,
+  "provider_errors": 0,
+  "first_attempt_mid_ok": 20,
+  "first_attempt_tokens_ok": 18,
+  "attempts_total": 22,
+  "attempts_mean": 1.1,
+  "restored_without_tokens": 20,
+  "gold_values_present": 68,
+  "gold_values_total": 68,
+  "seconds_total": 153.2
+}

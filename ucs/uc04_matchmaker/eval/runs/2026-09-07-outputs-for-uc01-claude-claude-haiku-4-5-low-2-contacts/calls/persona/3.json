@@ -1,0 +1,34 @@
+{
+  "kind": "persona",
+  "key": "3",
+  "status": "ok",
+  "seconds": 36.9,
+  "error": "",
+  "parsed": {
+    "label": "apple_ecosystem_loyalist",
+    "narrative_cs": "Dlouhodobý zákazník s 241 nákupy, zaměřený primárně na Apple produkty a jejich příslušenství. Vybírá si techniku s důrazem na materiálovou kvalitu a funkčnost; jeho hodnocení jsou kritická a srovnávací.",
+    "tags": [
+      "apple_ecosystem",
+      "quality_focused",
+      "long_term_loyalty",
+      "tech_enthusiast"
+    ],
+    "price_segment": "premium"
+  },
+  "provider": "claude",
+  "model": "claude-haiku-4-5",
+  "tier": "low",
+  "prompt": "Zákazník Z-3 (anonymizován).\nNákupů: 241, průměrné hodnocení 4.4 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (115), Accessories & Supplies (30), Portable Audio & Video (28)\nTémata zájmu (klasické shlukování): audio / video / portable / ipod / mp3; ipad / pouzdro / computers / accessories / apple; supplies / accessories / sluchátka / výrobce / ukončil\nUkázky recenzí (nejdelší, zkrácené):\n- Bezpečnostní kamerový systém Logitech Alert 750e Venkovní Master s nočním viděním (961-000337): Hned po vybalení z krabice je vidět, že tento bezpečnostní video systém je postaven tak, aby vydržel. Venkovní kamera vybavená nočním viděním má skutečnou sílu díky svému kovovému pouzdru, širokoúhlému objektivu s červeným LED světlem, napájecímu zdroji a adaptéru routeru, které umožňují použití stá\n- Apple iMac MC813LL/A 27palcový stolní počítač (STARÁ VERZE): Používám Mac už od úplně prvního modelu, takže jsem si u všech generací/modelů Maců prožil spoustu vzestupů i pádů. Tento iMac z roku 2011 je nejelegantnější a nejvýkonnější, jaký jsem kdy vlastnil. Zabírá méně místa (není tower, ani tak malý rozměr jako Mac Mini) a má větší rozšiřitelnost. Pokud ne\n- Samsung UN55C7000 55palcový 1080p 240 Hz 3D LED HDTV (černý): Tuto televizi Samsung jsem si nevybral kvůli 3D podpoře (i když ta novinka je zábavná), ale kvůli vysoce kvalitnímu obrazu a reputaci Samsungu. Také se mi líbil ultratenký design – sotva něco málo přes palec tlustý a extrémně lehký, zvláště vzhledem k velikosti obrazovky – a možnost streamovat Netfl\n- GPS navigace TomTom VIA 1605TM s 6palcovým displejem a doživotními dopravními informacemi a mapami: Tato „doživotní“ GPS navigace s dopravními informacemi a mapami s obrovským 6\" displejem je jedním z lepších GPS zařízení, které jsem vyzkoušela, a to jsem vlastnila spoustu různých jednotek. Začínala jsem s Garminem, krátce jsem přešla k Magellanu, vrátila se ke Garminu a pak vyzkoušela TomTom. Moj\n- Belkin @TV Plus – Mobilní televize kdekoli: Je pro mě téměř nemožné rozhodnout se, kolik hvězdiček dát @TV Plus, protože po nastavení je to vynikající zařízení s jen několika nevýhodami; nicméně moje zkušenost s nastavením mě málem donutila ho vyhodit z okna. Jak jsem zjistil, tato frustrace byla zbytečná, protože znalý pracovník zákaznického\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "apple_ecosystem_loyalist",
+    "narrative_cs": "Dlouhodobý zákazník s 241 nákupy, zaměřený primárně na Apple produkty a jejich příslušenství. Vybírá si techniku s důrazem na materiálovou kvalitu a funkčnost; jeho hodnocení jsou kritická a srovnávací.",
+    "tags": [
+      "apple_ecosystem",
+      "quality_focused",
+      "long_term_loyalty",
+      "tech_enthusiast"
+    ],
+    "price_segment": "premium"
+  }
+}

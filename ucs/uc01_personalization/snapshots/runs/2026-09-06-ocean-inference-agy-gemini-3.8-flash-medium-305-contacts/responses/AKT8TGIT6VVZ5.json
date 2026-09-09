@@ -1,0 +1,40 @@
+{
+  "contact_id": 283,
+  "reviewer_id": "AKT8TGIT6VVZ5",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 87,
+  "reviews_used": 15,
+  "prompt_chars": 10048,
+  "status": "ok",
+  "seconds": 1069.21,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.3,
+    "E": 3.4,
+    "A": 4.05,
+    "N": 2.05,
+    "evidence_quotes": {
+      "O": "Late last month I had the good fortune to try the Sony Alpha 700 camera at Sony's Photo Plus East booth.",
+      "C": "it will allow the user to focus down to a 1:1 life size reproduction ratio, which is perfect for photographing inanimate objects such as coins or stamps",
+      "E": "I've handled this camera several times at camera stores and digital imaging trade shows",
+      "A": "if you are tight on a budget and don't need the additional speed, then this 50mm lens would be ideal for you.",
+      "N": "at 300mm, both contrast and resolution decline slightly to very good, but still an excellent result for a zoom lens in this class."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.3,
+    "E": 3.4,
+    "N": 2.05,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "if you are tight on a budget and don't need the additional speed, then this 50mm lens would be ideal for you.",
+      "C": "it will allow the user to focus down to a 1:1 life size reproduction ratio, which is perfect for photographing inanimate objects such as coins or stamps",
+      "E": "I've handled this camera several times at camera stores and digital imaging trade shows",
+      "N": "at 300mm, both contrast and resolution decline slightly to very good, but still an excellent result for a zoom lens in this class.",
+      "O": "Late last month I had the good fortune to try the Sony Alpha 700 camera at Sony's Photo Plus East booth."
+    }
+  }
+}

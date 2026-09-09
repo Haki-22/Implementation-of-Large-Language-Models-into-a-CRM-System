@@ -1,0 +1,35 @@
+{
+  "contact_id": 356,
+  "status": "ok",
+  "seconds": 5.54,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Sluchátka do uší s dvojitou vyváženou armaturou a pasivní izolací hluku",
+      "Náhradní náušníky pro studiová monitorovací sluchátka Brainwavz HM5",
+      "Přenosný sluchátkový zesilovač/DAC pro iPod a iPhone s Line Out Dock kompatibilitou"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-356 (anonymizováno). Názvy produktů česky.\nNákupní historie (26 nákupů, od nejstaršího):\n- 2011-06-08 ★2 Stereofonní sluchátka do uší HiFiMan RE-0\n- 2011-08-01 ★4 MEElectronics A151-BK Vyvážená sluchátka do uší s armaturou pro iPod, iPhone, MP3/CD/DVD přehrávače (černá)\n- 2011-08-16 ★4 Woodees IESW100V Vintage sluchátka s izolací hluku a 3tlačítkovým mikrofonem (sluneční barva)\n- 2011-08-16 ★4 Sluchátka DUNU DN-11 s vyváženou armaturou a izolací hluku, špunty do uší Ares JSOU skvělé odposlechy do uší!\n- 2011-08-20 ★3 Kabel FiiO L3 Line Out Dock (LOD) pro iPod a iPhone\n- 2011-08-20 ★4 Digitální fotoaparát Canon Powershot A3300 IS 16 MP s 5násobným optickým zoomem (červený)\n- 2011-08-20 ★4 MEElectronics Clarity Series CC51-WT Keramická sluchátka do uší pro iPod, iPhone, MP3/CD/DVD přehrávače - bílá (výrobce \n- 2011-09-30 ★5 Audio Technica ATH-AD900 Audiophile Open-air dynamická sluchátka\n- 2011-09-30 ★4 Brainwavz Beta do uší s izolací hluku\n- 2011-10-05 ★4 Sluchátka Sony MDR-XB500 s 40mm membránovým měničem XB a extra basy\n- 2011-10-10 ★4 Sluchátka do uší JAYS q-JAYS Dual Armature – černá (výrobce ukončil výrobu)\n- 2011-11-23 ★4 Brainwavz M4 do uší s izolací hluku\n- 2011-12-19 ★5 Studiová monitorovací sluchátka Brainwavz HM5\n- 2012-08-13 ★4 Sluchátka do uší MEElectronics A161P s potlačením hluku a technologií vyvážené armatury (výrobce ukončil výrobu)\n- 2012-09-16 ★5 Externí pevný disk LaCie Grand 1 TB USB 2.0 pro stolní počítače 301897KUA\n- 2012-10-15 ★5 Superlux HD668B Dynamic Semi-Open Headphones\n- 2012-10-15 ★4 DUNU DN-12 Trident Metal Full Range Noise-Isolation Earphones, Earbuds with Elegant and Powerful Design\n- 2012-10-15 ★4 Sluchátka do uší SoundMAGIC E30 s izolací hluku (černá)\n- 2012-12-15 ★4 Přepěťová ochrana Belkin pro domácnost/kancelář se 6 zásuvkami (1,2 m)1,2 m\n- 2012-12-15 ★3 RHA MA350 hliníková sluchátka do uší s izolací hluku - 3letá záruka\n- 2012-12-31 ★4 Dell XPS M1330 65W AC adaptér řady PA-21 – HR763\n- 2012-12-31 ★5 In-ear monitory Thinksound ms01 s pasivní izolací hluku (gunmetal/chocolate)\n- 2013-07-12 ★4 Sluchátka Focal 529102-SPOH Spirit One\n- 2013-07-30 ★4 Sluchátka do uší MEElectronics M-Duo s dvojitým měničem, vylepšenými basy, mikrofonem a dálkovým ovládáním, černá\n- 2013-10-01 ★5 Sluchátka do uší TDK BA-200 s dvojitou vyváženou armaturou (výrobce ukončil výrobu)\n- 2013-11-04 ★4 Anker® Golden AC Adapter + Power Supply Cord for Laptop Dell Inspiron 15(1545) 14(1440) 13(1318) 1551 1557; Dell XPS M13\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Sluchátka do uší s dvojitou vyváženou armaturou a pasivní izolací hluku",
+      "Náhradní náušníky pro studiová monitorovací sluchátka Brainwavz HM5",
+      "Přenosný sluchátkový zesilovač/DAC pro iPod a iPhone s Line Out Dock kompatibilitou"
+    ]
+  },
+  "held_out": "B00C2P61FO"
+}

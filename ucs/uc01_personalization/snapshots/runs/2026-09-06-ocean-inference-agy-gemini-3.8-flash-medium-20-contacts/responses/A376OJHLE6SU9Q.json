@@ -1,0 +1,40 @@
+{
+  "contact_id": 25,
+  "reviewer_id": "A376OJHLE6SU9Q",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16",
+  "reviews_total": 132,
+  "reviews_used": 15,
+  "prompt_chars": 8918,
+  "status": "ok",
+  "seconds": 68.25,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.2,
+    "E": 3.4,
+    "A": 3.95,
+    "N": 2.05,
+    "evidence_quotes": {
+      "O": "This remote helps to improve picture quality and allows me to utilize longer shutter speeds without distortion due to camera movement.",
+      "C": "Battery life is good (even with that I strongly recommend at least one back up battery)",
+      "E": "It has now been three years and I am still in love with this remote. So much so that I have since bought two other Logitech Universal remotes!!!",
+      "A": "I've already got my non-tech oriented husband set up to view the cameras using his android phone",
+      "N": "My one gripe is that the menu to get to 'spoken words' is a little but awkward but once I figured it out no further problems."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.2,
+    "E": 3.4,
+    "N": 2.05,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I've already got my non-tech oriented husband set up to view the cameras using his android phone",
+      "C": "Battery life is good (even with that I strongly recommend at least one back up battery)",
+      "E": "It has now been three years and I am still in love with this remote. So much so that I have since bought two other Logitech Universal remotes!!!",
+      "N": "My one gripe is that the menu to get to 'spoken words' is a little but awkward but once I figured it out no further problems.",
+      "O": "This remote helps to improve picture quality and allows me to utilize longer shutter speeds without distortion due to camera movement."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 381,
+  "reviewer_id": "A3NXJDNTQK2YJL",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 51,
+  "reviews_used": 15,
+  "prompt_chars": 9222,
+  "status": "ok",
+  "seconds": 1270.71,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.4,
+    "E": 2.75,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "Two of my hobbies are photography and music, and I am a big user of computer storage.",
+      "C": "Before I started, I timed the startup and shutdown. It took this laptop about 1:30 seconds to start up, and :25 to shutdown.",
+      "E": "Skip the Mionet, unless you are really into sharing this drive on the internet.",
+      "A": "First, I don't mean to cast aspersions on anyone else's review, or make myself out to be some network guru...",
+      "N": "I was a little apprehensive about taking the project on, because this is the laptop I use for most everyday tasks, but figured why not give it a shot."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.4,
+    "E": 2.75,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "First, I don't mean to cast aspersions on anyone else's review, or make myself out to be some network guru...",
+      "C": "Before I started, I timed the startup and shutdown. It took this laptop about 1:30 seconds to start up, and :25 to shutdown.",
+      "E": "Skip the Mionet, unless you are really into sharing this drive on the internet.",
+      "N": "I was a little apprehensive about taking the project on, because this is the laptop I use for most everyday tasks, but figured why not give it a shot.",
+      "O": "Two of my hobbies are photography and music, and I am a big user of computer storage."
+    }
+  }
+}

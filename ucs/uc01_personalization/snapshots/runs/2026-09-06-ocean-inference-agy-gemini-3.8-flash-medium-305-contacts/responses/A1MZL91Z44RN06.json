@@ -1,0 +1,40 @@
+{
+  "contact_id": 168,
+  "reviewer_id": "A1MZL91Z44RN06",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 116,
+  "reviews_used": 15,
+  "prompt_chars": 9662,
+  "status": "ok",
+  "seconds": 630.65,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.1,
+    "A": 3.2,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "It really is fantastic aesthetically; seems like that doesn't matter much, but worth noting.",
+      "C": "Just take your time and be sure not to pinch any wires when closing the laptop back up.",
+      "E": "Sony - and most other companies - no longer make a high end 32\" model, which is stupid.",
+      "A": "I'm perplexed why companies always say something is for iPad, etc., although I suspect it is just the \"cool\" thing to do.",
+      "N": "Actually, I was worried about that feature from the day I ordered this, knowing that I often walk past the thermostat"
+    }
+  },
+  "raw": {
+    "A": 3.2,
+    "C": 4.35,
+    "E": 3.1,
+    "N": 3.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I'm perplexed why companies always say something is for iPad, etc., although I suspect it is just the \"cool\" thing to do.",
+      "C": "Just take your time and be sure not to pinch any wires when closing the laptop back up.",
+      "E": "Sony - and most other companies - no longer make a high end 32\" model, which is stupid.",
+      "N": "Actually, I was worried about that feature from the day I ordered this, knowing that I often walk past the thermostat",
+      "O": "It really is fantastic aesthetically; seems like that doesn't matter much, but worth noting."
+    }
+  }
+}

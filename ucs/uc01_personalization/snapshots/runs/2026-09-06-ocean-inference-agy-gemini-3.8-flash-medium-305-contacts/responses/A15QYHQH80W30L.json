@@ -1,0 +1,40 @@
+{
+  "contact_id": 150,
+  "reviewer_id": "A15QYHQH80W30L",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 122,
+  "reviews_used": 15,
+  "prompt_chars": 7344,
+  "status": "ok",
+  "seconds": 552.51,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.3,
+    "E": 3.6,
+    "A": 3.8,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "Just out of curiosity I took out a nikon 17-55mm F2.8 and a tokina 11-16mm F2.8 for a test comparison because of the hype about this tokina lens.",
+      "C": "after reading all reviews from amazon and other internet sites I came to the conclusion that perhaps the f1.8 is a superior all around lens",
+      "E": "Bokeh is super and this is just an AWESOME lens. Pricey but well worth it! This is fast, tack sharp and just one heck of a lens!",
+      "A": "I recommend it to all camera users to protect their investment!",
+      "N": "I have been having a hard time convincing myself to clean my sensor and I finally did it."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.3,
+    "E": 3.6,
+    "N": 2.75,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I recommend it to all camera users to protect their investment!",
+      "C": "after reading all reviews from amazon and other internet sites I came to the conclusion that perhaps the f1.8 is a superior all around lens",
+      "E": "Bokeh is super and this is just an AWESOME lens. Pricey but well worth it! This is fast, tack sharp and just one heck of a lens!",
+      "N": "I have been having a hard time convincing myself to clean my sensor and I finally did it.",
+      "O": "Just out of curiosity I took out a nikon 17-55mm F2.8 and a tokina 11-16mm F2.8 for a test comparison because of the hype about this tokina lens."
+    }
+  }
+}

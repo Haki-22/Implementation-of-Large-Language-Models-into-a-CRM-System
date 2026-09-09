@@ -1,0 +1,51 @@
+{
+  "run": "2026-09-05-candidate-smoke-10-messages-mock-corpus",
+  "kind": "detection-table",
+  "started": "2026-09-05T18:51:02",
+  "duration_seconds": 103.2,
+  "corpus": {
+    "corpus_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-corpus.json",
+    "corpus_sha256": "9623cfec8a5d175f1222ce5d45d5bbcfe4411d1555a7e2eabb24d6f70d92e769",
+    "messages": 10,
+    "corpus_id": "uc02-corpus-v2-mock",
+    "gold_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-gold.jsonl",
+    "gold_sha256": "5bf635fb798d85602d6ccef26f1f4d15334a26528c2b221cf52336c40a613ee3",
+    "gold_spans": 35
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "optimum": "2.1.0",
+      "onnxruntime": "1.26.0",
+      "gliner": "0.2.26",
+      "presidio_analyzer": "2.2.362",
+      "spacy": "3.8.14"
+    }
+  },
+  "models": {
+    "bardsai/eu-pii-anonimization-multilang": "0e72e19f030ed4e661b1673e549af8e0dd176386",
+    "bardsai/eu-pii-anonimization-multilang-v2-preview": "8e0b19766bb0dd4916d096b4f540dd46c138c760",
+    "bardsai/eu-pii-multi-mini-preview": "ce02904c647f42af3aef97c28d13d23c4410f0f6",
+    "Wismut/nym-pii-multilingual": "0ed0242d67a30ca6a83e5f118506ff1e1daf83ca",
+    "stulcrad/CNEC2_0_Supertypes_xlm-roberta-large": "443922612eb04c45e0af2e3fb3b37fa2890b8a7a",
+    "knowledgator/gliner-x-large": "4a4437f439a78d67c87781b42e8c45373d2adcb0"
+  },
+  "configs": [
+    "rules+bardsai",
+    "rules+bardsai_v2",
+    "rules+bardsai_mini",
+    "rules+wismut",
+    "rules+stulcrad",
+    "rules+gliner"
+  ],
+  "failed": {
+    "rules+wismut_small": "NER backend 'wismut_small' failed: Wismut/nym-pii-multilingual-small does not appear to have a file named pytorch_model.bin, model.safetensors, tf_model.h5, model.ckpt or flax_model.msgpack.",
+    "rules+snerta": "NER backend 'snerta' failed: 'list' object has no attribute 'keys'",
+    "rules+gliner2": "NER backend 'gliner2' failed: 'ExtractorConfig' object has no attribute 'max_width'"
+  },
+  "default_ner_backend": "bardsai",
+  "nametag3_predictions": null,
+  "limit": 10
+}

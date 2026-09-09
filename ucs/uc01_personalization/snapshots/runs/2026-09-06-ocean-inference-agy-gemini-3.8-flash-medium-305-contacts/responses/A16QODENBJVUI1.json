@@ -1,0 +1,40 @@
+{
+  "contact_id": 230,
+  "reviewer_id": "A16QODENBJVUI1",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 99,
+  "reviews_used": 15,
+  "prompt_chars": 9910,
+  "status": "ok",
+  "seconds": 844.59,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.1,
+    "E": 3.35,
+    "A": 3.7,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I've tried a wide variety of CDs - rock, folk, classical, classic country",
+      "C": "OK, first, I did the firmware update immediately upon opening the box my player arrived in and have not had any of the problems some users seem to have had.",
+      "E": "I've shown this to several friends who have their own personal DVD players and in every instance they were shocked at how good this one was in comparison.",
+      "A": "I'm giving this product five stars despite some mild disappointment on my part.",
+      "N": "I was initially only mildly displeased with it. The leather wasn't quite as nice as the DLO but was OK."
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 4.1,
+    "E": 3.35,
+    "N": 2.3,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I'm giving this product five stars despite some mild disappointment on my part.",
+      "C": "OK, first, I did the firmware update immediately upon opening the box my player arrived in and have not had any of the problems some users seem to have had.",
+      "E": "I've shown this to several friends who have their own personal DVD players and in every instance they were shocked at how good this one was in comparison.",
+      "N": "I was initially only mildly displeased with it. The leather wasn't quite as nice as the DLO but was OK.",
+      "O": "I've tried a wide variety of CDs - rock, folk, classical, classic country"
+    }
+  }
+}

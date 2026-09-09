@@ -1,0 +1,40 @@
+{
+  "contact_id": 105,
+  "reviewer_id": "AYB4ELCS5AM8P",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 147,
+  "reviews_used": 15,
+  "prompt_chars": 9446,
+  "status": "ok",
+  "seconds": 387.41,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.6,
+    "A": 4.1,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I spent a bit of time reading up and testing on this unit before writing this review",
+      "C": "Update June 2014: After almost 3 years, this adapter is still going strong.",
+      "E": "My previous receivers all have been lower end models so I was chuffed to obtain a higher end receiver to review.",
+      "A": "But then, you can't expect budding enthusiasts to shell out $1000 for a new pair of binocs for something they don't know if they'll like or not.",
+      "N": "No muss no fuss and for 3 bucks, I saved myself from having to buy a new printer and lose those expensive cartridges."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.25,
+    "E": 3.6,
+    "N": 2.1,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "But then, you can't expect budding enthusiasts to shell out $1000 for a new pair of binocs for something they don't know if they'll like or not.",
+      "C": "Update June 2014: After almost 3 years, this adapter is still going strong.",
+      "E": "My previous receivers all have been lower end models so I was chuffed to obtain a higher end receiver to review.",
+      "N": "No muss no fuss and for 3 bucks, I saved myself from having to buy a new printer and lose those expensive cartridges.",
+      "O": "I spent a bit of time reading up and testing on this unit before writing this review"
+    }
+  }
+}

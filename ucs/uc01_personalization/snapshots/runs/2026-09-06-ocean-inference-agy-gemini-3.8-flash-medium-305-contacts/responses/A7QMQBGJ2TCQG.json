@@ -1,0 +1,40 @@
+{
+  "contact_id": 247,
+  "reviewer_id": "A7QMQBGJ2TCQG",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 5576,
+  "status": "ok",
+  "seconds": 914.73,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 2.85,
+    "A": 3.5,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "Or get artistic with the red and blue filters.",
+      "C": "Focus lightly and patiently. Also, you may need to add some weight to the front of the lens to offset the weight of your camera - I did.",
+      "E": "When I am out walking the dog in the desert, the L18 is the camera I usually take.",
+      "A": "I had an old Nikkor 500mm mirror lens which I gave to my nephew because it sucked so bad.",
+      "N": "Considering the affordable price I really didn't expect much from this lens. I am very pleasantly surprised."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.05,
+    "E": 2.85,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I had an old Nikkor 500mm mirror lens which I gave to my nephew because it sucked so bad.",
+      "C": "Focus lightly and patiently. Also, you may need to add some weight to the front of the lens to offset the weight of your camera - I did.",
+      "E": "When I am out walking the dog in the desert, the L18 is the camera I usually take.",
+      "N": "Considering the affordable price I really didn't expect much from this lens. I am very pleasantly surprised.",
+      "O": "Or get artistic with the red and blue filters."
+    }
+  }
+}

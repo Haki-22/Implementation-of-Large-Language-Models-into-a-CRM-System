@@ -1,0 +1,40 @@
+{
+  "contact_id": 317,
+  "reviewer_id": "A1NB945QH1SSJ9",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 22,
+  "reviews_used": 15,
+  "prompt_chars": 10406,
+  "status": "ok",
+  "seconds": 310.37,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.35,
+    "E": 3.7,
+    "A": 3.6,
+    "N": 3.05,
+    "evidence_quotes": {
+      "O": "[Excellent] Education Free Courses (from basic algetbra at Udacity to advance MIT's Open Courseware)<Express Your Creativity>[Excellent]Creation (create music recordings, Audacity)[Excellent] Photoshop editing",
+      "C": "I continue to update and filter through the entire amazon laptop list! YES indeed! I've done the hard work of searching for the best performing, best price",
+      "E": "Hello casual notebook users,(pls thumbs up, I put a lot of hours making this review :-)I know why you're reading this review.",
+      "A": "Im writing to you because I would like to save you from your own curiosity and hopes in making this laptop work for you",
+      "N": "PLEASE don't make the mistake of taking the cheaper version AMD A4-1250 IS BAD NEWS! take A6-1450 instead."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.35,
+    "E": 3.7,
+    "N": 3.05,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "Im writing to you because I would like to save you from your own curiosity and hopes in making this laptop work for you",
+      "C": "I continue to update and filter through the entire amazon laptop list! YES indeed! I've done the hard work of searching for the best performing, best price",
+      "E": "Hello casual notebook users,(pls thumbs up, I put a lot of hours making this review :-)I know why you're reading this review.",
+      "N": "PLEASE don't make the mistake of taking the cheaper version AMD A4-1250 IS BAD NEWS! take A6-1450 instead.",
+      "O": "[Excellent] Education Free Courses (from basic algetbra at Udacity to advance MIT's Open Courseware)<Express Your Creativity>[Excellent]Creation (create music recordings, Audacity)[Excellent] Photoshop editing"
+    }
+  }
+}

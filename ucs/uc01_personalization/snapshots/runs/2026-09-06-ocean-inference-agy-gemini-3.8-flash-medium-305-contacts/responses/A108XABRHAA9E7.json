@@ -1,0 +1,40 @@
+{
+  "contact_id": 372,
+  "reviewer_id": "A108XABRHAA9E7",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 39,
+  "reviews_used": 15,
+  "prompt_chars": 9274,
+  "status": "ok",
+  "seconds": 1229.83,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.3,
+    "E": 2.8,
+    "A": 3.45,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I needed a network storage, and I wanted some degree of user-extensibility (hackable). After much research, DNS-323 became an obvious choice",
+      "C": "A few more nitty gritty details:This drive checkout to be the Lite-On DS-8A4S slim DVD burner drive, which has the following specs",
+      "E": "The microphone seems to pick up mid-ranges pretty well, or the voice spectrum. It works well for video conferencing.",
+      "A": "(not to belittle Buffalo brand as they do make great products, but to demonstrate how much technology has progressed by using a reputable brand for comparison)",
+      "N": "Dislikes (minor annoyances omitted--only major flaws):-Signal fluctuates quite a bit, from very good to very low, and at which point it drops connection."
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 4.3,
+    "E": 2.8,
+    "N": 2.35,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "(not to belittle Buffalo brand as they do make great products, but to demonstrate how much technology has progressed by using a reputable brand for comparison)",
+      "C": "A few more nitty gritty details:This drive checkout to be the Lite-On DS-8A4S slim DVD burner drive, which has the following specs",
+      "E": "The microphone seems to pick up mid-ranges pretty well, or the voice spectrum. It works well for video conferencing.",
+      "N": "Dislikes (minor annoyances omitted--only major flaws):-Signal fluctuates quite a bit, from very good to very low, and at which point it drops connection.",
+      "O": "I needed a network storage, and I wanted some degree of user-extensibility (hackable). After much research, DNS-323 became an obvious choice"
+    }
+  }
+}

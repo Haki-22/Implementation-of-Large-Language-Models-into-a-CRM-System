@@ -1,0 +1,257 @@
+{
+  "run_dir": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-luna-low-en-cs-100-customers",
+  "date": "2026-09-07",
+  "methods": {
+    "rank_candidates": {
+      "title": "Model ranks the candidates alone",
+      "description": "whole history + the 101 sampled candidates in a seeded random order; the model returns the full permutation; no classical input",
+      "family": "language model / zero-shot ranking",
+      "ml_input": "none",
+      "protocols": [
+        "sampled"
+      ],
+      "subset": "sample"
+    },
+    "describe_and_retrieve": {
+      "title": "Model describes the next purchase, the catalogue index retrieves it",
+      "description": "whole history -> three listing lines for the next purchase -> multilingual-e5 query vectors against the cached catalogue vectors; score = best cosine over the three lines",
+      "family": "language model / description + dense retrieval",
+      "ml_input": "the dense e5 index of the catalogue (the dense_e5 arm's cached vectors)",
+      "protocols": [
+        "full",
+        "sampled"
+      ],
+      "subset": "sample"
+    }
+  },
+  "sample": {
+    "name": "model-arms-100",
+    "rule": "the arena's linked customers (at least two reviews) split by group; per group fill {\"A\": 60, \"B\": 20, \"C\": 20} slots: first the linked contacts of UC-01's pick reading-16 that belong to the group, in contact-id order, then a random draw without replacement from the group's remaining customers with numpy default_rng([42, group index]); ids sorted; one list for every model arm and for the OCEAN inference",
+    "seed": 42,
+    "customers": [
+      2,
+      3,
+      4,
+      7,
+      11,
+      13,
+      24,
+      25,
+      27,
+      29,
+      31,
+      33,
+      41,
+      50,
+      55,
+      57,
+      59,
+      60,
+      71,
+      72,
+      88,
+      108,
+      111,
+      117,
+      118,
+      128,
+      130,
+      133,
+      138,
+      141,
+      142,
+      143,
+      157,
+      162,
+      170,
+      182,
+      183,
+      187,
+      193,
+      197,
+      198,
+      204,
+      206,
+      209,
+      212,
+      218,
+      222,
+      224,
+      228,
+      231,
+      236,
+      241,
+      248,
+      255,
+      256,
+      257,
+      268,
+      277,
+      285,
+      288,
+      305,
+      310,
+      313,
+      316,
+      318,
+      322,
+      323,
+      327,
+      328,
+      333,
+      335,
+      336,
+      338,
+      340,
+      341,
+      342,
+      344,
+      345,
+      348,
+      349,
+      353,
+      356,
+      358,
+      361,
+      363,
+      364,
+      367,
+      371,
+      372,
+      374,
+      376,
+      377,
+      378,
+      379,
+      402,
+      405,
+      411,
+      415,
+      416,
+      424
+    ],
+    "limit": null
+  },
+  "limit": null,
+  "languages": [
+    "en",
+    "cs"
+  ],
+  "czech_branch": "Czech instruction and Czech product titles (16 067 of 18 213; English title otherwise); persona and aspects in the profile are Czech in both branches (D-UC04-D, design §8.1)",
+  "sampled_negatives": 100,
+  "seed": 42,
+  "candidate_shuffle": "numpy default_rng([seed, contact_id, 7]) per customer (method 1)",
+  "title_chars": 120,
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "concurrency": 4,
+  "reuse": null,
+  "prompt_version": "1.0.2",
+  "prompts": {
+    "ranking_system": {
+      "en": "You are the recommender of a Czech online shop that sells electronics and accessories. You will read one customer's complete purchase history (oldest first; each line gives the date, the star rating the customer gave, and the product title) and a list of candidate products, each with a short id such as C017.\n\nTask: order ALL candidates from the most likely next purchase to the least likely, judged from the history alone. Read the history for the customer's interests, brands, price level and the direction of the most recent purchases; a candidate that continues the recent purchases ranks above one that only matches old ones. Never invent an id, never drop one, never repeat one.\n\nAnswer with JSON only, matching the schema {\"ranking\": [<every candidate id exactly once, most likely first>]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Candidates: C001 Kitchen scale; C002 Headphone stand; C003 3.5 mm to 6.3 mm adapter; C004 Dog leash. Answer: {\"ranking\": [\"C003\", \"C002\", \"C001\", \"C004\"]}",
+      "cs": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Dostaneš celou nákupní historii jednoho zákazníka (od nejstaršího nákupu; každý řádek nese datum, hodnocení hvězdičkami, které zákazník dal, a název produktu) a seznam kandidátních produktů, každý s krátkým identifikátorem, například C017.\n\nÚkol: seřaď VŠECHNY kandidáty od nejpravděpodobnějšího příštího nákupu po nejméně pravděpodobný, jen podle historie. Z historie vyčti zájmy zákazníka, značky, cenovou hladinu a směr posledních nákupů; kandidát, který navazuje na poslední nákupy, patří výš než ten, který odpovídá jen starým. Žádný identifikátor si nevymýšlej, žádný nevynechej, žádný neopakuj.\n\nOdpověz pouze JSON podle schématu {\"ranking\": [<každý identifikátor kandidáta právě jednou, nejpravděpodobnější první>]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Kandidáti: C001 Kuchyňská váha; C002 Stojan na sluchátka; C003 Redukce 3,5 mm na 6,3 mm jack; C004 Vodítko pro psa. Odpověď: {\"ranking\": [\"C003\", \"C002\", \"C001\", \"C004\"]}"
+    },
+    "als_order_addendum": {
+      "en": "\n\nThe candidates are listed in the order a collaborative-filtering model (ALS, trained on what other customers of the shop bought) ranked them, most likely first, each with its score. Keep that order wherever the history gives you no reason to change it; move a candidate only when the history supports the move.",
+      "cs": "\n\nKandidáti jsou uvedeni v pořadí, v jakém je seřadil model kolaborativního filtrování (ALS, naučený z toho, co kupovali ostatní zákazníci obchodu), nejpravděpodobnější první, každý se svým skóre. Toto pořadí zachovej všude, kde ti historie nedává důvod ho měnit; kandidáta přesuň jen tehdy, když to historie podporuje."
+    },
+    "profile_addendum": {
+      "en": "\n\nYou also receive the customer's profile: a Big Five personality estimate (five scores 1-5), the customer's stage in the shop's lifecycle, interest topics, and, when present, a short persona description and the product aspects the customer praises or criticises. Use the profile only to break ties between candidates the history does not separate; the history comes first.",
+      "cs": "\n\nDostaneš také profil zákazníka: odhad osobnosti Big Five (pět skóre 1–5), fázi životního cyklu zákazníka v obchodě, témata zájmu a, pokud jsou k dispozici, krátký popis persony a vlastnosti produktů, které zákazník chválí nebo kritizuje. Profil použij jen k rozhodnutí mezi kandidáty, které historie nerozliší; historie má přednost."
+    },
+    "describe_system": {
+      "en": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}",
+      "cs": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}"
+    },
+    "no_tools": {
+      "en": "\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+      "cs": "\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem."
+    }
+  },
+  "schemas": {
+    "ranking": {
+      "type": "object",
+      "properties": {
+        "ranking": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 101,
+          "items": {
+            "type": "string",
+            "pattern": "^C[0-9]{3}$"
+          }
+        }
+      },
+      "required": [
+        "ranking"
+      ],
+      "additionalProperties": false
+    },
+    "ranking_top200": {
+      "type": "object",
+      "properties": {
+        "ranking": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 200,
+          "items": {
+            "type": "string",
+            "pattern": "^C[0-9]{3}$"
+          }
+        }
+      },
+      "required": [
+        "ranking"
+      ],
+      "additionalProperties": false
+    },
+    "describe": {
+      "type": "object",
+      "properties": {
+        "next_purchases": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 3,
+          "items": {
+            "type": "string",
+            "maxLength": 200
+          }
+        }
+      },
+      "required": [
+        "next_purchases"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "database": {
+    "file": "substrate/snapshots/substrate.db",
+    "sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+    "customers": 425,
+    "groups": {
+      "A": 300,
+      "B": 50,
+      "C": 75
+    },
+    "catalogue_items": 18213,
+    "reviews_in_histories": 45526
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "implicit": "0.7.3",
+      "scipy": "1.14.1",
+      "scikit-learn": "1.8.0",
+      "lightgbm": "4.6.0",
+      "mlxtend": "0.24.0",
+      "rank_bm25": "0.2.2",
+      "sentence_transformers": "5.5.1",
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "simplemma": "1.1.2"
+    }
+  }
+}

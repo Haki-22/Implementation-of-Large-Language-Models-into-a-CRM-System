@@ -1,0 +1,40 @@
+{
+  "contact_id": 80,
+  "reviewer_id": "AVPNQUVZWMDSX",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 201,
+  "reviews_used": 15,
+  "prompt_chars": 9957,
+  "status": "ok",
+  "seconds": 261.66,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.35,
+    "A": 3.7,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "Although I have been a home theatre enthusiast for close to twenty years, I had never heard of the Next Generation Remote Control Extender",
+      "C": "Charging Ni-MH batteries is the result of a compromise. A low current is gentle on the battery and maximizes its lifespan, but a full charge takes hours.",
+      "E": "This is the absolute best digital jukebox out there, period. As an added bonus, it's flexible, scalable, multizone, wireless...",
+      "A": "Since there are already many excellent reviews, I thought I would focus on a comparison of the two, to help you decide which system best fits your needs.",
+      "N": "I was sick and tired of juggling with the lousy sound and wires all over the place, cassette adapter, iPhone charger, Sirius radio... it was time for an upgrade."
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 4.25,
+    "E": 3.35,
+    "N": 2.45,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Since there are already many excellent reviews, I thought I would focus on a comparison of the two, to help you decide which system best fits your needs.",
+      "C": "Charging Ni-MH batteries is the result of a compromise. A low current is gentle on the battery and maximizes its lifespan, but a full charge takes hours.",
+      "E": "This is the absolute best digital jukebox out there, period. As an added bonus, it's flexible, scalable, multizone, wireless...",
+      "N": "I was sick and tired of juggling with the lousy sound and wires all over the place, cassette adapter, iPhone charger, Sirius radio... it was time for an upgrade.",
+      "O": "Although I have been a home theatre enthusiast for close to twenty years, I had never heard of the Next Generation Remote Control Extender"
+    }
+  }
+}

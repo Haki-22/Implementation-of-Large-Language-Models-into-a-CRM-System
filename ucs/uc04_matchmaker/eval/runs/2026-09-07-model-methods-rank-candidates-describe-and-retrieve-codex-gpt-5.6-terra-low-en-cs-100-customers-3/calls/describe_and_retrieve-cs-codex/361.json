@@ -1,0 +1,35 @@
+{
+  "contact_id": 361,
+  "status": "ok",
+  "seconds": 5.06,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Blesk pro fotoaparát Canon kompatibilní s bezdrátovým odpalovačem Phottix Strato II",
+      "Digitální zrcadlovka Canon EOS s bajonetem EF/EF-S pro objektivy Canon",
+      "Náhradní baterie Canon LP-E5 kompatibilní s bateriovým gripem Canon BG-E5"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-361 (anonymizováno). Názvy produktů česky.\nNákupní historie (19 nákupů, od nejstaršího):\n- 2006-11-19 ★2 Digitální multimediální přehrávač Zune 30 GB (černý)\n- 2006-12-06 ★3 GPS přijímač Garmin Forerunner 305 s monitorem tepové frekvence (výrobce ukončil výrobu)\n- 2006-12-23 ★3 Digitální fotorámeček Philips 8,5 palce (průhledný) se 3 dalšími barevnými rámečky\n- 2007-04-04 ★4 Univerzální dálkový ovladač Logitech Harmony 1000 Advanced (stříbrný) (výrobce ukončil výrobu)\n- 2007-04-20 ★4 3Dconnexion SpaceNavigator PE (osobní edice) 3D navigační zařízení USB (3DX-700029)\n- 2007-06-25 ★5 Notebook Apple MacBook Pro MA895LL/A 15,4\" (2,2 GHz Intel Core 2 Duo, 2 GB RAM, 120 GB pevný disk, mechanika DVD/CD Supe\n- 2007-09-30 ★5 Apple iPod touch 16 GB (1. generace) (Ukončeno výrobcem)\n- 2008-08-01 ★5 Canon EF 70-200 mm f/2,8L IS USM teleobjektiv se zoomem pro zrcadlovky Canon\n- 2008-08-01 ★4 Objektiv Canon EF-S 17-55 mm f/2,8 IS USM pro digitální zrcadlovky Canon\n- 2008-08-02 ★5 Standardní a střední teleobjektiv Canon EF 50 mm f/1,4 USM pro zrcadlovky Canon\n- 2008-08-03 ★5 Lowepro Nova 3 AW Camera Bag -Black\n- 2008-08-08 ★4 Bateriový grip Canon BG-E5 pro vybrané digitální zrcadlovky (maloobchodní balení)\n- 2008-09-16 ★5 Apple iPod touch 32 GB (2. generace) (Ukončeno výrobcem)\n- 2009-06-29 ★4 Batoh/přepravka Kata KT D-3N1-20 (černý)\n- 2009-08-22 ★3 Blu-ray přehrávač Pioneer BDP-120 s rozlišením 1080p\n- 2009-09-15 ★5 Apple iPod Touch 64 GB (3. generace) (Ukončeno výrobcem)\n- 2010-04-15 ★4 Tablet Apple iPad (první generace) MB292LL/A (16 GB, Wi-Fi)\n- 2010-11-26 ★5 Rogue FlashBenders ROGUERELG Velký polohovatelný reflektor\n- 2013-02-25 ★5 Phottix Multi 5-v-1 Canon Set Stratos ll (černý)\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Blesk pro fotoaparát Canon kompatibilní s bezdrátovým odpalovačem Phottix Strato II",
+      "Digitální zrcadlovka Canon EOS s bajonetem EF/EF-S pro objektivy Canon",
+      "Náhradní baterie Canon LP-E5 kompatibilní s bateriovým gripem Canon BG-E5"
+    ]
+  },
+  "held_out": "B0090C7A3O"
+}

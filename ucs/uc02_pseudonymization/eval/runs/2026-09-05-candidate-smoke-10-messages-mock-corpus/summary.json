@@ -1,0 +1,1148 @@
+{
+  "rules+bardsai": {
+    "overall": {
+      "tp": 35,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DATE": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DIC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 14,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 35,
+      "fp": 0,
+      "fn": 0
+    },
+    "partial": {
+      "overall": {
+        "tp": 35,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "by_type": {
+        "ADDRESS": {
+          "tp": 5,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DATE": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DIC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "EMAIL": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "tp": 3,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PERSON": {
+          "tp": 14,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PHONE": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "RC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "counts": {
+        "tp": 35,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    "config": "rules+bardsai",
+    "message_count": 10,
+    "detection_seconds": 4.774,
+    "unification": {
+      "none": {
+        "spans": 35,
+        "tokens": 35,
+        "entities": 35,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "exact": {
+        "spans": 35,
+        "tokens": 35,
+        "entities": 35,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "entity": {
+        "spans": 35,
+        "tokens": 35,
+        "entities": 28,
+        "unification_rate": 0.2,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      }
+    }
+  },
+  "rules+bardsai_v2": {
+    "overall": {
+      "tp": 32,
+      "fp": 6,
+      "fn": 3,
+      "precision": 0.842105,
+      "recall": 0.914286,
+      "f1": 0.876712
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 2,
+        "fp": 6,
+        "fn": 3,
+        "precision": 0.25,
+        "recall": 0.4,
+        "f1": 0.307692
+      },
+      "DATE": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DIC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 14,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 32,
+      "fp": 6,
+      "fn": 3
+    },
+    "partial": {
+      "overall": {
+        "tp": 35,
+        "fp": 3,
+        "fn": 0,
+        "precision": 0.921053,
+        "recall": 1.0,
+        "f1": 0.958904
+      },
+      "by_type": {
+        "ADDRESS": {
+          "tp": 5,
+          "fp": 3,
+          "fn": 0,
+          "precision": 0.625,
+          "recall": 1.0,
+          "f1": 0.769231
+        },
+        "DATE": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DIC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "EMAIL": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "tp": 3,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PERSON": {
+          "tp": 14,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PHONE": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "RC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "counts": {
+        "tp": 35,
+        "fp": 3,
+        "fn": 0
+      }
+    },
+    "config": "rules+bardsai_v2",
+    "message_count": 10,
+    "detection_seconds": 1.095,
+    "unification": {
+      "none": {
+        "spans": 38,
+        "tokens": 38,
+        "entities": 38,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "exact": {
+        "spans": 38,
+        "tokens": 38,
+        "entities": 38,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "entity": {
+        "spans": 38,
+        "tokens": 38,
+        "entities": 31,
+        "unification_rate": 0.184211,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      }
+    }
+  },
+  "rules+bardsai_mini": {
+    "overall": {
+      "tp": 34,
+      "fp": 2,
+      "fn": 1,
+      "precision": 0.944444,
+      "recall": 0.971429,
+      "f1": 0.957746
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 4,
+        "fp": 2,
+        "fn": 1,
+        "precision": 0.666667,
+        "recall": 0.8,
+        "f1": 0.727273
+      },
+      "DATE": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DIC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 14,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 34,
+      "fp": 2,
+      "fn": 1
+    },
+    "partial": {
+      "overall": {
+        "tp": 35,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.972222,
+        "recall": 1.0,
+        "f1": 0.985915
+      },
+      "by_type": {
+        "ADDRESS": {
+          "tp": 5,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.833333,
+          "recall": 1.0,
+          "f1": 0.909091
+        },
+        "DATE": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DIC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "EMAIL": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "tp": 3,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PERSON": {
+          "tp": 14,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PHONE": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "RC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "counts": {
+        "tp": 35,
+        "fp": 1,
+        "fn": 0
+      }
+    },
+    "config": "rules+bardsai_mini",
+    "message_count": 10,
+    "detection_seconds": 1.485,
+    "unification": {
+      "none": {
+        "spans": 36,
+        "tokens": 36,
+        "entities": 36,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "exact": {
+        "spans": 36,
+        "tokens": 36,
+        "entities": 36,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "entity": {
+        "spans": 36,
+        "tokens": 36,
+        "entities": 29,
+        "unification_rate": 0.194444,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      }
+    }
+  },
+  "rules+wismut": {
+    "overall": {
+      "tp": 34,
+      "fp": 2,
+      "fn": 1,
+      "precision": 0.944444,
+      "recall": 0.971429,
+      "f1": 0.957746
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DATE": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 14,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 34,
+      "fp": 2,
+      "fn": 1
+    },
+    "partial": {
+      "overall": {
+        "tp": 35,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.972222,
+        "recall": 1.0,
+        "f1": 0.985915
+      },
+      "by_type": {
+        "ADDRESS": {
+          "tp": 5,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DATE": {
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1": 0.666667
+        },
+        "DIC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "EMAIL": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "tp": 3,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PERSON": {
+          "tp": 14,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PHONE": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "RC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "counts": {
+        "tp": 35,
+        "fp": 1,
+        "fn": 0
+      }
+    },
+    "config": "rules+wismut",
+    "message_count": 10,
+    "detection_seconds": 2.054,
+    "unification": {
+      "none": {
+        "spans": 36,
+        "tokens": 36,
+        "entities": 36,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "exact": {
+        "spans": 36,
+        "tokens": 36,
+        "entities": 36,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "entity": {
+        "spans": 36,
+        "tokens": 36,
+        "entities": 29,
+        "unification_rate": 0.194444,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      }
+    }
+  },
+  "rules+stulcrad": {
+    "overall": {
+      "tp": 35,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DATE": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DIC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 14,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 35,
+      "fp": 0,
+      "fn": 0
+    },
+    "partial": {
+      "overall": {
+        "tp": 35,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "by_type": {
+        "ADDRESS": {
+          "tp": 5,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DATE": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DIC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "EMAIL": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "tp": 3,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PERSON": {
+          "tp": 14,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "PHONE": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "RC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "counts": {
+        "tp": 35,
+        "fp": 0,
+        "fn": 0
+      }
+    },
+    "config": "rules+stulcrad",
+    "message_count": 10,
+    "detection_seconds": 53.414,
+    "unification": {
+      "none": {
+        "spans": 35,
+        "tokens": 35,
+        "entities": 35,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "exact": {
+        "spans": 35,
+        "tokens": 35,
+        "entities": 35,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "entity": {
+        "spans": 35,
+        "tokens": 35,
+        "entities": 28,
+        "unification_rate": 0.2,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      }
+    }
+  },
+  "rules+gliner": {
+    "overall": {
+      "tp": 31,
+      "fp": 9,
+      "fn": 4,
+      "precision": 0.775,
+      "recall": 0.885714,
+      "f1": 0.826667
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "DATE": {
+        "tp": 1,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.666667
+      },
+      "DIC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 1,
+        "fp": 6,
+        "fn": 2,
+        "precision": 0.142857,
+        "recall": 0.333333,
+        "f1": 0.2
+      },
+      "PERSON": {
+        "tp": 12,
+        "fp": 2,
+        "fn": 2,
+        "precision": 0.857143,
+        "recall": 0.857143,
+        "f1": 0.857143
+      },
+      "PHONE": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 31,
+      "fp": 9,
+      "fn": 4
+    },
+    "partial": {
+      "overall": {
+        "tp": 33,
+        "fp": 7,
+        "fn": 2,
+        "precision": 0.825,
+        "recall": 0.942857,
+        "f1": 0.88
+      },
+      "by_type": {
+        "ADDRESS": {
+          "tp": 5,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "DATE": {
+          "tp": 1,
+          "fp": 1,
+          "fn": 0,
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1": 0.666667
+        },
+        "DIC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "EMAIL": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "ORG": {
+          "tp": 3,
+          "fp": 4,
+          "fn": 0,
+          "precision": 0.428571,
+          "recall": 1.0,
+          "f1": 0.6
+        },
+        "PERSON": {
+          "tp": 12,
+          "fp": 2,
+          "fn": 2,
+          "precision": 0.857143,
+          "recall": 0.857143,
+          "f1": 0.857143
+        },
+        "PHONE": {
+          "tp": 4,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        "RC": {
+          "tp": 2,
+          "fp": 0,
+          "fn": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        }
+      },
+      "counts": {
+        "tp": 33,
+        "fp": 7,
+        "fn": 2
+      }
+    },
+    "config": "rules+gliner",
+    "message_count": 10,
+    "detection_seconds": 6.068,
+    "unification": {
+      "none": {
+        "spans": 40,
+        "tokens": 40,
+        "entities": 40,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "exact": {
+        "spans": 40,
+        "tokens": 40,
+        "entities": 40,
+        "unification_rate": 0.0,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      },
+      "entity": {
+        "spans": 40,
+        "tokens": 40,
+        "entities": 35,
+        "unification_rate": 0.125,
+        "restored_exact_count": 10,
+        "restored_exact_rate": 1.0
+      }
+    }
+  }
+}

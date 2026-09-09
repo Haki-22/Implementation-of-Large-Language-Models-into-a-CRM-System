@@ -1,0 +1,40 @@
+{
+  "contact_id": 411,
+  "reviewer_id": "A3MQAQT8C6D1I7",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 56,
+  "reviews_used": 15,
+  "prompt_chars": 9676,
+  "status": "ok",
+  "seconds": 1402.8,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.5,
+    "A": 4.0,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "faces have so much dimension with this lens, they look 3 dimensional. When I want to get shots of my daughter that amaze, I use this lens.",
+      "C": "However, be aware that there are all kinds of laws (construction code and fire code) on what you can and cannot run behind your drywall",
+      "E": "My wife and her friend recently went to a school parade for our children.",
+      "A": "Perhaps unknowingly those people might be breaking construction and fire code and in the process endangering themselves and their families.",
+      "N": "I must admit the reviews scared me away for a bit but with an impending camping trip - I decided to jump."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 4.15,
+    "E": 3.5,
+    "N": 2.7,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "Perhaps unknowingly those people might be breaking construction and fire code and in the process endangering themselves and their families.",
+      "C": "However, be aware that there are all kinds of laws (construction code and fire code) on what you can and cannot run behind your drywall",
+      "E": "My wife and her friend recently went to a school parade for our children.",
+      "N": "I must admit the reviews scared me away for a bit but with an impending camping trip - I decided to jump.",
+      "O": "faces have so much dimension with this lens, they look 3 dimensional. When I want to get shots of my daughter that amaze, I use this lens."
+    }
+  }
+}

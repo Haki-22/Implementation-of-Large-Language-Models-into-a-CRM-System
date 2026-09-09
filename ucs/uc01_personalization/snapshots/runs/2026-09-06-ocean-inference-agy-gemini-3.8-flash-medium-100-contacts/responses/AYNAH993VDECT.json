@@ -1,0 +1,40 @@
+{
+  "contact_id": 310,
+  "reviewer_id": "AYNAH993VDECT",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 77,
+  "reviews_used": 15,
+  "prompt_chars": 10233,
+  "status": "ok",
+  "seconds": 278.29,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.55,
+    "E": 2.75,
+    "A": 4.1,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "It was my first venture into the curiosity that was Chrome OS.",
+      "C": "Since the product description for the refurbished unit does not have any details, I will list them here.",
+      "E": "I listen to music at low to medium music levels, I am not a fan of blasting music.",
+      "A": "Let me preface everything by saying that music preferences and physical comfort and fit vary from person to person.",
+      "N": "Everything opened easily, without scissors or any frustration."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.55,
+    "E": 2.75,
+    "N": 2.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Let me preface everything by saying that music preferences and physical comfort and fit vary from person to person.",
+      "C": "Since the product description for the refurbished unit does not have any details, I will list them here.",
+      "E": "I listen to music at low to medium music levels, I am not a fan of blasting music.",
+      "N": "Everything opened easily, without scissors or any frustration.",
+      "O": "It was my first venture into the curiosity that was Chrome OS."
+    }
+  }
+}

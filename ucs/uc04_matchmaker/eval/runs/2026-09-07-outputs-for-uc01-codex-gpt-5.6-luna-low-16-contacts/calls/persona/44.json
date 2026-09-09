@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "44",
+  "status": "ok",
+  "seconds": 22.55,
+  "error": "",
+  "parsed": {
+    "label": "aktivni_fotograf_a_technicky_nakupujici",
+    "narrative_cs": "Zákazník opakovaně nakupuje počítače a příslušenství, výrazně se zaměřuje také na digitální fotoaparáty, objektivy a fotografické vybavení; za sebou má 210 nákupů a vrací se jako aktivní zákazník. Recenze jsou velmi kladné a podrobné, často porovnávají specifikace, značky Nikon, Canon a Fujifilm i praktické použití.",
+    "tags": [
+      "fotografie",
+      "fotoaparáty",
+      "počítače",
+      "příslušenství",
+      "opakované_nákupy"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-44 (anonymizován).\nNákupů: 210, průměrné hodnocení 4.8 z 5, fáze v e-shopu: aktivní zákazník.\nNejčastější kategorie: Computers & Accessories (102), Camera & Photo (74), Portable Audio & Video (16)\nTémata zájmu (klasické shlukování): photo / camera / digitální / canon / pouzdro; computers / accessories / logitech / myš / bezdrátová; camera / photo / nikon / digital / zoom\nUkázky recenzí (nejdelší, zkrácené):\n- Digitální fotoaparát Fujifilm X20 12 MP s 2,8palcovým LCD displejem (černý): Fujifilm je fascinující společnost zabývající se výrobou fotografií a zobrazovacích technologií, která přežila ve světě, kde jsme byli svědky zániku fotoaparátů od značek Minolta, Konica, Yashica, Contax, Topcon, Bronica a mnoha dalších, abychom je zde mohli vyjmenovat. Společnost přežila převážně d\n- Digitální zrcadlovka Nikon D5000 s rozlišením 12,3 MP, objektivem 18–55 mm f/3,5–5,6G VR a 2,7palcovým výklopným LCD displejem: Někdy se člověk může nechat unést tříděním specifikací, čtením recenzí pro a proti, vytvářením seznamů toho, co je důležité a co ne tak zásadní. Tento recenzent se toho provinil, když se snažil rozhodnout, jakým směrem se vydat při přechodu na novou digitální zrcadlovku. Co mě však donutilo k rozhod\n- Digitální fotoaparát Nikon COOLPIX P7700 s rozlišením 12,2 MP, objektivem NIKKOR ED se 7,1násobným optickým zoomem a 3palcovým výklopným LCD displejem: Nový fotoaparát Nikon COOLPIX P7700 byl oznámen koncem léta 2012 jako vlajková loď společnosti v řadě Performance, fotoaparát navržený s ohledem na skutečné fotografické nadšence. Jako současný majitel fotoaparátu Nikon COOLPIX P7100 jsem byl zvědavý, jaká vylepšení mohla být provedena. Přečetl jsem\n- Magellan Triton 2000 Waterproof Hiking GPS: Když mi poprvé nabídli ruční navigační systém Magellan Triton 2000, byl jsem nadšený, protože jsem se díval na řadu ručních zařízení, která by se dala použít na cyklistiku. Zvažoval jsem i jednodušší Magellan Triton 500 a Garmin eTrex Legend HCx, ale kvůli průměrným recenzím jsem je vyloučil. Pak př\n- Hliníkový stativ Vanguard Alta 263AB 100 s kulovou hlavou SBH-100: Na dnešním trhu je k dispozici mnoho různých možností stativů a jejich typy jsou široké a rozmanité. Výběr toho nejlepšího pro použití s digitální zrcadlovkou může být zajímavý a někdy i velmi matoucí. Jednoduše řečeno, fotografický stativ se používá k udržení stabilního fotoaparátu, když je vyžadov\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "aktivni_fotograf_a_technicky_nakupujici",
+    "narrative_cs": "Zákazník opakovaně nakupuje počítače a příslušenství, výrazně se zaměřuje také na digitální fotoaparáty, objektivy a fotografické vybavení; za sebou má 210 nákupů a vrací se jako aktivní zákazník. Recenze jsou velmi kladné a podrobné, často porovnávají specifikace, značky Nikon, Canon a Fujifilm i praktické použití.",
+    "tags": [
+      "fotografie",
+      "fotoaparáty",
+      "počítače",
+      "příslušenství",
+      "opakované_nákupy"
+    ],
+    "price_segment": "mixed"
+  }
+}

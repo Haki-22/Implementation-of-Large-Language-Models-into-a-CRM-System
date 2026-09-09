@@ -1,0 +1,40 @@
+{
+  "contact_id": 19,
+  "reviewer_id": "A36K2N527TXXJN",
+  "group": "A",
+  "sources": "previous",
+  "reviews_total": 281,
+  "reviews_used": 15,
+  "prompt_chars": 9931,
+  "status": "ok",
+  "seconds": 52.97,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.05,
+    "E": 3.3,
+    "A": 3.85,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I like its compact size, elegant design, and, almost more than anything else, the feel of its keys while typing.",
+      "C": "As I had anticipated, the GPS unit and the dashboard mount had not moved at all from their location for the duration of the trip.",
+      "E": "We just came back from a thousand mile (each way) road trip.",
+      "A": "If you are looking for a very light accessory for your iPad Mini then this case is not for you.",
+      "N": "The user-instruction sheet is very poorly written and not very clear on a couple of crucial steps of the set up."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.05,
+    "E": 3.3,
+    "N": 2.35,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "If you are looking for a very light accessory for your iPad Mini then this case is not for you.",
+      "C": "As I had anticipated, the GPS unit and the dashboard mount had not moved at all from their location for the duration of the trip.",
+      "E": "We just came back from a thousand mile (each way) road trip.",
+      "N": "The user-instruction sheet is very poorly written and not very clear on a couple of crucial steps of the set up.",
+      "O": "I like its compact size, elegant design, and, almost more than anything else, the feel of its keys while typing."
+    }
+  }
+}

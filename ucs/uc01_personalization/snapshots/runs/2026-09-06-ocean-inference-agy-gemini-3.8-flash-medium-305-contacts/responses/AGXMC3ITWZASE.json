@@ -1,0 +1,40 @@
+{
+  "contact_id": 219,
+  "reviewer_id": "AGXMC3ITWZASE",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 9623,
+  "status": "ok",
+  "seconds": 819.09,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "As a very satisfied owner of an almost antique JBL bookshelf speaker system and a mp3 docking station I can attest to the company's overall craftsmanship.",
+      "C": "one must really do their homework. After researching several systems this model kept popping up on my radar screen.",
+      "E": "Out of the box, my first thoughts on the Micro II was \"Wow, it looks just like a yo yo.\" I like the overall feel and balance.",
+      "A": "its step by step instructions allowed my niece to move from the operating booklet in no time.",
+      "N": "As with most purchases nowadays, there seems to be a lemon in every product. Looks like it was my turn to get one."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "its step by step instructions allowed my niece to move from the operating booklet in no time.",
+      "C": "one must really do their homework. After researching several systems this model kept popping up on my radar screen.",
+      "E": "Out of the box, my first thoughts on the Micro II was \"Wow, it looks just like a yo yo.\" I like the overall feel and balance.",
+      "N": "As with most purchases nowadays, there seems to be a lemon in every product. Looks like it was my turn to get one.",
+      "O": "As a very satisfied owner of an almost antique JBL bookshelf speaker system and a mp3 docking station I can attest to the company's overall craftsmanship."
+    }
+  }
+}

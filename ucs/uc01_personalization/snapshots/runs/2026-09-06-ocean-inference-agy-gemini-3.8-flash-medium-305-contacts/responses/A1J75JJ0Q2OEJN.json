@@ -1,0 +1,40 @@
+{
+  "contact_id": 84,
+  "reviewer_id": "A1J75JJ0Q2OEJN",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 199,
+  "reviews_used": 15,
+  "prompt_chars": 9999,
+  "status": "ok",
+  "seconds": 284.82,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.4,
+    "A": 3.0,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "For years now, I've been looking for something that could offer a set-top box experience that was close to a good HTPC without actually being an HTPC.",
+      "C": "My requirements were as follows:* It must protect the iPad from drops and impact.* It must have a latching top or zipper.",
+      "E": "It's probably the best-feeling, best balanced, most responsive remote control I've ever owned. It has a great shape, and the back even has a nice grippy feel.",
+      "A": "First of all, let's get the whining out of the way. No, there's no camera on this iPod touch.",
+      "N": "While I'd simply loooooove to give you a more complete review by crashing my system and restoring from the Seagate Replica, I just can't work it out."
+    }
+  },
+  "raw": {
+    "A": 3,
+    "C": 4.25,
+    "E": 3.4,
+    "N": 2.45,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "First of all, let's get the whining out of the way. No, there's no camera on this iPod touch.",
+      "C": "My requirements were as follows:* It must protect the iPad from drops and impact.* It must have a latching top or zipper.",
+      "E": "It's probably the best-feeling, best balanced, most responsive remote control I've ever owned. It has a great shape, and the back even has a nice grippy feel.",
+      "N": "While I'd simply loooooove to give you a more complete review by crashing my system and restoring from the Seagate Replica, I just can't work it out.",
+      "O": "For years now, I've been looking for something that could offer a set-top box experience that was close to a good HTPC without actually being an HTPC."
+    }
+  }
+}

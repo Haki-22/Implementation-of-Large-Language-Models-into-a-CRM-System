@@ -1,0 +1,40 @@
+{
+  "contact_id": 189,
+  "reviewer_id": "ASCBJEPXTOU0V",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 99,
+  "reviews_used": 15,
+  "prompt_chars": 5768,
+  "status": "ok",
+  "seconds": 714.35,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.05,
+    "E": 3.65,
+    "A": 3.5,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "I overclocked this some more by using the EVGA Precision X that comes on the included CD. Overclocked it by another 77mhz core clock and 128 mhz memory clock",
+      "C": "I just found out that it was my power supply which was making it do this. Switched it out for a Corsair CX600 600W PSU and now its outstanding.",
+      "E": "I have never had a more powerful card in my life. This is an absolute beast of a card.",
+      "A": "One trick to putting these screen protectors on is to turn on a shower in a closed bathroom. This will make all dust float to the ceiling",
+      "N": "It was making a whining noise from the fans which was super annoying."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.05,
+    "E": 3.65,
+    "N": 3.1,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "One trick to putting these screen protectors on is to turn on a shower in a closed bathroom. This will make all dust float to the ceiling",
+      "C": "I just found out that it was my power supply which was making it do this. Switched it out for a Corsair CX600 600W PSU and now its outstanding.",
+      "E": "I have never had a more powerful card in my life. This is an absolute beast of a card.",
+      "N": "It was making a whining noise from the fans which was super annoying.",
+      "O": "I overclocked this some more by using the EVGA Precision X that comes on the included CD. Overclocked it by another 77mhz core clock and 128 mhz memory clock"
+    }
+  }
+}

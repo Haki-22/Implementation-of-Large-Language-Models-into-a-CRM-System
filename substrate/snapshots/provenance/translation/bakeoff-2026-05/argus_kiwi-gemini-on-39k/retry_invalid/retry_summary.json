@@ -1,0 +1,21 @@
+{
+  "scope": 155,
+  "wall_seconds_parallel": 300.7,
+  "gemini_wall_seconds": 293.9,
+  "opus_wall_seconds": 300.5,
+  "cz_changed_by_retry": 33,
+  "cz_identical_to_orig": 122,
+  "gemini_invalid_retry": 91,
+  "opus_invalid_retry": 66,
+  "BOTH_retry": 54,
+  "gemini_hallucinations": 0,
+  "opus_hallucinations": 0,
+  "gemini_fixed_by_retry": 63,
+  "gemini_persist_invalid": 88,
+  "gemini_new_invalid": 3,
+  "opus_fixed_by_retry": 12,
+  "opus_persist_invalid": 50,
+  "opus_new_invalid": 16,
+  "gemini_fixed_with_changed_cz": 26,
+  "gemini_fixed_with_identical_cz": 37
+}

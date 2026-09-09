@@ -1,0 +1,272 @@
+{
+  "0": {
+    "name": "generic",
+    "requested": 60,
+    "generated": 60,
+    "skipped": {},
+    "errors": 0,
+    "reused": 0,
+    "rules_accepted": 9,
+    "rules_rate": 0.15,
+    "rules_failures": {
+      "VOCATIVE_MISMATCH": 48,
+      "REGISTER_MISMATCH": 27
+    },
+    "rules_unchecked": {
+      "vocative": 12,
+      "register": 6
+    },
+    "seconds_total": 0.0
+  },
+  "1": {
+    "name": "merge",
+    "requested": 60,
+    "generated": 60,
+    "skipped": {},
+    "errors": 0,
+    "reused": 0,
+    "rules_accepted": 60,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 12,
+      "register": 6
+    },
+    "seconds_total": 0.0
+  },
+  "2": {
+    "name": "morphology",
+    "requested": 60,
+    "generated": 60,
+    "skipped": {},
+    "errors": 0,
+    "reused": 6,
+    "rules_accepted": 60,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 12,
+      "register": 6
+    },
+    "seconds_total": 464.1
+  },
+  "3a": {
+    "name": "linguistic",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "frequent_words,style_excerpt": 4
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 120.5
+  },
+  "3b": {
+    "name": "purchases",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "purchases": 4
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 86.7
+  },
+  "3c": {
+    "name": "reviews",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "reviews": 4
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 93.3
+  },
+  "3d": {
+    "name": "role",
+    "requested": 20,
+    "generated": 7,
+    "skipped": {
+      "role": 13
+    },
+    "errors": 0,
+    "reused": 1,
+    "rules_accepted": 7,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {},
+    "seconds_total": 46.7
+  },
+  "3": {
+    "name": "behaviour",
+    "requested": 60,
+    "generated": 48,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews": 12
+    },
+    "errors": 0,
+    "reused": 6,
+    "rules_accepted": 48,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 12,
+      "register": 6
+    },
+    "seconds_total": 319.7
+  },
+  "4": {
+    "name": "aspects",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews,aspects": 4
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 92.1
+  },
+  "5": {
+    "name": "psychographic",
+    "requested": 60,
+    "generated": 48,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews,ocean": 9,
+      "frequent_words,style_excerpt,purchases,reviews": 3
+    },
+    "errors": 0,
+    "reused": 6,
+    "rules_accepted": 48,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 12,
+      "register": 6
+    },
+    "seconds_total": 355.0
+  },
+  "6a": {
+    "name": "recommendations",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews,ocean,recommendations": 3,
+      "frequent_words,style_excerpt,purchases,reviews,recommendations": 1
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 117.8
+  },
+  "6b": {
+    "name": "topics",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews,ocean,topics": 3,
+      "frequent_words,style_excerpt,purchases,reviews,topics": 1
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 115.0
+  },
+  "6c": {
+    "name": "lifecycle",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews,ocean": 3,
+      "frequent_words,style_excerpt,purchases,reviews": 1
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 114.9
+  },
+  "6d": {
+    "name": "pricing",
+    "requested": 20,
+    "generated": 16,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews,ocean,recommendations,pricing": 3,
+      "frequent_words,style_excerpt,purchases,reviews,recommendations,pricing": 1
+    },
+    "errors": 0,
+    "reused": 2,
+    "rules_accepted": 16,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 4,
+      "register": 2
+    },
+    "seconds_total": 136.0
+  },
+  "6": {
+    "name": "hyper",
+    "requested": 60,
+    "generated": 48,
+    "skipped": {
+      "frequent_words,style_excerpt,purchases,reviews,ocean,recommendations,topics": 9,
+      "frequent_words,style_excerpt,purchases,reviews,recommendations,topics": 3
+    },
+    "errors": 0,
+    "reused": 6,
+    "rules_accepted": 48,
+    "rules_rate": 1.0,
+    "rules_failures": {},
+    "rules_unchecked": {
+      "vocative": 12,
+      "register": 6
+    },
+    "seconds_total": 344.1
+  }
+}

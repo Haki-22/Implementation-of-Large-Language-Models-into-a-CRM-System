@@ -1,0 +1,40 @@
+{
+  "contact_id": 187,
+  "reviewer_id": "A1SB9BNNGKNX2Z",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 106,
+  "reviews_used": 15,
+  "prompt_chars": 9724,
+  "status": "ok",
+  "seconds": 133.66,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.6,
+    "E": 2.9,
+    "A": 4.25,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "The Advents sounded muddy; the Sonys are so clear I am amazed. I can hear subtleties",
+      "C": "I've been testing the ST800 headphones for a week now by listening through them for at least two hours a day to various sources",
+      "E": "for my amateur purposes -- birdwatching with the Nikon and stargazing with the Celestron -- I am very pleased",
+      "A": "I'm not knocking off any stars here because buying this cable - which I'm returning - was my mistake.",
+      "N": "I figured that if one or the other was defective I could return it, or if I decided that I simply didn't want one I could return it"
+    }
+  },
+  "raw": {
+    "A": 4.25,
+    "C": 4.6,
+    "E": 2.9,
+    "N": 2.1,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "I'm not knocking off any stars here because buying this cable - which I'm returning - was my mistake.",
+      "C": "I've been testing the ST800 headphones for a week now by listening through them for at least two hours a day to various sources",
+      "E": "for my amateur purposes -- birdwatching with the Nikon and stargazing with the Celestron -- I am very pleased",
+      "N": "I figured that if one or the other was defective I could return it, or if I decided that I simply didn't want one I could return it",
+      "O": "The Advents sounded muddy; the Sonys are so clear I am amazed. I can hear subtleties"
+    }
+  }
+}

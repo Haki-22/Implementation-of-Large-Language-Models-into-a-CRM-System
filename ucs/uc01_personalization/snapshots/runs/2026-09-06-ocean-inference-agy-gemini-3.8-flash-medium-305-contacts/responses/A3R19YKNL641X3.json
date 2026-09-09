@@ -1,0 +1,40 @@
+{
+  "contact_id": 173,
+  "reviewer_id": "A3R19YKNL641X3",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 115,
+  "reviews_used": 15,
+  "prompt_chars": 10097,
+  "status": "ok",
+  "seconds": 656.99,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.85,
+    "E": 3.6,
+    "A": 4.2,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "Imagine my pleasure (being the techno-geek that I am) when I received this in the mail from Amazon and Logitech for review...",
+      "C": "To give it an even better trial, I decided to see what one of my friends could do with it.",
+      "E": "as soon as the box came in the door, one of my kids was *extremely* interested in opening it up.",
+      "A": "Major kudos to a company for monitoring AND acting on feedback. I just tried out the replacement, and it works like a charm.",
+      "N": "Although it took me a bit to get it working (user error and issues), I'm quite pleased with the results."
+    }
+  },
+  "raw": {
+    "A": 4.2,
+    "C": 3.85,
+    "E": 3.6,
+    "N": 2.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Major kudos to a company for monitoring AND acting on feedback. I just tried out the replacement, and it works like a charm.",
+      "C": "To give it an even better trial, I decided to see what one of my friends could do with it.",
+      "E": "as soon as the box came in the door, one of my kids was *extremely* interested in opening it up.",
+      "N": "Although it took me a bit to get it working (user error and issues), I'm quite pleased with the results.",
+      "O": "Imagine my pleasure (being the techno-geek that I am) when I received this in the mail from Amazon and Logitech for review..."
+    }
+  }
+}

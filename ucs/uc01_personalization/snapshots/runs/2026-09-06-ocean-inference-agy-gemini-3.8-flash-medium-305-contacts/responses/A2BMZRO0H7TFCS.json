@@ -1,0 +1,40 @@
+{
+  "contact_id": 51,
+  "reviewer_id": "A2BMZRO0H7TFCS",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 189,
+  "reviews_used": 15,
+  "prompt_chars": 9856,
+  "status": "ok",
+  "seconds": 156.48,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.25,
+    "A": 3.85,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I'm a headphone buff and I've also had more than a dozen Bluetooth headsets over the years.",
+      "C": "From every specification I've read and every review I've read, these speakers DO sound amazing.",
+      "E": "My main purpose for the webcam was to communicate with my family in another state, in both video and audio. I have to say, mission accomplished.",
+      "A": "I got the MK520 primarily for my parents to use and it suits them pretty well.",
+      "N": "Logitech support wasn't able to help so I finally gave up and decided to try the LifeCam VX-3000."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.35,
+    "E": 3.25,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I got the MK520 primarily for my parents to use and it suits them pretty well.",
+      "C": "From every specification I've read and every review I've read, these speakers DO sound amazing.",
+      "E": "My main purpose for the webcam was to communicate with my family in another state, in both video and audio. I have to say, mission accomplished.",
+      "N": "Logitech support wasn't able to help so I finally gave up and decided to try the LifeCam VX-3000.",
+      "O": "I'm a headphone buff and I've also had more than a dozen Bluetooth headsets over the years."
+    }
+  }
+}

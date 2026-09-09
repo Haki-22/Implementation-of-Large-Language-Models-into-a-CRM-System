@@ -1,0 +1,40 @@
+{
+  "contact_id": 331,
+  "reviewer_id": "AI0BCEWRE04G0",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 64,
+  "reviews_used": 15,
+  "prompt_chars": 9529,
+  "status": "ok",
+  "seconds": 368.07,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.65,
+    "E": 2.35,
+    "A": 3.3,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "The fact that it collapses to 16\" is a great feature when you need to get close to ground level for nature photos.",
+      "C": "The BD-D5500 has a loading tray, which encourages proper handling of the disks by the edges.",
+      "E": "The only purpose for which a \"top-of-the-head\" headset is better, is for listening to music while taking a nap.",
+      "A": "Ironically the very same monopod is sold under different brandnames as a \"light weight\", as a \"heavy duty\", and as a \"professional\" monopod---it is NONE of these.",
+      "N": "Instructions warn you to use and charge batteries in matched pairs---which is impossible if your electronic devices use 1 or 3 batteries."
+    }
+  },
+  "raw": {
+    "A": 3.3,
+    "C": 4.65,
+    "E": 2.35,
+    "N": 2.4,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "Ironically the very same monopod is sold under different brandnames as a \"light weight\", as a \"heavy duty\", and as a \"professional\" monopod---it is NONE of these.",
+      "C": "The BD-D5500 has a loading tray, which encourages proper handling of the disks by the edges.",
+      "E": "The only purpose for which a \"top-of-the-head\" headset is better, is for listening to music while taking a nap.",
+      "N": "Instructions warn you to use and charge batteries in matched pairs---which is impossible if your electronic devices use 1 or 3 batteries.",
+      "O": "The fact that it collapses to 16\" is a great feature when you need to get close to ground level for nature photos."
+    }
+  }
+}

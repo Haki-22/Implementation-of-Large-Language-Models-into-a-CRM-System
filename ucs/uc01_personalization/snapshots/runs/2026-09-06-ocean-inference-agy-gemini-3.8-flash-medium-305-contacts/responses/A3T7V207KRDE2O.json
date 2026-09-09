@@ -1,0 +1,40 @@
+{
+  "contact_id": 82,
+  "reviewer_id": "A3T7V207KRDE2O",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 169,
+  "reviews_used": 15,
+  "prompt_chars": 9569,
+  "status": "ok",
+  "seconds": 272.62,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.15,
+    "E": 3.05,
+    "A": 2.75,
+    "N": 3.35,
+    "evidence_quotes": {
+      "O": "The main reason was the flexibility of creating your own applications and systems.",
+      "C": "Two side pockets each with a little net pouch inside. The net pouches alone hold 5 AAs each. Inside the main flap is a small zippered pocket.",
+      "E": "Update: I've had this for six months now and I have been very happy with it.",
+      "A": "I am also leery of self described \"professional photographers\" as anyone can call themselves one but there are no licenses or tests",
+      "N": "Setting them up on this unit is really a pain in the butt and very time consuming."
+    }
+  },
+  "raw": {
+    "A": 2.75,
+    "C": 4.15,
+    "E": 3.05,
+    "N": 3.35,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I am also leery of self described \"professional photographers\" as anyone can call themselves one but there are no licenses or tests",
+      "C": "Two side pockets each with a little net pouch inside. The net pouches alone hold 5 AAs each. Inside the main flap is a small zippered pocket.",
+      "E": "Update: I've had this for six months now and I have been very happy with it.",
+      "N": "Setting them up on this unit is really a pain in the butt and very time consuming.",
+      "O": "The main reason was the flexibility of creating your own applications and systems."
+    }
+  }
+}

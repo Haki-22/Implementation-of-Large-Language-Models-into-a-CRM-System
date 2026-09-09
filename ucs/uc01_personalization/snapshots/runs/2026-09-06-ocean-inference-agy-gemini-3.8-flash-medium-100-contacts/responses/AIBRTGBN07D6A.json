@@ -1,0 +1,40 @@
+{
+  "contact_id": 344,
+  "reviewer_id": "AIBRTGBN07D6A",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 68,
+  "reviews_used": 15,
+  "prompt_chars": 9754,
+  "status": "ok",
+  "seconds": 443.29,
+  "error": "",
+  "profile": {
+    "O": 3.85,
+    "C": 4.25,
+    "E": 2.8,
+    "A": 3.1,
+    "N": 3.65,
+    "evidence_quotes": {
+      "O": "It is a sticker designed solely to replace the drab black of your Fire with something more interesting.",
+      "C": "Edit 2/2/10: After several months of use, I am revising my review to give this radio 4 stars.",
+      "E": "or just to quickly check who's ringing my doorbell when I'm in another part of my house and may not want to talk to a solicitor.",
+      "A": "The hub also feels cheaply made and not worth the currently advertised price. Stay away from this product at all costs.",
+      "N": "I have been wanting to get security cameras for my house for years now. Whether to catch the people who were throwing their dog's excrement on my porch"
+    }
+  },
+  "raw": {
+    "A": 3.1,
+    "C": 4.25,
+    "E": 2.8,
+    "N": 3.65,
+    "O": 3.85,
+    "evidence_quotes": {
+      "A": "The hub also feels cheaply made and not worth the currently advertised price. Stay away from this product at all costs.",
+      "C": "Edit 2/2/10: After several months of use, I am revising my review to give this radio 4 stars.",
+      "E": "or just to quickly check who's ringing my doorbell when I'm in another part of my house and may not want to talk to a solicitor.",
+      "N": "I have been wanting to get security cameras for my house for years now. Whether to catch the people who were throwing their dog's excrement on my porch",
+      "O": "It is a sticker designed solely to replace the drab black of your Fire with something more interesting."
+    }
+  }
+}

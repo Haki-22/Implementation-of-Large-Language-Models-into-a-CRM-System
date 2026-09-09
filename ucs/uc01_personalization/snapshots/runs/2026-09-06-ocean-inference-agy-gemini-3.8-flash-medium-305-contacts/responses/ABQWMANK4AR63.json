@@ -1,0 +1,40 @@
+{
+  "contact_id": 79,
+  "reviewer_id": "ABQWMANK4AR63",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 171,
+  "reviews_used": 15,
+  "prompt_chars": 9692,
+  "status": "ok",
+  "seconds": 252.64,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.35,
+    "A": 3.25,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "when the iPads came out I got one more out of curiosity than any real NEED.",
+      "C": "I tested both drives with the same file set, and also ran the test with a USB 3 adapter, to give a comparison.",
+      "E": "Just to set the stage correctly - I'm a multiple Microsoft MVP winner for the tablet PC platform.",
+      "A": "I had a review all written out blasting this monstrosity.",
+      "N": "I spent about 6 hours beating my head against it, having things fail utterly, not work right"
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.15,
+    "E": 3.35,
+    "N": 3.15,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I had a review all written out blasting this monstrosity.",
+      "C": "I tested both drives with the same file set, and also ran the test with a USB 3 adapter, to give a comparison.",
+      "E": "Just to set the stage correctly - I'm a multiple Microsoft MVP winner for the tablet PC platform.",
+      "N": "I spent about 6 hours beating my head against it, having things fail utterly, not work right",
+      "O": "when the iPads came out I got one more out of curiosity than any real NEED."
+    }
+  }
+}

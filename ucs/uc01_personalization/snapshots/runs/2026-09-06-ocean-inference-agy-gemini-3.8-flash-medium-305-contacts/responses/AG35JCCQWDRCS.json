@@ -1,0 +1,40 @@
+{
+  "contact_id": 275,
+  "reviewer_id": "AG35JCCQWDRCS",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 8362,
+  "status": "ok",
+  "seconds": 1033.92,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.1,
+    "A": 3.75,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "important to maintain good long lens technique and for retaining the detail that is important to me in the wildlife I photograph.",
+      "C": "After using AF Fine Tune to finesse my long primes and the combos using teleconverters, the D4s is the first camera I grab for",
+      "E": "I already have the 70-200mm f/2.8 v2, but I travel a lot and saving weight without experiencing an optical hit is important.",
+      "A": "I would buy them again and recommend them to any shooter needing a set.",
+      "N": "Initially I was disappointed that Nikon wasn't including the lens foot, but in truth, this one is just light enough to not need it"
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.25,
+    "E": 3.1,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I would buy them again and recommend them to any shooter needing a set.",
+      "C": "After using AF Fine Tune to finesse my long primes and the combos using teleconverters, the D4s is the first camera I grab for",
+      "E": "I already have the 70-200mm f/2.8 v2, but I travel a lot and saving weight without experiencing an optical hit is important.",
+      "N": "Initially I was disappointed that Nikon wasn't including the lens foot, but in truth, this one is just light enough to not need it",
+      "O": "important to maintain good long lens technique and for retaining the detail that is important to me in the wildlife I photograph."
+    }
+  }
+}

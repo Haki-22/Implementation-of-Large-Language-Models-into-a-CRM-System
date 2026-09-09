@@ -1,0 +1,40 @@
+{
+  "contact_id": 203,
+  "reviewer_id": "A3REK3OFONWB1Q",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 104,
+  "reviews_used": 15,
+  "prompt_chars": 9316,
+  "status": "ok",
+  "seconds": 756.44,
+  "error": "",
+  "profile": {
+    "O": 4.4,
+    "C": 4.1,
+    "E": 3.4,
+    "A": 3.85,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "opened up a whole world of imaging that was previously unknown to me.",
+      "C": "I wasn't willing to live with a \"neutral\" filter with a red cast so sent it back.",
+      "E": "With a properly tuned, high-quality antenna, I have had coversations with others using the same radio up to 9 miles away.",
+      "A": "I am happy to have received one speaker. And it's from a company that I really LOVE.",
+      "N": "My concern about sharpness in the corners was based on some critical reviews."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.1,
+    "E": 3.4,
+    "N": 2.25,
+    "O": 4.4,
+    "evidence_quotes": {
+      "A": "I am happy to have received one speaker. And it's from a company that I really LOVE.",
+      "C": "I wasn't willing to live with a \"neutral\" filter with a red cast so sent it back.",
+      "E": "With a properly tuned, high-quality antenna, I have had coversations with others using the same radio up to 9 miles away.",
+      "N": "My concern about sharpness in the corners was based on some critical reviews.",
+      "O": "opened up a whole world of imaging that was previously unknown to me."
+    }
+  }
+}

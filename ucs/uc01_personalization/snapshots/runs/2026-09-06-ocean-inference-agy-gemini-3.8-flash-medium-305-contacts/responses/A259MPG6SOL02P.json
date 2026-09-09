@@ -1,0 +1,40 @@
+{
+  "contact_id": 274,
+  "reviewer_id": "A259MPG6SOL02P",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 87,
+  "reviews_used": 15,
+  "prompt_chars": 9208,
+  "status": "ok",
+  "seconds": 1027.94,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.6,
+    "E": 2.8,
+    "A": 2.95,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "Sensitivity is pretty good with this, and so FFT contrast is good.Also, trying kalibrate, this varies by as much as 22khz from reliable sources.",
+      "C": "The USB to SATA bridge is square with the board, well soldered, and without any residue.",
+      "E": "I bought this for a system that rarely gets real console access. I didn't figure I'd care much.",
+      "A": "After looking more in depth, USAPhotoNation does this. Sells cheap, cancells, gets you to call, and they try to sell you overpriced accessories.",
+      "N": "THERE IS NO UPGRADE PATH TO PALM O/S 3.5! To upgrade, you have to buy a whole new one."
+    }
+  },
+  "raw": {
+    "A": 2.95,
+    "C": 4.6,
+    "E": 2.8,
+    "N": 3.25,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "After looking more in depth, USAPhotoNation does this. Sells cheap, cancells, gets you to call, and they try to sell you overpriced accessories.",
+      "C": "The USB to SATA bridge is square with the board, well soldered, and without any residue.",
+      "E": "I bought this for a system that rarely gets real console access. I didn't figure I'd care much.",
+      "N": "THERE IS NO UPGRADE PATH TO PALM O/S 3.5! To upgrade, you have to buy a whole new one.",
+      "O": "Sensitivity is pretty good with this, and so FFT contrast is good.Also, trying kalibrate, this varies by as much as 22khz from reliable sources."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 1,
+  "reviewer_id": "ADLVFFE4VBT8",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 431,
+  "reviews_used": 15,
+  "prompt_chars": 9724,
+  "status": "ok",
+  "seconds": 15.7,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 3.8,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "Nexus' 4-core CPU and its pure Android, more open makeup make it my preferred 7-incher.",
+      "C": "I will update my review as I learn and experience more if needed but I don't believe I've missed a lot",
+      "E": "we agreed to swap our new gadgets for a couple of days so we could each better decide what our second Android tablet was going to be.",
+      "A": "However, the rest of my family prefers the Fire HD because it's such a great dedicated (Amazon) media consumption pad.",
+      "N": "We've been using ours all throughout the charger 'crisis' and we are as happy with it today if not happier than we were on 'day one'."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 2.1,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "However, the rest of my family prefers the Fire HD because it's such a great dedicated (Amazon) media consumption pad.",
+      "C": "I will update my review as I learn and experience more if needed but I don't believe I've missed a lot",
+      "E": "we agreed to swap our new gadgets for a couple of days so we could each better decide what our second Android tablet was going to be.",
+      "N": "We've been using ours all throughout the charger 'crisis' and we are as happy with it today if not happier than we were on 'day one'.",
+      "O": "Nexus' 4-core CPU and its pure Android, more open makeup make it my preferred 7-incher."
+    }
+  }
+}

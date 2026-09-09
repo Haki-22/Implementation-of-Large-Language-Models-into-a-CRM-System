@@ -1,0 +1,50 @@
+{
+  "run": "2026-09-07-lemma-table-model-corpus-5-configs",
+  "kind": "casing-table",
+  "started": "2026-09-07T23:00:46",
+  "duration_seconds": 191.2,
+  "corpus": {
+    "corpus_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-corpus.json",
+    "corpus_sha256": "1171eab3e747bbde40c440f175d469cfe311de04765acf4134175ea029ccd422",
+    "messages": 100,
+    "corpus_id": "uc02-corpus-v2-model",
+    "gold_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-gold.jsonl",
+    "gold_sha256": "6384feddcb9bb5fea3c781c3682e5ce89797aabc78b0a2663c8dba18407b538d",
+    "gold_spans": 345
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "optimum": "2.1.0",
+      "onnxruntime": "1.26.0",
+      "gliner": "0.2.26",
+      "presidio_analyzer": "2.2.362",
+      "spacy": "3.8.14"
+    }
+  },
+  "models": {
+    "bardsai/eu-pii-anonimization-multilang": "0e72e19f030ed4e661b1673e549af8e0dd176386",
+    "bardsai/eu-pii-anonimization-multilang-v2-preview": "8e0b19766bb0dd4916d096b4f540dd46c138c760",
+    "stulcrad/CNEC2_0_Supertypes_xlm-roberta-large": "443922612eb04c45e0af2e3fb3b37fa2890b8a7a",
+    "fastino/gliner2.5-multi-v1": "aaecfe45db1d828c963717054ccb868e8ad1f1d5"
+  },
+  "casings": [
+    "original",
+    "lemma",
+    "lower",
+    "lemma_lower"
+  ],
+  "configs": [
+    "rules",
+    "rules+bardsai",
+    "rules+bardsai_v2",
+    "rules+stulcrad",
+    "rules+gliner2"
+  ],
+  "dropped_messages": {},
+  "failed": {},
+  "default_ner_backend": "bardsai",
+  "limit": null
+}

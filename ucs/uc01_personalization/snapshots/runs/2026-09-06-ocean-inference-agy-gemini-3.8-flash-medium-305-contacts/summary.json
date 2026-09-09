@@ -1,0 +1,56 @@
+{
+  "targets": 305,
+  "ok": 305,
+  "failed": 0,
+  "skipped": 0,
+  "wall_seconds": 1480.1,
+  "median_call_seconds": 743.6,
+  "max_call_seconds": 1480.02,
+  "median_prompt_chars": 9776,
+  "by_group": {
+    "A": {
+      "targets": 233,
+      "ok": 233
+    },
+    "B": {
+      "targets": 2,
+      "ok": 2
+    },
+    "C": {
+      "targets": 70,
+      "ok": 70
+    }
+  },
+  "traits": {
+    "O": {
+      "mean": 4.13,
+      "sd": 0.18,
+      "min": 3.1,
+      "max": 4.6
+    },
+    "C": {
+      "mean": 4.2,
+      "sd": 0.24,
+      "min": 2.7,
+      "max": 4.65
+    },
+    "E": {
+      "mean": 3.34,
+      "sd": 0.29,
+      "min": 2.5,
+      "max": 4.35
+    },
+    "A": {
+      "mean": 3.65,
+      "sd": 0.41,
+      "min": 1.85,
+      "max": 4.25
+    },
+    "N": {
+      "mean": 2.57,
+      "sd": 0.44,
+      "min": 1.9,
+      "max": 4.1
+    }
+  }
+}

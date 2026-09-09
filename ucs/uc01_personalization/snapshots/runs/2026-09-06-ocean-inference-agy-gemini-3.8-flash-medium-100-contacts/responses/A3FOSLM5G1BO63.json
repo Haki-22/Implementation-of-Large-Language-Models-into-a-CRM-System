@@ -1,0 +1,40 @@
+{
+  "contact_id": 206,
+  "reviewer_id": "A3FOSLM5G1BO63",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 103,
+  "reviews_used": 15,
+  "prompt_chars": 9732,
+  "status": "ok",
+  "seconds": 158.49,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.55,
+    "E": 2.85,
+    "A": 3.15,
+    "N": 3.05,
+    "evidence_quotes": {
+      "O": "Philips SHL9705A is a stylish, elegant, and not flashy headset with lightweight (5 oz) sturdy aluminum construction",
+      "C": "The included SE-R0301 remote control has small buttons spaced out only 9 mm (less than 3/8 inch) horizontally and 8 mm (5/16 inch) vertically",
+      "E": "The Sony DVPSR210P is a good DVD player, which misses a few buttons, does not impress with the menus",
+      "A": "plagued by a high rate of defects and low reliability.",
+      "N": "after which the disk has to be watched from the beginning - quite annoying."
+    }
+  },
+  "raw": {
+    "A": 3.15,
+    "C": 4.55,
+    "E": 2.85,
+    "N": 3.05,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "plagued by a high rate of defects and low reliability.",
+      "C": "The included SE-R0301 remote control has small buttons spaced out only 9 mm (less than 3/8 inch) horizontally and 8 mm (5/16 inch) vertically",
+      "E": "The Sony DVPSR210P is a good DVD player, which misses a few buttons, does not impress with the menus",
+      "N": "after which the disk has to be watched from the beginning - quite annoying.",
+      "O": "Philips SHL9705A is a stylish, elegant, and not flashy headset with lightweight (5 oz) sturdy aluminum construction"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 385,
+  "reviewer_id": "A2M14CFAMF8J7I",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 58,
+  "reviews_used": 15,
+  "prompt_chars": 9140,
+  "status": "ok",
+  "seconds": 1288.9,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.4,
+    "E": 3.1,
+    "A": 4.2,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "The first thing I noticed is the stylish design of the Camden Square, clean, and at the same time, elegant.",
+      "C": "Before I start, I apologize for the long review, but I was taking notes for weeks, and even if I left some stuff out",
+      "E": "It's the perfect everyday backpack for a geek who can't leave home without a few gadgets.",
+      "A": "So, before I repair the computer, I rescue the pictures, and any other file they might value. However, not all repair technicians do this",
+      "N": "One of my concerns when using a Mac was how to back up the data, until I tried Apple's Time Machine"
+    }
+  },
+  "raw": {
+    "A": 4.2,
+    "C": 4.4,
+    "E": 3.1,
+    "N": 2.4,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "So, before I repair the computer, I rescue the pictures, and any other file they might value. However, not all repair technicians do this",
+      "C": "Before I start, I apologize for the long review, but I was taking notes for weeks, and even if I left some stuff out",
+      "E": "It's the perfect everyday backpack for a geek who can't leave home without a few gadgets.",
+      "N": "One of my concerns when using a Mac was how to back up the data, until I tried Apple's Time Machine",
+      "O": "The first thing I noticed is the stylish design of the Camden Square, clean, and at the same time, elegant."
+    }
+  }
+}

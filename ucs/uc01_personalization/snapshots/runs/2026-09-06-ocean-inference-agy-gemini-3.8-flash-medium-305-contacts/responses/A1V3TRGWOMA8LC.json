@@ -1,0 +1,40 @@
+{
+  "contact_id": 278,
+  "reviewer_id": "A1V3TRGWOMA8LC",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 92,
+  "reviews_used": 15,
+  "prompt_chars": 9049,
+  "status": "ok",
+  "seconds": 1032.59,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.65,
+    "A": 3.6,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "I tested these with several pieces of film music (Emiliana Torrini's \"Gollum's Song\", John Murphy's \"In the House In a Heartbeat\" and Batman Begins)",
+      "C": "Upgrading is a 15-minute process - 5 minutes to change the cards out, 5 minutes to register and download the drivers, and 5 minutes of software installation and rebooting.",
+      "E": "Wow, what an experience! When they said \"Crystal Clear\", they really mean it - the sound definition is remarkable considering there's no sub-woofer.",
+      "A": "If you're looking for a cheap but basic HD camcorder in the same price range, check out Panasonic's HM-TA1.",
+      "N": "Falls frustratingly short for a Canon product: Canon seems to have taken a step down from the comparatively-excellent FS200 with a range of features that fall short in so many areas."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.15,
+    "E": 3.65,
+    "N": 2.6,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "If you're looking for a cheap but basic HD camcorder in the same price range, check out Panasonic's HM-TA1.",
+      "C": "Upgrading is a 15-minute process - 5 minutes to change the cards out, 5 minutes to register and download the drivers, and 5 minutes of software installation and rebooting.",
+      "E": "Wow, what an experience! When they said \"Crystal Clear\", they really mean it - the sound definition is remarkable considering there's no sub-woofer.",
+      "N": "Falls frustratingly short for a Canon product: Canon seems to have taken a step down from the comparatively-excellent FS200 with a range of features that fall short in so many areas.",
+      "O": "I tested these with several pieces of film music (Emiliana Torrini's \"Gollum's Song\", John Murphy's \"In the House In a Heartbeat\" and Batman Begins)"
+    }
+  }
+}

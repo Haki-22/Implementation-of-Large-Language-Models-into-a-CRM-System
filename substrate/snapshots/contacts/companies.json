@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Elektro Domov s.r.o.",
+    "ico": "20433212",
+    "dic": "CZ20433212",
+    "full_street": "Za Pivovarem 23",
+    "city": "Chrudim",
+    "postal_code": "53831",
+    "district": "Chrudim",
+    "region": "Pardubický kraj",
+    "legal_form": "s.r.o."
+  },
+  {
+    "name": "Zahradní Centrum Morava a.s.",
+    "ico": "70013381",
+    "dic": "CZ70013381",
+    "full_street": "U Společenské Zahrady 184",
+    "city": "Rynoltice",
+    "postal_code": "46353",
+    "district": "Liberec",
+    "region": "Liberecký kraj",
+    "legal_form": "a.s."
+  },
+  {
+    "name": "Sportshop Distribuce s.r.o.",
+    "ico": "96379405",
+    "dic": "CZ96379405",
+    "full_street": "Červenkova 179",
+    "city": "Blansko",
+    "postal_code": "67801",
+    "district": "Blansko",
+    "region": "Jihomoravský kraj",
+    "legal_form": "s.r.o."
+  },
+  {
+    "name": "DětskýSvět Velkoobchod s.r.o.",
+    "ico": "75423511",
+    "dic": "CZ75423511",
+    "full_street": "Adélčina 92",
+    "city": "Králův Dvůr",
+    "postal_code": "26701",
+    "district": "Beroun",
+    "region": "Středočeský kraj",
+    "legal_form": "s.r.o."
+  },
+  {
+    "name": "Domácí Potřeby Plzeň a.s.",
+    "ico": "69407819",
+    "dic": "CZ69407819",
+    "full_street": "Nedvědovo Náměstí 21",
+    "city": "Karviná",
+    "postal_code": "73506",
+    "district": "Karviná",
+    "region": "Moravskoslezský kraj",
+    "legal_form": "a.s."
+  },
+  {
+    "name": "Móda Trend s.r.o.",
+    "ico": "94959315",
+    "dic": "CZ94959315",
+    "full_street": "Tachovské Náměstí 198",
+    "city": "Kojetín",
+    "postal_code": "75201",
+    "district": "Přerov",
+    "region": "Olomoucký kraj",
+    "legal_form": "s.r.o."
+  },
+  {
+    "name": "Potraviny Express a.s.",
+    "ico": "51316471",
+    "dic": "CZ51316471",
+    "full_street": "Dělostřelecká 42",
+    "city": "Teplice",
+    "postal_code": "41503",
+    "district": "Teplice",
+    "region": "Ústecký kraj",
+    "legal_form": "a.s."
+  },
+  {
+    "name": "Zdraví a Krása s.r.o.",
+    "ico": "65341929",
+    "dic": "CZ65341929",
+    "full_street": "Pyšelská 42",
+    "city": "Sokolov",
+    "postal_code": "35601",
+    "district": "Sokolov",
+    "region": "Karlovarský kraj",
+    "legal_form": "s.r.o."
+  }
+]

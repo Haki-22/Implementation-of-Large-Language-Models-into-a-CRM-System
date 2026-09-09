@@ -1,0 +1,40 @@
+{
+  "contact_id": 171,
+  "reviewer_id": "A3QJU4FEN8PQSZ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 115,
+  "reviews_used": 15,
+  "prompt_chars": 9338,
+  "status": "ok",
+  "seconds": 632.36,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.0,
+    "A": 3.8,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "This opens up some interesting possibilities, especially instructional; for example, someone has used",
+      "C": "However, one thing I noticed right off the bat is that it could use a lot more organization.",
+      "E": "Writing from the perspective of a point-and-shoot user, I can only compare it to other cameras I've been using",
+      "A": "Anyone who takes notes regularly should consider this product.",
+      "N": "Unpacking this thing is a little scary, what with all the cables and parts. But not all of them are needed, thankfully."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.25,
+    "E": 3,
+    "N": 3.1,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Anyone who takes notes regularly should consider this product.",
+      "C": "However, one thing I noticed right off the bat is that it could use a lot more organization.",
+      "E": "Writing from the perspective of a point-and-shoot user, I can only compare it to other cameras I've been using",
+      "N": "Unpacking this thing is a little scary, what with all the cables and parts. But not all of them are needed, thankfully.",
+      "O": "This opens up some interesting possibilities, especially instructional; for example, someone has used"
+    }
+  }
+}

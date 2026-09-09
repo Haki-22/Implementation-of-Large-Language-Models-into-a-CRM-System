@@ -1,0 +1,40 @@
+{
+  "contact_id": 400,
+  "reviewer_id": "A2QNS95WGN35G9",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 53,
+  "reviews_used": 15,
+  "prompt_chars": 9617,
+  "status": "ok",
+  "seconds": 1367.37,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.05,
+    "E": 3.7,
+    "A": 3.95,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "I have a very wide taste when it comes to music and my use of these earphones.",
+      "C": "I've now used this set of headphones for well over 200 hours, and thought I'd give a nice review listing the pros and cons",
+      "E": "I'll try and add a video review in a week or two showcasing everything after some more use, stay tuned!",
+      "A": "Let me compare and contrast the 2 and maybe you can make a better decision.",
+      "N": "When apple announced the new keyboards, I was excited, and mad. I was excited at this keyboard, the wired version, and was upset about the wireless"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.05,
+    "E": 3.7,
+    "N": 2.45,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Let me compare and contrast the 2 and maybe you can make a better decision.",
+      "C": "I've now used this set of headphones for well over 200 hours, and thought I'd give a nice review listing the pros and cons",
+      "E": "I'll try and add a video review in a week or two showcasing everything after some more use, stay tuned!",
+      "N": "When apple announced the new keyboards, I was excited, and mad. I was excited at this keyboard, the wired version, and was upset about the wireless",
+      "O": "I have a very wide taste when it comes to music and my use of these earphones."
+    }
+  }
+}

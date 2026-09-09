@@ -1,0 +1,119 @@
+{
+  "run_dir": "2026-09-06-arena-crm-population-12-arms-en-cs-425-customers",
+  "date": "2026-09-06",
+  "arms": {
+    "popularity": {
+      "title": "Most-bought products",
+      "description": "ranks every product by how many customers bought it; no personalisation",
+      "family": "classical / baseline"
+    },
+    "als_cf": {
+      "title": "ALS collaborative filtering",
+      "description": "latent factors from who bought what; a purchase weighs 1 + rating; 64 factors, 20 iterations",
+      "family": "classical / collaborative filtering"
+    },
+    "svd_mf": {
+      "title": "SVD matrix factorisation",
+      "description": "truncated SVD of the explicit rating matrix, 50 factors",
+      "family": "classical / collaborative filtering"
+    },
+    "apriori_rules": {
+      "title": "Apriori association rules",
+      "description": "frequent product pairs (support 0.006, top-2 000 products) as rules scored by lift x confidence",
+      "family": "classical / association rules"
+    },
+    "adamic_adar": {
+      "title": "Adamic-Adar link prediction",
+      "description": "co-buyer paths through the customer-product graph, weighted 1 / log(degree)",
+      "family": "classical / graph"
+    },
+    "naive_bayes": {
+      "title": "Naive Bayes over the purchase history",
+      "description": "multinomial naive Bayes, bought products as features, the 500 most-bought products as classes",
+      "family": "classical / probabilistic"
+    },
+    "bm25_text": {
+      "title": "BM25 keyword search",
+      "description": "the customer's 200 most frequent review words (lemmatised in Czech) against product title, category and description",
+      "family": "classical / lexical retrieval"
+    },
+    "dense_e5": {
+      "title": "Dense multilingual retrieval (e5)",
+      "description": "multilingual-e5-base vectors of product texts; a customer is the mean of the products bought; cosine similarity",
+      "family": "trained encoder / dense retrieval"
+    },
+    "bert_encoder": {
+      "title": "BERT encoders as recommenders",
+      "description": "[CLS] vectors of product texts from DistilBERT (en) or Czert-B (cs), no fine-tuning; cosine to the customer's mean vector",
+      "family": "trained encoder / no task training"
+    },
+    "hybrid_als_dense": {
+      "title": "ALS + dense hybrid",
+      "description": "equal-weight sum of per-customer min-max scaled ALS and dense-retrieval scores",
+      "family": "classical / hybrid"
+    },
+    "lightgbm_features": {
+      "title": "LightGBM on engineered features",
+      "description": "boosted trees, bought-or-not, over category, price, length and history-overlap features",
+      "family": "classical / gradient boosting"
+    },
+    "svm_features": {
+      "title": "Linear SVM on engineered features",
+      "description": "linear SVM, bought-or-not, over the same features as the LightGBM arm",
+      "family": "classical / linear"
+    }
+  },
+  "languages": [
+    "en",
+    "cs"
+  ],
+  "regimes": [
+    "crm",
+    "population"
+  ],
+  "protocols": [
+    "full",
+    "sampled"
+  ],
+  "sampled_negatives": 100,
+  "seed": 42,
+  "leave_one_out": "last review by date, ties on the last day broken by the lowest review id",
+  "czech_branch": "same customers, histories and hidden items; review text, headline and product title in Czech (title for 16 067 of 18 213 products, empty text for 3 207 untranslated reviews); descriptions stay English (D-UC04-D)",
+  "database": {
+    "file": "substrate/snapshots/substrate.db",
+    "sha256": "b6d82a0dc5a4eff894ea14546bc8c8b41aa9916a27a6eb1776762a2084264c3f",
+    "customers": 425,
+    "groups": {
+      "A": 300,
+      "B": 50,
+      "C": 75
+    },
+    "catalogue_items": 18213,
+    "reviews_in_histories": 45526
+  },
+  "population": {
+    "file": "reviews_Electronics_5.json.gz",
+    "md5_pin": "e4524af6c644cd044b1969bac7b62b2a",
+    "size_pin": 495854086,
+    "users": 192403,
+    "items": 63001,
+    "reviews": 1689188,
+    "load_seconds": 9.4
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "implicit": "0.7.3",
+      "scipy": "1.14.1",
+      "scikit-learn": "1.8.0",
+      "lightgbm": "4.6.0",
+      "mlxtend": "0.24.0",
+      "rank_bm25": "0.2.2",
+      "sentence_transformers": "5.5.1",
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "simplemma": "1.1.2"
+    }
+  },
+  "total_seconds": 331.6
+}

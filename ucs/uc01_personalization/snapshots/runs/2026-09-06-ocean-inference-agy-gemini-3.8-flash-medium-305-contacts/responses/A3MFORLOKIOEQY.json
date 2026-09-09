@@ -1,0 +1,40 @@
+{
+  "contact_id": 217,
+  "reviewer_id": "A3MFORLOKIOEQY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 9601,
+  "status": "ok",
+  "seconds": 807.71,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.6,
+    "E": 3.0,
+    "A": 3.9,
+    "N": 2.0,
+    "evidence_quotes": {
+      "O": "After buying pre-built systems for several years, I finally broke down and built my own this time.",
+      "C": "I think it is important to establish how I am using the processor, so here is my system.",
+      "E": "I use a laptop for business travel, so I was pleased to be able to order this Toshiba Ultrabook.",
+      "A": "There are lots of good reviews on this product, I just wanted to add that it works on my MSI 790GX-G65 and an AMD Phenom II 965 Black Edition.",
+      "N": "I find it to be simple to use, reasonably accurate, but with problems in getting a Windows 7 computer to update the maps and software."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.6,
+    "E": 3,
+    "N": 2,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "There are lots of good reviews on this product, I just wanted to add that it works on my MSI 790GX-G65 and an AMD Phenom II 965 Black Edition.",
+      "C": "I think it is important to establish how I am using the processor, so here is my system.",
+      "E": "I use a laptop for business travel, so I was pleased to be able to order this Toshiba Ultrabook.",
+      "N": "I find it to be simple to use, reasonably accurate, but with problems in getting a Windows 7 computer to update the maps and software.",
+      "O": "After buying pre-built systems for several years, I finally broke down and built my own this time."
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "run": "2026-09-05-detection-table-model-corpus-23-configs",
+  "kind": "detection-table",
+  "started": "2026-09-05T19:44:44",
+  "duration_seconds": 191.5,
+  "corpus": {
+    "corpus_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-corpus.json",
+    "corpus_sha256": "1171eab3e747bbde40c440f175d469cfe311de04765acf4134175ea029ccd422",
+    "messages": 100,
+    "corpus_id": "uc02-corpus-v2-model",
+    "gold_file": "ucs/uc02_pseudonymization/snapshots/uc02-pii-gold.jsonl",
+    "gold_sha256": "6384feddcb9bb5fea3c781c3682e5ce89797aabc78b0a2663c8dba18407b538d",
+    "gold_spans": 345
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "optimum": "2.1.0",
+      "onnxruntime": "1.26.0",
+      "gliner": "0.2.26",
+      "presidio_analyzer": "2.2.362",
+      "spacy": "3.8.14"
+    }
+  },
+  "models": {
+    "bardsai/eu-pii-anonimization-multilang": "0e72e19f030ed4e661b1673e549af8e0dd176386",
+    "knowledgator/gliner-x-large": "4a4437f439a78d67c87781b42e8c45373d2adcb0",
+    "richielo/small-e-czech-finetuned-ner-wikiann": "148cd722f06ad6b8bfc475fba22cef846e52e61d",
+    "bardsai/eu-pii-anonimization-multilang-v2-preview": "8e0b19766bb0dd4916d096b4f540dd46c138c760",
+    "bardsai/eu-pii-multi-mini-preview": "ce02904c647f42af3aef97c28d13d23c4410f0f6",
+    "Wismut/nym-pii-multilingual": "0ed0242d67a30ca6a83e5f118506ff1e1daf83ca",
+    "Wismut/nym-pii-multilingual-small": "4348999cd3c2e20c49615e9af7c6bbb45b64cd85",
+    "ivlcic/snerta-12l-base": "1666b7cd3a618139d0c7c156d90c48d5870a23f5",
+    "stulcrad/CNEC2_0_Supertypes_xlm-roberta-large": "443922612eb04c45e0af2e3fb3b37fa2890b8a7a",
+    "fastino/gliner2.5-multi-v1": "aaecfe45db1d828c963717054ccb868e8ad1f1d5"
+  },
+  "configs": [
+    "rules",
+    "rules+bardsai",
+    "rules+gliner",
+    "rules+richielo",
+    "rules+presidio",
+    "rules+bardsai_v2",
+    "rules+bardsai_mini",
+    "rules+wismut",
+    "rules+wismut_small",
+    "rules+snerta",
+    "rules+stulcrad",
+    "rules+gliner2",
+    "bardsai",
+    "gliner",
+    "richielo",
+    "presidio",
+    "bardsai_v2",
+    "bardsai_mini",
+    "wismut",
+    "wismut_small",
+    "snerta",
+    "stulcrad",
+    "gliner2"
+  ],
+  "failed": {},
+  "default_ner_backend": "bardsai",
+  "nametag3_predictions": null,
+  "limit": null
+}

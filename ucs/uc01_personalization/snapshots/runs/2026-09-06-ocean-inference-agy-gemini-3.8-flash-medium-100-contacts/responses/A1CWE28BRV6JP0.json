@@ -1,0 +1,40 @@
+{
+  "contact_id": 363,
+  "reviewer_id": "A1CWE28BRV6JP0",
+  "group": "C",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 32,
+  "reviews_used": 15,
+  "prompt_chars": 9727,
+  "status": "ok",
+  "seconds": 483.74,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.2,
+    "E": 2.95,
+    "A": 3.2,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "I exhibit in two online galleries (occasionally I make a sale) and I'm currently putting together a photo book. I like to do post processing, including special effects.",
+      "C": "always carry a fully charged spare, and always recharge at the end of a day of shooting.",
+      "E": "I do mostly sports and action shooting, outdoors. I also do some candid shots of people, and some scenic shots.",
+      "A": "I suspect that there are other hardware features missing (when compared to Pavilion) but I am not going to use this dog long enough to find the",
+      "N": "Every camera has good points and not-so-good points, and some downright bad points. The E-M1 is no exception."
+    }
+  },
+  "raw": {
+    "A": 3.2,
+    "C": 4.2,
+    "E": 2.95,
+    "N": 2.5,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I suspect that there are other hardware features missing (when compared to Pavilion) but I am not going to use this dog long enough to find the",
+      "C": "always carry a fully charged spare, and always recharge at the end of a day of shooting.",
+      "E": "I do mostly sports and action shooting, outdoors. I also do some candid shots of people, and some scenic shots.",
+      "N": "Every camera has good points and not-so-good points, and some downright bad points. The E-M1 is no exception.",
+      "O": "I exhibit in two online galleries (occasionally I make a sale) and I'm currently putting together a photo book. I like to do post processing, including special effects."
+    }
+  }
+}

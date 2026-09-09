@@ -1,0 +1,65 @@
+[
+  {
+    "config": "rules",
+    "texts": 45909,
+    "seconds": 7.7,
+    "hits": {
+      "PSC": 669,
+      "BBAN": 753,
+      "EMAIL": 12,
+      "PHONE": 121,
+      "ICO": 5
+    },
+    "hits_total": 1560,
+    "per_1000": 33.98,
+    "per_1000_by_type": {
+      "BBAN": 16.4,
+      "EMAIL": 0.26,
+      "ICO": 0.11,
+      "PHONE": 2.64,
+      "PSC": 14.57
+    },
+    "texts_with_hits": 1078,
+    "texts_with_hits_share": 0.0235,
+    "examples": {
+      "PSC": [
+        "99090",
+        "360 60",
+        "73737",
+        "60735",
+        "65735",
+        "65835"
+      ],
+      "BBAN": [
+        "98/2000",
+        "1900/2000",
+        "17/2011",
+        "100/1000",
+        "21/2013",
+        "28/2014"
+      ],
+      "EMAIL": [
+        "customerservice@techarmor.com",
+        "support@aerb.com",
+        "onkyoadmin@us.onkyo.com",
+        "forums@onkyousa.com",
+        "amazon@netgear.com",
+        "print@pogoplug.com"
+      ],
+      "PHONE": [
+        "192.168.100",
+        "289508278",
+        "405137887",
+        "221496562",
+        "221496319",
+        "905120002"
+      ],
+      "ICO": [
+        "00000001",
+        "00700100",
+        "09520481"
+      ]
+    },
+    "lang": "en"
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "contact_id": 273,
+  "reviewer_id": "A3H4S6YO9VNGDZ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 9073,
+  "status": "ok",
+  "seconds": 1010.24,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.2,
+    "E": 3.65,
+    "A": 2.95,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "schooled and experienced in recording and sound reinforcement and still learning.",
+      "C": "I spent hours researching this problem and placed my order, do the same and you will too.",
+      "E": "My bike will go 170 MPH, my car will do 0-60 in 3 seconds, my girl will...ah..um...my processor is a 4790K.",
+      "A": "People who have trouble changing the batteries..um..might often have trouble changing batteries.",
+      "N": "This isn't the strongest or best looking case you can buy but this guy doesn't care...It's all you need."
+    }
+  },
+  "raw": {
+    "A": 2.95,
+    "C": 4.2,
+    "E": 3.65,
+    "N": 2.25,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "People who have trouble changing the batteries..um..might often have trouble changing batteries.",
+      "C": "I spent hours researching this problem and placed my order, do the same and you will too.",
+      "E": "My bike will go 170 MPH, my car will do 0-60 in 3 seconds, my girl will...ah..um...my processor is a 4790K.",
+      "N": "This isn't the strongest or best looking case you can buy but this guy doesn't care...It's all you need.",
+      "O": "schooled and experienced in recording and sound reinforcement and still learning."
+    }
+  }
+}

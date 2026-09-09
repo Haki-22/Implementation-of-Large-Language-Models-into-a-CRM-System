@@ -1,0 +1,40 @@
+{
+  "contact_id": 94,
+  "reviewer_id": "A19W47CXJJP1MI",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 186,
+  "reviews_used": 15,
+  "prompt_chars": 10151,
+  "status": "ok",
+  "seconds": 322.49,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.35,
+    "E": 3.15,
+    "A": 3.85,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "I installed Google Chrome OS Lime (by Hexxeh) on this tiny USB drive and configured my notebook PC to boot from USB first.",
+      "C": "This is why I have two spare batteries all charged up waiting on the side.",
+      "E": "Lenovo makes the best keyboard bar none.",
+      "A": "Please take a look at images I uploaded to the product page on this well-made case that offers superior protection against bumps and drops.",
+      "N": "It typically takes about 300 seconds (5 minutes) for it to be ready, and so it is very frustrating having to"
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.35,
+    "E": 3.15,
+    "N": 3.1,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "Please take a look at images I uploaded to the product page on this well-made case that offers superior protection against bumps and drops.",
+      "C": "This is why I have two spare batteries all charged up waiting on the side.",
+      "E": "Lenovo makes the best keyboard bar none.",
+      "N": "It typically takes about 300 seconds (5 minutes) for it to be ready, and so it is very frustrating having to",
+      "O": "I installed Google Chrome OS Lime (by Hexxeh) on this tiny USB drive and configured my notebook PC to boot from USB first."
+    }
+  }
+}

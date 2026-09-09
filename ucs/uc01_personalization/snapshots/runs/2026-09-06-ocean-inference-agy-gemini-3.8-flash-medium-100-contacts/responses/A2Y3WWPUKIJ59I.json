@@ -1,0 +1,40 @@
+{
+  "contact_id": 324,
+  "reviewer_id": "A2Y3WWPUKIJ59I",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 77,
+  "reviews_used": 15,
+  "prompt_chars": 9799,
+  "status": "ok",
+  "seconds": 337.41,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.05,
+    "A": 3.9,
+    "N": 2.65,
+    "evidence_quotes": {
+      "O": "I attempted to link to it using my laptop that runs Knoppix Linux, but while it was able to connect the computer could not access the shared files.",
+      "C": "If you blow on the fan and let it spin at high speeds, you can potentially damage the motor and ruin the fan.",
+      "E": "I got this for my wife as a small gift. She wanted something with a bigger screen than her Sansa to watch her videos on.",
+      "A": "I can't fault it for that though, the system requirements do not say it will work; I mention it only in case you're thinking of using this with a Linux",
+      "N": "The connectors seems to be slightly bigger maybe, because the cable was a little tight going into the device. It's nothing major though it went in just fine."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.25,
+    "E": 3.05,
+    "N": 2.65,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I can't fault it for that though, the system requirements do not say it will work; I mention it only in case you're thinking of using this with a Linux",
+      "C": "If you blow on the fan and let it spin at high speeds, you can potentially damage the motor and ruin the fan.",
+      "E": "I got this for my wife as a small gift. She wanted something with a bigger screen than her Sansa to watch her videos on.",
+      "N": "The connectors seems to be slightly bigger maybe, because the cable was a little tight going into the device. It's nothing major though it went in just fine.",
+      "O": "I attempted to link to it using my laptop that runs Knoppix Linux, but while it was able to connect the computer could not access the shared files."
+    }
+  }
+}

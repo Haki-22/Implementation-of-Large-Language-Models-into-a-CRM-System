@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "4",
+  "status": "ok",
+  "seconds": 7.41,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Nejsem žádný zarytý audiofil, ale HEOS 3 i 5 mají skvělý zvuk."
+      },
+      {
+        "aspect": "nastavení",
+        "sentiment": "positive",
+        "evidence": "Nastavení je hračka."
+      },
+      {
+        "aspect": "připojení",
+        "sentiment": "positive",
+        "evidence": "Reproduktory HEOS byly co se týče připojení, naprosto spolehlivé."
+      },
+      {
+        "aspect": "aplikace",
+        "sentiment": "negative",
+        "evidence": "Jedinou nevýhodou je aplikace HEOS."
+      },
+      {
+        "aspect": "rychlost",
+        "sentiment": "mixed",
+        "evidence": "Rychlosti jsou nejvyšší, ale práci to zvládne."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-4 (anonymizován).\nRecenze (231, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nBezdrátový reproduktor Denon HEOS 3: Užijte si hudbu v celém domě (recenze HEOS 3 a 5) Existuje staré přísloví, které říká: „Nesuďte knihu podle obalu.“ S tímto názorem souhlasím, ale obal může o produktu uvnitř hodně prozradit. Pokud si společnost věnuje čas vytvoření obalového řešení, kterého si všimnete, předpokládám, že bude hrdá na to, že se ujistí, že jejich produkt funguje velmi dobře. Když otevřete HEOS 3 i 5, okamžitě poznáte, že si Denon dal tu práci a vytvořil skvělé balení pro své reproduktory. Po otevření krabice s reproduktorem vás přivítá menší krabice, která obsahuje pěnovou vložku, v níž je uložen napájecí kabel, audio kabel a ethernetový kabel. Dále je zde další pěnový kus s návodem k rychlému použití. Pod těmito položkami najdete reproduktor. Zdá se to triviální, ale svědčí to o důrazu na detail. Balení je velmi podobné Applu. Nastavení je hračka. První věc, kterou musíte udělat, je stáhnout si aplikaci HEOS. Já jsem si ji nastavil pomocí iOS. Po otevření aplikace vás provede ilustrovaným postupem nastavení, který vás provede přidáním reproduktoru do sítě. S tímto procesem vám pomůže dodaný audio kabel. Zadáte heslo k síti a voilà, váš reproduktor je nyní připraven k použití. (Po nastavení reproduktoru bylo nutné provést aktualizaci. Aktualizace trvala tři pokusy. Reproduktory nebudete moci seskupit, dokud nebudou provedeny obě aktualizace.) Poté jsem vybral tlačítko ve spodní části obrazovky, které mi umožnilo seskupit dva reproduktory. Můžete je pojmenovat, jak chcete, abyste je lépe identifikovali. Stačí přetáhnout jeden reproduktor na druhý a nyní budou hrát společně. Pokud chcete, aby hrály samostatně, můžete je od sebe odtáhnout. Dobře, balení a nastavení byly dobré, ale za tolik peněz na reproduktory očekáváte dobrý zvuk a snadné použití. Uvidíme, jak si HEOS povede. Nejprve si musíte nastavit účet HEOS. Na kartě Hudba si můžete vybrat Pandoru, Spotify, TuneIn, Rhapsody nebo hudbu z vašeho zařízení iOS. Můžete také přehrávat soubory z USB disku. Velkým opomenutím a zklamáním je zde absence AirPlay. Chtěl bych mít možnost streamovat zvuk z jakékoli aplikace, kterou používám. Doufejme, že to bude přidáno v budoucí aktualizaci. Nejsem žádný zarytý audiofil, ale HEOS 3 i 5 mají skvělý zvuk. Basy v obou reproduktorech mi stačily na to, aby vám rozechvěly okna. Větší pětka si vedl o něco lépe. Měl jsem větší bezdrátové reproduktory, které nezněly tak dobře jako tyto nové produkty od DENONu. K dispozici je nastavení ekvalizéru (Nastavení-Moje zařízení-EQ), které umožňuje ovládat basy a výšky pro každý reproduktor. Aplikace umožňuje ovládat hlasitost každého reproduktoru samostatně nebo společně. Hlasitost lze ovládat pouze v aplikaci. To mi přišlo trochu otravné. Také po nastavení hlasitosti docházelo k mírnému zpoždění, než reproduktory zareagovaly. HEOS 5 je větší z těchto dvou reproduktorů. Umístil jsem ho na skříňku v kuchyni a místnost se kompletně naplní zvukem. LED dioda na spodní straně reproduktoru vás informuje, zda je zapnutý a správně připojený (modře). Bliká žlutě, když se připojuje k síti nebo pokud je problém s připojením. Jeho menší sourozenec, HEOS 3, lze používat svisle i vodorovně. Ujistěte se, že jste v nastavení vybrali správnou orientaci. Já jsem si ho dal do obývacího pokoje svisle. Má také modré světlo na spodní (svislé) straně reproduktoru. Jiné bezdrátové reproduktory (jak Bluetooth, tak síťové), které jsem měl, pravidelně přerušovaly připojení nebo jsem musel znovu spustit proces nastavení. Reproduktory HEOS byly co se týče připojení, naprosto spolehlivé. Mám HEOS 5 na vypínači v kuchyni a připojí se sám během minuty od přepnutí vypínače. Celkově by tyto reproduktory byly skvělým doplňkem do domácnosti každého. Je skvělé mít hudbu v jedné místnosti a jít do jiné místnosti a nechat se zvukem následovat! Jedinou nevýhodou je aplikace HEOS. Ještě není úplně připravená na hlavní vysílací čas a dokud nebude přidán AirPlay, budou tyto reproduktory stát hvězdu. Do té doby si budu užívat hudbu z nejlepší dekády, 80. let! Proniknu do srdce.....\nNOVINKA! Creative Sound Blaster Roar: Přenosný bezdrátový Bluetooth reproduktor s technologií NFC a aptX/AAC. 5 měničů, vestavěný subwoofer, neuvěřitelně výkonný. Úžasná cena 149,99 $!: Kreativita v té nejlepší podobě! Představte si, že máte reproduktor, který lze připojit přes Bluetooth nebo NFC, přes USB ke stolnímu počítači nebo notebooku, přehrávat hudební soubory z micro SD karet a dokonce jej používat k přijímání hovorů a nahrávání konverzací. Co takhle umožnit všem svým přátelům sdílet připojení Bluetooth? To je jen několik skvělých funkcí. Creative Blaster Roar má vestavěnou dobíjecí baterii. To znamená, že si ho můžete vzít kamkoli s sebou. Vezměte si ho na pláž, k bazénu nebo se staňte nejlepším DJem na večírku vašich přátel. Potřebujete větší hlasitost… aktivujte funkci ROAR a zvedněte laťku hlasitosti o další úroveň. Nezapomeňte na basy pro ty, kteří chtějí svou hudbu prožít s funkcí TERA Bass. Aktivujte ROAR i TERA Bass a ponořte se do bohatých a hlubokých tónů. K dispozici je alarm/siréna, režim spánku a jednotka dokonce nabije váš smartphone. Pořád si říkám, kde se skrývá mini televize. Tento přístroj je skutečně jedinečný a mírně řečeno neuvěřitelný. Samotnému designu byla věnována zvláštní pozornost. Lze jej složit, nikoli vzpřímit, takže zvuk může být rovnoměrně rozložen. Díky tomu jsou basy a střední tóny níže, což způsobuje menší vibrace a větší stabilitu. Jakmile uslyšíte reproduktor v akci, skutečně si uvědomíte, kolik kreativity a vynalézavosti bylo do jeho návrhu vloženo. Recenze vzorku.\nBolse® N600 Dual-Band USB Wireless Adapter Optimized for HD Video & Gaming, 2.4GHz 300Mbps/5Ghz 300Mbps, One-Button Setup, Support Windows XP, Vista, 7, 8; Mac OS X 10.5 Greater(*Does Not Support Win8.1*): Hodí se, když potřebujeme „dočasný“ přístup k internetu V manželově opravně jsme pro naše mechaniky koupili levný stolní počítač. Tento stroj používáme pouze k prohlížení informací o opravách a také k zobrazení časových a pracovních sazeb, které účtujeme zákazníkům. Nemá WiFi kartu a rozhodně nechceme, aby byl připojen k naší síti přes Ethernet. Výrobci opravárenského programu již nevyrábějí upgrady z CD a trvali na tom, abychom upgrady instalovali přes internet. Dvoupásmový USB bezdrátový adaptér Bolse N600 je nejlepším řešením pro snadné připojení tohoto stolního počítače k internetu, když potřebujeme provést upgrady našeho programu pro opravy automobilů. Instalace byla hračka a po dokončení upgradu můžeme adaptér snadno odebrat, protože nechceme, aby naši pracovníci během pracovní doby surfovali po internetu. Rychlosti jsou nejvyšší, ale práci to zvládne. Ukázka recenze.\nSabrent USB 3.0 SuperSpeed 3 slot Memory Card Reader with Card Storage Box for Windows, Mac and Linux - Supports SD , SDHC , MMC / MicroSD / CF, and more (CR-CCU3): Skvělá malá čtečka karet Čtečka karet Sabrent CR-CCU3 je skvělá malá čtečka karet s rozhraním USB 3.0 (zpětně kompatibilní s USB 2.0). Je menší než balíček karet a má přibližně stejnou tloušťku. Čte karty micro SD, CF a SD (včetně SDHC). Kabel USB je integrován v jednotce, takže s sebou nemusíte nosit další kabel, složí se do úložného slotu ve spodní části a je dlouhý asi 5 cm. Na horní straně jednotky jsou poloprůhledná dvířka, která se odklopí a odhalí úložný prostor pro 1 CF kartu, 1 SD kartu a 1 micro SD kartu. Všechny karty do nich pevně padnou, takže když ji otočíte, karty nevypadnou. To by byl skvělý doplněk do brašny na fotoaparát nebo notebook pro fotografy. Rychlosti USB 3.0 jsou skvělé pro vysokorychlostní karty, abyste mohli rychleji kopírovat fotografie, filmy nebo hudbu. Je pěkná, lehká a zdá se být velmi dobře vyrobená. Nejsou potřeba žádné ovladače, stačí ji zapojit a hrát. Ukázková recenze.\nLinksys WRT1900AC Dual Band Smart Wi-Fi Wireless AC Router (2.4 + 5GHz), Frustration-Free Packaging: Nejjednodušší nastavení vůbec (4,5 hvězdičky) Tento WiFi router je prostě bestie! Je krásně prezentován v krabici s pěnovým po\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Nejsem žádný zarytý audiofil, ale HEOS 3 i 5 mají skvělý zvuk."
+      },
+      {
+        "aspect": "nastavení",
+        "sentiment": "positive",
+        "evidence": "Nastavení je hračka."
+      },
+      {
+        "aspect": "připojení",
+        "sentiment": "positive",
+        "evidence": "Reproduktory HEOS byly co se týče připojení, naprosto spolehlivé."
+      },
+      {
+        "aspect": "aplikace",
+        "sentiment": "negative",
+        "evidence": "Jedinou nevýhodou je aplikace HEOS."
+      },
+      {
+        "aspect": "rychlost",
+        "sentiment": "mixed",
+        "evidence": "Rychlosti jsou nejvyšší, ale práci to zvládne."
+      }
+    ]
+  }
+}

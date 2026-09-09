@@ -1,0 +1,40 @@
+{
+  "contact_id": 378,
+  "reviewer_id": "A20WS8TZ5840ND",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 37,
+  "reviews_used": 15,
+  "prompt_chars": 9288,
+  "status": "ok",
+  "seconds": 1262.8,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.1,
+    "A": 3.45,
+    "N": 3.05,
+    "evidence_quotes": {
+      "O": "I write music as a hobby and have an okay set up, but my headphones were not very good.",
+      "C": "This is a very in-depth review, so if you want to get to the point I suggest skipping to the last paragraph.",
+      "E": "If those two things are topping your list, don't bother reading this review.",
+      "A": "I will try not to give it too hard of a time for things it wasn't necessarily meant to accomplish, but I'll at least have to touch on them.",
+      "N": "I've written maybe three reviews online before, and they're all about things I've hated and felt the need to denounce."
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 4.1,
+    "E": 3.1,
+    "N": 3.05,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I will try not to give it too hard of a time for things it wasn't necessarily meant to accomplish, but I'll at least have to touch on them.",
+      "C": "This is a very in-depth review, so if you want to get to the point I suggest skipping to the last paragraph.",
+      "E": "If those two things are topping your list, don't bother reading this review.",
+      "N": "I've written maybe three reviews online before, and they're all about things I've hated and felt the need to denounce.",
+      "O": "I write music as a hobby and have an okay set up, but my headphones were not very good."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 318,
+  "reviewer_id": "A3QMJMTLJC34QC",
+  "group": "B",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 78,
+  "reviews_used": 15,
+  "prompt_chars": 9964,
+  "status": "ok",
+  "seconds": 313.65,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.7,
+    "A": 3.9,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I have been mesmerized by the simplistic yet highly function nature of the Apple",
+      "C": "It has become a habit for me to carry at least one USB memory stick in my laptop backpack along with my laptop, both personal and business.",
+      "E": "from checking my calendar to playing games with friends and family",
+      "A": "Finally, the spouse, who is usually the more frugal of the two of us, asked me to procure her a new optical mouse.",
+      "N": "I prayed the to mouse gods for smooth and silky cursor operations, all to no avail."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.35,
+    "E": 3.7,
+    "N": 2.15,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Finally, the spouse, who is usually the more frugal of the two of us, asked me to procure her a new optical mouse.",
+      "C": "It has become a habit for me to carry at least one USB memory stick in my laptop backpack along with my laptop, both personal and business.",
+      "E": "from checking my calendar to playing games with friends and family",
+      "N": "I prayed the to mouse gods for smooth and silky cursor operations, all to no avail.",
+      "O": "I have been mesmerized by the simplistic yet highly function nature of the Apple"
+    }
+  }
+}

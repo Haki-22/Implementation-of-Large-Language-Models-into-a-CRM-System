@@ -1,0 +1,40 @@
+{
+  "contact_id": 195,
+  "reviewer_id": "A34C9AFFZOI45T",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 97,
+  "reviews_used": 15,
+  "prompt_chars": 10165,
+  "status": "ok",
+  "seconds": 721.7,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.45,
+    "E": 3.35,
+    "A": 3.85,
+    "N": 2.05,
+    "evidence_quotes": {
+      "O": "I disassembled the cable to see what it was, and it is merely 3 RCA connectors going to the USB port.",
+      "C": "Spent some time looking, and after comparing some similar units, I went with this one.",
+      "E": "Love this product! It saved my day when running long DVI and HDMI cables! Simple, inexpensive, amazing",
+      "A": "Purchased this as a gift for someone who has constant navigational issues anywhere they go.",
+      "N": "Rather than bend the cable too much (which has proven disastrous to me in the past), I went looking for a good right angle adapter."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.45,
+    "E": 3.35,
+    "N": 2.05,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Purchased this as a gift for someone who has constant navigational issues anywhere they go.",
+      "C": "Spent some time looking, and after comparing some similar units, I went with this one.",
+      "E": "Love this product! It saved my day when running long DVI and HDMI cables! Simple, inexpensive, amazing",
+      "N": "Rather than bend the cable too much (which has proven disastrous to me in the past), I went looking for a good right angle adapter.",
+      "O": "I disassembled the cable to see what it was, and it is merely 3 RCA connectors going to the USB port."
+    }
+  }
+}

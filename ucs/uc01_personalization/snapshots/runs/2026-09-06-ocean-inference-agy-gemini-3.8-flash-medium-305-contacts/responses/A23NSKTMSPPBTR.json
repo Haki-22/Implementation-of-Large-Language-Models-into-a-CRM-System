@@ -1,0 +1,40 @@
+{
+  "contact_id": 181,
+  "reviewer_id": "A23NSKTMSPPBTR",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 110,
+  "reviews_used": 15,
+  "prompt_chars": 9726,
+  "status": "ok",
+  "seconds": 689.71,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.45,
+    "E": 2.7,
+    "A": 4.0,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "In order to evaluate splitters, it is important to understand how they work. A splitter is not an amplifier.",
+      "C": "I did lots of benchmarks and found that I got maximum speeds while doing multiple concurrent large inter-computer file transfers.",
+      "E": "I don't make it a practice to read other reviews before writing my own",
+      "A": "For the most part, they are not real problems with the case itself, but it's entirely reasonable that users may encounter them.",
+      "N": "I don't know why they bothered giving both, but it can't hurt."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 4.45,
+    "E": 2.7,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "For the most part, they are not real problems with the case itself, but it's entirely reasonable that users may encounter them.",
+      "C": "I did lots of benchmarks and found that I got maximum speeds while doing multiple concurrent large inter-computer file transfers.",
+      "E": "I don't make it a practice to read other reviews before writing my own",
+      "N": "I don't know why they bothered giving both, but it can't hurt.",
+      "O": "In order to evaluate splitters, it is important to understand how they work. A splitter is not an amplifier."
+    }
+  }
+}

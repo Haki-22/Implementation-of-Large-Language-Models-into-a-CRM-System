@@ -1,0 +1,177 @@
+[
+  {
+    "contact_id": 2,
+    "reviewer_id": "A22CW0ZHY3NJH8",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16",
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 3,
+    "reviewer_id": "A23GFTVIETX7DS",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16",
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 4,
+    "reviewer_id": "A3AYSYSLHU26U9",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16",
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 7,
+    "reviewer_id": "A31N0XY2UTB25C",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16"
+    ]
+  },
+  {
+    "contact_id": 11,
+    "reviewer_id": "A3OXHLG6DIBRW8",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16",
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 13,
+    "reviewer_id": "A6FIAB28IS79",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16",
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 15,
+    "reviewer_id": "A680RUE1FDO8B",
+    "group": "A",
+    "sources": [
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 16,
+    "reviewer_id": "A1ODOGXEYECQQ8",
+    "group": "A",
+    "sources": [
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 19,
+    "reviewer_id": "A36K2N527TXXJN",
+    "group": "A",
+    "sources": [
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 20,
+    "reviewer_id": "AWPODHOB4GFWL",
+    "group": "A",
+    "sources": [
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 21,
+    "reviewer_id": "A3EXWV8FNSSFL6",
+    "group": "A",
+    "sources": [
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 24,
+    "reviewer_id": "A18S2VGUH9SCV5",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100"
+    ]
+  },
+  {
+    "contact_id": 25,
+    "reviewer_id": "A376OJHLE6SU9Q",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16"
+    ]
+  },
+  {
+    "contact_id": 27,
+    "reviewer_id": "ACJT8MUC0LRF0",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100"
+    ]
+  },
+  {
+    "contact_id": 29,
+    "reviewer_id": "A3LGT6UZL99IW1",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 31,
+    "reviewer_id": "A1IU7S4HCK1XK0",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100"
+    ]
+  },
+  {
+    "contact_id": 32,
+    "reviewer_id": "A38RMU1Y5TDP9",
+    "group": "A",
+    "sources": [
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 33,
+    "reviewer_id": "A2NOW4U7W3F7RI",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "previous"
+    ]
+  },
+  {
+    "contact_id": 41,
+    "reviewer_id": "A20OBCQWBKCGZT",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100"
+    ]
+  },
+  {
+    "contact_id": 50,
+    "reviewer_id": "A1CMD08Z49PGKQ",
+    "group": "A",
+    "sources": [
+      "sample:model-arms-100",
+      "pick:reading-16"
+    ]
+  }
+]

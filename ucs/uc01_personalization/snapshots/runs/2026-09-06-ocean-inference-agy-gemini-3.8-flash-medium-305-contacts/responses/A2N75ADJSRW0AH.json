@@ -1,0 +1,40 @@
+{
+  "contact_id": 406,
+  "reviewer_id": "A2N75ADJSRW0AH",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 44,
+  "reviews_used": 15,
+  "prompt_chars": 9826,
+  "status": "ok",
+  "seconds": 1389.32,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.8,
+    "E": 3.3,
+    "A": 3.45,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "the concept of a motorized dock that rotates my iPhone for video viewing like some contraption out of2001: A Space Odysseywas intriguing to me.",
+      "C": "They've become a necessary part of my cameras, and it's ALWAYS the first accessory I purchase with a new body.",
+      "E": "Okay look, this lens isn't quite the walk-on-water miracle that many people are making it out to be.",
+      "A": "I have found a few minor issues, but nothing big enough to merit the loss of a star.",
+      "N": "I confess to feeling a little self-conscious at times because of its similarity to a purse"
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 3.8,
+    "E": 3.3,
+    "N": 2.5,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I have found a few minor issues, but nothing big enough to merit the loss of a star.",
+      "C": "They've become a necessary part of my cameras, and it's ALWAYS the first accessory I purchase with a new body.",
+      "E": "Okay look, this lens isn't quite the walk-on-water miracle that many people are making it out to be.",
+      "N": "I confess to feeling a little self-conscious at times because of its similarity to a purse",
+      "O": "the concept of a motorized dock that rotates my iPhone for video viewing like some contraption out of2001: A Space Odysseywas intriguing to me."
+    }
+  }
+}

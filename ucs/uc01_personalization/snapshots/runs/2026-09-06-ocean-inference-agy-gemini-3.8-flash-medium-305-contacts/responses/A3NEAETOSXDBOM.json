@@ -1,0 +1,40 @@
+{
+  "contact_id": 96,
+  "reviewer_id": "A3NEAETOSXDBOM",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 151,
+  "reviews_used": 15,
+  "prompt_chars": 9727,
+  "status": "ok",
+  "seconds": 342.96,
+  "error": "",
+  "profile": {
+    "O": 4.0,
+    "C": 4.3,
+    "E": 3.4,
+    "A": 4.05,
+    "N": 1.95,
+    "evidence_quotes": {
+      "O": "I would buy my film in bulk, load it into casettes, shoot, then develop and print in my home darkroom.",
+      "C": "My first screen shows total time elapsed, speed in MPH, total distance and heart rate.",
+      "E": "I have been using the Forerunner 305 for the past five months and can't imagine how I got along without it.",
+      "A": "keep in mind that each person buys this unit with different expectations and uses, and what matters to one person may be irrelevant to another.",
+      "N": "it becomes nonresponsive until I wipe off the sweat. But this is not a big deal for me."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.3,
+    "E": 3.4,
+    "N": 1.95,
+    "O": 4,
+    "evidence_quotes": {
+      "A": "keep in mind that each person buys this unit with different expectations and uses, and what matters to one person may be irrelevant to another.",
+      "C": "My first screen shows total time elapsed, speed in MPH, total distance and heart rate.",
+      "E": "I have been using the Forerunner 305 for the past five months and can't imagine how I got along without it.",
+      "N": "it becomes nonresponsive until I wipe off the sweat. But this is not a big deal for me.",
+      "O": "I would buy my film in bulk, load it into casettes, shoot, then develop and print in my home darkroom."
+    }
+  }
+}

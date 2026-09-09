@@ -1,0 +1,40 @@
+{
+  "contact_id": 101,
+  "reviewer_id": "A203OCQQ12MAVT",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 162,
+  "reviews_used": 15,
+  "prompt_chars": 10064,
+  "status": "ok",
+  "seconds": 361.17,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.35,
+    "E": 3.35,
+    "A": 3.6,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "Tascam has always been at the forefront of technology with their first compact flash rackmount digital recorder.",
+      "C": "the only periodic maintenance is cleaning the lens on the front monthly.",
+      "E": "That unit is still running after driving the neighborhood drug dealers out of their rent free abandoned home",
+      "A": "on alot of the vine products I get from amazon to review, I end up giving them away to friends and family who can use them more than I can.",
+      "N": "Have no fear - cheap CR123's are here!"
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.35,
+    "E": 3.35,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "on alot of the vine products I get from amazon to review, I end up giving them away to friends and family who can use them more than I can.",
+      "C": "the only periodic maintenance is cleaning the lens on the front monthly.",
+      "E": "That unit is still running after driving the neighborhood drug dealers out of their rent free abandoned home",
+      "N": "Have no fear - cheap CR123's are here!",
+      "O": "Tascam has always been at the forefront of technology with their first compact flash rackmount digital recorder."
+    }
+  }
+}

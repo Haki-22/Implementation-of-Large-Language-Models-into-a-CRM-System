@@ -1,0 +1,40 @@
+{
+  "contact_id": 387,
+  "reviewer_id": "A2HXE29CU1I24Y",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 39,
+  "reviews_used": 15,
+  "prompt_chars": 9853,
+  "status": "ok",
+  "seconds": 1297.94,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.55,
+    "E": 3.15,
+    "A": 3.65,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "A word of caution, these headphones faithfully reproduce the music. Meaning the frequency is flat - which is great! There is no discoloration, no unnecessary highs and lows.",
+      "C": "I would advise that before you buy one, to check not only customer reviews but also their feedback in dealing with the company's customer support area.",
+      "E": "Did you get that or did you want me to state it again? Just kidding.",
+      "A": "Of course you cannot please every customer and not everyone has the same technical aptitude in using a product",
+      "N": "The replacement battery solved the issue - no more flashing battery icon and no more hissing sound."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.55,
+    "E": 3.15,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Of course you cannot please every customer and not everyone has the same technical aptitude in using a product",
+      "C": "I would advise that before you buy one, to check not only customer reviews but also their feedback in dealing with the company's customer support area.",
+      "E": "Did you get that or did you want me to state it again? Just kidding.",
+      "N": "The replacement battery solved the issue - no more flashing battery icon and no more hissing sound.",
+      "O": "A word of caution, these headphones faithfully reproduce the music. Meaning the frequency is flat - which is great! There is no discoloration, no unnecessary highs and lows."
+    }
+  }
+}

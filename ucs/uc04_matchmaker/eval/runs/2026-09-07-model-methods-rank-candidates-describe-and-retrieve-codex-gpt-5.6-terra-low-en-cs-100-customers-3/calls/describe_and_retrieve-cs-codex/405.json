@@ -1,0 +1,35 @@
+{
+  "contact_id": 405,
+  "status": "ok",
+  "seconds": 6.11,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Sada pájecího nářadí pro elektroniku s regulací teploty",
+      "Digitální multimetr pro měření součástek a obvodů",
+      "Propojovací vodiče a nepájivé kontaktní pole pro elektronické projekty"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-405 (anonymizováno). Názvy produktů česky.\nNákupní historie (43 nákupů, od nejstaršího):\n- 2010-12-04 ★5 Generická standardní červená LED nástěnná/AC/domácí nabíječka pro Garmin Nuvi 1490T\n- 2010-12-04 ★5 Odolné ochranné pouzdro na GPS v barvě dělového kovu s úhlopříčkou 5,2 palce, odnímatelnou karabinou a technologií Sumac\n- 2010-12-04 ★4 Garmin nuvi 1490LMT Přenosný GPS navigátor s 5palcovým displejem a Bluetooth, doživotními aktualizacemi map a dopravních\n- 2010-12-10 ★5 Infinity Primus PC350 3cestný duální centrální reproduktor 5,25\" (prodává se samostatně)\n- 2011-01-30 ★4 Externí pevný disk WD Elements 500 GB USB 2.0 pro stolní počítače\n- 2011-04-07 ★5 Přehrávač 3D Blu-ray DVD Panasonic DMP-BDT210 s integrovaným Wi-Fi\n- 2011-04-16 ★5 Polstrovaný popruh na fotoaparát Comfort Formation Air Cell\n- 2011-12-28 ★1 Bezdrátové multimediální centrum Peerless HDS100 HD - černé (výrobce ukončil výrobu)\n- 2012-01-04 ★5 brite-View Air SyncHD (BV-2322) Sada pro bezdrátový přenos nekomprimovaného videa/audia v rozlišení 1080p\n- 2012-01-05 ★5 Ochrana napájení Monster MP AV600\n- 2012-01-05 ★4 23palcový LCD monitor HP 2310e s WLED podsvícením\n- 2012-01-30 ★3 Vysokorychlostní pozlacený HDMI kabel GTMax s podporou rozlišení 4096×2160p (15 metrů, černý/červený)\n- 2012-01-30 ★4 Sewell Direct SW-8876 Ibis - 2x1 nebo 1x2 HDMI obousměrný přepínač s HDCP průchodem\n- 2012-02-12 ★5 Ceton InfiniTV 4 PCIe - 4kanálová interní tunerová karta kabelové televize pro CableCARD\n- 2012-03-15 ★2 Externí pevný disk Seagate FreeAgent GoFlex Desk 1 TB USB 3.0 STAC1000103\n- 2012-12-25 ★4 Externí přenosný SSD disk U32 Shadow™ 240 GB s rozhraním USB 3.0\n- 2012-12-30 ★5 Grafická karta EVGA GeForce GTX 660Ti SUPERCLOCKED 2048MB GDDR5 DVI-I, DVI-D, HDMI, DP, SLI (02G-P4-3662-KR) Grafické ka\n- 2013-01-20 ★5 StarTech.com SuperSpeed USB 3.0 to SATA Hard Drive Docking Station for 2.5/3.5 HDD\n- 2013-01-21 ★1 IO Crest 3,5palcový IDE/SATA HDD úložný box SY-ACC35013 (šedý)\n- 2013-01-25 ★5 4portová superrychlá PCI Express karta StarTech.com s USB 3.0 a napájením SATA PEXUSB3S4\n- 2013-08-27 ★5 ORICO PHB35-5 pouzdro na 5 pevných disků, ochranné pouzdro pro pevný disk (pouzdro na 5 3,5\" pevný disk)\n- 2013-09-28 ★5 Převodník digitálního komponentního a S/PDIF audia Monoprice na HDMI\n- 2013-09-28 ★5 Sada 14 příslušenství DigitalsOnDemand pro nový Samsung Galaxy Tab 2 (10,1 palce, Wi-Fi)\n- 2013-09-28 ★4 100 ks samolepicích držáků kabelových stahovacích pásek 20 mm x 20 mm x 4 mm, černé\n- 2013-10-05 ★5 Infinity Primus P143 Dvoupásmový 4palcový regálový/satelitní reproduktor (černý, každý kus)\n- 2013-10-18 ★3 Panasonic VIERA TC-P60ZT60 60palcová 3D chytrá plazmová televize s obnovovací frekvencí 600 Hz a rozlišením 1080p (výrob\n- 2013-10-23 ★5 Zesilovač HDMI signálu, opakovač a extender Tripp Lite B122-000, 24Hz, HDMI\n- 2013-10-23 ★1 Sada pro prodloužení bezdrátového dálkového ovládání Ivation Compact - Obsahuje vysílač a přijímač - Jednoduchá instalac\n- 2013-10-25 ★5 Kabel HDMI Mediabridge ULTRA řady (1,8 m) – vysokorychlostní, podporuje Ethernet, 3D a Audio Return [nejnovější standard\n- 2013-10-28 ★4 Aktivní opakovací / prodlužovací kabel PTC 15 m / 49 stop USB 2.0 (v/z) - podporuje vysokorychlostní přenos dat 480 Mb/s\n- 2013-10-29 ★4 APC J25B 8zásuvkový napájecí adaptér typu J se záložní baterií\n- 2013-11-23 ★5 Samsung PN51F8500 51palcová 3D chytrá plazmová HDTV 1080p 600Hz\n- 2013-12-22 ★5 Interní SSD disk Samsung Electronics řady 840 EVO, 120 GB, 2,5 palce, SATA III, verze s jednou jednotkou, MZ-7TE120BW\n- 2014-01-04 ★5 APC Essential SurgeArrest, 7 zásuvek\n- 2014-01-04 ★2 Převodník Sabrent USB 2.0 na SATA s napájením (SATA-C35U)\n- 2014-01-18 ★5 Terminátor typu F 75 Ohm - balení po 10 ks\n- 2014-01-18 ★3 Stativ Vivitar VPT1250 50 palců (černý/stříbrný)\n- 2014-01-18 ★4 Stahovací pásky Monoprice Marker 4 palce 18 LBS, 100 ks/balení - bílé\n- 2014-01-18 ★2 PCT 4portový zesilovač RF signálu s aktivním návratem\n- 2014-02-06 ★1 Digitální fotoaparát Canon PowerShot A1400 s rozlišením 16,0 MP, 5násobným digitálním zoomem, stabilizací obrazu, 28mm š\n- 2014-03-09 ★5 Připojitelný síťový adaptér USB 3.0 na 10/100/1000 Gigabit Ethernet LAN\n- 2014-03-09 ★2 Blu-ray přehrávač Panasonic DMPBDT330 s Wi-Fi a upscalingem na 4K\n- 2014-03-22 ★5 Sada kondenzátorů Joe Knows Electronics 33 Value, 645 kusů\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Sada pájecího nářadí pro elektroniku s regulací teploty",
+      "Digitální multimetr pro měření součástek a obvodů",
+      "Propojovací vodiče a nepájivé kontaktní pole pro elektronické projekty"
+    ]
+  },
+  "held_out": "B001E1Y5O6"
+}

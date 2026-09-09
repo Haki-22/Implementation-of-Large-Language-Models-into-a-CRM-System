@@ -1,0 +1,40 @@
+{
+  "contact_id": 322,
+  "reviewer_id": "A3JUHP1E3WUHEA",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 67,
+  "reviews_used": 15,
+  "prompt_chars": 9708,
+  "status": "ok",
+  "seconds": 327.62,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.65,
+    "A": 3.95,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "This lens is beautifully sharp - absolutely no question as to it being an improvement of what was already a wonderful lens.",
+      "C": "My primary goal is that of transcribing a videotape collection now several decades old to DVD for better archival storage and ease of transport when moving.",
+      "E": "\"$500 for a Blu-ray player?\" my postal carrier asked as he delivered my Oppo BDP-103 earlier this month. But this is not your run-of-the-mill Blu-ray player, I said.",
+      "A": "Later, I invited him in to listen and watch.",
+      "N": "There were some minor glitches that were solved with the first firmware upgrade, already included on the release units."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.25,
+    "E": 3.65,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Later, I invited him in to listen and watch.",
+      "C": "My primary goal is that of transcribing a videotape collection now several decades old to DVD for better archival storage and ease of transport when moving.",
+      "E": "\"$500 for a Blu-ray player?\" my postal carrier asked as he delivered my Oppo BDP-103 earlier this month. But this is not your run-of-the-mill Blu-ray player, I said.",
+      "N": "There were some minor glitches that were solved with the first firmware upgrade, already included on the release units.",
+      "O": "This lens is beautifully sharp - absolutely no question as to it being an improvement of what was already a wonderful lens."
+    }
+  }
+}

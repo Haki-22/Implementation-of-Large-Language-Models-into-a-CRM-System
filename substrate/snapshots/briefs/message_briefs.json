@@ -1,0 +1,132 @@
+[
+  {
+    "title": "seasonal_sale_launch",
+    "category": "invitation",
+    "default_template": "💥 Výprodej startuje TEĎ ⏰!! Slevy až 50 % na stovky produktů — a zásoby? Tají před očima rychleji, než čekáte. Tohle je vaše šance konečně pořídit, co jste odkládali. Zlevněné kousky čekají přímo ve výprodejové sekci... ale ne dlouho. Každou hodinu zmizí ze skladu další kusy. Nakupujte dřív, než je pozdě! 👉 [Přejít do výprodeje]"
+  },
+  {
+    "title": "vip_event_invitation",
+    "category": "invitation",
+    "default_template": "✨ Výjimečná pozvánka! Blahopřejeme, nyní jste součástí naší VIP skupiny! Online akce — Ukázka nových produktů, nabídky výhradně pro účastníky a živý Q&A s experty. Datum, čas a přístupový odkaz dorazí obratem po registraci. Nezmeškejte to — tento večer nebude opakování. 👉 [Rezervovat místo hned]"
+  },
+  {
+    "title": "loyalty_tier_upgrade_nudge",
+    "category": "invitation",
+    "default_template": "🏆 Jste kousek od dalšího levelu! Pár kroků vás dělí od vyšší věrnostní úrovně s benefity, které stojí za to: větší slevy, prioritní podpora, přístup k nabídkám dřív než ostatní zákazníci. Každý nákup se počítá — a vy jste blíž, než si myslíte. Kolik vám zbývá? Mrkněte na svůj věrnostní účet a pak... nakupujte! Úroveň výš vás čeká. 💪 [Zobrazit můj pokrok a výhody]"
+  },
+  {
+    "title": "local_store_event",
+    "category": "invitation",
+    "default_template": "📅 Psst — dostali jste exkluzivní pozvánku! Chystáme speciální večer v naší prodejně jen pro vybrané zákazníky: preview novinek jako první, speciální slevy dostupné POUZE na místě a občerstvení na náš účet. Počet míst je přísně omezený — jakmile jsou pryč, jsou pryč. Potvrďte účast co nejdřív a zajistěte si místo. Detaily akce, datum a čas dorazí po registraci. Těšíme se! 👉 [Potvrdit účast]"
+  },
+  {
+    "title": "accessory_cross_sell",
+    "category": "upsell",
+    "default_template": "🛒 Máte to nejlepší — ale je to kompletní? K vašemu poslednímu nákupu existuje příslušenství, které ho posune na úplně jinou úroveň! Správné doplňky prodlužují životnost produktu, zvyšují výkon a zkrátka ze zakoupeného zboží vytáhnou absolutní maximum. Nepřicházejte o to, co jste si mohli mít od začátku. Prohlédněte si naši nabídku příslušenství — a uvidíte, co vám chybí. 👉 [Ukázat kompatibilní příslušenství]"
+  },
+  {
+    "title": "bundle_offer_promotion",
+    "category": "upsell",
+    "default_template": "💰 Tušíte, kolik ušetříte v balíčku? Výrazně víc, než si myslíte! Připravili jsme výhodnou sadu produktů — kompletní řešení za jednu skvělou cenu. Oproti samostatným nákupům to vychází znatelně levněji, dostanete vše najednou a ušetříte i čas. Ale pozor — tato nabídka platí jen po omezenou dobu a zásoby jsou limitované. Až zmizí, zmizí. Neváhejte! 👉 [Zobrazit balíček a ušetřit]"
+  },
+  {
+    "title": "premium_subscription_upgrade",
+    "category": "upsell",
+    "default_template": "🚀 Základní předplatné je fajn... ale prémiové? To je úplně jiný level! Žádné reklamy, prioritní zákaznická podpora, exkluzivní funkce, které základní verze prostě nemá. A teď jen pro vás: přechod na prémium se speciální slevou platnou pouze tento týden! Upgrade zabere 2 kliknutí — a výhody jsou okamžité, od první minuty. Proč čekat, když to může být takhle jednoduché? 👉 [Upgradovat na prémium teď]"
+  },
+  {
+    "title": "extended_warranty_nudge",
+    "category": "upsell",
+    "default_template": "⚠ Váš nový kousek je skvělý — ale co když se něco pokazí? Prodloužená záruka vás ochrání před nečekaným výdajem na opravu nebo výměnu a zajistí klidné používání bez starostí. Klid v duši za zlomek ceny produktu — jednoduchá matematika. Nabídka na prodloužení záruky platí jen po omezenou dobu od nákupu, takže nepromarněte svou šanci. 👉 [Prodloužit záruku hned]"
+  },
+  {
+    "title": "abandoned_cart_reminder",
+    "category": "followup",
+    "default_template": "🛒 Psst — vaše zboží v košíku na vás čeká. A není trpělivé! Vybrané položky jsou stále k dispozici, ale zásoby se hýbají rychle. Nestihněte moment, kdy zmizí — tohle se stává. Dokončete objednávku jedním kliknutím, vše je připravené přesně tak, jak jste to nechali. Máte dotazy nebo s výběrem pomůžeme? Napište nám, jsme tu pro vás! 👉 [Dokončit nákup]"
+  },
+  {
+    "title": "review_request_with_reward",
+    "category": "followup",
+    "default_template": "🎁 Jak se vám líbí Váš nový kousek? Ostatní zákazníci by to moc rádi věděli — a my taky! Napište krátkou recenzi: zabere to 2 minuty, pomůžete ostatním udělat správné rozhodnutí a jako poděkování od nás dostanete slevový kód na příští nákup. Opravdu rychlá a výhodná výměna: Kliknout, napsat, užít si slevu. 👉 [Napsat recenzi a získat odměnu]"
+  },
+  {
+    "title": "back_in_stock_alert",
+    "category": "followup",
+    "default_template": "📦 Je zpátky!! Produkt, který jste sledovali, je znova skladem — ale ne na dlouho. Zásoby jsou omezené a zájem přijde tentokrát ještě rychleji. Víte, jak to chodí: zmizí dřív, než stačíte mrknout podruhé. Tohle je vaše druhá šance — a pravděpodobně ta poslední. Neváhejte ani vteřinu! 👉 [Koupit teď, dokud to jde]"
+  },
+  {
+    "title": "inactive_customer_reactivation",
+    "category": "followup",
+    "default_template": "💡 Chybíte nám — opravdu! Mezitím co jste nebyli, přibyla spousta novinek a vylepšení, o kterých nevíte. A jsou tam věci, co by vás mohly hodně zajímat. Jako pozvánka zpět: speciální sleva platná jen pro vás a jen do konce tohoto týdne. Mrkněte, co přibylo — vsázíme se, že najdete něco, co vás zaujme. 👉 [Zpět do e-shopu a využít slevu]"
+  },
+  {
+    "title": "delivery_delay_apology",
+    "category": "followup",
+    "default_template": "Omlouváme se — vaše zásilka se opozdí a víme, že to není příjemné. Vlivem nečekaných okolností se doručení posunulo. Děkujeme za pochopení. Aktuální stav zásilky a nový předpokládaný termín doručení najdete níže. Jako kompenzaci za způsobené potíže pro vás máme připravenou slevu na příští objednávku. V případě dotazů jsme tu pro vás kdykoliv. 📬 [Sledovat zásilku]"
+  },
+  {
+    "title": "birthday_greeting_with_code",
+    "category": "other",
+    "default_template": "🎉 Dnes je váš den — a my vám přejeme to nejlepší! K narozeninám dostáváte od nás malý dárek: speciální slevový kód platný po celý váš narozeninový měsíc. Jděte si koupit něco, co vás potěší — máte to rozhodně zasloužené! Kód a podmínky najdete níže, žádné skryté háčky. 🥂 Ať vám to krásně šlape! 👉 [Uplatnit narozeninový kód]"
+  },
+  {
+    "title": "free_shipping_threshold_nudge",
+    "category": "other",
+    "default_template": "🚀 Doprava zdarma je na dosah! Přidejte do košíku zboží za pár korun navíc — a poštovné platíme my, ne vy! Prohlédněte si náš e-shop, určitě najdete něco, co stejně potřebujete nebo co jste odkládali. A místo peněz za poštovné si kupte radši něco hezkého pro sebe. 😉 Dokončete objednávku a ušetřete! 👉 [Doplnit košík a získat dopravu zdarma]"
+  },
+  {
+    "title": "educational_tip",
+    "category": "educational",
+    "default_template": "🍿 Sobotní tip jen pro vás! Věděli jste, že správnou péčí o své zboží můžete jeho životnost prodloužit o roky? Přinášíme vám praktický průvodce, jak ze svého nákupu vytěžit maximum — jednoduché triky, které fungují a které většina lidí přehlíží. Žádná zbytečná teorie, jen věci, které si vyzkoušíte hned dnes. Celý tip najdete na odkazu níže. Příjemné čtení! ✨ Číst tip →"
+  },
+  {
+    "title": "monthly_newsletter",
+    "category": "newsletter",
+    "default_template": "📅 Váš měsíční přehled je tady! Připravili jsme pro vás to nejlepší z posledních týdnů — novinky, které stojí za pozornost, akce, které se nevyplatí přehlédnout, a tipy, které vám usnadní výběr. Tento měsíc jsme přidali spoustu novinek do oblíbených kategorií a vypíchli to, co zákazníci nejčastěji chválí. Přehled najdete na odkazu níže — zabere vám to 3 minuty a možná najdete přesně to, co jste hledali. ✨ Číst přehled →"
+  },
+  {
+    "title": "delivery_action_required",
+    "category": "followup",
+    "default_template": "⚠ Akce nutná — vaše zásilka je v ohrožení! Při doručení nastal problém a bez vaší reakce bude zásilka vrácena zpět. Co dělat: 1. Zkontrolujte stav zásilky na odkazu níže. 2. Kontaktujte dopravce nebo nás přímo pro domluvu nového termínu. Máte čas do zítřka! Po tomto termínu zásilka automaticky putuje zpět a musíme řešit nové doručení. Jednejte rychle — jsme tu, abychom pomohli. 📦 Zkontrolovat zásilku →"
+  },
+  {
+    "title": "onboarding_welcome",
+    "category": "onboarding",
+    "default_template": "🎉 Vítejte! Jsme rádi, že jste tady. Váš účet je aktivní a teď přichází ta lepší část — nakupování! Abyste začali co nejlépe: prozkoumejte naše aktuální nabídky, přidejte si oblíbené produkty do wishlistu a sledujte náš věrnostní program — každý nákup se počítá. Jako uvítací bonus máme pro vás speciální nabídku na první objednávku. Podrobnosti najdete na odkazu níže. Začněme! 🛒 Prozkoumat e-shop →"
+  },
+  {
+    "title": "onboarding_first_purchase",
+    "category": "onboarding",
+    "default_template": "✨ Váš první nákup je na cestě — a jsme nadšeni! Děkujeme, že jste si vybrali nás. Vaše objednávka je zpracována a brzy dorazí. Mezitím: sledujte stav zásilky přes odkaz v potvrzovacím e-mailu, přidejte se k věrnostnímu programu a sbírejte body od prvního nákupu. Po doručení budeme rádi za vaši zpětnou vazbu — pomůžete tím dalším zákazníkům. Kdykoli potřebujete pomoc, jsme tu! 📦 Sledovat zásilku →"
+  },
+  {
+    "title": "urgency_last_chance_sale",
+    "category": "invitation",
+    "default_template": "⏰ Poslední šance! Výprodej končí dnes o půlnoci a slevy jsou na historickém maximu. Až 60 % dolů na stovky produktů — ale za pár hodin je konec. Jste rozhodnutí? Ušetřete, dokud to jde! 🔥 Nakoupit ještě dnes → "
+  },
+  {
+    "title": "contest_engagement",
+    "category": "engagement",
+    "default_template": "🏆 Soutěž je tu a výhra stojí za to! Zapojte se do naší aktuální soutěže — pravidla jsou jednoduchá, výhra je reálná a šance se otevírá každému, kdo se přihlásí. Co hrajete o? Podívejte se na odkaz níže — nechcete to přehlédnout. Ostatní zákazníci se přihlašují právě teď... Soutěž trvá jen omezenou dobu a místa nejsou nekonečná. Jste hráči? 🎲 Chci se zapojit →"
+  },
+  {
+    "title": "usage_insight_nudge",
+    "category": "engagement",
+    "default_template": "🔍 Tušíte, co vám zatím uniklo? Podívali jsme se na váš účet a zjistili jsme, že existuje benefit, který jste ještě nevyužili — a přitom by vám mohl ušetřit peníze nebo usnadnit příští nákup. Nejde o žádný trik, jen o funkci, o které spousta zákazníků neví. Chcete vědět, o co jde? Celé vysvětlení najdete na odkazu níže — zabere to 2 minuty. 💡 Zjistit víc →"
+  },
+  {
+    "title": "gift_ready_pickup",
+    "category": "other",
+    "default_template": "🎁 Váš dárek na vás čeká! Připravili jsme pro vás bonus, který si zasloužíte — a je připraven k vyzvednutí právě teď. Jak na to? Stačí kliknout na odkaz níže a postupovat podle pokynů. Platnost tohoto bonusu je omezená, takže nečekejte na někdy příště... Toto je váš — stačí si pro to sáhnout. Jdeme na to! ✨ Vyzvednout dárek →"
+  },
+  {
+    "title": "anniversary_purchase",
+    "category": "other",
+    "default_template": "🎉 Rok je za námi — a jsme rádi, že jste s námi! Přesně před rokem jste u nás nakoupili poprvé a od té doby jste součástí naší komunity. Za věrnost si zasloužíte víc než jen díky — připravili jsme pro vás výroční nabídku, která platí jen tento týden. Kolik toho za rok přibylo? Podívejte se a oslavte to s námi. 🥂 Výroční nabídka →"
+  },
+  {
+    "title": "personal_recommendation",
+    "category": "upsell",
+    "default_template": "✨ Mohlo by vás také zajímat: Vybrané produkty se slevou jenom pro Vás! 👀 👉 [Zobrazit doporučené produkty]"
+  }
+]

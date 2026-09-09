@@ -1,0 +1,165 @@
+{
+  "run_dir": "2026-09-07-outputs-for-uc01-codex-gpt-5.5-low-2-contacts",
+  "date": "2026-09-07",
+  "rule": "model-written prose (recommendation reasons, persona, aspects) for the linked contacts of UC-01's pick reading-16, in contact-id order; classical fields (interest topics, lifecycle stage) for every linked contact; recommendations = ALS collaborative filtering over the whole purchase history, top K unbought products",
+  "pick": "reading-16",
+  "prose_contacts": [
+    2,
+    3
+  ],
+  "limit": 2,
+  "top_k": 3,
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.152.1",
+  "concurrency": 4,
+  "prompt_version": "1.0.0",
+  "prompts": {
+    "reasons": "Jsi copywriter českého e-shopu s elektronikou a příslušenstvím. Dostaneš nákupní historii jednoho zákazníka (každý řádek má identifikátor H01, H02 …, datum, hodnocení hvězdičkami a název produktu) a jeden doporučený produkt. Napiš jednu českou větu, proč právě tento produkt právě tomuto zákazníkovi: opři ji o konkrétní nákupy z historie (značka, typ produktu, doplněk k něčemu, co už má).\n\nPravidla: nejvýš 30 slov; třetí osoba nebo neosobní tvar, bez oslovení (oslovení a vykání řeší jiná část systému); bez reklamních frází (žádné „skvělý“, „nepřekonatelný“, „nezmeškejte“); nic si nevymýšlej, uveď jen to, co historie nese.\n\nVrať pouze JSON podle schématu: {\"reason\": \"<věta>\", \"evidence_ids\": [\"<H..>\", ...]} s jedním až třemi identifikátory nákupů, o které se věta opírá.\n\nPříklad. Historie: H01 2013-02-11 ★4 USB zesilovač FiiO E10; H02 2013-01-04 ★5 Sluchátka Sony MDR-7506. Doporučený produkt: Redukce 3,5 mm na 6,3 mm jack. Odpověď: {\"reason\": \"Redukce doplní sluchátka Sony MDR-7506 a zesilovač FiiO E10, takže je půjde zapojit i do zařízení s velkým jackem.\", \"evidence_ids\": [\"H02\", \"H01\"]}",
+    "persona": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+    "aspects": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}."
+  },
+  "schemas": {
+    "reasons": {
+      "type": "object",
+      "properties": {
+        "reason": {
+          "type": "string",
+          "maxLength": 240
+        },
+        "evidence_ids": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 3,
+          "items": {
+            "type": "string",
+            "pattern": "^H[0-9]{2,3}$"
+          }
+        }
+      },
+      "required": [
+        "reason",
+        "evidence_ids"
+      ],
+      "additionalProperties": false
+    },
+    "persona": {
+      "type": "object",
+      "properties": {
+        "label": {
+          "type": "string",
+          "maxLength": 60
+        },
+        "narrative_cs": {
+          "type": "string",
+          "maxLength": 400
+        },
+        "tags": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 5,
+          "items": {
+            "type": "string",
+            "maxLength": 30
+          }
+        },
+        "price_segment": {
+          "type": "string",
+          "enum": [
+            "budget",
+            "mid",
+            "premium",
+            "mixed"
+          ]
+        }
+      },
+      "required": [
+        "label",
+        "narrative_cs",
+        "tags",
+        "price_segment"
+      ],
+      "additionalProperties": false
+    },
+    "aspects": {
+      "type": "object",
+      "properties": {
+        "aspects": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 5,
+          "items": {
+            "type": "object",
+            "properties": {
+              "aspect": {
+                "type": "string",
+                "maxLength": 40
+              },
+              "sentiment": {
+                "type": "string",
+                "enum": [
+                  "positive",
+                  "negative",
+                  "neutral",
+                  "mixed"
+                ]
+              },
+              "evidence": {
+                "type": "string",
+                "maxLength": 300
+              }
+            },
+            "required": [
+              "aspect",
+              "sentiment",
+              "evidence"
+            ],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": [
+        "aspects"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "caps": {
+    "history_purchases": 40,
+    "review_chars": 8000,
+    "persona_reviews": 5
+  },
+  "topics": {
+    "method": "lda",
+    "n_topics": 30,
+    "per_customer": 5
+  },
+  "database": {
+    "file": "substrate/snapshots/substrate.db",
+    "sha256": "829ee0499dae88ac66bb7f7e61347233de947d7cf86758da6a76fbbf3e8a1979",
+    "customers": 425,
+    "groups": {
+      "A": 300,
+      "B": 50,
+      "C": 75
+    },
+    "catalogue_items": 18213,
+    "reviews_in_histories": 45951
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "implicit": "0.7.3",
+      "scipy": "1.14.1",
+      "scikit-learn": "1.8.0",
+      "lightgbm": "4.6.0",
+      "mlxtend": "0.24.0",
+      "rank_bm25": "0.2.2",
+      "sentence_transformers": "5.5.1",
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "simplemma": "1.1.2"
+    }
+  }
+}

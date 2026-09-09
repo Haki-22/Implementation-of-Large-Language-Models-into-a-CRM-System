@@ -1,0 +1,40 @@
+{
+  "contact_id": 216,
+  "reviewer_id": "A2JP9E1H0SF392",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 9228,
+  "status": "ok",
+  "seconds": 804.44,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.25,
+    "A": 3.7,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "All sound just great and dandy through the NuForce and you can really tell the sonic differences between them.",
+      "C": "Application is critical. Take your time, make sure the screen is clean and dust free (compressed air is your friend).",
+      "E": "DO NOT buy no name batteries on ebay. They do not last worth a darn and are basically a waste of money! Don't do it...",
+      "A": "I am puzzled and confused by the Amazon reviews, which I have come to trust on most products.",
+      "N": "it is possible to strip the threads--I did it and glad I ordered a few of these for future projects."
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 4.2,
+    "E": 3.25,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I am puzzled and confused by the Amazon reviews, which I have come to trust on most products.",
+      "C": "Application is critical. Take your time, make sure the screen is clean and dust free (compressed air is your friend).",
+      "E": "DO NOT buy no name batteries on ebay. They do not last worth a darn and are basically a waste of money! Don't do it...",
+      "N": "it is possible to strip the threads--I did it and glad I ordered a few of these for future projects.",
+      "O": "All sound just great and dandy through the NuForce and you can really tell the sonic differences between them."
+    }
+  }
+}

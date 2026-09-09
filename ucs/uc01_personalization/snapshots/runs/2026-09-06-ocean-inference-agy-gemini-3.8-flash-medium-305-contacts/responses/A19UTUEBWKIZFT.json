@@ -1,0 +1,40 @@
+{
+  "contact_id": 194,
+  "reviewer_id": "A19UTUEBWKIZFT",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 97,
+  "reviews_used": 15,
+  "prompt_chars": 9601,
+  "status": "ok",
+  "seconds": 725.76,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.95,
+    "E": 3.45,
+    "A": 3.85,
+    "N": 2.55,
+    "evidence_quotes": {
+      "O": "Brainwavz M2 In-Ear Headphones have given me a new appreciation for my music. I have a huge collection of songs, both old and new, on iTunes.",
+      "C": "I've checked the photos this produces over with a magnifying glass, and they are extremely sharp and crisp, with great color.",
+      "E": "I put this to the test for hours last night on Skype. No longer did people say that at times they couldn't hear me, or understand what I was saying.",
+      "A": "I'm not sure if the Pavilion is a separate division of HP or not, but it's a name I know and trust.",
+      "N": "at first I was so annoyed with the thickness and weight I considered knocking off a star for this."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 3.95,
+    "E": 3.45,
+    "N": 2.55,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I'm not sure if the Pavilion is a separate division of HP or not, but it's a name I know and trust.",
+      "C": "I've checked the photos this produces over with a magnifying glass, and they are extremely sharp and crisp, with great color.",
+      "E": "I put this to the test for hours last night on Skype. No longer did people say that at times they couldn't hear me, or understand what I was saying.",
+      "N": "at first I was so annoyed with the thickness and weight I considered knocking off a star for this.",
+      "O": "Brainwavz M2 In-Ear Headphones have given me a new appreciation for my music. I have a huge collection of songs, both old and new, on iTunes."
+    }
+  }
+}

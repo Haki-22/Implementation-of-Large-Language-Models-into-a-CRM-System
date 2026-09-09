@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "2",
+  "status": "ok",
+  "seconds": 8.72,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "přenosnost",
+        "sentiment": "positive",
+        "evidence": "Miluji jeho přenosnost."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Tato palubní kamera se používá nejsnadněji."
+      },
+      {
+        "aspect": "výdrž baterie",
+        "sentiment": "negative",
+        "evidence": "Palubní kamera má baterii, ale dlouho nevydrží."
+      },
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Reproduktor Mocreo je jeden skvělý reproduktor."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Jediné, s čím si nerozumí, je můj Logitech Universal Receiver."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-2 (anonymizován).\nRecenze (255, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nPřenosný 4portový USB 2.0 Hub Sabrent (kabel 9,5\") pro Ultra Book, MacBook Air, tablet s Windows 8 (HB-MCRM): Malý USB Hub funguje skvěle Tenhle Sabrent hub je maličký. Čtyři porty v něčem, co vypadá, jako bych ulomil kus Kit Katu. Nemůžu uvěřit, že ho dokážou tak zmenšit. Má krátký kabel a je napájen ze sběrnice. To znamená, že využívá napájení z USB portu. Pokud máte zařízení, která spotřebovávají hodně energie, mohlo by to hub zahltit. Momentálně k němu mám připojenou čtečku karet, Bluetooth dongle, mikrofon a čtečku otisků prstů a to všechno najednou zvládá bez problémů. Jediné, s čím si nerozumí, je můj Logitech Universal Receiver. Ta věc je dost vybíravá, takže mě to nepřekvapuje. Miluji jeho přenosnost. Nezabírá žádné místo a skoro nic neváží. Díky tomu je ideální pro notebooky a netbooky. Momentálně ho používám na svém PC s Windows 7, ale pro stolní počítače preferuji něco s delším kabelem. Tento produkt byl poskytnut k recenzi společností Sabrent.\nDB POWER HD 720P X2 Duální objektiv Automobilová kamera Videorekordér DVR G-senzor: Ve srovnání se dvěma jinými palubními kamerami Tohle je moje třetí palubní kamera. Myslím, že už vím, co od palubní kamery chci a co ne. Tato kamera v sobě spojuje některé z funkcí, které se mi líbí u předchozích dvou kamer. Vzal jsem si ji na dvoutýdenní výlet a fungovala velmi dobře.MONTÁŽTato palubní kamera je montována s přísavkou, na rozdíl od mé předchozí kamery, která se montovala na zpětné zrcátko. Dávám přednost palubním kamerám montovaným s přísavkou, protože kamera montovaná na zrcátko blokuje video z couvací kamery.Montáž na čelní sklo mi vůbec nebrání ve výhledu, protože ji montuji za zpětné zrcátko. Mám ji namontovanou na čelním skle už pár týdnů v horkých teplotách a přísavka mě zatím nezklamala.NAPÁJENÍPalubní kamera má baterii, ale dlouho nevydrží. Nabil jsem ji a vydržela mi, když jsem jel do školy k dceři, a vypnula se, když jsem se vracel domů. Řekl bych, že to trvalo asi patnáct minut.Místo toho používám mini USB kabel a zapojuji ho do USB nabíječky do auta. To, že mi při řízení visí kabel, vůbec neruší. Myslel jsem, že to tak bude u mé první palubní kamery, ale nechal jsem ho viset a je to v pohodě. Dělám to se všemi svými palubními kamerami. Díky tomu se nikdy nemusím starat o zapínání a vypínání palubní kamery, protože se zapíná a vypíná automaticky. Také to znamená, že se nemusím starat o nabíjení palubní kamery.DISPLEJNe všechny palubní kamery jsou vybaveny displejem. Moje první palubní kamera ho neměla a bylo otravné muset vyjmout paměťovou kartu a zkontrolovat, co se nahrává. Tato má displej, který přesně ukazuje, co se nahrává. Můžu si prohlížet videa a programovat palubní kameru, aniž bych musel kameru vyjmout z auta nebo vyjmout paměťovou kartu.NASTAVENÍMoje první palubní kamera vyžadovala vyjmutí paměťové karty a změnu nastavení pomocí softwaru nainstalovaného v počítači. Moje druhá palubní kamera se dala přizpůsobit pomocí displeje, ale bylo těžké se ji naučit používat. Tato palubní kamera se používá nejsnadněji. Změna nastavení se provádí pomocí displeje a je zcela intuitivní. Nemusel jsem číst návod, kromě toho, abych zjistil, jak vybrat možnost. Pro vaši informaci, jakmile si vyberete, stiskněte tlačítko nad fotoaparátem, jako byste fotili, abyste dokončili nastavení.CO CHYBÍTato palubní kamera má širokoúhlý objektiv. Všechny ho mají, ale dokáže zachytit pouze jedním směrem. Moje druhá palubní kamera měla dvě kamery, které se daly nastavit o 360 stupňů kolem auta.Moje první palubní kamera nejen nahrávala video, ale měla také GPS, které zobrazovalo směr, rychlost a polohu na mapě, která se dala přehrát vedle videa. Ne tato palubní kamera.CO NEMAJÍ DALŠÍ DVĚTato palubní kamera má být schopna nahrávat video, pokud do auta narazí, když je zaparkované a já jsem pryč. Naštěstí jsem nemusel zkoušet, jestli to funguje. Doufám, že až přijde čas, bude to fungovat. Tohle je jediná, kterou jsem vlastnil, která tohle tvrdí.CELKOVÝ DOJEMJe to nejlepší z mých tří palubních kamer. Má displej, neblokuje mi couvací kameru a snadno se programuje. Dávám přednost přísavnému držáku s gelovou podložkou, ale tenhle zatím drží pevně. Vydržel. Tento produkt byl poskytnut k recenzi uživatelem Bravolink.\nMOCREO® Voděodolný přenosný bezdrátový Bluetooth reproduktor pro vnitřní i venkovní použití Ultra mini s duálními reproduktory / dobíjecí vestavěnou baterií / TF kartou Podpora pro iPhone, iPod, Samsung Galaxy S3/S4/S5 a další Bluetooth zařízení, MP3 přehrávače - MOSOUND Bar (bílý): Skvělé pro táborníky Reproduktor Mocreo je jeden skvělý reproduktor. Je nejen odolný a vodotěsný, ale také vydává robustní zvuk, který dokáže zaplnit celou místnost. A co kvalita Bluetooth? Vynikající. Snadno se spároval s mým HTC One a automaticky se znovu připojí. Dosah je přesně to, co od Bluetooth reproduktoru očekávám. Můžu jít o dvě místnosti dál a stále jsem připojen. Líbí se mi extra velká tlačítka hlasitosti. Musel bych být slepý, abych si toho nevšiml, ale přitom to není nijak křiklavé. Dal jsem si ho do sprchy. Cákala na něj voda, kapala na něj mýdlová pěna a já ho smyl. Hrál dál a stále funguje. Žádný problém. Shodou okolností mi matka volala, zatímco hrála hudba. Zvedl jsem to, ale hovor nedopadl dobře. Zdálo se, že mě neslyší, a vím, že jsem jí dobře nerozuměl. Touto cestou bych se vydal jen v případě nouze a z nějakého důvodu bych neměl jinou možnost. Telefonní hovory jsou nepřípustné. Dnes jsem vyzkoušel pomocný port s projektorem. Ten malý projektor má tak slabý zvuk. Mocreo mi pomohl vdechnout život mým videím. A konečně, je tu TF port pro micro SD karty. Bohužel momentálně nemám k dispozici žádný, abych ho mohl otestovat, ale jsem rád, že ho mám. Tento reproduktor je dostatečně malý na cesty venku, ale zároveň dostatečně velký na to, aby poskytoval slušný zvuk. Hodil by se do karavanu na kempování. Tento produkt poskytl k recenzi Mocreo.\nMipow Power 5200mAh Simple Tube Phone Charger - Black: Spousta síly Powerbanka Mipow umí opravdu pořádně zabrat! Dokáže můj HTC One plně nabít a ještě něco navíc. Líbí se mi integrovaný kabel, který lze použít jak k nabíjení mých zařízení, tak k dobíjení samotné powerbanky. Měl jsem powerbanku i bez kabelu. Věřte mi, je to na nic. Je to krátký kabel. Pokud potřebujete delší (nebo vaše zařízení používá jiný konektor než micro USB), je k dispozici USB port. Mohu nabíjet dvě zařízení najednou, a to jak integrovaným kabelem, tak USB portem. Včera mi nabila iPhone a tablet Kindle Fire HD 8,9\". Součástí balení je také pouzdro se stahovací šňůrkou a prodlužovací USB kabel, pro případ, že byste potřebovali delší kabel k nabití powerbanky. Je to skvělá sada, spousta energie v přenosném balení, bez magnetu na otisky prstů, výstup 2,1 ampéru. Co se na ní nezalíbit? Tento produkt byl poskytnut k recenzi společností Mipow.\nSatechi Spectrum Mouse Wired Optical Mouse (Silver): Pro leváky i praváky To je ale roztomilá malá myš. Je podsvícená, ve tmě prakticky svítí a plynule mění barvy. Pokud to není to, co chcete, žádný problém. Můžeme si vybrat, zda ji ponechat v jedné barvě, nebo ji vypnout (kryt je stříbrný). Myš je plastová, působí trochu levně. S rozsvíceným světlem mi vlastně nevadí, jak se na ní cítíte, protože vypadá tak skvěle. Líbí se mi, jak padne do oblouku mé ruky. Je pro leváky i praváky. Ovládání je dobré, jakmile jsem ve Windows přešel do ovládacího panelu a hodně ji zpomalil. Nezkoušejte to na portu USB 3.0. Pro mě to bylo moc skákavé (spousta mých myší se na tomto portu chová takhle). Tento produkt poskytl k recenzi Satechi.\nPřenosná grafická podpisová podložka s podporou 4000 lpi, 200 ot./s s digitálním bezdrátovým snímacím perem, skvělá pro elektronický podpis, anotaci atd.: Pro více než jen podpisy Tento tablet měří 6 7/8\" x 4 3/8\" s psací plochou 5\" x 4 3/8\". Mám větší tablet (10\" x 6\"), takže jsem čekal, že na něm budu trochu stísněný, ale vůbec ne. Myslel jsem, že ho můžu používat jen na podepisování, ale no nic. Dá se použít k mnohem víc. I když je malý, používal j\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "přenosnost",
+        "sentiment": "positive",
+        "evidence": "Miluji jeho přenosnost."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Tato palubní kamera se používá nejsnadněji."
+      },
+      {
+        "aspect": "výdrž baterie",
+        "sentiment": "negative",
+        "evidence": "Palubní kamera má baterii, ale dlouho nevydrží."
+      },
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Reproduktor Mocreo je jeden skvělý reproduktor."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Jediné, s čím si nerozumí, je můj Logitech Universal Receiver."
+      }
+    ]
+  }
+}

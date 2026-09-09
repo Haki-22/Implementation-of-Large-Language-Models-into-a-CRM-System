@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "377",
+  "status": "ok",
+  "seconds": 15.48,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "rychlost",
+        "sentiment": "mixed",
+        "evidence": "Můj počítač, který je připojen přes Ethernet, běžel během mé služby neuvěřitelně rychle (SpeakEasy ho naměřil na necelých 50 MB/s), ale všechno ostatní bylo děsně pomalé."
+      },
+      {
+        "aspect": "připojení",
+        "sentiment": "negative",
+        "evidence": "Můj Playstation 3 s ním prostě nefungoval."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Nastavení bylo překvapivě snadné a jsem si jistý, že i ti, kteří nejsou technicky zdatní, si s ním poradí bez větších problémů."
+      },
+      {
+        "aspect": "kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "A co kvalita zvuku?"
+      },
+      {
+        "aspect": "funkce",
+        "sentiment": "positive",
+        "evidence": "Tento receiver má spoustu vychytávek, které mi chyběly."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-377 (anonymizován).\nRecenze (44, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nD-Link Wireless AC Gaming Router - 1300Mbps, Dual-Band, Gigabit, StreamBoost traffic shaping (DGL-5500): Překvapivě špatné V průběhu let jsem vystřídal tolik routerů, ať už šlo o upgrady, recenze nebo náhrady, že jsem vyzkoušel většinu hlavních značek, jako jsou D-Link, Linksys/Cisco a Netgear. V posledním roce jsem dokonce vyzkoušel novější možnosti od všech tří hlavních značek a nejvíce mě překvapil Linksys EA4500, který nabízel ohromující rychlosti bez jakýchkoli problémů s připojením. Ale v průběhu let jsem se stal největším fanouškem D-Linku pro jeho spolehlivost, snadnou použitelnost a rychlost. Když mi byl nabídnut tento nový router, který vypadá velmi zajímavě (a připomíná mi nově přepracovaný Mac Pro od Applu), rychle jsem se této příležitosti chopil, protože D-Link byl pro mě historicky nejlepší značkou routerů a vždy byl super spolehlivý. Byl jsem připraven napsat jednoduchou recenzi, ve které bych se vyjádřil, jak tento router disponuje technologií zvanou „StreamBoost“, která má za cíl sdružovat zařízení aktuálně používající váš router do stohů a posouvat větší šířku pásma a rychlosti k těm, která považujete vy a ona za důležitější. Teoreticky je to úžasné. Ale u mě to nefungovalo a ve skutečnosti to způsobovalo, že se mi streamovaná videa – se kterými jsem nikdy neměl problém od samého začátku prvního desetiletí 21. století – pozastavovala. Ne jednou ani dvakrát. Ale muselo se to načítat do vyrovnávací paměti každých 30 sekund. Ukázalo se, že to byl ten nejmenší z mých problémů. Můj Playstation 3 s ním prostě nefungoval. Připojil se k němu a streamoval na můj PS3 dostatečně dlouho, aby rozpoznal, že je online. Ale když testoval připojení, hlásil jen selhání. Sledování videa na Amazonu nebo Hulu Plus snížilo kvalitu obrazu na tu, kterou si pamatuji, když Netflix poprvé ponořil do online streamování... A načítalo se to každých 20-30 sekund. Bylo to špatné. Nedalo se to sledovat. Také jsem si všiml, že když jsem se snažil streamovat na dvou zařízeních najednou (streamovat na Roku a surfovat po webu na iPhonu), telefon nenačítal data z routeru. Nakonec jsem si snížil zabezpečení připojení na WEP a na mém Roku to trochu pomohlo, ale moje PS3 se prostě vůbec nepřipojila. Nastavení bylo překvapivě snadné a jsem si jistý, že i ti, kteří nejsou technicky zdatní, si s ním poradí bez větších problémů. Můj počítač, který je připojen přes Ethernet, běžel během mé služby neuvěřitelně rychle (SpeakEasy ho naměřil na necelých 50 MB/s), ale všechno ostatní bylo děsně pomalé. Můj iPhone, když se připojil, testoval rychlost na méně než 1 MB/s. Toto zařízení, které se prodává jako herní router, jenž má údajně „upravit“ vaše připojení tak, abyste měli co nejvyšší rychlost tam, kde je to potřeba, nic z toho neudělalo. Je to opravdu škoda, protože jsem fanouškem D-Linku už léta. Nakonec jsem svůj Linksys EA4500 znovu zapojil.\nSony STR-DN840 7.2kanálový 1050wattový A/V receiver (černý): Překvapený a nadšený z mého návratu k Sony Vždycky jsem si užíval používání receiverů Sony. Můj úplně první výlet do světa receiverů byl s receiverem Sony 5.1 na začátku roku 2000, kdy jsem nevěděl, co je optický kabel, ani že ho mám používat pro prostorový zvuk. Tehdy jsem věděl jen, že je na něm uvedeno 5.1, a dál jsem používal červenobíložluté kabely (ani jsem neznal název, RCA). Od té doby se technologie změnila a změnily se i mé znalosti o technologiích. S příchodem HDMI už můj starý receiver nebyl užitečný. A s touto změnou se do popředí dostala spousta nových názvů a formátů (TrueHD, LPCM, dts-HD atd.), které všechny mátly. V té době jsem si vybral systém Onkyo 5.1, který měl 3D passthrough, podporoval nové zvukové kodeky a nesmírně jsem si ho užíval, i když některá jeho terminologie vyžadovala spoustu googlování, abych pochopil nejednoznačné nastavení zvuku. Už nějakou dobu jsem zvažoval upgrade na systém se 7 reproduktory, čistě ze zvědavosti. Takže když jsem dostal možnost zrecenzovat Sony DN840, musel jsem se této šance chopit nejen v oblasti reproduktorů a možností, ale také abych zjistil, jak si Sony vede v oblasti receiverů od mého prvního nákupu v roce 2000. Můj Onkyo byl docela jednoduchý přístroj (v té době stál kolem 250-300 dolarů), takže neměl některé novější funkce, jako je Wi-Fi nebo Bluetooth, a na AirPlay jsem úplně zapomněl. Chtěl jsem ho hlavně proto, že měl dobré recenze, HDMI porty a měl 3D. passthrough, takže byl „připravený na budoucnost“ s 3D. Novým moderním slovem je samozřejmě 4K, co se týče čistoty videa. Což mě přivádí k Sony DN840. Tento receiver má spoustu vychytávek, které mi chyběly. Líbí se mi, že má vestavěné Wi-Fi a můžu využívat AirPlay z mého počítače nebo iPhonu pro streamování hudby. Je to příjemná funkce. Vím, že se žádá příliš mnoho, ale kdyby měl funkci videa pro AirPlay, bylo by to úžasné. V současné době je možnost streamovat Spotify do tohoto receiveru skvělá pro večírky. Má 4K passthrough, což pro většinu lidí pravděpodobně nic neznamená. Je to dobrá funkce, kterou u receiveru hledat, pokud si chcete koupit jeden receiver a (pravděpodobně... doufejme) se nemuseli starat o budoucí obsah. Je to dobré prozatím, s 3D passthrough, a až 4K televizory klesnou ze svých absurdních cen a stanou se tak hojnými jako nyní 1080p televizory, bude to dobrá funkce. Mít. 6 HDMI vstupů je skvělé, protože počet zařízení, která je vyžadují, se zvýšil (PS3, Xbox, Wii U, DVR zabíraly všechny mé vstupy na mém Onkyo receiveru). A co kvalita zvuku? Jsem z tohoto receiveru opravdu ohromen. Musel jsem si koupit dva nové reproduktory, abych z něj vytěžil maximum, a plánuji nakonec vyměnit všechny své levné reproduktory, které jsem dostal, když jsem si koupil svůj první balený systém s receiverem Sony. Ale i s mými levnými reproduktory už cítím rozdíl. Systém se 7 reproduktory vás lépe obklopí filmem/hrou, kterou hrajete. Je důležité si uvědomit, že s velkým množstvím online obsahu nezískáte plný 7kanálový zážitek. Většina (ne-li všechny) online video služeb, jako jsou Amazon a Netflix, teprve nedávno přešla na 5.1 prostorový zvuk. Takže největším důvodem pro 7kanálový systém je sledování filmů na Blu-ray, kde jsou speciálně navrženy pro tento typ zvuku. Pokud vás zajímá, proč je to 7.2 místo 7.1, tak to 0.2 znamená, že se můžete připojit... druhý subwoofer. Můj jeden subwoofer je pro basy docela dost, ale pokud byste si vytvářeli domácí kino, dokázal bych si představit, že by se mohlo vyplatit použít další subwoofer. A pokud upgradujete ze staršího modelu, jako jsem to udělal já se svým Onkyem, připravte se na koupi banánkových zástrček. Když jsem upgradoval na svůj Onkyo, neměl jsem tušení, že existují, a po otevření krabice jsem byl překvapen (nedíval jsem se dostatečně pozorně na připojení reproduktorů). Takže bych doporučil nějaké pořídit. Měl jsem štěstí s banánkovými zástrčkami Sewell Direct SW-29863-12 Deadbolt, 12 párů, a doporučil bych je. Byly snadno použitelné a fungovaly perfektně. Celkově jsem byl ze systému Sony ohromen. Má spoustu vychytávek a v tuto chvíli je docela připraven na budoucnost s 3D a 4K pass-through. Má výkon 150 wattů, což je slušný výkon, a kvalita zvuku je stejně dobrá jako u ostatních posvátných zvukových receiverů, které jsem vyzkoušel. Za ty peníze, Řekl bych, že je to skvělá hodnota.\nHerní klávesnice Logitech G19s s barevným herním panelem: Stále skvělá klávesnice... ale ne velké osvěžení Už léta jsem fanouškem klávesnic Logitech. Zdá se, že nabízejí nejvíce funkcí za ty peníze a i když jsem viděl spoustu recenzí kritizujících jejich kvalitu zpracování, nikdy jsem s žádnou z nich neměl žádný problém. Používal jsem prakticky všechny nedávné modely, včetně původní G19, mechanické G710+ a méně kvalitních G510. Tato konkrétní klávesnice je modernizací modelu G19 z roku 2009 a upřímně řečeno, je to jedna ze slabších verzí, které jsem od Logitechu viděl. Na první pohled je jediným znatelným rozdílem barva, která je nyní metalicky modrá na rozdíl od čistě černé. LCD obrazovka je zřejmě kvalitnější a nerozbíjí se. Neuvědomil\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "rychlost",
+        "sentiment": "mixed",
+        "evidence": "Můj počítač, který je připojen přes Ethernet, běžel během mé služby neuvěřitelně rychle (SpeakEasy ho naměřil na necelých 50 MB/s), ale všechno ostatní bylo děsně pomalé."
+      },
+      {
+        "aspect": "připojení",
+        "sentiment": "negative",
+        "evidence": "Můj Playstation 3 s ním prostě nefungoval."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Nastavení bylo překvapivě snadné a jsem si jistý, že i ti, kteří nejsou technicky zdatní, si s ním poradí bez větších problémů."
+      },
+      {
+        "aspect": "kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "A co kvalita zvuku?"
+      },
+      {
+        "aspect": "funkce",
+        "sentiment": "positive",
+        "evidence": "Tento receiver má spoustu vychytávek, které mi chyběly."
+      }
+    ]
+  }
+}

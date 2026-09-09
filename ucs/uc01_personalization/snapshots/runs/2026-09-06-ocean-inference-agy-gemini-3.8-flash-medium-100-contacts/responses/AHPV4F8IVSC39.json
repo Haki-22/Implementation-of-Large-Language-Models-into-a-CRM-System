@@ -1,0 +1,40 @@
+{
+  "contact_id": 327,
+  "reviewer_id": "AHPV4F8IVSC39",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 28,
+  "reviews_used": 15,
+  "prompt_chars": 10306,
+  "status": "ok",
+  "seconds": 345.43,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.65,
+    "E": 2.95,
+    "A": 3.25,
+    "N": 3.4,
+    "evidence_quotes": {
+      "O": "I was intrigued by the unconventional layout to reduce noise and improve cooling.",
+      "C": "pin 1&2: power (5V); pin 3&4: Data-; pin 5&6: Data+; pin 7&8: Ground; pin 9: Key (blocked to ensure proper orientation); pin 10: unused.",
+      "E": "Background: I am a techie who helped neighbors install converters. I evaluated this product and the Digital Stream DTX9950 for them.",
+      "A": "some of those reviewers selected this to evaluate without comprehending what they were ordering and then gave the product bad reviews because of _their_ mistake",
+      "N": "my concerns about its security caused me leave my previous router between it and the Internet."
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.65,
+    "E": 2.95,
+    "N": 3.4,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "some of those reviewers selected this to evaluate without comprehending what they were ordering and then gave the product bad reviews because of _their_ mistake",
+      "C": "pin 1&2: power (5V); pin 3&4: Data-; pin 5&6: Data+; pin 7&8: Ground; pin 9: Key (blocked to ensure proper orientation); pin 10: unused.",
+      "E": "Background: I am a techie who helped neighbors install converters. I evaluated this product and the Digital Stream DTX9950 for them.",
+      "N": "my concerns about its security caused me leave my previous router between it and the Internet.",
+      "O": "I was intrigued by the unconventional layout to reduce noise and improve cooling."
+    }
+  }
+}

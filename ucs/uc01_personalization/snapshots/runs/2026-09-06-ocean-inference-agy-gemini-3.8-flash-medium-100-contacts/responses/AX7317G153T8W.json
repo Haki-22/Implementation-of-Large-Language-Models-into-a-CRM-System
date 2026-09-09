@@ -1,0 +1,40 @@
+{
+  "contact_id": 197,
+  "reviewer_id": "AX7317G153T8W",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 105,
+  "reviews_used": 15,
+  "prompt_chars": 9633,
+  "status": "ok",
+  "seconds": 130.54,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.35,
+    "E": 3.55,
+    "A": 3.95,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "Luckily, I was able to satisfy my curiosity by getting a Roku XD",
+      "C": "I tend to do a lot of research before making large purchasing decisions and so far this receiver is receiving a pretty rosy reception!",
+      "E": "With the Airport Express, I have a music server experience to die for!",
+      "A": "I thought my experiences and opinions might be useful for those shopping for such internet-streaming set top boxes.",
+      "N": "I became very aware of my home electric usage and didn't like the fact that it sucked 40W at idle 24/7."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.35,
+    "E": 3.55,
+    "N": 2.25,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I thought my experiences and opinions might be useful for those shopping for such internet-streaming set top boxes.",
+      "C": "I tend to do a lot of research before making large purchasing decisions and so far this receiver is receiving a pretty rosy reception!",
+      "E": "With the Airport Express, I have a music server experience to die for!",
+      "N": "I became very aware of my home electric usage and didn't like the fact that it sucked 40W at idle 24/7.",
+      "O": "Luckily, I was able to satisfy my curiosity by getting a Roku XD"
+    }
+  }
+}

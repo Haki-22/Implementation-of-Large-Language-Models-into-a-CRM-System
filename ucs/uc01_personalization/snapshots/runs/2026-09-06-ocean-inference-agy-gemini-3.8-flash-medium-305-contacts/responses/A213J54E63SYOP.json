@@ -1,0 +1,40 @@
+{
+  "contact_id": 175,
+  "reviewer_id": "A213J54E63SYOP",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 101,
+  "reviews_used": 15,
+  "prompt_chars": 6687,
+  "status": "ok",
+  "seconds": 649.84,
+  "error": "",
+  "profile": {
+    "O": 3.2,
+    "C": 4.15,
+    "E": 2.9,
+    "A": 3.9,
+    "N": 3.0,
+    "evidence_quotes": {
+      "O": "Since then I grew to dislike the SLR and miss my old ELPH.",
+      "C": "I did a lot of research before buying the Pentax k-m (bought 2/5/10, with 2 extra lens) and found that this camera was highly recommended across the internet.",
+      "E": "I missed a lot of fun (because I became the family photographer, \"cause I had the fancy camera\")",
+      "A": "China must have shipped a bad batch of these things, so its not the sellers fault, but if they keep on selling them it is!",
+      "N": "I am now wondering if it was the right decision or not, because now I find several web sites are reporting a \"mirror slap\" problem"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.15,
+    "E": 2.9,
+    "N": 3,
+    "O": 3.2,
+    "evidence_quotes": {
+      "A": "China must have shipped a bad batch of these things, so its not the sellers fault, but if they keep on selling them it is!",
+      "C": "I did a lot of research before buying the Pentax k-m (bought 2/5/10, with 2 extra lens) and found that this camera was highly recommended across the internet.",
+      "E": "I missed a lot of fun (because I became the family photographer, \"cause I had the fancy camera\")",
+      "N": "I am now wondering if it was the right decision or not, because now I find several web sites are reporting a \"mirror slap\" problem",
+      "O": "Since then I grew to dislike the SLR and miss my old ELPH."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 161,
+  "reviewer_id": "A10ZFE6YE0UHW8",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 120,
+  "reviews_used": 15,
+  "prompt_chars": 9838,
+  "status": "ok",
+  "seconds": 597.7,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.6,
+    "E": 2.9,
+    "A": 3.9,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "This is very impressive technology that worked as advertised. It hovered with intelligence and stability in my bedroom. I'm impressed with that.",
+      "C": "After about 40 minutes of reading, video tutorial, and drone prep, I did my first brief test flight.",
+      "E": "These affordable corded headphones are OK, but not to fall in love with.",
+      "A": "Setting up a new primary drive can be a lot of work. Maybe these notes will save you some hassle.",
+      "N": "I found a number of blatant and frustrating bugs, but in the end was able to create a beautiful 30 minute video."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.6,
+    "E": 2.9,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Setting up a new primary drive can be a lot of work. Maybe these notes will save you some hassle.",
+      "C": "After about 40 minutes of reading, video tutorial, and drone prep, I did my first brief test flight.",
+      "E": "These affordable corded headphones are OK, but not to fall in love with.",
+      "N": "I found a number of blatant and frustrating bugs, but in the end was able to create a beautiful 30 minute video.",
+      "O": "This is very impressive technology that worked as advertised. It hovered with intelligence and stability in my bedroom. I'm impressed with that."
+    }
+  }
+}

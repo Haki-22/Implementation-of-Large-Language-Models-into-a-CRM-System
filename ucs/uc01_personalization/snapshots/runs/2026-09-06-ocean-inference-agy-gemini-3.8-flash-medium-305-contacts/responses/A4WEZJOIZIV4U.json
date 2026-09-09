@@ -1,0 +1,40 @@
+{
+  "contact_id": 78,
+  "reviewer_id": "A4WEZJOIZIV4U",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 202,
+  "reviews_used": 15,
+  "prompt_chars": 9633,
+  "status": "ok",
+  "seconds": 256.21,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.2,
+    "E": 3.6,
+    "A": 3.85,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "Since the PS4 has HDCP (High Def Copy Protection) you can't record your gameplay using HDMI recorders. This splitter strips the HDCP so digital recorders work again.",
+      "C": "Be sure to buy the biggest drive you can afford as at some point you will need/want it.",
+      "E": "Hello gamers if you're reading this review you most likely want to capture game content and upload your footage to YouTube well I hope you find this review useful.",
+      "A": "Amazon has a few cheaper drives if you look around. Be sure to buy the biggest drive you can afford as at some point you will need/want it.",
+      "N": "And if you're interested in upgrading your PlayStation hard drive it's a pretty straightforward process."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.2,
+    "E": 3.6,
+    "N": 2.2,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "Amazon has a few cheaper drives if you look around. Be sure to buy the biggest drive you can afford as at some point you will need/want it.",
+      "C": "Be sure to buy the biggest drive you can afford as at some point you will need/want it.",
+      "E": "Hello gamers if you're reading this review you most likely want to capture game content and upload your footage to YouTube well I hope you find this review useful.",
+      "N": "And if you're interested in upgrading your PlayStation hard drive it's a pretty straightforward process.",
+      "O": "Since the PS4 has HDCP (High Def Copy Protection) you can't record your gameplay using HDMI recorders. This splitter strips the HDCP so digital recorders work again."
+    }
+  }
+}

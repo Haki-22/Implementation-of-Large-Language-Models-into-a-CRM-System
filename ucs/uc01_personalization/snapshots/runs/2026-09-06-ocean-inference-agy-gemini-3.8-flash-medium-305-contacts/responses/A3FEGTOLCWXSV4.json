@@ -1,0 +1,40 @@
+{
+  "contact_id": 102,
+  "reviewer_id": "A3FEGTOLCWXSV4",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 148,
+  "reviews_used": 15,
+  "prompt_chars": 9847,
+  "status": "ok",
+  "seconds": 362.91,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.65,
+    "E": 3.45,
+    "A": 3.9,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "as a software architect and teacher, it was important that the laptop keep up with my demands",
+      "C": "About 2 years ago I was looking for an ultra portable Windows laptop with this wish list (in order of importance):",
+      "E": "Over 3 exciting and exhausting days, I put this camcorder through its paces.",
+      "A": "Other users have confirmed the issue of permanent authentication with this router. A workaround is to enable its self healing feature, to force a nightly reboot of the router.",
+      "N": "Unfortunately, the more I used it, the more I ran into its limitations, and hence my 3 star (It's Okay) rating."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.65,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Other users have confirmed the issue of permanent authentication with this router. A workaround is to enable its self healing feature, to force a nightly reboot of the router.",
+      "C": "About 2 years ago I was looking for an ultra portable Windows laptop with this wish list (in order of importance):",
+      "E": "Over 3 exciting and exhausting days, I put this camcorder through its paces.",
+      "N": "Unfortunately, the more I used it, the more I ran into its limitations, and hence my 3 star (It's Okay) rating.",
+      "O": "as a software architect and teacher, it was important that the laptop keep up with my demands"
+    }
+  }
+}

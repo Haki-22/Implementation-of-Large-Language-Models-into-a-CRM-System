@@ -1,0 +1,40 @@
+{
+  "contact_id": 149,
+  "reviewer_id": "A3T4OHEAHOJ700",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 113,
+  "reviews_used": 15,
+  "prompt_chars": 9872,
+  "status": "ok",
+  "seconds": 540.45,
+  "error": "",
+  "profile": {
+    "O": 4.0,
+    "C": 4.45,
+    "E": 3.25,
+    "A": 3.9,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "From a strictly cosmetic sense, these are beautiful. A nice wood finis with some design on them certainly sets them apart from your basic black, white, etc. earbuds.",
+      "C": "I chose the Panasonic G25 after months of research trying to determine which was \"better\", LCD or Plasma, while also investigating which brands and models were the best performers.",
+      "E": "I purchased this TV as our main television in our family room.",
+      "A": "NOTE (August 2012): If you got to this review while browsing reviews on other media (Amazon CDs, for example), this review is on the DVD+R product.",
+      "N": "Now for the best part......the touch screen stopped working in just a few weeks after purchase."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.45,
+    "E": 3.25,
+    "N": 2.8,
+    "O": 4,
+    "evidence_quotes": {
+      "A": "NOTE (August 2012): If you got to this review while browsing reviews on other media (Amazon CDs, for example), this review is on the DVD+R product.",
+      "C": "I chose the Panasonic G25 after months of research trying to determine which was \"better\", LCD or Plasma, while also investigating which brands and models were the best performers.",
+      "E": "I purchased this TV as our main television in our family room.",
+      "N": "Now for the best part......the touch screen stopped working in just a few weeks after purchase.",
+      "O": "From a strictly cosmetic sense, these are beautiful. A nice wood finis with some design on them certainly sets them apart from your basic black, white, etc. earbuds."
+    }
+  }
+}

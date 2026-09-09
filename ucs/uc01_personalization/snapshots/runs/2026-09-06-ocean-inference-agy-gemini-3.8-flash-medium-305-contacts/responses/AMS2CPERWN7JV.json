@@ -1,0 +1,40 @@
+{
+  "contact_id": 284,
+  "reviewer_id": "AMS2CPERWN7JV",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 87,
+  "reviews_used": 15,
+  "prompt_chars": 9636,
+  "status": "ok",
+  "seconds": 1069.48,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.15,
+    "A": 3.85,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "While this camera may look like some of the micro 4/3 replaceable lens cameras, it actually uses the sensors found commonly on small point and shoots.",
+      "C": "Essentially comparing specs to specs, the airport extreme (the current new version) and this router are essentially the same.",
+      "E": "I worked in customer service for awhile, and most that I've known use plantronics headsets.",
+      "A": "The downside is that you only get a relatively small screen, but for the majority of people out there, it's going to be good enough.",
+      "N": "If I was using other headphones, I would need to turn up the value to cancel it out, leaving me with a headache."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.1,
+    "E": 3.15,
+    "N": 2.45,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "The downside is that you only get a relatively small screen, but for the majority of people out there, it's going to be good enough.",
+      "C": "Essentially comparing specs to specs, the airport extreme (the current new version) and this router are essentially the same.",
+      "E": "I worked in customer service for awhile, and most that I've known use plantronics headsets.",
+      "N": "If I was using other headphones, I would need to turn up the value to cancel it out, leaving me with a headache.",
+      "O": "While this camera may look like some of the micro 4/3 replaceable lens cameras, it actually uses the sensors found commonly on small point and shoots."
+    }
+  }
+}

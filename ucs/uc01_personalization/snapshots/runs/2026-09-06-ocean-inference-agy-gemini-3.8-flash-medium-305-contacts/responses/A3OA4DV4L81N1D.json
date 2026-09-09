@@ -1,0 +1,40 @@
+{
+  "contact_id": 100,
+  "reviewer_id": "A3OA4DV4L81N1D",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 149,
+  "reviews_used": 15,
+  "prompt_chars": 9842,
+  "status": "ok",
+  "seconds": 362.77,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.3,
+    "E": 3.45,
+    "A": 3.9,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "Lens scales are engraved and filled with enamel, adding to the vintage vibe of the optic.",
+      "C": "Plastics are high quality and the barrel is well finished in semi-matte. I could detect no wobble or play in the mount or zoom extension.",
+      "E": "slid on the VF-4 and was propelled into eyeball Nirvana! The 2.36 dot display is a knockout: remarkable clarity",
+      "A": "It's as if Crumpler designers actually test and use their creations for photography!",
+      "N": "Not my favorite color--Crumpler calls it \"snot\" green--but makes it easy to see inside! Lining is ultra soft and won't scratch camera delicates."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.3,
+    "E": 3.45,
+    "N": 2.1,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "It's as if Crumpler designers actually test and use their creations for photography!",
+      "C": "Plastics are high quality and the barrel is well finished in semi-matte. I could detect no wobble or play in the mount or zoom extension.",
+      "E": "slid on the VF-4 and was propelled into eyeball Nirvana! The 2.36 dot display is a knockout: remarkable clarity",
+      "N": "Not my favorite color--Crumpler calls it \"snot\" green--but makes it easy to see inside! Lining is ultra soft and won't scratch camera delicates.",
+      "O": "Lens scales are engraved and filled with enamel, adding to the vintage vibe of the optic."
+    }
+  }
+}

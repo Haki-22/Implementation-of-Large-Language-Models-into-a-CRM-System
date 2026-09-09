@@ -1,0 +1,40 @@
+{
+  "contact_id": 70,
+  "reviewer_id": "A2WW57XX2UVLM6",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 85,
+  "reviews_used": 15,
+  "prompt_chars": 9539,
+  "status": "ok",
+  "seconds": 223.77,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 3.8,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "I've taken this on 15 international flights (Europe, US, Australia) and all over location shooting, surf, sand, forests, deserts, just fine.",
+      "C": "I checked the forums (dpreview and Steve's Camera) and found out that quite a few people are having the same problem.",
+      "E": "I've been using these for internet connection (teaching classes online) and have no problem with the headphones.",
+      "A": "These tripods are perfect for advanced hobbyists or professionals who want a good quality, lightweight, durable tripod but with an affordable price tag.",
+      "N": "I've caught the skin of my finger in it twice now, causing me to bleed at the airport TSA line, which is problematic."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 2.7,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "These tripods are perfect for advanced hobbyists or professionals who want a good quality, lightweight, durable tripod but with an affordable price tag.",
+      "C": "I checked the forums (dpreview and Steve's Camera) and found out that quite a few people are having the same problem.",
+      "E": "I've been using these for internet connection (teaching classes online) and have no problem with the headphones.",
+      "N": "I've caught the skin of my finger in it twice now, causing me to bleed at the airport TSA line, which is problematic.",
+      "O": "I've taken this on 15 international flights (Europe, US, Australia) and all over location shooting, surf, sand, forests, deserts, just fine."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 164,
+  "reviewer_id": "A3EZEP0FX5BC1P",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 117,
+  "reviews_used": 15,
+  "prompt_chars": 9895,
+  "status": "ok",
+  "seconds": 607.16,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.35,
+    "A": 3.8,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "Photography has been my hobby for the past 12 years. I am an avid (and loyal) Nikon user",
+      "C": "First and foremost, I tested this device by simulating a disk failure, and the answer is a resounding YES.",
+      "E": "I was tutoring my 17-year old nephew on how to properly install a wireless router",
+      "A": "to set it up for her home, of course I agreed!",
+      "N": "Now I wish I hadn't bought it. The price was right, but the performance was a let-down."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.15,
+    "E": 3.35,
+    "N": 2.5,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "to set it up for her home, of course I agreed!",
+      "C": "First and foremost, I tested this device by simulating a disk failure, and the answer is a resounding YES.",
+      "E": "I was tutoring my 17-year old nephew on how to properly install a wireless router",
+      "N": "Now I wish I hadn't bought it. The price was right, but the performance was a let-down.",
+      "O": "Photography has been my hobby for the past 12 years. I am an avid (and loyal) Nikon user"
+    }
+  }
+}

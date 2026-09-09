@@ -1,0 +1,40 @@
+{
+  "contact_id": 293,
+  "reviewer_id": "A3HPCRD9RX351S",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 9486,
+  "status": "ok",
+  "seconds": 1103.82,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.3,
+    "E": 2.95,
+    "A": 4.1,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "I studied photos taken with the candidates posted here and on Flickr. I visited stores like Best Buy, HH Gregg and others for some hands on looks.",
+      "C": "Before making my decision I read many many reviews of each camera on the Amazon site and elsewhere.",
+      "E": "This is a fun item that Mrs. Spudman likes so far. She keeps it on the counter and writes her to do list on it.",
+      "A": "If you haven't already done so, read the first review of these earphones by Andrew Lawrence for the most comprehensive and definitive review.",
+      "N": "With some adjustment fiddling, the sound is acutally pretty good played through my external Logitech speakers. Enough whining already."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.3,
+    "E": 2.95,
+    "N": 2.2,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "If you haven't already done so, read the first review of these earphones by Andrew Lawrence for the most comprehensive and definitive review.",
+      "C": "Before making my decision I read many many reviews of each camera on the Amazon site and elsewhere.",
+      "E": "This is a fun item that Mrs. Spudman likes so far. She keeps it on the counter and writes her to do list on it.",
+      "N": "With some adjustment fiddling, the sound is acutally pretty good played through my external Logitech speakers. Enough whining already.",
+      "O": "I studied photos taken with the candidates posted here and on Flickr. I visited stores like Best Buy, HH Gregg and others for some hands on looks."
+    }
+  }
+}

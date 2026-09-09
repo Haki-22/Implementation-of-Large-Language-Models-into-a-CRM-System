@@ -1,0 +1,266 @@
+[
+  {
+    "config": "rules",
+    "texts": 42744,
+    "seconds": 7.8,
+    "hits": {
+      "PSC": 566,
+      "BBAN": 203,
+      "EMAIL": 12,
+      "PHONE": 196,
+      "ICO": 5
+    },
+    "hits_total": 982,
+    "per_1000": 22.97,
+    "per_1000_by_type": {
+      "BBAN": 4.75,
+      "EMAIL": 0.28,
+      "ICO": 0.12,
+      "PHONE": 4.59,
+      "PSC": 13.24
+    },
+    "texts_with_hits": 667,
+    "texts_with_hits_share": 0.0156,
+    "examples": {
+      "PSC": [
+        "99090",
+        "73737",
+        "60735",
+        "65735",
+        "65835",
+        "73735"
+      ],
+      "BBAN": [
+        "98/2000",
+        "1900/2000",
+        "100/1000",
+        "1000/1100",
+        "09/2013",
+        "1950/2950"
+      ],
+      "EMAIL": [
+        "customerservice@techarmor.com",
+        "support@aerb.com",
+        "onkyoadmin@us.onkyo.com",
+        "forums@onkyousa.com",
+        "amazon@netgear.com",
+        "print@pogoplug.com"
+      ],
+      "PHONE": [
+        "192.168.100",
+        "289508278",
+        "405137887",
+        "905120002",
+        "211566803",
+        "475020 318"
+      ],
+      "ICO": [
+        "00000001",
+        "00700100",
+        "09520481"
+      ]
+    },
+    "lang": "cs"
+  },
+  {
+    "config": "rules+bardsai",
+    "texts": 42744,
+    "seconds": 1516.9,
+    "hits": {
+      "PERSON": 70551,
+      "ORG": 56320,
+      "ADDRESS": 2140,
+      "PSC": 487,
+      "BBAN": 203,
+      "EMAIL": 12,
+      "PHONE": 196,
+      "DATE": 1,
+      "ICO": 5
+    },
+    "hits_total": 129915,
+    "per_1000": 3039.37,
+    "per_1000_by_type": {
+      "ADDRESS": 50.07,
+      "BBAN": 4.75,
+      "DATE": 0.02,
+      "EMAIL": 0.28,
+      "ICO": 0.12,
+      "ORG": 1317.61,
+      "PERSON": 1650.55,
+      "PHONE": 4.59,
+      "PSC": 11.39
+    },
+    "texts_with_hits": 31332,
+    "texts_with_hits_share": 0.733,
+    "examples": {
+      "PERSON": [
+        "LabelManager 350",
+        "LabelPoint 350",
+        "LabelWriter DUO",
+        "LabelManager 360D",
+        "Onkyo 7.1",
+        "Sony"
+      ],
+      "ORG": [
+        "DYMO",
+        "Amazonu",
+        "Monster",
+        "Monsteru",
+        "Fellowes",
+        "Onkyo"
+      ],
+      "ADDRESS": [
+        "Belgii",
+        "Coloradu",
+        "Číně",
+        "Amazonu",
+        "východním pobřeží USA",
+        "Francii"
+      ],
+      "PSC": [
+        "99090",
+        "73737",
+        "60735",
+        "65735",
+        "65835",
+        "73735"
+      ],
+      "BBAN": [
+        "98/2000",
+        "1900/2000",
+        "100/1000",
+        "1000/1100",
+        "09/2013",
+        "1950/2950"
+      ],
+      "EMAIL": [
+        "customerservice@techarmor.com",
+        "support@aerb.com",
+        "onkyoadmin@us.onkyo.com",
+        "forums@onkyousa.com",
+        "amazon@netgear.com",
+        "print@pogoplug.com"
+      ],
+      "PHONE": [
+        "192.168.100",
+        "289508278",
+        "405137887",
+        "905120002",
+        "211566803",
+        "475020 318"
+      ],
+      "DATE": [
+        "6"
+      ],
+      "ICO": [
+        "00000001",
+        "00700100",
+        "09520481"
+      ]
+    },
+    "lang": "cs"
+  },
+  {
+    "config": "rules+wismut",
+    "texts": 42744,
+    "seconds": 10348.4,
+    "hits": {
+      "ADDRESS": 3103,
+      "ORG": 73473,
+      "PSC": 551,
+      "PERSON": 5068,
+      "DATE": 6792,
+      "BBAN": 203,
+      "EMAIL": 12,
+      "PHONE": 196,
+      "ICO": 5
+    },
+    "hits_total": 89403,
+    "per_1000": 2091.59,
+    "per_1000_by_type": {
+      "ADDRESS": 72.59,
+      "BBAN": 4.75,
+      "DATE": 158.9,
+      "EMAIL": 0.28,
+      "ICO": 0.12,
+      "ORG": 1718.91,
+      "PERSON": 118.57,
+      "PHONE": 4.59,
+      "PSC": 12.89
+    },
+    "texts_with_hits": 22465,
+    "texts_with_hits_share": 0.5256,
+    "examples": {
+      "ADDRESS": [
+        "450",
+        "Belgii",
+        "1449",
+        "Číně",
+        "Coloradu",
+        "Indie"
+      ],
+      "ORG": [
+        "Monster",
+        "Monsteru",
+        "Fellowes",
+        "Onkyo",
+        "Acoustic Research",
+        "Microsoftu"
+      ],
+      "PSC": [
+        "99090",
+        "73737",
+        "60735",
+        "65735",
+        "65835",
+        "73735"
+      ],
+      "PERSON": [
+        "Erica S. Raymonda",
+        "Alphy",
+        "Brenhavenovi",
+        "Bowers",
+        "Wilkins",
+        "TomTom"
+      ],
+      "DATE": [
+        "března 2006",
+        "24. června 2009",
+        "29. srpna 2009",
+        "2001",
+        "ledna 2010",
+        "dubnu 2009"
+      ],
+      "BBAN": [
+        "98/2000",
+        "1900/2000",
+        "100/1000",
+        "1000/1100",
+        "09/2013",
+        "1950/2950"
+      ],
+      "EMAIL": [
+        "customerservice@techarmor.com",
+        "support@aerb.com",
+        "onkyoadmin@us.onkyo.com",
+        "forums@onkyousa.com",
+        "amazon@netgear.com",
+        "print@pogoplug.com"
+      ],
+      "PHONE": [
+        "192.168.100",
+        "289508278",
+        "405137887",
+        "905120002",
+        "211566803",
+        "475020 318"
+      ],
+      "ICO": [
+        "00000001",
+        "00700100",
+        "09520481"
+      ]
+    },
+    "lang": "cs"
+  }
+]

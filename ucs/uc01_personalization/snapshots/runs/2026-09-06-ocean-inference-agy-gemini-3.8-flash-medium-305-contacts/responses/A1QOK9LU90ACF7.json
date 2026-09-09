@@ -1,0 +1,40 @@
+{
+  "contact_id": 267,
+  "reviewer_id": "A1QOK9LU90ACF7",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 10214,
+  "status": "ok",
+  "seconds": 992.72,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.6,
+    "E": 3.35,
+    "A": 3.9,
+    "N": 2.05,
+    "evidence_quotes": {
+      "O": "If you're in the market for a NAS that gives you data redundancy (through RAID 1, that is, through data mirroring using two, user-replaceable hard drives)",
+      "C": "I fitted the FireWire adapter to the drive and set to work backing up each of my 4 computers.",
+      "E": "While using Skype, the sound I heard was very clear, like the person was sitting next to me. The other person reporting excellent sound, too",
+      "A": "Western Digital's poorly received \"SmartWare\" has soured this product for a lot of customers. That's too bad, really, because the drive itself really isn't so bad.",
+      "N": "I didn't encounter any serious issues, and the few minor installation bumps I encountered were easily remedied."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.6,
+    "E": 3.35,
+    "N": 2.05,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Western Digital's poorly received \"SmartWare\" has soured this product for a lot of customers. That's too bad, really, because the drive itself really isn't so bad.",
+      "C": "I fitted the FireWire adapter to the drive and set to work backing up each of my 4 computers.",
+      "E": "While using Skype, the sound I heard was very clear, like the person was sitting next to me. The other person reporting excellent sound, too",
+      "N": "I didn't encounter any serious issues, and the few minor installation bumps I encountered were easily remedied.",
+      "O": "If you're in the market for a NAS that gives you data redundancy (through RAID 1, that is, through data mirroring using two, user-replaceable hard drives)"
+    }
+  }
+}

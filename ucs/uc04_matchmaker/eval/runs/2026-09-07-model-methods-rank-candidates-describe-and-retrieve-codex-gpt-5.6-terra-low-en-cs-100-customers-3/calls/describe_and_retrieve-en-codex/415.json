@@ -1,0 +1,35 @@
+{
+  "contact_id": 415,
+  "status": "ok",
+  "seconds": 6.17,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Olympus Micro Four Thirds camera body compatible with M.Zuiko lenses",
+      "Micro Four Thirds telephoto zoom lens for Olympus OM-D / PEN cameras",
+      "Olympus-compatible Micro Four Thirds external flash"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Customer C-415 (anonymised). Product titles in English.\nPurchase history (44 purchases, oldest first):\n- 2009-01-22 ★5 Western Digital 500 GB Caviar Blue SATA 3 Gb/s 7200 RPM 16 MB Cache Bulk/OEM Desktop Hard Drive - WD5000AAKS\n- 2009-03-06 ★5 Cables Unlimited PCM-2296-06 HDMI to DVI D Cable, 6 feet\n- 2009-03-06 ★5 Cables To Go 98038 Premium Toslink Optical Digital Audio Cable (8 Feet, Black/Grey) (Discontinued by Manufacturer)\n- 2009-08-06 ★5 Zeikos ZE-UV95 95mm Multi-Coated UV Filter\n- 2009-08-12 ★4 Zeikos ZE-LC62 62mm Plastic Snap On Lens Cap (Black)\n- 2009-10-12 ★4 Hauppauge 1212 HD-PVR High Definition Personal Video Recorder\n- 2009-11-12 ★5 Sony FDAME1AM Magnifying Eyepiece (Black)\n- 2010-03-30 ★5 Dolica AX620B100 62-Inch Proline Tripod and Ball Head\n- 2010-04-09 ★4 Joby GP3 GorillaPod SLR-Zoom Flexible Tripod\n- 2010-05-06 ★4 Panasonic LUMIX G 20mm f/1.7 Aspherical Pancake Lens for Micro Four Thirds Interchangeable Lens Cameras\n- 2010-05-22 ★4 Panasonic 45-200mm f/4.0-5.6 Lumix G Vario MEGA OIS Zoom Micro Four Thirds Lens for Panasonic and Olympus Micro Four Thi\n- 2010-05-24 ★4 Panasonic DMW-MA1 Lumix G Four Thirds DSLR Lens Mount Adapter\n- 2010-05-24 ★3 Olympus FL-14 Flash for Olympus Micro Four Thirds Digital Cameras\n- 2010-05-25 ★5 Olympus 50mm f/2.0 Telephoto Macro ED Lens for Olympus Digital SLR Cameras\n- 2010-05-25 ★5 Music Power 0900-72 Encore Dual Port USB AC Charger with Rechargeable Extended Battery\n- 2010-05-25 ★4 AGL3080: Amod AGL3080 GPS Data Logger (Windows and Mac Image Software included)\n- 2010-06-07 ★5 Lowepro Lens Case 1N (Black)\n- 2010-06-13 ★5 Domke F-5XB Shoulder/Belt Bag (Black)\n- 2010-08-22 ★4 Olympus Zuiko 70-300mm f/4.0-5.6 ED Lens for Olympus and Panasonic Standard Four Thirds Digital SLR Cameras\n- 2010-11-20 ★5 Olympus M ED 9-18mm f/4.0-5.6 micro Four Thirds Lens for Olympus and Panasonic Micro Four Third Interchangeable Lens Dig\n- 2010-12-26 ★4 Dolica CX730B105 73-Inch Proline Carbonfiber Tripod with Ball Head\n- 2011-01-08 ★4 JJC MF-1 Multi mount Flash Stand\n- 2011-04-01 ★4 Olympus Evolt E620 12.3MP Live MOS Digital SLR Camera with Image Stabilization and 2.7 inch Swivel LCD w/ 14-42mm f/3.5-\n- 2011-04-19 ★4 Portable Adjustable Headphones - Black (Discontinued by Manufacturer)\n- 2011-04-30 ★5 Rokinon 85M-C 85mm F1.4 Aspherical Lens for Canon (Black)\n- 2011-05-06 ★4 Panasonic L-X025 Full 4/3 DSLR Panasonic 25mm Lens for select Lumix SLR Digital Cameras\n- 2011-05-21 ★4 RainbowImaging Custom made Black GENUINE Leather Camera Hand Strap for Leica M, Panasonic, Olympus, Samsung, Nikon, Fuji\n- 2011-06-13 ★4 Olympus VF-1 Optical Viewfinder for use with Olympus PEN and OM-D Micro Four Thirds Digital Cameras\n- 2011-07-07 ★4 Olympus SEMA-1 Mic Adapter Set for Olympus Micro Four Third Digital Cameras, XZ-1 and XZ-2\n- 2011-08-18 ★4 Olympus Zuiko 50-200mm f/2.8-3.5 Digital ED SWD Lens for Olympus Digital SLR Cameras\n- 2011-09-16 ★5 7-Port USB 2.0 Hub, Black\n- 2011-09-26 ★4 Arkon Travel iPad and Android Tablet Stand for Apple iPad Samsung Galaxy Note Pro Galaxy Tab Nexus 7\n- 2011-10-07 ★4 SpiderHolster Black Widow Spider Camera Holster for Lightweight DSLRs and Point-and-shoot Came\n- 2011-10-17 ★4 Olympus PEN E-P3 12 MP Live MOS Interchangeable Lens Camera with 14-42mm Zoom Lens (Silver)\n- 2011-10-18 ★5 Olympus M. Zuiko Digital ED 45mm f1.8 (Silver) Lens for Olympus and Panasonic Micro 4/3 Cameras - International Version \n- 2011-11-29 ★5 AmazonBasics Universal Camera Case\n- 2012-01-16 ★5 Olympus FL-300R Compact Flash for Olympus Micro Four Thirds Digital Cameras\n- 2012-10-10 ★4 Olympus OM-D E-M5 16MP Live MOS Interchangeable Lens Camera with 3.0-Inch Tilting OLED Touchscreen [Body Only] Silver\n- 2012-11-20 ★4 Veho VSS-009-360BT M4 Portable Rechargable Wireless Bluetooth Speaker with Track Control and built in MP3 player\n- 2012-11-22 ★2 Poetic Slimline Portfolio Case for Google Nexus 7 Android Tablet by Asus Black(Automatically Wakes and Puts the Nexus 7 \n- 2013-02-10 ★3 ARRIS / Motorola SB6121 SURFboard DOCSIS 3.0 Cable Modem - Retail Packaging\n- 2013-02-12 ★5 Zoom 5341 DOCSIS 3.0 Cable Modem 5341J\n- 2013-09-19 ★5 Rokinon FE75MFT-B 7.5mm F3.5 UMC Fisheye Lens for Micro Four Thirds (Olympus PEN and Panasonic)\n- 2013-11-06 ★4 Panasonic Lumix G H-H020AK 20mm F/1.7 II ASPH Lens for Panasonic/Olympus Micro Four Thirds Cameras (Black)\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Olympus Micro Four Thirds camera body compatible with M.Zuiko lenses",
+      "Micro Four Thirds telephoto zoom lens for Olympus OM-D / PEN cameras",
+      "Olympus-compatible Micro Four Thirds external flash"
+    ]
+  },
+  "held_out": "B00FY42JYW"
+}

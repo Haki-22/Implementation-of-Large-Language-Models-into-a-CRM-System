@@ -1,0 +1,40 @@
+{
+  "contact_id": 228,
+  "reviewer_id": "A3VI2VETB90ZG5",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 9639,
+  "status": "ok",
+  "seconds": 181.66,
+  "error": "",
+  "profile": {
+    "O": 4.4,
+    "C": 4.2,
+    "E": 3.5,
+    "A": 3.85,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I can easily make out every detail: from the delicate vibrations of a settling cymbal to the gentle strum of a guitar string.",
+      "C": "The drive case has most of its air vents on the underside, so make sure it sits on a hard flat surface for proper ventilation.",
+      "E": "I don't get this excited about a camera without a good reason",
+      "A": "I've added to the product images a composition of the Sony FA-SHC1AM cap mounted atop my Sony A57 to help visualize how it looks attached to the camera.",
+      "N": "I feel much better not having to worry about dust, salty air or mist fouling the connectors."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.2,
+    "E": 3.5,
+    "N": 2.3,
+    "O": 4.4,
+    "evidence_quotes": {
+      "A": "I've added to the product images a composition of the Sony FA-SHC1AM cap mounted atop my Sony A57 to help visualize how it looks attached to the camera.",
+      "C": "The drive case has most of its air vents on the underside, so make sure it sits on a hard flat surface for proper ventilation.",
+      "E": "I don't get this excited about a camera without a good reason",
+      "N": "I feel much better not having to worry about dust, salty air or mist fouling the connectors.",
+      "O": "I can easily make out every detail: from the delicate vibrations of a settling cymbal to the gentle strum of a guitar string."
+    }
+  }
+}

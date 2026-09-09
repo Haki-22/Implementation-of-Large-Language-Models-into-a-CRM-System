@@ -1,0 +1,40 @@
+{
+  "contact_id": 311,
+  "reviewer_id": "AMUP8DYE7EAN2",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 81,
+  "reviews_used": 15,
+  "prompt_chars": 9740,
+  "status": "ok",
+  "seconds": 274.72,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.95,
+    "E": 3.05,
+    "A": 3.8,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "out of curiosity I had already swapped the OEM drive for a significantly smaller Samsung SSD (55GB of usable storage) and I was just about out of room.",
+      "C": "When I map out my critical path of expectations for a GPS getting me from point A to point B with minimal frustration is the central issue.",
+      "E": "I haven't had the TX-NR626 for very long but at this point I am really enthusiastic about it",
+      "A": "Technical support personnel (I have spoken to five different TSR's) are extremely pleasant and outwardly dedicated",
+      "N": "I felt confident that I could create a security-enabled network with only a moderate degree of frustration."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 3.95,
+    "E": 3.05,
+    "N": 2.4,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Technical support personnel (I have spoken to five different TSR's) are extremely pleasant and outwardly dedicated",
+      "C": "When I map out my critical path of expectations for a GPS getting me from point A to point B with minimal frustration is the central issue.",
+      "E": "I haven't had the TX-NR626 for very long but at this point I am really enthusiastic about it",
+      "N": "I felt confident that I could create a security-enabled network with only a moderate degree of frustration.",
+      "O": "out of curiosity I had already swapped the OEM drive for a significantly smaller Samsung SSD (55GB of usable storage) and I was just about out of room."
+    }
+  }
+}

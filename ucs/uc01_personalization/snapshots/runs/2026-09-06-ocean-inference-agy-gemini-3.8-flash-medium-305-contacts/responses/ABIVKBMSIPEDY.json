@@ -1,0 +1,40 @@
+{
+  "contact_id": 124,
+  "reviewer_id": "ABIVKBMSIPEDY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 134,
+  "reviews_used": 15,
+  "prompt_chars": 10258,
+  "status": "ok",
+  "seconds": 453.11,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.3,
+    "E": 3.4,
+    "A": 2.8,
+    "N": 3.35,
+    "evidence_quotes": {
+      "O": "What I did was--I took continuous shots at the same position and setting with both cards (SD Ultra 512 MB and regular SD 512 MB) and timed it.",
+      "C": "so make sure you have at least 9.5 inches diameter of clear space in your case.",
+      "E": "Trust me, you don't want to waste your money on a cheap webcam.",
+      "A": "if someone considers this drive to be quiet - when READING discs - they must be deaf (no offense)",
+      "N": "Another thing I was worried about was how it would look on the camera"
+    }
+  },
+  "raw": {
+    "A": 2.8,
+    "C": 4.3,
+    "E": 3.4,
+    "N": 3.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "if someone considers this drive to be quiet - when READING discs - they must be deaf (no offense)",
+      "C": "so make sure you have at least 9.5 inches diameter of clear space in your case.",
+      "E": "Trust me, you don't want to waste your money on a cheap webcam.",
+      "N": "Another thing I was worried about was how it would look on the camera",
+      "O": "What I did was--I took continuous shots at the same position and setting with both cards (SD Ultra 512 MB and regular SD 512 MB) and timed it."
+    }
+  }
+}

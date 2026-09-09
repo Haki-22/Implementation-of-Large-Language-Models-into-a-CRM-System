@@ -1,0 +1,40 @@
+{
+  "contact_id": 235,
+  "reviewer_id": "A1QVFHPY8418HC",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9440,
+  "status": "ok",
+  "seconds": 869.05,
+  "error": "",
+  "profile": {
+    "O": 3.45,
+    "C": 4.15,
+    "E": 3.25,
+    "A": 3.05,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "Beauty is in the eye of the beholder, however, and the pictures on the Amazon product page present a good idea of what to expect.",
+      "C": "It is fairly slim, yet has several pouches under the flap for discs, pens, pencils, flash media, cords, etc.",
+      "E": "I am fairly certain I'll get flamed and accumulate a bunch of \"not helpful\" votes but too bad.",
+      "A": "(if you can't see the screen clearly then maybe you shouldn't be driving because you might not be seeing traffic clearly, either)",
+      "N": "I guess the cell phone industry makes larger political contributions than the GPS industry."
+    }
+  },
+  "raw": {
+    "A": 3.05,
+    "C": 4.15,
+    "E": 3.25,
+    "N": 3.1,
+    "O": 3.45,
+    "evidence_quotes": {
+      "A": "(if you can't see the screen clearly then maybe you shouldn't be driving because you might not be seeing traffic clearly, either)",
+      "C": "It is fairly slim, yet has several pouches under the flap for discs, pens, pencils, flash media, cords, etc.",
+      "E": "I am fairly certain I'll get flamed and accumulate a bunch of \"not helpful\" votes but too bad.",
+      "N": "I guess the cell phone industry makes larger political contributions than the GPS industry.",
+      "O": "Beauty is in the eye of the beholder, however, and the pictures on the Amazon product page present a good idea of what to expect."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 390,
+  "reviewer_id": "A3VBXQKRM7A4JR",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 61,
+  "reviews_used": 15,
+  "prompt_chars": 9701,
+  "status": "ok",
+  "seconds": 1322.93,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.25,
+    "A": 3.4,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I love home audio. My audio listening is about 75% music, 20% movies, and 5% TV (most of which is sports...)",
+      "C": "Having used this camera in various conditions for over a week now, its strengths and weaknesses have become pretty apparent",
+      "E": "With that said, I've gone through a variety of sound bars and speakers and subwoofers, and am always up for another good one!",
+      "A": "Whatever product manager thought that was a good idea should probably move on, and out of the technology realm...",
+      "N": "It's not horrible, but it's not ideal, either."
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.2,
+    "E": 3.25,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Whatever product manager thought that was a good idea should probably move on, and out of the technology realm...",
+      "C": "Having used this camera in various conditions for over a week now, its strengths and weaknesses have become pretty apparent",
+      "E": "With that said, I've gone through a variety of sound bars and speakers and subwoofers, and am always up for another good one!",
+      "N": "It's not horrible, but it's not ideal, either.",
+      "O": "I love home audio. My audio listening is about 75% music, 20% movies, and 5% TV (most of which is sports...)"
+    }
+  }
+}

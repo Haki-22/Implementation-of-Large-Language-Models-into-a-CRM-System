@@ -1,0 +1,40 @@
+{
+  "contact_id": 131,
+  "reviewer_id": "A2QRXQPHDMFCQV",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 123,
+  "reviews_used": 15,
+  "prompt_chars": 10287,
+  "status": "ok",
+  "seconds": 476.01,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.45,
+    "E": 2.9,
+    "A": 3.35,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "Can capture images in RAW mode, allowing you lot more editing and image manipulation options.",
+      "C": "When I'm going through my mail, I do not always have the computer and I like to scan and shred at the same time.",
+      "E": "This soundbar is great for a student in a dorm for watching a Netflix movie or a YouTube video or listening to music on Pandora.",
+      "A": "But you ought to be aware that the software, especially for HD, does not come across as a finished product, but still a work in progress.",
+      "N": "You just have to be careful with screen of Nuvi series; make sure it is well protected when stored, because it breaks easily."
+    }
+  },
+  "raw": {
+    "A": 3.35,
+    "C": 4.45,
+    "E": 2.9,
+    "N": 3.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "But you ought to be aware that the software, especially for HD, does not come across as a finished product, but still a work in progress.",
+      "C": "When I'm going through my mail, I do not always have the computer and I like to scan and shred at the same time.",
+      "E": "This soundbar is great for a student in a dorm for watching a Netflix movie or a YouTube video or listening to music on Pandora.",
+      "N": "You just have to be careful with screen of Nuvi series; make sure it is well protected when stored, because it breaks easily.",
+      "O": "Can capture images in RAW mode, allowing you lot more editing and image manipulation options."
+    }
+  }
+}

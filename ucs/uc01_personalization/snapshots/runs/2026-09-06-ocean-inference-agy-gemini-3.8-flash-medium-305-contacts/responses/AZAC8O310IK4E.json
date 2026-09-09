@@ -1,0 +1,40 @@
+{
+  "contact_id": 226,
+  "reviewer_id": "AZAC8O310IK4E",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 100,
+  "reviews_used": 15,
+  "prompt_chars": 9120,
+  "status": "ok",
+  "seconds": 843.14,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.55,
+    "A": 4.05,
+    "N": 2.55,
+    "evidence_quotes": {
+      "O": "In the store, I could tell that the Bose Soundlink has more bass but the mids and highs were not as distinct as the Big Jambox.",
+      "C": "We have owned the S95 for the past 2 years and really liked the camera but we wanted to get another camera as a backup",
+      "E": "of course I get a lot of laughs at first but then you get the \"oh that's pretty cool\" look.",
+      "A": "I also thought the user interface was incredibly easy. So easy that I am planning on getting one for my mom who has never used a computer.",
+      "N": "When the camera extender arrived before our trip I was worried that it might fall apart with heavy use because it is basically an extendible pole."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.25,
+    "E": 3.55,
+    "N": 2.55,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I also thought the user interface was incredibly easy. So easy that I am planning on getting one for my mom who has never used a computer.",
+      "C": "We have owned the S95 for the past 2 years and really liked the camera but we wanted to get another camera as a backup",
+      "E": "of course I get a lot of laughs at first but then you get the \"oh that's pretty cool\" look.",
+      "N": "When the camera extender arrived before our trip I was worried that it might fall apart with heavy use because it is basically an extendible pole.",
+      "O": "In the store, I could tell that the Bose Soundlink has more bass but the mids and highs were not as distinct as the Big Jambox."
+    }
+  }
+}

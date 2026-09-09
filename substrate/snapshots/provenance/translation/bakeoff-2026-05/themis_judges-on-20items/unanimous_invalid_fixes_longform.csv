@@ -1,0 +1,16 @@
+item_id,reported_by,replace,with,why
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,Gemini-Pro,Objednal jsem si záruku Fellowes 99090,Objednal jsem si Fellowes 99090,"Autor si objednal produkt 'Fellowes 99090' (přepěťovou ochranu), nikoli jeho 'záruku'."
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,Gemini-Flash,záruku Fellowes 99090,přepěťovou ochranu Fellowes 99090,"V originálu se hovoří o zakoupení samotného přístroje 'Fellowes 99090', nikoli o záruce."
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,Sonnet-4.6,Objednal jsem si záruku Fellowes 99090,Objednal jsem si Fellowes 99090,"Překlad vložil slovo 'záruku', které v EN originálu není — recenzent objednal produkt samotný, nikoli záruku."
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,Sonnet-4.6,Za reklamace v rámci záruky ubírám jednu hvězdičku,Za záruční tvrzení ubírám jednu hvězdičku,"EN 'warranty claims' označuje marketingová tvrzení výrobce obsažená v záručním dokumentu, nikoli 'reklamace' ve smyslu spotřebitelské stížnosti nebo vrácení zboží."
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,Haiku-4.5,Objednal jsem si záruku Fellowes 99090,Objednal jsem si Fellowes 99090,"EN říká 'I ordered that Fellowes 99090' — zařízení, ne záruka."
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,Haiku-4.5,Za reklamace v rámci záruky ubírám jednu hvězdičku,Za (zkreslená) tvrzení o záruce ubírám jednu hvězdičku,"'warranty claims' znamená 'tvrzení o záruce', nikoli 'reklamace'."
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Gemini-Pro,"Těžká část - 1,6 kg.","Spíše těžší - 3,25 libry.","Překlad 'Těžká část' je nesprávný a konverze váhy '3.25 lbs' na '1,6 kg' je nepřesná."
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Gemini-Pro,šedý zip,ocelově šedé kování zipu,Překlad zjednodušuje 'gunmetal grey zipper hardware' a ztrácí tak informaci o konkrétní barvě a části (kování).
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Gemini-Pro,...který po rozepnutí,", který po rozepnutí",Překlad vkládá '...' které v originále nejsou a působí jako chyba v překladu.
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Gemini-Pro,trochu přehnaně těžký,trochu těžší,"Překlad přidává na intenzitě slovem 'přehnaně', které v originálu 'a little bit on the heavy side' není."
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Gemini-Flash,Těžká část,Poněkud těžší,Fráze 'On the heavy side' byla chybně přeložena jako 'Těžká část'.
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Gemini-Flash,je zip. ...který,"je zip, který","V textu se objevuje chybná interpunkce a rozdělení věty, které v originále není."
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Sonnet-4.6,"1,6 kg","1,47 kg","Překlad nesprávně konvertuje '3.25 lbs': správná hodnota je přibližně 1,47 kg, nikoli 1,6 kg — zavádí se fakticky chybný údaj."
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Sonnet-4.6,šedý zip,ocelově šedý zip,'gunmetal grey' označuje specifický kovový odstín šedé; překlad 'šedý' tuto upřesňující informaci vypouští.
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,Haiku-4.5,"Černá látka, šedý zip.","Černá látka, gunmetalově šedé kovové kování zipu.","Překlad vypustil specifický popis 'gunmetal grey' a 'hardware', čímž zjednoduší detaily o vzhledu a kvalitě materiálu."

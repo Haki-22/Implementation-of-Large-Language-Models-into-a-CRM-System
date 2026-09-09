@@ -1,0 +1,40 @@
+{
+  "contact_id": 55,
+  "reviewer_id": "A11I1I9QLMAM1A",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 185,
+  "reviews_used": 15,
+  "prompt_chars": 10255,
+  "status": "ok",
+  "seconds": 16.37,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.4,
+    "E": 3.35,
+    "A": 3.3,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "the idea of using our phones, tablets, and iPod Touch to control the home theater system was very appealing.",
+      "C": "This was unsightly, disorganized, and could have led to scratched screens.",
+      "E": "We decided to upgrade from the Harmony Smart Control to this one, and now couldn't be happier.",
+      "A": "When I contacted them on it, they gave me a $10 credit to cover what they had taken from me, but made no apologies for it occurring.",
+      "N": "Makes an annoying humming ringing noise when turned off. Just loud enough to be very annoying in a quiet room."
+    }
+  },
+  "raw": {
+    "A": 3.3,
+    "C": 4.4,
+    "E": 3.35,
+    "N": 3.1,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "When I contacted them on it, they gave me a $10 credit to cover what they had taken from me, but made no apologies for it occurring.",
+      "C": "This was unsightly, disorganized, and could have led to scratched screens.",
+      "E": "We decided to upgrade from the Harmony Smart Control to this one, and now couldn't be happier.",
+      "N": "Makes an annoying humming ringing noise when turned off. Just loud enough to be very annoying in a quiet room.",
+      "O": "the idea of using our phones, tablets, and iPod Touch to control the home theater system was very appealing."
+    }
+  }
+}

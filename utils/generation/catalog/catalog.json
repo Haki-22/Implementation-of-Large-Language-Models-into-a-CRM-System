@@ -1,0 +1,926 @@
+{
+  "generated_at": "2026-09-07T11:28:51Z",
+  "providers": {
+    "agy": {
+      "aliases": {},
+      "binary": "agy",
+      "cli": "agy",
+      "default_model": "gemini-3.8-flash",
+      "default_tier": "medium",
+      "model_string_format": "{model}-{tier}",
+      "models": [
+        {
+          "aliases": [],
+          "context_window": 1048576,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Gemini 3.8 Flash",
+          "fetched_at": "2026-09-07T11:28:51Z",
+          "id": "gemini-3.8-flash",
+          "knowledge": null,
+          "last_updated": "2026-09-02",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "video",
+              "audio",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 65536,
+          "pricing": {
+            "cache_read": 0.075,
+            "input": 0.75,
+            "input_audio": 0.75,
+            "output": 3.75
+          },
+          "release_date": "2026-09-02",
+          "source": "agy-ok+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1048576,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Gemini 3.7 Flash",
+          "fetched_at": "2026-09-07T11:28:51Z",
+          "id": "gemini-3.7-flash",
+          "knowledge": "2026-03",
+          "last_updated": "2026-08-13",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "video",
+              "audio",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 65536,
+          "pricing": {
+            "cache_read": 0.075,
+            "input": 0.75,
+            "input_audio": 0.75,
+            "output": 3.75
+          },
+          "release_date": "2026-08-13",
+          "source": "agy-ok+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1048576,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Gemini 3.6 Flash",
+          "fetched_at": "2026-09-07T11:28:51Z",
+          "id": "gemini-3.6-flash",
+          "knowledge": "2026-03",
+          "last_updated": "2026-07-21",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "video",
+              "audio",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 65536,
+          "pricing": {
+            "cache_read": 0.075,
+            "input": 0.75,
+            "input_audio": 0.75,
+            "output": 3.75
+          },
+          "release_date": "2026-07-21",
+          "source": "agy-ok+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": null,
+          "default_tier": "high",
+          "deprecated": false,
+          "display_name": "Gemini 3.1 Pro",
+          "fetched_at": "2026-09-07T11:28:51Z",
+          "id": "gemini-3.1-pro",
+          "knowledge": null,
+          "last_updated": null,
+          "migration": null,
+          "modalities": null,
+          "output_tokens": null,
+          "pricing": null,
+          "release_date": null,
+          "source": "agy-ok+models.dev",
+          "tiers": [
+            "low",
+            "high"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1000000,
+          "default_tier": "",
+          "deprecated": false,
+          "display_name": "Claude Sonnet 4.6 (Thinking)",
+          "fetched_at": "2026-09-07T11:28:51Z",
+          "id": "claude-sonnet-4-6",
+          "knowledge": "2025-08-31",
+          "last_updated": "2026-03-13",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.3,
+            "cache_write": 3.75,
+            "input": 3,
+            "output": 15
+          },
+          "release_date": "2026-02-17",
+          "source": "agy-ok+models.dev",
+          "tiers": [],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": null,
+          "default_tier": "",
+          "deprecated": false,
+          "display_name": "Claude Opus 4.6 (Thinking)",
+          "fetched_at": "2026-09-07T11:28:51Z",
+          "id": "claude-opus-4-6-thinking",
+          "knowledge": null,
+          "last_updated": null,
+          "migration": null,
+          "modalities": null,
+          "output_tokens": null,
+          "pricing": null,
+          "release_date": null,
+          "source": "agy-ok+models.dev",
+          "tiers": [],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": null,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "GPT-OSS 120B",
+          "fetched_at": "2026-09-07T11:28:51Z",
+          "id": "gpt-oss-120b",
+          "knowledge": null,
+          "last_updated": null,
+          "migration": null,
+          "modalities": null,
+          "output_tokens": null,
+          "pricing": null,
+          "release_date": null,
+          "source": "agy-ok+models.dev",
+          "tiers": [
+            "medium"
+          ],
+          "visible": true
+        }
+      ],
+      "tier_options": [
+        "low",
+        "medium",
+        "high"
+      ]
+    },
+    "claude": {
+      "aliases": {
+        "best": "fable",
+        "default": "claude-opus-5[1m]",
+        "fable": "claude-fable-5-1",
+        "haiku": "claude-haiku-4-5",
+        "opus": "claude-opus-5",
+        "opusplan": "opus",
+        "sonnet": "claude-sonnet-5"
+      },
+      "binary": "claude",
+      "cli": "claude",
+      "default_model": "claude-opus-5[1m]",
+      "default_tier": "medium",
+      "dispatch": {
+        "notes": "Reads paths in the working directory; cannot write files headless.",
+        "reads_workspace": true
+      },
+      "models": [
+        {
+          "aliases": [
+            "opus",
+            "opusplan"
+          ],
+          "context_window": 1000000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Claude Opus 5",
+          "fetched_at": "2026-09-07T11:28:48Z",
+          "id": "claude-opus-5",
+          "knowledge": "2026-05",
+          "last_updated": "2026-07-24",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.5,
+            "cache_write": 6.25,
+            "input": 5,
+            "output": 25
+          },
+          "release_date": "2026-07-24",
+          "source": "claude-binary+overlay+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [
+            "default",
+            "opus",
+            "opusplan"
+          ],
+          "context_window": 1000000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Claude Opus 5 [1M]",
+          "fetched_at": "2026-09-07T11:28:48Z",
+          "id": "claude-opus-5[1m]",
+          "knowledge": "2026-05",
+          "last_updated": "2026-07-24",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.5,
+            "cache_write": 6.25,
+            "input": 5,
+            "output": 25
+          },
+          "release_date": "2026-07-24",
+          "source": "claude-binary+overlay+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [
+            "sonnet"
+          ],
+          "context_window": 1000000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Claude Sonnet 5",
+          "fetched_at": "2026-09-07T11:28:48Z",
+          "id": "claude-sonnet-5",
+          "knowledge": "2026-01-31",
+          "last_updated": "2026-06-30",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.2,
+            "cache_write": 2.5,
+            "input": 2,
+            "output": 10
+          },
+          "release_date": "2026-06-29",
+          "source": "claude-binary+overlay+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [
+            "sonnet"
+          ],
+          "context_window": 1000000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Claude Sonnet 5 [1M]",
+          "fetched_at": "2026-09-07T11:28:48Z",
+          "id": "claude-sonnet-5[1m]",
+          "knowledge": "2026-01-31",
+          "last_updated": "2026-06-30",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.2,
+            "cache_write": 2.5,
+            "input": 2,
+            "output": 10
+          },
+          "release_date": "2026-06-29",
+          "source": "claude-binary+overlay+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [
+            "haiku"
+          ],
+          "context_window": 200000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Claude Haiku 4.5 (latest)",
+          "fetched_at": "2026-09-07T11:28:48Z",
+          "id": "claude-haiku-4-5",
+          "knowledge": "2025-02-28",
+          "last_updated": "2025-10-15",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 64000,
+          "pricing": {
+            "cache_read": 0.1,
+            "cache_write": 1.25,
+            "input": 1,
+            "output": 5
+          },
+          "release_date": "2025-10-15",
+          "source": "claude-binary+overlay+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1000000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Claude Fable 5",
+          "fetched_at": "2026-09-07T11:28:48Z",
+          "id": "claude-fable-5",
+          "knowledge": null,
+          "last_updated": "2026-06-09",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 1,
+            "cache_write": 12.5,
+            "input": 10,
+            "output": 50
+          },
+          "release_date": "2026-06-07",
+          "source": "claude-binary+overlay+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [
+            "best",
+            "fable"
+          ],
+          "context_window": 1000000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "Claude Fable 5.1",
+          "fetched_at": "2026-09-07T11:28:48Z",
+          "id": "claude-fable-5-1",
+          "knowledge": "2026-06",
+          "last_updated": "2026-09-01",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.25,
+            "cache_write": 12.5,
+            "input": 10,
+            "output": 50
+          },
+          "release_date": "2026-09-01",
+          "source": "claude-binary+overlay+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        }
+      ],
+      "tier_options": [
+        "low",
+        "medium",
+        "high",
+        "xhigh",
+        "max"
+      ]
+    },
+    "codex": {
+      "aliases": {},
+      "binary": "codex",
+      "cli": "codex",
+      "default_model": "gpt-6-astra",
+      "default_tier": "medium",
+      "dispatch": {
+        "notes": "Point it at paths in the working directory; it reads, greps and runs tests on its own.",
+        "prompt_arg_limit_bytes": 100000,
+        "reads_workspace": true
+      },
+      "model_string_format": "{model} {tier}",
+      "models": [
+        {
+          "aliases": [],
+          "context_window": 1050000,
+          "default_tier": "low",
+          "deprecated": false,
+          "display_name": "GPT-6-Astra",
+          "fetched_at": "2026-09-07T11:27:28.752952695Z",
+          "id": "gpt-6-astra",
+          "knowledge": "2026-04-30",
+          "last_updated": "2026-09-04",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 1,
+            "cache_write": 12.5,
+            "context_over_200k": {
+              "cache_read": 2,
+              "cache_write": 25,
+              "input": 20,
+              "output": 75
+            },
+            "input": 10,
+            "output": 50,
+            "tiers": [
+              {
+                "cache_read": 2,
+                "cache_write": 25,
+                "input": 20,
+                "output": 75,
+                "tier": {
+                  "size": 272000,
+                  "type": "context"
+                }
+              }
+            ]
+          },
+          "release_date": "2026-09-04",
+          "source": "codex-cache+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max",
+            "ultra"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1050000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "GPT-5.6-Sol",
+          "fetched_at": "2026-09-07T11:27:28.752952695Z",
+          "id": "gpt-5.6-sol",
+          "knowledge": "2026-02-16",
+          "last_updated": "2026-07-09",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.4,
+            "cache_write": 5,
+            "context_over_200k": {
+              "cache_read": 0.8,
+              "cache_write": 10,
+              "input": 8,
+              "output": 30
+            },
+            "input": 4,
+            "output": 20,
+            "tiers": [
+              {
+                "cache_read": 0.8,
+                "cache_write": 10,
+                "input": 8,
+                "output": 30,
+                "tier": {
+                  "size": 272000,
+                  "type": "context"
+                }
+              }
+            ]
+          },
+          "release_date": "2026-07-09",
+          "source": "codex-cache+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max",
+            "ultra"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1050000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "GPT-5.6-Terra",
+          "fetched_at": "2026-09-07T11:27:28.752952695Z",
+          "id": "gpt-5.6-terra",
+          "knowledge": "2026-02-16",
+          "last_updated": "2026-07-09",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.2,
+            "cache_write": 2.5,
+            "context_over_200k": {
+              "cache_read": 0.4,
+              "cache_write": 5,
+              "input": 4,
+              "output": 18
+            },
+            "input": 2,
+            "output": 12,
+            "tiers": [
+              {
+                "cache_read": 0.4,
+                "cache_write": 5,
+                "input": 4,
+                "output": 18,
+                "tier": {
+                  "size": 272000,
+                  "type": "context"
+                }
+              }
+            ]
+          },
+          "release_date": "2026-07-09",
+          "source": "codex-cache+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max",
+            "ultra"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1050000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "GPT-5.6-Luna",
+          "fetched_at": "2026-09-07T11:27:28.752952695Z",
+          "id": "gpt-5.6-luna",
+          "knowledge": "2026-02-16",
+          "last_updated": "2026-07-09",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.02,
+            "cache_write": 0.25,
+            "context_over_200k": {
+              "cache_read": 0.04,
+              "cache_write": 0.5,
+              "input": 0.4,
+              "output": 1.8
+            },
+            "input": 0.2,
+            "output": 1.2,
+            "tiers": [
+              {
+                "cache_read": 0.04,
+                "cache_write": 0.5,
+                "input": 0.4,
+                "output": 1.8,
+                "tier": {
+                  "size": 272000,
+                  "type": "context"
+                }
+              }
+            ]
+          },
+          "release_date": "2026-07-09",
+          "source": "codex-cache+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh",
+            "max"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 1050000,
+          "default_tier": "xhigh",
+          "deprecated": false,
+          "display_name": "GPT-5.5",
+          "fetched_at": "2026-09-07T11:27:28.752952695Z",
+          "id": "gpt-5.5",
+          "knowledge": "2025-12-01",
+          "last_updated": "2026-04-23",
+          "migration": null,
+          "modalities": {
+            "input": [
+              "text",
+              "image",
+              "pdf"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.5,
+            "context_over_200k": {
+              "cache_read": 1,
+              "input": 10,
+              "output": 45
+            },
+            "input": 5,
+            "output": 30,
+            "tiers": [
+              {
+                "cache_read": 1,
+                "input": 10,
+                "output": 45,
+                "tier": {
+                  "size": 272000,
+                  "type": "context"
+                }
+              }
+            ]
+          },
+          "release_date": "2026-04-23",
+          "source": "codex-cache+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh"
+          ],
+          "visible": true
+        },
+        {
+          "aliases": [],
+          "context_window": 400000,
+          "default_tier": "medium",
+          "deprecated": false,
+          "display_name": "GPT-5.4-Mini",
+          "fetched_at": "2026-09-07T11:27:28.752952695Z",
+          "id": "gpt-5.4-mini",
+          "knowledge": "2025-08-31",
+          "last_updated": "2026-03-17",
+          "migration": "gpt-5.6-luna",
+          "modalities": {
+            "input": [
+              "text",
+              "image"
+            ],
+            "output": [
+              "text"
+            ]
+          },
+          "output_tokens": 128000,
+          "pricing": {
+            "cache_read": 0.075,
+            "input": 0.75,
+            "output": 4.5
+          },
+          "release_date": "2026-03-17",
+          "source": "codex-cache+models.dev",
+          "tiers": [
+            "low",
+            "medium",
+            "high",
+            "xhigh"
+          ],
+          "visible": true
+        }
+      ],
+      "tier_options": [
+        "low",
+        "medium",
+        "high",
+        "xhigh",
+        "max",
+        "ultra"
+      ]
+    }
+  },
+  "schema_version": "1.0",
+  "sources": {
+    "agy": {
+      "fetched_at": "2026-09-07T11:28:51Z",
+      "message": "14 models from `agy models` (live)",
+      "status": "OK"
+    },
+    "claude": {
+      "message": "alias map extracted from installed binary (5 aliases)",
+      "status": "OK"
+    },
+    "claude-docs": {
+      "fetched_at": "2026-09-07T11:28:49Z",
+      "message": "vendor default claude-opus-5[1m] for account type 'max' (fetched)",
+      "status": "OK"
+    },
+    "codex": {
+      "client_version": "0.153.4",
+      "etag": "W/\"d65f94eb0e216f61e050d0f5a6c98c47\"",
+      "fetched_at": "2026-09-07T11:27:28.752952695Z",
+      "message": "6 models from ~/.codex/models_cache.json",
+      "status": "OK"
+    },
+    "models.dev": {
+      "etag": "W/\"90dd03699342814920dd7a03673abceb\"",
+      "fetched_at": "2026-09-07T11:28:48Z",
+      "message": "fetched",
+      "source": "models.dev",
+      "status": "OK"
+    },
+    "overlay": {
+      "version": "2026-08-29"
+    }
+  }
+}

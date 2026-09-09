@@ -1,0 +1,35 @@
+{
+  "contact_id": 363,
+  "status": "ok",
+  "seconds": 5.5,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Náhradní baterie DMW-BLG10 pro Panasonic Lumix DMC-GH3/G5",
+      "Širokoúhlý objektiv Panasonic Lumix G pro Micro Four Thirds, 7–14 mm nebo 12 mm",
+      "Ochranný UV filtr 58 mm pro objektivy Panasonic Lumix G"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-363 (anonymizováno). Názvy produktů česky.\nNákupní historie (31 nákupů, od nejstaršího):\n- 2010-11-20 ★2 Sigma 28-300 mm f/3,5-6,3 DG IF Macro asférický objektiv pro zrcadlovky Minolta a Sony\n- 2010-11-22 ★5 Digitální fotoaparát Fujifilm Finepix S100fs s rozlišením 11,1 MP, 14,3x širokoúhlým objektivem a duální stabilizací obr\n- 2010-11-22 ★4 Sony Alpha DSLR-A550 14.2MP Digital SLR Camera (Body Only)\n- 2010-11-30 ★4 Digitální zrcadlovka Pentax K-r 12,4 MP s 3,0palcovým LCD displejem a objektivy 18–55 mm f/3,5–5,6 a 55–300 mm f/4–5,8 (\n- 2011-01-01 ★3 Kruhový polarizátor Tiffen 46 mm\n- 2011-01-08 ★5 Hoya 58mm HMC kruhový polarizační filtr s vícevrstvou vrstvou skla\n- 2011-07-21 ★4 Digitální zrcadlovka Sony Alpha A230L s rozlišením 10,2 MP, stabilizací obrazu Super SteadyShot INSIDE a objektivem 18–5\n- 2011-07-27 ★5 Digitální zrcadlovka Pentax K-5 16,3 MP s 3palcovým LCD displejem (pouze černé tělo)\n- 2011-08-04 ★5 Nové velké pouzdro/brašna na fotoaparát pro digitální zrcadlovky značek CANON, NIKON, SONY, SAMSUNG, PENTAX, KODAK, PANA\n- 2011-08-09 ★3 Tamron AF 28-300mm f/3.5-6.3 XR Di LD Aspherical (IF) Macro Ultra Zoom Lens for Canon Digital SLR Cameras (Model A061E)\n- 2011-08-27 ★5 Panasonic DMC-FZ150K 12.1 MP Digital Camera with CMOS Sensor and 24x Optical Zoom (Black)\n- 2011-08-30 ★3 Tamron AF 18-200 mm f/3,5-6,3 XR Di II LD asférický (IF) makro zoom objektiv pro digitální zrcadlovky Canon (model A14E)\n- 2012-02-27 ★5 Náhradní baterie pro Panasonic Lumix DMC-FZ150/DMC-FZ60 - Prémiová baterie DMW-BMB9\n- 2012-07-25 ★3 Digitální zrcadlovka Nikon D3200 s 24,2MP CMOS snímačem a objektivem NIKKOR AF-S DX VR se zoomem 18–55 mm f/3,5–5,6 (čer\n- 2012-08-08 ★3 Olympus TG-1iHS 12MP vodotěsný digitální fotoaparát se 4x optickým zoomem\n- 2012-08-27 ★4 Panasonic Lumix ZS15 12,1MP vysoce citlivý digitální MOS fotoaparát s 16x optickým zoomem (stříbrný)\n- 2012-08-31 ★4 Sada baterií pro digitální fotoaparáty Panasonic Lumix DMC-ZS7, DMC-ZS10, DMC-ZS8, DMC-ZS9, DMC-3D1, DMC-ZS20, DMC-ZS15,\n- 2012-11-17 ★5 Kabel StarTech.com USB Easy Transfer pro upgrade na Windows 7 (USB2LINK)\n- 2012-11-22 ★1 17,3palcový notebook HP Envy dv7-7250us\n- 2012-11-28 ★2 Flash disk SanDisk Cruzer 4GB USB 2.0, balení bez problémů – SDCZ36-004G-AFFP\n- 2013-07-31 ★4 Digitální fotoaparát Panasonic Lumix DMC-LF1 12 MP (černý)\n- 2013-10-07 ★2 Ochranné pouzdro FlexArmor na digitální fotoaparát – kompatibilní s fotoaparáty Panasonic Lumix DMC-LF1, DMC-ZS30, DMC-T\n- 2013-10-17 ★4 Flash disk Patriot 32GB Supersonic Rage Series USB 3.0 s rychlostí až 180 MB/s - PEF32GSRUSB\n- 2013-10-21 ★2 Objektiv Panasonic 45-200 mm f/4,0-5,6 Lumix G Vario MEGA OIS s zoomem a technologií Micro Four Thirds pro fotoaparáty P\n- 2013-10-21 ★3 Kompaktní systémový fotoaparát Panasonic DMC-G5KK s rozlišením 16 MP, zoomovým objektivem 14–42 mm a 3palcovým LCD displ\n- 2013-11-14 ★4 Kompaktní fotoaparát Olympus OM-D E-M1 s 16MP a 3palcovým LCD displejem – pouze tělo\n- 2013-11-19 ★4 Panasonic Lumix DMC-GH3K 16,05MP digitální bezzrcadlovka s jedním objektivem a 3palcovým OLED displejem – pouze tělo (če\n- 2013-11-20 ★4 Objektiv Panasonic Lumix G X Vario PZ 45-175 mm/F4.0-5.6 pro digitální fotoaparáty Panasonic Lumix řady G\n- 2014-02-13 ★4 Objektiv Panasonic H-FS100300 Lumix G Vario 100-300mm F/4.0-5.6 MEGA O.I.S.\n- 2014-06-12 ★5 Goja 49-58MM Step-Up Adapter Ring (49MM Lens to 58MM Accessory) + Premium MagicFiber Microfiber Cleaning Cloth\n- 2014-06-12 ★2 Digitální fotoaparát Panasonic DMC-ZS40K s 3palcovým LCD displejem (černý)\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Náhradní baterie DMW-BLG10 pro Panasonic Lumix DMC-GH3/G5",
+      "Širokoúhlý objektiv Panasonic Lumix G pro Micro Four Thirds, 7–14 mm nebo 12 mm",
+      "Ochranný UV filtr 58 mm pro objektivy Panasonic Lumix G"
+    ]
+  },
+  "held_out": "B00007LI9D"
+}

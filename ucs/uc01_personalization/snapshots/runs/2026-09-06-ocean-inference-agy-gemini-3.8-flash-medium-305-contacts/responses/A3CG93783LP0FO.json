@@ -1,0 +1,40 @@
+{
+  "contact_id": 99,
+  "reviewer_id": "A3CG93783LP0FO",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 181,
+  "reviews_used": 15,
+  "prompt_chars": 10072,
+  "status": "ok",
+  "seconds": 349.9,
+  "error": "",
+  "profile": {
+    "O": 3.45,
+    "C": 4.25,
+    "E": 3.25,
+    "A": 4.2,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I rarely used the manual settings other than Aperture Priority to get a blurred background. Intelligent Auto (iA) is normally where I leave the setting anyhow.",
+      "C": "I hesitated to order a TV where I'd never heard of the brand name, so I did a little research beforehand.",
+      "E": "WOW! Fastest camera I've ever owned, not only on start-up, but SUPER fast shutter response, and fast recycling to take the next photo.",
+      "A": "See below for iPod/iPhone info. I don't have either myself but this may be important to YOU.",
+      "N": "(I have taken some grainy photos while playing around with it, but they were my fault due to low light without the flash being up)."
+    }
+  },
+  "raw": {
+    "A": 4.2,
+    "C": 4.25,
+    "E": 3.25,
+    "N": 2.1,
+    "O": 3.45,
+    "evidence_quotes": {
+      "A": "See below for iPod/iPhone info. I don't have either myself but this may be important to YOU.",
+      "C": "I hesitated to order a TV where I'd never heard of the brand name, so I did a little research beforehand.",
+      "E": "WOW! Fastest camera I've ever owned, not only on start-up, but SUPER fast shutter response, and fast recycling to take the next photo.",
+      "N": "(I have taken some grainy photos while playing around with it, but they were my fault due to low light without the flash being up).",
+      "O": "I rarely used the manual settings other than Aperture Priority to get a blurred background. Intelligent Auto (iA) is normally where I leave the setting anyhow."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contact_id": 358,
+  "status": "ok",
+  "seconds": 5.74,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Sluchátkový zesilovač/DAC pro náročná sluchátka s vysokou impedancí",
+      "Náhradní náušníky pro Beyerdynamic DT 880",
+      "Přenosný přehrávač hudby s podporou bezztrátových formátů a sluchátkovým výstupem"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-358 (anonymizováno). Názvy produktů česky.\nNákupní historie (11 nákupů, od nejstaršího):\n- 2010-09-30 ★5 Otevřená dynamická audiofilská sluchátka Audio Technica ATH-AD700\n- 2010-12-01 ★5 Sluchátka JVC HAFX67B Air Cushion (černá) (Ukončeno výrobcem)\n- 2010-12-06 ★5 Prémiová sluchátka Beyerdynamic DT 880 (250 ohmů)\n- 2011-01-02 ★5 Vysoce výkonná sluchátka přes uši Denon AHD2000 (výrobce ukončil výrobu)\n- 2011-02-01 ★5 Přehrávač kompaktních disků TEAC CD-P650 s rozhraním USB a digitálním rozhraním iPod (černý)\n- 2011-02-22 ★5 Profesionální sluchátka Ultrasone PRO 900 S-Logic Surround Sound - černá\n- 2011-03-21 ★5 Audio Technica ATH-AD900 Audiophile Open-air dynamická sluchátka\n- 2011-05-10 ★5 Sluchátka Sennheiser HD 598 (s akcenty z burlového dřeva)\n- 2011-08-05 ★5 HiFiMan - Sluchátka HE-500\n- 2012-02-01 ★5 Sluchátka Sennheiser PX 100-II On Ear Mini (černá)\n- 2012-02-16 ★5 Univerzální sluchátka Westone se třemi měniči, černá (výrobce ukončil výrobu)\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Sluchátkový zesilovač/DAC pro náročná sluchátka s vysokou impedancí",
+      "Náhradní náušníky pro Beyerdynamic DT 880",
+      "Přenosný přehrávač hudby s podporou bezztrátových formátů a sluchátkovým výstupem"
+    ]
+  },
+  "held_out": "B007DCCK60"
+}

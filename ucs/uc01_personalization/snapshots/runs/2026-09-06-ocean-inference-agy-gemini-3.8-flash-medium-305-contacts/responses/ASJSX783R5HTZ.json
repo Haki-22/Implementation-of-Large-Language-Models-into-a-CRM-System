@@ -1,0 +1,40 @@
+{
+  "contact_id": 266,
+  "reviewer_id": "ASJSX783R5HTZ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 8777,
+  "status": "ok",
+  "seconds": 991.24,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.5,
+    "E": 3.25,
+    "A": 2.7,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "Images are smooth and buttery and bokeh just beautiful.",
+      "C": "I spent six hours testing my five lenses four times each.",
+      "E": "My studio is in a building with five other photographers in fairly close proximity, most of whom use PocketWizard gear.",
+      "A": "If the SpyderLensCal design wasn't so flawed, I would not mind so much paying $65 for a piece of plastic if the system actually worked.",
+      "N": "So, with gritted teeth, I parted with $60 for this model."
+    }
+  },
+  "raw": {
+    "A": 2.7,
+    "C": 4.5,
+    "E": 3.25,
+    "N": 3.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "If the SpyderLensCal design wasn't so flawed, I would not mind so much paying $65 for a piece of plastic if the system actually worked.",
+      "C": "I spent six hours testing my five lenses four times each.",
+      "E": "My studio is in a building with five other photographers in fairly close proximity, most of whom use PocketWizard gear.",
+      "N": "So, with gritted teeth, I parted with $60 for this model.",
+      "O": "Images are smooth and buttery and bokeh just beautiful."
+    }
+  }
+}

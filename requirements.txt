@@ -1,0 +1,190 @@
+# Standalone thesis prototype dependencies.
+# Versions are pinned to the stack used for the reported evaluation, not to the
+# newest releases. Test upgrades in a new environment and rerun the evaluation
+# before changing these pins or replacing the committed results.
+# Install: python3.12 -m venv .venv && source .venv/bin/activate && pip install -e .
+# (pyproject.toml reads this file, so that one command also makes the local packages importable)
+#
+# Optional steps after install (neither is needed for the page or the test suite):
+#   python -m spacy download en_core_web_lg            # only the Presidio comparator of UC-02
+#   pytest -q -m "not live"                            # offline suite; downloads the NER model once
+
+# ============================================================================
+# Core (mandatory for all UCs)
+# ============================================================================
+
+# Czech name generation and vocative case
+Faker==40.18.0
+vokativ==1.2.1
+
+# Async ORM + SQLite (UC-01 / UC-03 DB)
+sqlmodel==0.0.37
+SQLAlchemy==2.0.48
+aiosqlite==0.22.1
+
+# Text preprocessing for UC-01 lexical-signature builds
+simplemma==1.1.2
+scikit-learn==1.8.0
+nltk==3.9.1
+stopwordsiso==0.7.0
+
+# Text hygiene for substrate snapshots (mojibake repair, see utils/text_hygiene.py)
+ftfy==6.3.1
+
+# Pydantic models (prompt catalog + config schemas)
+pydantic==2.12.5
+pydantic-settings==2.13.1
+
+# CLI
+click==8.4.1
+
+# Testing
+pytest==9.0.2
+pytest-asyncio==1.3.0
+ruff==0.15.4  # static check: undefined names (tests/test_static_undefined_names.py)
+
+# ============================================================================
+# UC-02 detection stack (rule-based + 4 HuggingFace NER backends)
+# ============================================================================
+# Hybrid detection: checksummed rules plus NER fusion; the default is rules + bardsai EU-PII
+# (the measured table is ucs/uc02_pseudonymization/eval/RESULTS.md).
+# The models download from Hugging Face automatically on first use:
+#   - bardsai/eu-pii-anonimization-multilang  (Apache 2.0, ONNX INT8 via optimum)
+#   - knowledgator/gliner-x-large              (GLiNER package)
+#   - richielo/small-e-czech-finetuned-ner-wikiann
+#   - Presidio (analyzer + anonymizer; uses spacy en_core_web_lg internally)
+
+# Transformer stack
+transformers==4.57.6
+torch==2.12.0
+huggingface_hub==0.36.2
+sentence-transformers==5.5.1
+sentencepiece==0.2.1
+tokenizers>=0.20
+
+# ONNX runtime for bardsai INT8 model
+optimum==2.1.0
+optimum-onnx==0.1.0
+onnxruntime==1.26.0
+onnx==1.21.0
+
+# GLiNER NER backend
+gliner==0.2.26
+# GLiNER 2.5 (fastino/gliner2.5-multi-v1), a separate package next to gliner
+gliner2[local]==2.0.0
+
+# Microsoft Presidio (PII analyzer + anonymizer)
+presidio_analyzer==2.2.362
+presidio_anonymizer==2.2.362
+
+# SpaCy NLP engine (used by Presidio + NER smoke runners)
+# After pip install:  python -m spacy download en_core_web_lg
+spacy==3.8.14
+
+# Eval / metrics
+numpy==1.26.4
+seqeval==1.2.2
+datasets==4.8.5
+
+# ============================================================================
+# UC-03 MCP middleware + dictation
+# ============================================================================
+# The MCP server (FastMCP from the official SDK, evaluated with the 1.x pin below),
+# the chat client (drives a supported provider CLI as the MCP host), local speech to text
+# and the synthetic-audio eval. Dictation from the microphone needs PulseAudio's
+# `parec` binary on the system, not a Python package.
+
+# MCP server (FastMCP, SDK 1.x)
+mcp==1.27.1
+
+# FastAPI bridge for the DM frontend
+fastapi==0.135.1
+uvicorn==0.41.0
+
+# faster-whisper for local STT (default backend of stt.py)
+faster-whisper==1.2.1
+
+# WER / CER metrics (eval/run_synth_eval.py)
+jiwer==4.0.0
+
+# Optional cloud STT backends of stt.py (comparison only, behind THESIS_LLM_CALLS)
+SpeechRecognition==3.10.4
+google-cloud-speech==2.27.0
+
+# Synthetic Czech audio for the eval corpus (eval/generate_synth_audio.py)
+edge-tts==7.0.0
+imageio-ffmpeg==0.6.0
+
+# ============================================================================
+# UC-04 arena dependencies
+# ============================================================================
+# Classical baselines + LLM rerank arms.
+
+rank-bm25==0.2.2
+xgboost==2.1.3
+scipy==1.14.1
+pandas==2.2.3
+matplotlib==3.9.3
+# The classical arms the runs of record used; each run's config.json records the versions.
+implicit==0.7.3        # ALS collaborative filtering (arms/als_cf.py, facts.py)
+lightgbm==4.6.0        # gradient-boosted feature arm (arms/lightgbm_features.py)
+# Apriori rules (arms/apriori_rules.py). The record ran mlxtend 0.24.0, which declares
+# numpy>=2.3.5, scipy>=1.16.3 and pandas>=2.3.3 and so cannot be installed next to the
+# pins above; 0.23.4 exposes the same apriori / association_rules API and reproduced the
+# record's Apriori hits in a fresh clone (checked 2026-09-09).
+mlxtend==0.23.4
+
+# ============================================================================
+# Substrate translation pipeline (Czech localisation of Amazon catalog)
+# ============================================================================
+
+google-cloud-translate==3.18.0
+
+# ============================================================================
+# Attachments (attachments/tokenizer_fertility.py)
+# ============================================================================
+# Tokenizer vocabularies for the fertility table; fetched once, then cached locally.
+
+tiktoken==0.12.0
+
+# ============================================================================
+# Model catalog (utils/generation/catalog/) — regenerates the CLI model menus
+# ============================================================================
+# `python -m utils.generation.catalog update` fetches models.dev + the Claude docs
+# page (requests) and validates catalog.json (jsonschema). The committed outputs
+# need neither at run time.
+
+requests==2.32.5
+jsonschema==4.26.0
+
+# ============================================================================
+# Generation wrappers (utils/generation/api/vertex/*)
+# ============================================================================
+# Vertex Gemini wrapper uses the Google service-account flow + httpx; .env
+# autoloading is opt-in inside the wrapper and requires python-dotenv when used.
+
+google-auth==2.35.0
+httpx==0.28.1
+python-dotenv==1.0.1
+
+# ============================================================================
+# Separate-venv components (NOT installed by this file)
+# ============================================================================
+# NameTag 3 — the recorded separate environment uses datasets 3.0.x, torch 2.8.x
+# and transformers 4.53.x, while the evaluated main stack uses 4.8.5, 2.12.0 and
+# 4.57.6. A newer shared stack may work, but it has not been evaluated; adopting
+# one would require rerunning the full UC-02 evaluation.
+# From the project root (historical environment setup; assets are also required):
+#   python3.12 -m venv .venv-nametag3
+#   .venv-nametag3/bin/pip install \
+#       -r ucs/uc02_pseudonymization/eval/fusion_refresh/venv-nametag3-snapshot.txt
+#   plus the NameTag 3 model and code assets from LINDAT; the helper that fetched
+#   them is not part of this export (see ucs/uc02_pseudonymization/README.md).
+# These snapshots and predictions belong to the frozen May evaluation. Its harness
+# does not run against the current package; see
+# ucs/uc02_pseudonymization/eval/fusion_refresh/README.md for the original-code
+# and corpus requirements. A new corpus needs new predictions.
+#
+# OpenAI Privacy Filter — Transformers 5 conflicts with the main ONNX stack's
+# transformers<4.58 requirement. It was evaluated as a standalone smoke
+# comparator, outside the integrated 11-configuration full-corpus run.

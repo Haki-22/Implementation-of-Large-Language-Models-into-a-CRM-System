@@ -1,0 +1,35 @@
+{
+  "contact_id": 416,
+  "status": "ok",
+  "seconds": 6.23,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Bluetooth over-ear headphones with iOS microphone controls",
+      "Dual-band Wi-Fi range extender compatible with 802.11ac routers",
+      "Lightning charging cable for Apple iPhone and iPod"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Customer C-416 (anonymised). Product titles in English.\nPurchase history (57 purchases, oldest first):\n- 2006-10-20 ★1 Cisco-Linksys WMP54GS Wireless-G PCI Card with SpeedBooster\n- 2006-10-20 ★5 D-Link DWL-G510 Wireless PCI Adapter, 802.11g, 54 Mbps\n- 2008-10-25 ★3 NETGEAR Wireless Router - N300 (WNR2000)\n- 2008-11-26 ★4 PC Clean Machine Personal PC Concierge Service\n- 2008-12-16 ★4 Macally PowerLink Emergency Battery Pack with 2 GB Pen Drive for iPod and iPhone (Black)\n- 2008-12-30 ★5 Definitive Technology ProCenter 1000 Compact Center Speaker (Single, Black)\n- 2009-01-05 ★3 Microsoft LifeCam Show Webcam (Black)\n- 2009-05-26 ★4 Woodees IESW100B Inner Earphone with Microphone - 1 Pack - Retail Packaging - Black\n- 2009-05-28 ★5 Actiontec MegaPlug A/V 200 Mbps Powerline Network Adapter Kit (White)\n- 2009-07-07 ★5 Canon VIXIA HV40 High Definition Camcorder\n- 2009-07-26 ★4 KEF Universal Wireless System (Black) (Discontinued by Manufacturer)\n- 2009-09-22 ★4 Logitech Harmony 900 Rechargeable Remote with Color Touch Screen\n- 2009-09-24 ★4 Logitech Compact Speaker System Z320 for Notebooks\n- 2009-10-05 ★5 AmazonBasics 4.7 GB 16x DVD-R (100-Pack Spindle)\n- 2009-11-02 ★3 Philips DC190 iPod Docking Clock Radio\n- 2009-11-15 ★5 StarTech.com 12-Inch LP4 to 2x SATA Power Y Cable Adapter\n- 2009-11-29 ★5 Logitech Squeezebox Radio Music Player with Color Screen (Black) (Old Version)\n- 2010-02-17 ★2 Bowers & Wilkins Zeppelin Mini Docking Speaker for iPod\n- 2010-06-24 ★5 Verbatim Titan XS 500 GB USB 3.0 Portable External Hard Drive with Rugged Rubber Casing 97398 (Black)\n- 2010-12-06 ★4 GorillaPod Video Tripod (Black/Blue)\n- 2010-12-13 ★4 Magellan RoadMate 3030LM 4.7-Inch Portable GPS Navigator (Lifetime Map Updates Included)\n- 2010-12-16 ★4 Maxell 500 GB GENpro 2.5-Inch External Hard Drive 665208 (Black)\n- 2011-02-14 ★4 Giinii GH-8DNM 8-Inch Digital Picture Frame (Brown)\n- 2011-02-16 ★4 AmazonBasics Travel Adapter Kit for iPod, iPhone 3G, iPhone 3GS, and iPhone 4 (Black)\n- 2011-07-07 ★5 B004TKTOWC\n- 2011-07-08 ★4 AIAIAI TMA-1 DJ Headphones without Mic, Black\n- 2011-07-19 ★5 Belkin 12 Outlet Surge Protector With Telephone & Coax Protection\n- 2011-09-21 ★5 Belkin N300 Wireless USB Adapter (Latest Generation)\n- 2011-10-25 ★5 HP 2511x 25-Inch LED Monitor - Black\n- 2011-10-28 ★3 Bose OE2i Audio Headphones - Black\n- 2012-02-13 ★5 V-MODA Crossfade M-80 On-Ear Noise-Isolating Metal Headphone (Shadow)\n- 2012-03-02 ★3 Creative HN-900 Noise Cancelling Headphones\n- 2012-05-08 ★3 Philips PD7016/37 7-Inch Portable LCD Dual DVD Player\n- 2012-05-29 ★3 Philips SHL5605PP/28 CitiScape Downtown Headphones (Purple) (Discontinued by Manufacturer)\n- 2012-06-28 ★4 Sennheiser MM 450-X Wireless Bluetooth Headphones - Black\n- 2012-11-05 ★5 Seagate Backup Plus 3TB USB 3.0 Desktop External Hard Drive for Mac (STCB3000900)\n- 2012-11-05 ★3 Logitech Harmony Touch Universal Remote with Color Touchscreen - Black (915-000198)\n- 2013-01-02 ★3 Schlage WCO100NX N N SL Home Outdoor Camera with Nexia Home Intelligence (Z-Wave)\n- 2013-01-08 ★4 ACOUSTIC RESEARCH ARW300 2.1 Stereo Headphones (Discontinued by Manufacturer)\n- 2013-01-16 ★5 TP-LINK TL-WN951N Wireless N300 Advanced PCI Adapter, 2.4GHz 300Mbps, Include Low-profile Bracket\n- 2013-01-25 ★3 Belkin NetCam Wireless IP Camera for Tablet and Smartphone with Night Vision and Digital Audio\n- 2013-03-19 ★2 Belkin Pro 1000 2-Way HDMI Switch (Supports HDMI 2.0)\n- 2013-03-19 ★4 Belkin High Speed HDMI Cable, Supports HDMI 2.0 (10 Feet)\n- 2013-04-02 ★3 V-MODA Bass Freq Metal In-Ear Noise-Isolating Headphone (Gunmetal Black) (Discontinued by Manufacturer)\n- 2013-04-05 ★4 TP-LINK TL-WPA281 300Mbps Wireless N Powerline Adapter, 2.4Ghz N300 Adapter, 802.11b/g/n\n- 2013-04-05 ★3 TP-LINK TL-WDR4300 Wireless N750 Dual Band Router, Gigabit, 2.4GHz 300Mbps+5Ghz 450Mbps, 2 USB port, Wireless On/Off Swi\n- 2013-04-08 ★5 TP-LINK TL-WN722N Wireless N150 High Gain USB Adapter, 150Mbps, 4dBi External Antenna, WPS Button, Support Windows XP/Vi\n- 2013-05-28 ★5 D-Link Wireless AC 1750 Mbps Home Cloud App-Enabled Dual-Band Gigabit Router (DIR-865L)\n- 2013-06-28 ★3 Diamond Multimedia 300Mbps 802.11n Wireless Repeater Range Extender with Wireless Access Point and Wireless Bridge Devic\n- 2013-07-08 ★5 D-Link DCS-930L mydlink-Enabled Wireless-N Network Camera\n- 2013-08-27 ★4 AKG K619BLK Premium DJ Headphones with In-Line Remote and Microphone, Black\n- 2014-01-02 ★3 B00DQZT0AC\n- 2014-01-31 ★4 B00DULMXTW\n- 2014-02-18 ★4 Onkyo ES-CTI300(BS) On-Ear Headphones with Control Talk for iOS Devices with Hi-Fi Cable - Black/Silver\n- 2014-03-04 ★5 AmazonBasics USB A to Lightning compatible Cable - Apple Certified - White (6 Feet/1.8 Meters)\n- 2014-04-07 ★4 B00HPM1G8Q\n- 2014-06-06 ★4 SMS Audio STREET by 50 First Edition Star Wars On Ear Headphones Boba Fett\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Bluetooth over-ear headphones with iOS microphone controls",
+      "Dual-band Wi-Fi range extender compatible with 802.11ac routers",
+      "Lightning charging cable for Apple iPhone and iPod"
+    ]
+  },
+  "held_out": "B00K91DB7Y"
+}

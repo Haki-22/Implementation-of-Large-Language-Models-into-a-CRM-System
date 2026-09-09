@@ -1,0 +1,70 @@
+table,key,value,meaning
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,date,2026-09-06,den běhu
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,model,agy / gemini-3.8-flash / medium,"provider, model, úroveň uvažování"
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,prompt_version,1.2.0,"verze promptu (BFI-2, výstup vynucený schématem)"
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,targets,20,cílených kontaktů
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,ok,20,profilů uvnitř 1 až 5
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,failed,0,selhaných volání
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,skipped,0,přeskočeno (bez recenzí)
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,wall_seconds,113.2,stěna při souběhu 4
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,calls_per_minute,10.6,propustnost
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,median_prompt_chars,9760,medián znaků recenzí v promptu
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts,reviews_cap,15 × 600,recenzí na kontakt × znaků na recenzi
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,date,2026-09-06,den běhu
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,model,agy / gemini-3.8-flash / medium,"provider, model, úroveň uvažování"
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,prompt_version,1.2.0,"verze promptu (BFI-2, výstup vynucený schématem)"
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,targets,100,cílených kontaktů
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,ok,100,profilů uvnitř 1 až 5
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,failed,0,selhaných volání
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,skipped,0,přeskočeno (bez recenzí)
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,wall_seconds,483.8,stěna při souběhu 4
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,calls_per_minute,12.4,propustnost
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,median_prompt_chars,9861,medián znaků recenzí v promptu
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts,reviews_cap,15 × 600,recenzí na kontakt × znaků na recenzi
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,date,2026-09-06,den běhu
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,model,agy / gemini-3.8-flash / medium,"provider, model, úroveň uvažování"
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,prompt_version,1.2.0,"verze promptu (BFI-2, výstup vynucený schématem)"
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,targets,305,cílených kontaktů
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,ok,305,profilů uvnitř 1 až 5
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,failed,0,selhaných volání
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,skipped,0,přeskočeno (bez recenzí)
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,wall_seconds,1480.1,stěna při souběhu 4
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,calls_per_minute,12.4,propustnost
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,median_prompt_chars,9776,medián znaků recenzí v promptu
+run:2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts,reviews_cap,15 × 600,recenzí na kontakt × znaků na recenzi
+profiles,A:n,300,profilů ve skupině
+profiles,A:O,4.12 ± 0.18,"otevřenost, průměr ± sd"
+profiles,A:C,4.21 ± 0.23,"svědomitost, průměr ± sd"
+profiles,A:E,3.36 ± 0.27,"extraverze, průměr ± sd"
+profiles,A:A,3.68 ± 0.41,"přívětivost, průměr ± sd"
+profiles,A:N,2.55 ± 0.44,"neuroticismus, průměr ± sd"
+profiles,B:n,50,profilů ve skupině
+profiles,B:O,4.12 ± 0.20,"otevřenost, průměr ± sd"
+profiles,B:C,4.30 ± 0.18,"svědomitost, průměr ± sd"
+profiles,B:E,3.31 ± 0.36,"extraverze, průměr ± sd"
+profiles,B:A,3.67 ± 0.36,"přívětivost, průměr ± sd"
+profiles,B:N,2.51 ± 0.42,"neuroticismus, průměr ± sd"
+profiles,C:n,75,profilů ve skupině
+profiles,C:O,4.17 ± 0.13,"otevřenost, průměr ± sd"
+profiles,C:C,4.23 ± 0.22,"svědomitost, průměr ± sd"
+profiles,C:E,3.30 ± 0.31,"extraverze, průměr ± sd"
+profiles,C:A,3.62 ± 0.37,"přívětivost, průměr ± sd"
+profiles,C:N,2.63 ± 0.44,"neuroticismus, průměr ± sd"
+profiles,all:n,425,profilů celkem
+profiles,all:O,4.13 ± 0.17,"otevřenost, průměr ± sd"
+profiles,all:C,4.22 ± 0.23,"svědomitost, průměr ± sd"
+profiles,all:E,3.35 ± 0.29,"extraverze, průměr ± sd"
+profiles,all:A,3.67 ± 0.40,"přívětivost, průměr ± sd"
+profiles,all:N,2.56 ± 0.44,"neuroticismus, průměr ± sd"
+may_2026,overlap,62,lidí s profilem v květnovém i novém běhu
+may_2026,O:mean_abs_diff,0.2,"otevřenost, průměrná absolutní odchylka nový − květen"
+may_2026,O:mean_diff,-0.16,"otevřenost, průměrná odchylka nový − květen (znaménko)"
+may_2026,C:mean_abs_diff,0.29,"svědomitost, průměrná absolutní odchylka nový − květen"
+may_2026,C:mean_diff,-0.28,"svědomitost, průměrná odchylka nový − květen (znaménko)"
+may_2026,E:mean_abs_diff,0.24,"extraverze, průměrná absolutní odchylka nový − květen"
+may_2026,E:mean_diff,-0.17,"extraverze, průměrná odchylka nový − květen (znaménko)"
+may_2026,A:mean_abs_diff,0.21,"přívětivost, průměrná absolutní odchylka nový − květen"
+may_2026,A:mean_diff,-0.12,"přívětivost, průměrná odchylka nový − květen (znaménko)"
+may_2026,N:mean_abs_diff,0.24,"neuroticismus, průměrná absolutní odchylka nový − květen"
+may_2026,N:mean_diff,0.18,"neuroticismus, průměrná odchylka nový − květen (znaménko)"
+may_2026,max_abs_diff,0.75,největší odchylka jednoho rysu

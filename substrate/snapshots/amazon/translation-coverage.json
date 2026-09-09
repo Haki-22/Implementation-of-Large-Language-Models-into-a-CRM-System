@@ -1,0 +1,3408 @@
+{
+  "_schema": {
+    "version": "1.0",
+    "source": "build_clean_snapshots.py"
+  },
+  "rows": [
+    {
+      "reviewerID": "A12DQZKRKTNF5E",
+      "group": "A",
+      "en_reviews": 216,
+      "cz_reviews": 0,
+      "lost": 216,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A1ODOGXEYECQQ8",
+      "group": "A",
+      "en_reviews": 333,
+      "cz_reviews": 0,
+      "lost": 333,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A1WUQF5HWBAQJU",
+      "group": "B",
+      "en_reviews": 56,
+      "cz_reviews": 0,
+      "lost": 56,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A23ZNGL704AW7O",
+      "group": "B",
+      "en_reviews": 84,
+      "cz_reviews": 0,
+      "lost": 84,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A2L0F2T1DLTNT8",
+      "group": "B",
+      "en_reviews": 59,
+      "cz_reviews": 0,
+      "lost": 59,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A2LXX47A0KMJVX",
+      "group": "B",
+      "en_reviews": 79,
+      "cz_reviews": 0,
+      "lost": 79,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A2VODABWSVHV8E",
+      "group": "B",
+      "en_reviews": 79,
+      "cz_reviews": 0,
+      "lost": 79,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A34CSXOGVYF94S",
+      "group": "B",
+      "en_reviews": 73,
+      "cz_reviews": 0,
+      "lost": 73,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A3A4ZAIBQWKOZS",
+      "group": "A",
+      "en_reviews": 216,
+      "cz_reviews": 0,
+      "lost": 216,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A3BACUOZV1M0WM",
+      "group": "B",
+      "en_reviews": 76,
+      "cz_reviews": 0,
+      "lost": 76,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A3CP1WGNTOSKDA",
+      "group": "B",
+      "en_reviews": 38,
+      "cz_reviews": 0,
+      "lost": 38,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "AAK6SOEJY30YG",
+      "group": "B",
+      "en_reviews": 48,
+      "cz_reviews": 0,
+      "lost": 48,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "AGVWTYW0ULXHT",
+      "group": "A",
+      "en_reviews": 224,
+      "cz_reviews": 0,
+      "lost": 224,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "AXU3VKZE848IY",
+      "group": "B",
+      "en_reviews": 75,
+      "cz_reviews": 0,
+      "lost": 75,
+      "loss_ratio": 1.0
+    },
+    {
+      "reviewerID": "A36K2N527TXXJN",
+      "group": "A",
+      "en_reviews": 281,
+      "cz_reviews": 3,
+      "lost": 278,
+      "loss_ratio": 0.9893
+    },
+    {
+      "reviewerID": "A5JLAU2ARJ0BO",
+      "group": "A",
+      "en_reviews": 351,
+      "cz_reviews": 7,
+      "lost": 344,
+      "loss_ratio": 0.9801
+    },
+    {
+      "reviewerID": "AYNAH993VDECT",
+      "group": "B",
+      "en_reviews": 77,
+      "cz_reviews": 5,
+      "lost": 72,
+      "loss_ratio": 0.9351
+    },
+    {
+      "reviewerID": "A3D7BGK0P5QY0X",
+      "group": "B",
+      "en_reviews": 46,
+      "cz_reviews": 3,
+      "lost": 43,
+      "loss_ratio": 0.9348
+    },
+    {
+      "reviewerID": "AIBRTGBN07D6A",
+      "group": "B",
+      "en_reviews": 68,
+      "cz_reviews": 15,
+      "lost": 53,
+      "loss_ratio": 0.7794
+    },
+    {
+      "reviewerID": "A1EXGL6L0QQ0M5",
+      "group": "A",
+      "en_reviews": 183,
+      "cz_reviews": 59,
+      "lost": 124,
+      "loss_ratio": 0.6776
+    },
+    {
+      "reviewerID": "A2UOHALGF2X77Q",
+      "group": "A",
+      "en_reviews": 211,
+      "cz_reviews": 69,
+      "lost": 142,
+      "loss_ratio": 0.673
+    },
+    {
+      "reviewerID": "AMUP8DYE7EAN2",
+      "group": "B",
+      "en_reviews": 81,
+      "cz_reviews": 31,
+      "lost": 50,
+      "loss_ratio": 0.6173
+    },
+    {
+      "reviewerID": "A2XRMQA6PJ5ZJ8",
+      "group": "A",
+      "en_reviews": 227,
+      "cz_reviews": 120,
+      "lost": 107,
+      "loss_ratio": 0.4714
+    },
+    {
+      "reviewerID": "A1BJOHHLG0D965",
+      "group": "B",
+      "en_reviews": 69,
+      "cz_reviews": 45,
+      "lost": 24,
+      "loss_ratio": 0.3478
+    },
+    {
+      "reviewerID": "A3NHUQ33CFH3VM",
+      "group": "A",
+      "en_reviews": 183,
+      "cz_reviews": 151,
+      "lost": 32,
+      "loss_ratio": 0.1749
+    },
+    {
+      "reviewerID": "AVBLGXSWRN666",
+      "group": "B",
+      "en_reviews": 68,
+      "cz_reviews": 59,
+      "lost": 9,
+      "loss_ratio": 0.1324
+    },
+    {
+      "reviewerID": "A35Q0RBM3YNQNF",
+      "group": "B",
+      "en_reviews": 82,
+      "cz_reviews": 73,
+      "lost": 9,
+      "loss_ratio": 0.1098
+    },
+    {
+      "reviewerID": "ARBKYIVNYWK3C",
+      "group": "A",
+      "en_reviews": 267,
+      "cz_reviews": 251,
+      "lost": 16,
+      "loss_ratio": 0.0599
+    },
+    {
+      "reviewerID": "AN81JUYW2SL24",
+      "group": "A",
+      "en_reviews": 184,
+      "cz_reviews": 182,
+      "lost": 2,
+      "loss_ratio": 0.0109
+    },
+    {
+      "reviewerID": "A100UD67AHFODS",
+      "group": "A",
+      "en_reviews": 102,
+      "cz_reviews": 102,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A100WO06OQR8BQ",
+      "group": "A",
+      "en_reviews": 121,
+      "cz_reviews": 121,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A108XABRHAA9E7",
+      "group": "C",
+      "en_reviews": 39,
+      "cz_reviews": 39,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A10PEXB6XAQ5XF",
+      "group": "A",
+      "en_reviews": 105,
+      "cz_reviews": 105,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A10Y058K7B96C6",
+      "group": "A",
+      "en_reviews": 113,
+      "cz_reviews": 113,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A10ZFE6YE0UHW8",
+      "group": "A",
+      "en_reviews": 120,
+      "cz_reviews": 120,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A11D1KHM7DVOQK",
+      "group": "C",
+      "en_reviews": 56,
+      "cz_reviews": 56,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A11FX8HL2ANK6T",
+      "group": "C",
+      "en_reviews": 60,
+      "cz_reviews": 60,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A11I1I9QLMAM1A",
+      "group": "A",
+      "en_reviews": 185,
+      "cz_reviews": 185,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A11KZ906QD08C5",
+      "group": "A",
+      "en_reviews": 184,
+      "cz_reviews": 184,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A11OTLEDSW8ZXD",
+      "group": "A",
+      "en_reviews": 85,
+      "cz_reviews": 85,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A11T807LX2EF00",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A12B7ZMXFI6IXY",
+      "group": "C",
+      "en_reviews": 46,
+      "cz_reviews": 46,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A149RNR5RH19YY",
+      "group": "A",
+      "en_reviews": 114,
+      "cz_reviews": 114,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A14JBDSWKPKTZA",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A15QYHQH80W30L",
+      "group": "A",
+      "en_reviews": 122,
+      "cz_reviews": 122,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A15T9G38F589KM",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A16QODENBJVUI1",
+      "group": "A",
+      "en_reviews": 99,
+      "cz_reviews": 99,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A17BUUBOU0598B",
+      "group": "A",
+      "en_reviews": 228,
+      "cz_reviews": 228,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A17HMM1M7T9PJ1",
+      "group": "A",
+      "en_reviews": 131,
+      "cz_reviews": 131,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A17V9XL4CWTQ6G",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A18FLOC8YQY0P8",
+      "group": "A",
+      "en_reviews": 109,
+      "cz_reviews": 109,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A18HE80910BTZI",
+      "group": "A",
+      "en_reviews": 163,
+      "cz_reviews": 163,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A18S2VGUH9SCV5",
+      "group": "A",
+      "en_reviews": 142,
+      "cz_reviews": 142,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A18U9BQQQ0U8F5",
+      "group": "C",
+      "en_reviews": 37,
+      "cz_reviews": 37,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A195EZSQDW3E21",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A197T2N6RU7K56",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A19UTUEBWKIZFT",
+      "group": "A",
+      "en_reviews": 97,
+      "cz_reviews": 97,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A19W47CXJJP1MI",
+      "group": "A",
+      "en_reviews": 186,
+      "cz_reviews": 186,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A19X4BF861LQST",
+      "group": "A",
+      "en_reviews": 87,
+      "cz_reviews": 87,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A19XMHRB3G4DIR",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1ATVMMJZP3Q4X",
+      "group": "C",
+      "en_reviews": 58,
+      "cz_reviews": 58,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1B4MIXYVIKMU2",
+      "group": "A",
+      "en_reviews": 103,
+      "cz_reviews": 103,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1BT6TL7UCIC5Y",
+      "group": "A",
+      "en_reviews": 152,
+      "cz_reviews": 152,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1C5WS021EL3WO",
+      "group": "A",
+      "en_reviews": 88,
+      "cz_reviews": 88,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1CMD08Z49PGKQ",
+      "group": "A",
+      "en_reviews": 190,
+      "cz_reviews": 190,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1CPRP3VFJRS1R",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1CWE28BRV6JP0",
+      "group": "C",
+      "en_reviews": 32,
+      "cz_reviews": 32,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1D27BCSYV7VWH",
+      "group": "C",
+      "en_reviews": 44,
+      "cz_reviews": 44,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1E1LEVQ9VQNK",
+      "group": "A",
+      "en_reviews": 182,
+      "cz_reviews": 182,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1E3OB6QMBKRYZ",
+      "group": "C",
+      "en_reviews": 49,
+      "cz_reviews": 49,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1EH2S92FHWZRP",
+      "group": "A",
+      "en_reviews": 180,
+      "cz_reviews": 180,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1EKSETIBS9ETQ",
+      "group": "A",
+      "en_reviews": 124,
+      "cz_reviews": 124,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1EVV74UQYVKRY",
+      "group": "A",
+      "en_reviews": 182,
+      "cz_reviews": 182,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1F1A0QQP2XVH5",
+      "group": "A",
+      "en_reviews": 170,
+      "cz_reviews": 170,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1F50KG7O9A0JD",
+      "group": "C",
+      "en_reviews": 20,
+      "cz_reviews": 20,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1F7YU6O5RU432",
+      "group": "A",
+      "en_reviews": 149,
+      "cz_reviews": 149,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1F9Z42CFF9IAY",
+      "group": "A",
+      "en_reviews": 192,
+      "cz_reviews": 192,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1G650TTTHEAL5",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1GBT4UN2RW7XY",
+      "group": "A",
+      "en_reviews": 85,
+      "cz_reviews": 85,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1GPGBHBI6T2HJ",
+      "group": "C",
+      "en_reviews": 35,
+      "cz_reviews": 35,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1H0D7635GEEJ1",
+      "group": "C",
+      "en_reviews": 45,
+      "cz_reviews": 45,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1ILWPH1GHUXE2",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1IU7S4HCK1XK0",
+      "group": "A",
+      "en_reviews": 122,
+      "cz_reviews": 122,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1J5HIF41ENSMZ",
+      "group": "C",
+      "en_reviews": 61,
+      "cz_reviews": 61,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1J5IDFDIXRAQU",
+      "group": "C",
+      "en_reviews": 12,
+      "cz_reviews": 12,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1J75JJ0Q2OEJN",
+      "group": "A",
+      "en_reviews": 199,
+      "cz_reviews": 199,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1JE04PMENX23K",
+      "group": "C",
+      "en_reviews": 35,
+      "cz_reviews": 35,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1JUBRIZMO0RJV",
+      "group": "A",
+      "en_reviews": 97,
+      "cz_reviews": 97,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1JZFGZEZVWQPY",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1KKE6VX8VPWZK",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1L64KDYO5BOJA",
+      "group": "A",
+      "en_reviews": 100,
+      "cz_reviews": 100,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1LAGS8H4A2DR7",
+      "group": "C",
+      "en_reviews": 60,
+      "cz_reviews": 60,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1MRPX3RM48T2I",
+      "group": "A",
+      "en_reviews": 110,
+      "cz_reviews": 110,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1MZL91Z44RN06",
+      "group": "A",
+      "en_reviews": 116,
+      "cz_reviews": 116,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1N5FSCYN4796F",
+      "group": "A",
+      "en_reviews": 124,
+      "cz_reviews": 124,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1NB945QH1SSJ9",
+      "group": "B",
+      "en_reviews": 22,
+      "cz_reviews": 22,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1NGFGBX2VCQS8",
+      "group": "A",
+      "en_reviews": 135,
+      "cz_reviews": 135,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1O229NVVDJUX2",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1OMXVXXP07F05",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1OZA52DFY3SHD",
+      "group": "C",
+      "en_reviews": 45,
+      "cz_reviews": 45,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1P0JSFW184ZXJ",
+      "group": "A",
+      "en_reviews": 116,
+      "cz_reviews": 116,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1QNYLBG73QRNF",
+      "group": "A",
+      "en_reviews": 88,
+      "cz_reviews": 88,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1QOK9LU90ACF7",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1QQA7Y92L4F9R",
+      "group": "B",
+      "en_reviews": 75,
+      "cz_reviews": 75,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1QVFHPY8418HC",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1R377IPZOKLMM",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1RGK6Q5WUZUBA",
+      "group": "C",
+      "en_reviews": 35,
+      "cz_reviews": 35,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1RL1OTV8IJMVD",
+      "group": "A",
+      "en_reviews": 135,
+      "cz_reviews": 135,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1RPTVW5VEOSI",
+      "group": "A",
+      "en_reviews": 134,
+      "cz_reviews": 134,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1S88XU6PWCTUD",
+      "group": "C",
+      "en_reviews": 27,
+      "cz_reviews": 27,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1SB9BNNGKNX2Z",
+      "group": "A",
+      "en_reviews": 106,
+      "cz_reviews": 106,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1T1YSCDW0PD25",
+      "group": "A",
+      "en_reviews": 204,
+      "cz_reviews": 204,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1TQZUSOU22E9M",
+      "group": "A",
+      "en_reviews": 112,
+      "cz_reviews": 112,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1U5IJHJK84S54",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1U5NWJOYH2QQH",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1UQBFCERIP7VJ",
+      "group": "A",
+      "en_reviews": 228,
+      "cz_reviews": 228,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1URXSRV6WDHVY",
+      "group": "A",
+      "en_reviews": 122,
+      "cz_reviews": 122,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1V3TRGWOMA8LC",
+      "group": "A",
+      "en_reviews": 92,
+      "cz_reviews": 92,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1V4VVBQBFXRHC",
+      "group": "A",
+      "en_reviews": 113,
+      "cz_reviews": 113,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1VFX417XDNWIU",
+      "group": "B",
+      "en_reviews": 83,
+      "cz_reviews": 83,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1VHCO8RQFIGQJ",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1VLVWTLV3LVHR",
+      "group": "B",
+      "en_reviews": 55,
+      "cz_reviews": 55,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1VQHH85U7PX0",
+      "group": "A",
+      "en_reviews": 189,
+      "cz_reviews": 189,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1VTCSCH8FFC76",
+      "group": "A",
+      "en_reviews": 109,
+      "cz_reviews": 109,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1W415JP5WEAJK",
+      "group": "A",
+      "en_reviews": 108,
+      "cz_reviews": 108,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1WXG10FJ353K0",
+      "group": "A",
+      "en_reviews": 85,
+      "cz_reviews": 85,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1X1CEGHTHMBL1",
+      "group": "A",
+      "en_reviews": 160,
+      "cz_reviews": 160,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1YEPFLLH42OU1",
+      "group": "A",
+      "en_reviews": 141,
+      "cz_reviews": 141,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1Z16630QMH8Q6",
+      "group": "A",
+      "en_reviews": 88,
+      "cz_reviews": 88,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1ZCSSCAGBCD49",
+      "group": "A",
+      "en_reviews": 112,
+      "cz_reviews": 112,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1ZM846Y7AUYD",
+      "group": "B",
+      "en_reviews": 66,
+      "cz_reviews": 66,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A1ZU55TM45Y2R8",
+      "group": "A",
+      "en_reviews": 156,
+      "cz_reviews": 156,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A203OCQQ12MAVT",
+      "group": "A",
+      "en_reviews": 162,
+      "cz_reviews": 162,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A20DDH4NT6Q1E8",
+      "group": "A",
+      "en_reviews": 124,
+      "cz_reviews": 124,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A20DZX38KRBIT8",
+      "group": "A",
+      "en_reviews": 156,
+      "cz_reviews": 156,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A20OBCQWBKCGZT",
+      "group": "A",
+      "en_reviews": 113,
+      "cz_reviews": 113,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A20VG5W98SX99L",
+      "group": "B",
+      "en_reviews": 77,
+      "cz_reviews": 77,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A20WS8TZ5840ND",
+      "group": "C",
+      "en_reviews": 37,
+      "cz_reviews": 37,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A213J54E63SYOP",
+      "group": "A",
+      "en_reviews": 101,
+      "cz_reviews": 101,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A21Q9JVG4SII51",
+      "group": "C",
+      "en_reviews": 53,
+      "cz_reviews": 53,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A225G2TFM76GYX",
+      "group": "A",
+      "en_reviews": 140,
+      "cz_reviews": 140,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A22CW0ZHY3NJH8",
+      "group": "A",
+      "en_reviews": 255,
+      "cz_reviews": 255,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A22I55P15NSAOX",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A22MANL4US4RMY",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A22S7D0LP8GRDH",
+      "group": "A",
+      "en_reviews": 96,
+      "cz_reviews": 96,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A231WM2Z2JL0U3",
+      "group": "A",
+      "en_reviews": 162,
+      "cz_reviews": 162,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A23GFTVIETX7DS",
+      "group": "A",
+      "en_reviews": 241,
+      "cz_reviews": 241,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A23NSKTMSPPBTR",
+      "group": "A",
+      "en_reviews": 110,
+      "cz_reviews": 110,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A23ONMGKEWDG4M",
+      "group": "A",
+      "en_reviews": 96,
+      "cz_reviews": 96,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A23QII83UGZP5U",
+      "group": "B",
+      "en_reviews": 60,
+      "cz_reviews": 60,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A23R3EOZ837242",
+      "group": "C",
+      "en_reviews": 60,
+      "cz_reviews": 60,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A244CRJ2QSVLZ4",
+      "group": "C",
+      "en_reviews": 43,
+      "cz_reviews": 43,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A24HWYHR28JJ7A",
+      "group": "A",
+      "en_reviews": 114,
+      "cz_reviews": 114,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A24J2Y1O22JYZX",
+      "group": "C",
+      "en_reviews": 52,
+      "cz_reviews": 52,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2503LT8PZIHAD",
+      "group": "A",
+      "en_reviews": 100,
+      "cz_reviews": 100,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A250AXLRBVYKB4",
+      "group": "A",
+      "en_reviews": 178,
+      "cz_reviews": 178,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A259MPG6SOL02P",
+      "group": "A",
+      "en_reviews": 87,
+      "cz_reviews": 87,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A25C2M3QF9G7OQ",
+      "group": "A",
+      "en_reviews": 261,
+      "cz_reviews": 261,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A25FL6VLD7S23S",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A25QJBK33C4O0R",
+      "group": "B",
+      "en_reviews": 84,
+      "cz_reviews": 84,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A25UZ7MA72SMKM",
+      "group": "A",
+      "en_reviews": 106,
+      "cz_reviews": 106,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A268EEWUXYCA8Q",
+      "group": "C",
+      "en_reviews": 44,
+      "cz_reviews": 44,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A26KXNN6H1IL0I",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A27ADCSD15F3GL",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A27DDHWHE540I5",
+      "group": "C",
+      "en_reviews": 40,
+      "cz_reviews": 40,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A27H0T39U3FZB5",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A27M75LRSJ788H",
+      "group": "A",
+      "en_reviews": 92,
+      "cz_reviews": 92,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A27QXQQOLAMRRR",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A28UMA3GW9L124",
+      "group": "A",
+      "en_reviews": 133,
+      "cz_reviews": 133,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A294SHLWPSG1BP",
+      "group": "C",
+      "en_reviews": 35,
+      "cz_reviews": 35,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2AC6GQ24S45GA",
+      "group": "C",
+      "en_reviews": 57,
+      "cz_reviews": 57,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2AF0NOCM71J0B",
+      "group": "A",
+      "en_reviews": 102,
+      "cz_reviews": 102,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2ARDVMUGDFED6",
+      "group": "A",
+      "en_reviews": 121,
+      "cz_reviews": 121,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2AWVROFGSZU4E",
+      "group": "C",
+      "en_reviews": 28,
+      "cz_reviews": 28,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2AY4YUOX2N1BQ",
+      "group": "A",
+      "en_reviews": 228,
+      "cz_reviews": 228,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2B7BUH8834Y6M",
+      "group": "A",
+      "en_reviews": 115,
+      "cz_reviews": 115,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2BLFCOPSMBOZ9",
+      "group": "A",
+      "en_reviews": 159,
+      "cz_reviews": 159,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2BMZRO0H7TFCS",
+      "group": "A",
+      "en_reviews": 189,
+      "cz_reviews": 189,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2BX8DDQGCCG2J",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2BYV7S1QP2YIG",
+      "group": "A",
+      "en_reviews": 120,
+      "cz_reviews": 120,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2D1LPEUCTNT8X",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2DG63DN704LOI",
+      "group": "A",
+      "en_reviews": 106,
+      "cz_reviews": 106,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2DKQQIZ793AV5",
+      "group": "B",
+      "en_reviews": 59,
+      "cz_reviews": 59,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2F0E69BAX0T0T",
+      "group": "C",
+      "en_reviews": 34,
+      "cz_reviews": 34,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2F7CSE6KT7NI4",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2FRKEXDXDN1KI",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2HMF8ZR67BNZS",
+      "group": "A",
+      "en_reviews": 119,
+      "cz_reviews": 119,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2HRHF83I3NDGT",
+      "group": "A",
+      "en_reviews": 121,
+      "cz_reviews": 121,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2HXE29CU1I24Y",
+      "group": "C",
+      "en_reviews": 39,
+      "cz_reviews": 39,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2I18AO597DSDI",
+      "group": "B",
+      "en_reviews": 59,
+      "cz_reviews": 59,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2I357I10ZY7CI",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2I60HCAVEF3RC",
+      "group": "C",
+      "en_reviews": 32,
+      "cz_reviews": 32,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2IFGGXG3YV3Y6",
+      "group": "A",
+      "en_reviews": 101,
+      "cz_reviews": 101,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2J8T58Z4X15IO",
+      "group": "A",
+      "en_reviews": 103,
+      "cz_reviews": 103,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2JE071UW97J2A",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2JMJVNTBL7K7E",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2JP9E1H0SF392",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2K5RRMPICZ606",
+      "group": "C",
+      "en_reviews": 37,
+      "cz_reviews": 37,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2K767PO8Y3944",
+      "group": "C",
+      "en_reviews": 19,
+      "cz_reviews": 19,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2KHG3JOFXQ4CE",
+      "group": "B",
+      "en_reviews": 70,
+      "cz_reviews": 70,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2KOV8XWZOZ0FQ",
+      "group": "A",
+      "en_reviews": 137,
+      "cz_reviews": 137,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2KYRPDKVBI2R4",
+      "group": "A",
+      "en_reviews": 142,
+      "cz_reviews": 142,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2LB4FLRZG6CUV",
+      "group": "A",
+      "en_reviews": 99,
+      "cz_reviews": 99,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2LCE1D0TW2XY0",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2LEIANN1UZTHP",
+      "group": "C",
+      "en_reviews": 42,
+      "cz_reviews": 42,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2LW5AL0KQ9P1M",
+      "group": "A",
+      "en_reviews": 99,
+      "cz_reviews": 99,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2M14CFAMF8J7I",
+      "group": "C",
+      "en_reviews": 58,
+      "cz_reviews": 58,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2N75ADJSRW0AH",
+      "group": "C",
+      "en_reviews": 44,
+      "cz_reviews": 44,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2NB2E5DXE319Z",
+      "group": "A",
+      "en_reviews": 144,
+      "cz_reviews": 144,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2NOW4U7W3F7RI",
+      "group": "A",
+      "en_reviews": 241,
+      "cz_reviews": 241,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2NVQZ4Y7Y0J1R",
+      "group": "C",
+      "en_reviews": 60,
+      "cz_reviews": 60,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2NYK9KWFMJV4Y",
+      "group": "A",
+      "en_reviews": 159,
+      "cz_reviews": 159,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2OBDNQ5ZYU1L8",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2OKRGHIYTBQ6P",
+      "group": "A",
+      "en_reviews": 87,
+      "cz_reviews": 87,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2OWR5G2OAQF7C",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2PSD2R9A1CXG7",
+      "group": "A",
+      "en_reviews": 120,
+      "cz_reviews": 120,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2PZXXPGLXXKZU",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2Q2A6JKY95RTP",
+      "group": "C",
+      "en_reviews": 56,
+      "cz_reviews": 56,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2QI2NTDTMK2FV",
+      "group": "A",
+      "en_reviews": 96,
+      "cz_reviews": 96,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2QNS95WGN35G9",
+      "group": "C",
+      "en_reviews": 53,
+      "cz_reviews": 53,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2QRXQPHDMFCQV",
+      "group": "A",
+      "en_reviews": 123,
+      "cz_reviews": 123,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2R6RA8FRBS608",
+      "group": "A",
+      "en_reviews": 96,
+      "cz_reviews": 96,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2RGWCT6K2C3EZ",
+      "group": "C",
+      "en_reviews": 43,
+      "cz_reviews": 43,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2ROZACRW31PC2",
+      "group": "C",
+      "en_reviews": 51,
+      "cz_reviews": 51,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2RU4U1JZ3DMP5",
+      "group": "B",
+      "en_reviews": 82,
+      "cz_reviews": 82,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2S26YGSVXBCFL",
+      "group": "A",
+      "en_reviews": 104,
+      "cz_reviews": 104,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2SH6A32BE6NEV",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2SKEQT0WTB954",
+      "group": "A",
+      "en_reviews": 98,
+      "cz_reviews": 98,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2SPV96SGOEO2",
+      "group": "C",
+      "en_reviews": 58,
+      "cz_reviews": 58,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2TCHXH4SIN2OF",
+      "group": "B",
+      "en_reviews": 40,
+      "cz_reviews": 40,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2TZYC3TD9RIGQ",
+      "group": "C",
+      "en_reviews": 23,
+      "cz_reviews": 23,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2UWPPU5GZLMQZ",
+      "group": "A",
+      "en_reviews": 113,
+      "cz_reviews": 113,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2V1J3JT5OOZFO",
+      "group": "A",
+      "en_reviews": 92,
+      "cz_reviews": 92,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2V5M5EJPOD2IU",
+      "group": "A",
+      "en_reviews": 115,
+      "cz_reviews": 115,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2VW4FYZILSXF2",
+      "group": "B",
+      "en_reviews": 45,
+      "cz_reviews": 45,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2W9GX82SLKROQ",
+      "group": "A",
+      "en_reviews": 122,
+      "cz_reviews": 122,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2W9I628I6SE1U",
+      "group": "B",
+      "en_reviews": 80,
+      "cz_reviews": 80,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2WB7LZ595CR50",
+      "group": "A",
+      "en_reviews": 147,
+      "cz_reviews": 147,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2WC9NFLG57W4H",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2WLNSZ9U0T1S3",
+      "group": "A",
+      "en_reviews": 182,
+      "cz_reviews": 182,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2WPL6Y08K6ZQH",
+      "group": "B",
+      "en_reviews": 70,
+      "cz_reviews": 70,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2WW57XX2UVLM6",
+      "group": "A",
+      "en_reviews": 85,
+      "cz_reviews": 85,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2X8KN82L07RSK",
+      "group": "C",
+      "en_reviews": 54,
+      "cz_reviews": 54,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2XCCN239AR1XK",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2XPK6XCL0UH1S",
+      "group": "C",
+      "en_reviews": 50,
+      "cz_reviews": 50,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2Y3WWPUKIJ59I",
+      "group": "B",
+      "en_reviews": 77,
+      "cz_reviews": 77,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A2ZY49IDE6TY5I",
+      "group": "A",
+      "en_reviews": 110,
+      "cz_reviews": 110,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A303SNZ4AR7TDQ",
+      "group": "C",
+      "en_reviews": 41,
+      "cz_reviews": 41,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A30C8WHQ2CYFO4",
+      "group": "C",
+      "en_reviews": 41,
+      "cz_reviews": 41,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A30X750M8V1XXW",
+      "group": "A",
+      "en_reviews": 130,
+      "cz_reviews": 130,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A30XZK10EZN9V4",
+      "group": "A",
+      "en_reviews": 103,
+      "cz_reviews": 103,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A31N0XY2UTB25C",
+      "group": "A",
+      "en_reviews": 200,
+      "cz_reviews": 200,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3223W5IROMYTY",
+      "group": "B",
+      "en_reviews": 57,
+      "cz_reviews": 57,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3284KYDZ00BZA",
+      "group": "A",
+      "en_reviews": 107,
+      "cz_reviews": 107,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A32O5FZH994CNY",
+      "group": "A",
+      "en_reviews": 139,
+      "cz_reviews": 139,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A33775AIB1A664",
+      "group": "B",
+      "en_reviews": 68,
+      "cz_reviews": 68,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A33HIV8RXRDM88",
+      "group": "A",
+      "en_reviews": 110,
+      "cz_reviews": 110,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A33YZNZIRA3H97",
+      "group": "A",
+      "en_reviews": 118,
+      "cz_reviews": 118,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A34BZM6S9L7QI4",
+      "group": "A",
+      "en_reviews": 154,
+      "cz_reviews": 154,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A34C9AFFZOI45T",
+      "group": "A",
+      "en_reviews": 97,
+      "cz_reviews": 97,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A34UVV757IKPVB",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A34VRVI4CSI5RQ",
+      "group": "B",
+      "en_reviews": 75,
+      "cz_reviews": 75,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A353U0L2HAMSHV",
+      "group": "A",
+      "en_reviews": 111,
+      "cz_reviews": 111,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A36A1ZYZH8568P",
+      "group": "A",
+      "en_reviews": 118,
+      "cz_reviews": 118,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A36IHC0K68NS2",
+      "group": "A",
+      "en_reviews": 87,
+      "cz_reviews": 87,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A370XYLIZCSK1Y",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A376OJHLE6SU9Q",
+      "group": "A",
+      "en_reviews": 132,
+      "cz_reviews": 132,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A37CEYB95LK6R6",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A37IRE9GZ0CZ7I",
+      "group": "A",
+      "en_reviews": 88,
+      "cz_reviews": 88,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A37QUQPYFMR9Y9",
+      "group": "C",
+      "en_reviews": 33,
+      "cz_reviews": 33,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A38KK0SZYEH5UD",
+      "group": "A",
+      "en_reviews": 161,
+      "cz_reviews": 161,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A38NELQT98S4H8",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A38NHXL5257E3B",
+      "group": "A",
+      "en_reviews": 92,
+      "cz_reviews": 92,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A38RMU1Y5TDP9",
+      "group": "A",
+      "en_reviews": 244,
+      "cz_reviews": 244,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3977M5S0GIG5H",
+      "group": "A",
+      "en_reviews": 85,
+      "cz_reviews": 85,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3A8BQ0NVIUCRM",
+      "group": "C",
+      "en_reviews": 44,
+      "cz_reviews": 44,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3AG5QAT8L0I3R",
+      "group": "C",
+      "en_reviews": 51,
+      "cz_reviews": 51,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3AYSYSLHU26U9",
+      "group": "A",
+      "en_reviews": 231,
+      "cz_reviews": 231,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3BVN2QBNPBHCR",
+      "group": "A",
+      "en_reviews": 103,
+      "cz_reviews": 103,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3CG93783LP0FO",
+      "group": "A",
+      "en_reviews": 181,
+      "cz_reviews": 181,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3CW0ZLUO5X2B1",
+      "group": "A",
+      "en_reviews": 198,
+      "cz_reviews": 198,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3D0UM4ZD2CMAW",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3D5B2CBFNJB0K",
+      "group": "C",
+      "en_reviews": 53,
+      "cz_reviews": 53,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3DOPYDOS49I3T",
+      "group": "A",
+      "en_reviews": 98,
+      "cz_reviews": 98,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3DWO5RJDA430F",
+      "group": "A",
+      "en_reviews": 115,
+      "cz_reviews": 115,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3EXWV8FNSSFL6",
+      "group": "A",
+      "en_reviews": 250,
+      "cz_reviews": 250,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3EZEP0FX5BC1P",
+      "group": "A",
+      "en_reviews": 117,
+      "cz_reviews": 117,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3EZFFPVS34AMO",
+      "group": "A",
+      "en_reviews": 101,
+      "cz_reviews": 101,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3F3B6HY9RJI04",
+      "group": "A",
+      "en_reviews": 106,
+      "cz_reviews": 106,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3FEGTOLCWXSV4",
+      "group": "A",
+      "en_reviews": 148,
+      "cz_reviews": 148,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3FOSLM5G1BO63",
+      "group": "A",
+      "en_reviews": 103,
+      "cz_reviews": 103,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3FPSY1M6G7XIB",
+      "group": "A",
+      "en_reviews": 97,
+      "cz_reviews": 97,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3GVXKCTFN3YDN",
+      "group": "B",
+      "en_reviews": 76,
+      "cz_reviews": 76,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3H4S6YO9VNGDZ",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3HPCRD9RX351S",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3HR0ZZOFKQ97N",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3IOQ7NVVLAUEE",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3IY316DRNF5F2",
+      "group": "A",
+      "en_reviews": 101,
+      "cz_reviews": 101,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3J8A5L5AF5TX9",
+      "group": "A",
+      "en_reviews": 153,
+      "cz_reviews": 153,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3JUHP1E3WUHEA",
+      "group": "B",
+      "en_reviews": 67,
+      "cz_reviews": 67,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3L1VJMHFWONCB",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3L9E0YI7C5G0W",
+      "group": "A",
+      "en_reviews": 104,
+      "cz_reviews": 104,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3LDPF5FMB782Z",
+      "group": "C",
+      "en_reviews": 59,
+      "cz_reviews": 59,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3LGT6UZL99IW1",
+      "group": "A",
+      "en_reviews": 245,
+      "cz_reviews": 245,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3LWC833HQIG7J",
+      "group": "A",
+      "en_reviews": 108,
+      "cz_reviews": 108,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3MFORLOKIOEQY",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3MQAQT8C6D1I7",
+      "group": "C",
+      "en_reviews": 56,
+      "cz_reviews": 56,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3MU9G6YWKTGTA",
+      "group": "C",
+      "en_reviews": 40,
+      "cz_reviews": 40,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3N4VTNFPMTHEF",
+      "group": "A",
+      "en_reviews": 114,
+      "cz_reviews": 114,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3NEAETOSXDBOM",
+      "group": "A",
+      "en_reviews": 151,
+      "cz_reviews": 151,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3NGOG8Z78AZSD",
+      "group": "C",
+      "en_reviews": 47,
+      "cz_reviews": 47,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3NXJDNTQK2YJL",
+      "group": "C",
+      "en_reviews": 51,
+      "cz_reviews": 51,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3OA4DV4L81N1D",
+      "group": "A",
+      "en_reviews": 149,
+      "cz_reviews": 149,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3OXHLG6DIBRW8",
+      "group": "A",
+      "en_reviews": 407,
+      "cz_reviews": 407,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3PD8JD9L4WEII",
+      "group": "A",
+      "en_reviews": 204,
+      "cz_reviews": 204,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3Q4TYJVAM4IRM",
+      "group": "A",
+      "en_reviews": 121,
+      "cz_reviews": 121,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3QJU4FEN8PQSZ",
+      "group": "A",
+      "en_reviews": 115,
+      "cz_reviews": 115,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3QMJMTLJC34QC",
+      "group": "B",
+      "en_reviews": 78,
+      "cz_reviews": 78,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3QNQQKJTL76H0",
+      "group": "A",
+      "en_reviews": 159,
+      "cz_reviews": 159,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3R19YKNL641X3",
+      "group": "A",
+      "en_reviews": 115,
+      "cz_reviews": 115,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3R1WFO4KIUQXZ",
+      "group": "A",
+      "en_reviews": 131,
+      "cz_reviews": 131,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3R4794K2RVU1S",
+      "group": "A",
+      "en_reviews": 163,
+      "cz_reviews": 163,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3REK3OFONWB1Q",
+      "group": "A",
+      "en_reviews": 104,
+      "cz_reviews": 104,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3S3R88HA0HZG3",
+      "group": "A",
+      "en_reviews": 123,
+      "cz_reviews": 123,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3S5EXYZDEBF3K",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3SL0HA6422W4M",
+      "group": "B",
+      "en_reviews": 70,
+      "cz_reviews": 70,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3T4OHEAHOJ700",
+      "group": "A",
+      "en_reviews": 113,
+      "cz_reviews": 113,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3T7V207KRDE2O",
+      "group": "A",
+      "en_reviews": 169,
+      "cz_reviews": 169,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3TAS1AG6FMBQW",
+      "group": "A",
+      "en_reviews": 143,
+      "cz_reviews": 143,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3U41ZL33SS92P",
+      "group": "A",
+      "en_reviews": 169,
+      "cz_reviews": 169,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3V0YR50F1XSKP",
+      "group": "A",
+      "en_reviews": 88,
+      "cz_reviews": 88,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3V5F050GVZ56Q",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3V7D0LH8L7BG0",
+      "group": "A",
+      "en_reviews": 175,
+      "cz_reviews": 175,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3VBXQKRM7A4JR",
+      "group": "C",
+      "en_reviews": 61,
+      "cz_reviews": 61,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3VI2VETB90ZG5",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A3W4D8XOGLWUN5",
+      "group": "A",
+      "en_reviews": 124,
+      "cz_reviews": 124,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A4D5B7Q8A7PA6",
+      "group": "A",
+      "en_reviews": 100,
+      "cz_reviews": 100,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A4H4KYSM2KQ85",
+      "group": "C",
+      "en_reviews": 48,
+      "cz_reviews": 48,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A4U27URFECK1U",
+      "group": "B",
+      "en_reviews": 57,
+      "cz_reviews": 57,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A4WEZJOIZIV4U",
+      "group": "A",
+      "en_reviews": 202,
+      "cz_reviews": 202,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A506HOOCVL8GW",
+      "group": "A",
+      "en_reviews": 86,
+      "cz_reviews": 86,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A54S9CIUV5VNB",
+      "group": "A",
+      "en_reviews": 87,
+      "cz_reviews": 87,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A5KMMY627T3W",
+      "group": "A",
+      "en_reviews": 128,
+      "cz_reviews": 128,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A680RUE1FDO8B",
+      "group": "A",
+      "en_reviews": 352,
+      "cz_reviews": 352,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A6FIAB28IS79",
+      "group": "A",
+      "en_reviews": 367,
+      "cz_reviews": 367,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A6VPK7X53QNAQ",
+      "group": "A",
+      "en_reviews": 150,
+      "cz_reviews": 150,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A6VXZ1EEPRTLV",
+      "group": "A",
+      "en_reviews": 140,
+      "cz_reviews": 140,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A7FDGFK0KN7QG",
+      "group": "B",
+      "en_reviews": 48,
+      "cz_reviews": 48,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A7QMQBGJ2TCQG",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A84FLVDK2R5JF",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A8CKH8XB33XGN",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "A9Y5O2R4D6EH5",
+      "group": "A",
+      "en_reviews": 103,
+      "cz_reviews": 103,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AAA0TUKS5VBSA",
+      "group": "A",
+      "en_reviews": 90,
+      "cz_reviews": 90,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AAQ9NJ480N9W5",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ABDR6IJ93HFIO",
+      "group": "A",
+      "en_reviews": 152,
+      "cz_reviews": 152,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ABIVKBMSIPEDY",
+      "group": "A",
+      "en_reviews": 134,
+      "cz_reviews": 134,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ABQWMANK4AR63",
+      "group": "A",
+      "en_reviews": 171,
+      "cz_reviews": 171,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ABUWUTWYZ8V1R",
+      "group": "C",
+      "en_reviews": 28,
+      "cz_reviews": 28,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ABVYGB2TKBO8F",
+      "group": "A",
+      "en_reviews": 122,
+      "cz_reviews": 122,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AC1YLEFC9AN5X",
+      "group": "C",
+      "en_reviews": 58,
+      "cz_reviews": 58,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ACHTDPEQYSEQL",
+      "group": "B",
+      "en_reviews": 76,
+      "cz_reviews": 76,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ACJT8MUC0LRF0",
+      "group": "A",
+      "en_reviews": 126,
+      "cz_reviews": 126,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AD73VMNYB8XVX",
+      "group": "C",
+      "en_reviews": 43,
+      "cz_reviews": 43,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ADLVFFE4VBT8",
+      "group": "A",
+      "en_reviews": 431,
+      "cz_reviews": 431,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ADOR3TR7GDF68",
+      "group": "A",
+      "en_reviews": 92,
+      "cz_reviews": 92,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ADPKRJ2BSFJ0I",
+      "group": "C",
+      "en_reviews": 55,
+      "cz_reviews": 55,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AEGQWVR6KWBV",
+      "group": "C",
+      "en_reviews": 45,
+      "cz_reviews": 45,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AEJAGHLC675A7",
+      "group": "A",
+      "en_reviews": 210,
+      "cz_reviews": 210,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AEL6CQNQXONBX",
+      "group": "A",
+      "en_reviews": 123,
+      "cz_reviews": 123,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AENLD33KQ6MJ4",
+      "group": "B",
+      "en_reviews": 20,
+      "cz_reviews": 20,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AEWYUPCNDV7HY",
+      "group": "A",
+      "en_reviews": 147,
+      "cz_reviews": 147,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AFNG8O2DXRCUV",
+      "group": "A",
+      "en_reviews": 88,
+      "cz_reviews": 88,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AG35JCCQWDRCS",
+      "group": "A",
+      "en_reviews": 93,
+      "cz_reviews": 93,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AGGAQLXPVGM5D",
+      "group": "A",
+      "en_reviews": 101,
+      "cz_reviews": 101,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AGOH8N902URMW",
+      "group": "A",
+      "en_reviews": 119,
+      "cz_reviews": 119,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AGXMC3ITWZASE",
+      "group": "A",
+      "en_reviews": 91,
+      "cz_reviews": 91,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AHNHLGKIZ2N3B",
+      "group": "C",
+      "en_reviews": 61,
+      "cz_reviews": 61,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AHPV4F8IVSC39",
+      "group": "B",
+      "en_reviews": 28,
+      "cz_reviews": 28,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AHQRU3MRORIWQ",
+      "group": "A",
+      "en_reviews": 98,
+      "cz_reviews": 98,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AI0BCEWRE04G0",
+      "group": "B",
+      "en_reviews": 64,
+      "cz_reviews": 64,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AI8EMB0HUC6Z5",
+      "group": "A",
+      "en_reviews": 117,
+      "cz_reviews": 117,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AIJQU979J6UFY",
+      "group": "A",
+      "en_reviews": 152,
+      "cz_reviews": 152,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AKT8TGIT6VVZ5",
+      "group": "A",
+      "en_reviews": 87,
+      "cz_reviews": 87,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ALDAF4VVLFRHP",
+      "group": "A",
+      "en_reviews": 143,
+      "cz_reviews": 143,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ALYU98KL3VUGF",
+      "group": "C",
+      "en_reviews": 38,
+      "cz_reviews": 38,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AMS2CPERWN7JV",
+      "group": "A",
+      "en_reviews": 87,
+      "cz_reviews": 87,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AMVXR3NPL0GWX",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ANW6EGY12V5XS",
+      "group": "A",
+      "en_reviews": 129,
+      "cz_reviews": 129,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AO2EURP2Y4JZM",
+      "group": "C",
+      "en_reviews": 60,
+      "cz_reviews": 60,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AOEAD7DPLZE53",
+      "group": "A",
+      "en_reviews": 146,
+      "cz_reviews": 146,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AOEDWQLH2WKKW",
+      "group": "A",
+      "en_reviews": 125,
+      "cz_reviews": 125,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AOMEH9W6LHC4S",
+      "group": "A",
+      "en_reviews": 132,
+      "cz_reviews": 132,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AONUCJBC85BL",
+      "group": "A",
+      "en_reviews": 138,
+      "cz_reviews": 138,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "APBDZ88BBTN4F",
+      "group": "C",
+      "en_reviews": 54,
+      "cz_reviews": 54,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "APQQK1V695AUE",
+      "group": "C",
+      "en_reviews": 51,
+      "cz_reviews": 51,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AQIJ3ZEEVCIKU",
+      "group": "A",
+      "en_reviews": 164,
+      "cz_reviews": 164,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AR3EVUQF0AC7R",
+      "group": "A",
+      "en_reviews": 97,
+      "cz_reviews": 97,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AR74YY08IP2WE",
+      "group": "A",
+      "en_reviews": 107,
+      "cz_reviews": 107,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ARX7Z3NI6O0F7",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ARXU3FESTWMJJ",
+      "group": "A",
+      "en_reviews": 126,
+      "cz_reviews": 126,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ASCBJEPXTOU0V",
+      "group": "A",
+      "en_reviews": 99,
+      "cz_reviews": 99,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ASFP250F22MDZ",
+      "group": "C",
+      "en_reviews": 57,
+      "cz_reviews": 57,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ASJSX783R5HTZ",
+      "group": "A",
+      "en_reviews": 94,
+      "cz_reviews": 94,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ASR7145BJLFIW",
+      "group": "C",
+      "en_reviews": 44,
+      "cz_reviews": 44,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AT09WGFUM934H",
+      "group": "A",
+      "en_reviews": 95,
+      "cz_reviews": 95,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AT28RL25Q2OLK",
+      "group": "A",
+      "en_reviews": 173,
+      "cz_reviews": 173,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AT2J7H5TRZM8Z",
+      "group": "C",
+      "en_reviews": 36,
+      "cz_reviews": 36,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AT6CZDCP4TRGA",
+      "group": "A",
+      "en_reviews": 145,
+      "cz_reviews": 145,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "ATS2855497V0I",
+      "group": "A",
+      "en_reviews": 133,
+      "cz_reviews": 133,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AU5U16YWAIYZP",
+      "group": "B",
+      "en_reviews": 37,
+      "cz_reviews": 37,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AU90FZYTYG0FT",
+      "group": "C",
+      "en_reviews": 34,
+      "cz_reviews": 34,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AUCIFMWP3DU8R",
+      "group": "B",
+      "en_reviews": 65,
+      "cz_reviews": 65,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AUITG1DJ3QUGK",
+      "group": "B",
+      "en_reviews": 82,
+      "cz_reviews": 82,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AVAW0HU8BXXKT",
+      "group": "C",
+      "en_reviews": 33,
+      "cz_reviews": 33,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AVFJ327UXPXLF",
+      "group": "A",
+      "en_reviews": 99,
+      "cz_reviews": 99,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AVPNQUVZWMDSX",
+      "group": "A",
+      "en_reviews": 201,
+      "cz_reviews": 201,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AWNJAY0M5UI70",
+      "group": "A",
+      "en_reviews": 89,
+      "cz_reviews": 89,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AWPODHOB4GFWL",
+      "group": "A",
+      "en_reviews": 260,
+      "cz_reviews": 260,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AX7317G153T8W",
+      "group": "A",
+      "en_reviews": 105,
+      "cz_reviews": 105,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AX9FIZX89LNFQ",
+      "group": "C",
+      "en_reviews": 17,
+      "cz_reviews": 17,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AY6A8KPYCE6B0",
+      "group": "A",
+      "en_reviews": 111,
+      "cz_reviews": 111,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AYB4ELCS5AM8P",
+      "group": "A",
+      "en_reviews": 147,
+      "cz_reviews": 147,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AZ515FFZ7I2P7",
+      "group": "A",
+      "en_reviews": 127,
+      "cz_reviews": 127,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AZAC8O310IK4E",
+      "group": "A",
+      "en_reviews": 100,
+      "cz_reviews": 100,
+      "lost": 0,
+      "loss_ratio": 0.0
+    },
+    {
+      "reviewerID": "AZMY6E8B52L2T",
+      "group": "A",
+      "en_reviews": 161,
+      "cz_reviews": 161,
+      "lost": 0,
+      "loss_ratio": 0.0
+    }
+  ]
+}

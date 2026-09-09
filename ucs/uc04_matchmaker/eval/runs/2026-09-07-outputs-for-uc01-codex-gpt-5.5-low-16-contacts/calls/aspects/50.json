@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "50",
+  "status": "ok",
+  "seconds": 7.6,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "funkčnost",
+        "sentiment": "positive",
+        "evidence": "Co se týče nabíjení, vyzkoušel jsem každé zařízení, které jsem měl s možností nabíjení přes USB, a fungovalo to dobře."
+      },
+      {
+        "aspect": "přenosnost",
+        "sentiment": "positive",
+        "evidence": "Velmi přenosný a nabízí přesně ten správný náklon pro rychlejší a přesnější psaní."
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Spolehlivé, rychlé a kvalitně vyrobené."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Snadná instalace a použití."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "positive",
+        "evidence": "Perfektně pasuje na můj nový Surface Pro 3."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-50 (anonymizován).\nRecenze (190, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nInateck® 12W 5V/2,4A 1portová kompaktní USB nabíječka do zásuvky Přenosná USB nabíječka Univerzální cestovní nabíječka pro iPhone, Kindle, iPad, iPod, chytré telefony, 5V tablety, Bluetooth reproduktory a další zařízení napájená z USB: FUNGUJE TO! Vypadá hezky a prostě splyne s mými ostatními stolními zařízeními. Používám tohle na stolním počítači. Použil jsem pásku 3M k připevnění k externím držákům pevných disků. Na zadní straně má vypínač... ale já ho nechávám zapnutý. Nahoře má malé modré světlo, které svítí... takže víte, jestli je zapnutý nebo vypnutý. Co se týče nabíjení, vyzkoušel jsem každé zařízení, které jsem měl s možností nabíjení přes USB, a fungovalo to dobře. Zapojil jsem čtyři zařízení najednou a nechal je hodinu... vrátil jsem se a každé zařízení ukazovalo, že se nabíjí. Je fajn mít takové zařízení přímo na stole... jistě, k nabíjení můžu použít jakýkoli USB hub, ale někdy mě unavuje hledat hub, který je za monitorem. Toto malé zařízení vám umožňuje nabíjení přímo na stole ve formě, která splyne s okolím. Výborně. Jeden z nich jsem dostal zdarma.\nCestovní nabíječka NukePak Dual USB High Speed 3.1A 15W pro Apple iPad, nový iPad 3 4, iPhone 5 4s 4 3 3Gs, Samsung Motorola Android chytré telefony a tablety. Certifikováno UL (pouze nabíječka - Lightning ani jiné kabely nejsou součástí balení).: Pěkný. NukePak funguje bez problémů. Pěkný a přenosný. Líbí se mi, že mám v tašce malý rozměr...\nPřenosný pevný disk Seagate Backup Plus Slim 500GB se zálohováním mobilních zařízení USB 3.0 (STCD500102) - černý: Malý, ale velmi užitečný Funguje skvěle pro zálohování systému. Mám nastavené tři oddíly. Dva pro zálohování systému a jeden pro hudbu, Windows 8.1 to vidí a používá bez problémů. Žádné problémy. Malé rozměry a poměrně vysoká rychlost......\nErgonomický hliníkový přenosný skládací chladicí stojan X-Stand pro notebooky, notebooky a MacBooky s úhlopříčkou 12\"-17\": Splňuje svůj účel díky jednoduchému designu a kvalitnímu provedení. Velmi přenosný a nabízí přesně ten správný náklon pro rychlejší a přesnější psaní. Je celokovový... snadno se instaluje a snadno se přepravuje. Vynikající volba pro ty, kteří cestují.\nCase Logic QHDC-101 Portable EVA Hard Drive Case - Black: Funguje skvěle s 2TB pevným diskem Seagate. Pěkné a bezpečné úložiště pro přenosné pevné disky. Při použití s 2TB pevným diskem Seagate... spousta místa pro další věci...\nGoogle Nexus 10 (pouze Wi-Fi, 32 GB): Funguje to skvěle. Za poslední dva měsíce žádné problémy. Mám rád svůj Nexus. Výhodou pro mě je, že se nijak nenadýmá a neopotřebovává. Pouze základní Chrome OS. Rád si na něm čtu, protože písmo v Google Play se dá OBROVSKY zvětšit. Na rozdíl od jiných OS Chrome tuto funkci písma nabízí. Ve skutečnosti ji nabízí pouze Chrome. Všechny ostatní jsou silně omezené. Takže ho používám výhradně jako čtečku. Používám ho v režimu Letadlo a baterie vydrží několik dní.\nBESTEK držák na stůl s husím krkem, šroub, svorka, držák, držák pro iPad 2 a 3. generaci, 7\"-10\", držák pro PC, držák pro Samsung Galaxy, držák pro smartphone, držák pro HTC Flyer, držák pro PC, Nexus, držák pro Asus Transformer, držák pro Blackberry Playbook, držák pro Lenovo IdeaTab, držák pro Toshiba Thrive, držák pro Acer Lconia Tab, držák pro Microsoft Surface, držák pro Motorola Xoom s 360stupňovým snadným nastavením BTIH49: Pěkný, snadno použitelný, silný a bezpečný. Snadná instalace a použití. Poskytuje pevný držák pro můj iPad Air..... Snadno se s ním manipuluje a otáčí. Pěkné.\nPevný disk Seagate Enterprise Capacity 3,5\" (Constellation ES) 4TB 7200RPM SATA 6Gbps 128 MB mezipaměti Interní disk Bare Drive ST4000NM0033: Vysoká kvalita. Po dvou měsících používání fungují bezchybně. Spolehlivé, rychlé a kvalitně vyrobené. Používám v přenosném hubu... dva kusy. Oba fungují bezchybně od prvního dne. Používám jako lokální zálohu synchronizovanou s cloudovým serverem.\nPouzdro Poetic Slimline Portfolio pro tablet Google Nexus 7 s Androidem od Asusu, černé (automaticky probudí a uspí Nexus 7) (3letá záruka výrobce od Poetic) (Finální verze: S bezpečným magnetickým zapínáním, kryt lze plně složit bez aktivace režimu spánku): Levný způsob, jak chránit svůj Nexus. Dobře sedí. Nexus je v pouzdře bezpečně uchycen. Kryt má magnetické zapínání, takže Nexus uspí.\nStarTech.com HDADFM5IN 5palcový vysokorychlostní HDMI adaptérový kabel s Ethernetem na HDMI Micro - samec/zásuvka: Levné a přitom funguje skvěle. Skvělý adaptér od firmy, od které jsem už dříve kupoval. Funguje skvěle a poskytuje plnou rychlost.\nSada příslušenství Celestron: Výdaje se vyplatí. Fantastický doplněk k mému dalekohledu Celestron. Dává mi větší zvětšení a barevné čočky jsou skvělé pro pozorování více detailů.\nInateck® 13,3palcová brašna na MacBook Pro Retina Ultrabook, obálka, pouzdro, ochranný obal, brašna s přihrádkou na karty pro Apple MacBook Pro Retina, kompatibilní s většinou 11palcových ultrabooků [Velikost: 13,3 palce, Barva: Šedá]: Perfektně pasuje na můj nový Surface Pro 3. Tohle mám v barvě ovesné kaše. Je vyrobené z vysoce kvalitního materiálu a, co je skoro důležitější, z vysoce kvalitní nitě. Je to ztělesnění minimalistického designu, ale s maximální funkčností. Snažil jsem se.......PLNĚ... tuhle věc roztrhat. Jelikož jsem ji dostal jako vzorek zdarma výměnou za napsání upřímné recenze...neměl jsem co ztratit.Nerozpadne se. Říkal jsem si, jak pevný ten materiál jako plsť bude. JE pevný.Pěkně udělané. Na zadní straně dostáváte dvě malé kapsičky, které snadno pojmou malý mobilní telefon. Větší nepojmou...např. Nokia 1520....ale nečekal jsem, že to tak bude, a ani kdyby ano, nepoužíval bych ji.Dostanete také malé, také dobře vyrobené, úložné pouzdro na napájecí kabel.Celkově vzato, pokud hledáte něco s nějakým stylem a barevným výběrem, pak by tohle mělo pro vás být to pravé.Právě jsem objednal další pro manželku v barvě, kterou si vybrala.........zelená......\nUNU AX Tri-USB Port Car Charger-[Black / Gold] 5.1 A/25.5 W Portable External Travel Charger Car Charger Extended Battery Pack Charger for Samsung Z,Galaxy S5,Prime,S5 Active,S4,S3,Note 4 3, 2;Tab 4 3 2 7.0 8.0 10.1 S 8.4 10.5;Amazon Fire Phone;The All New HTC One M8,Ace,Mini 2,M7;Apple iPhone 6 5S 5 5C 4S 4,iPad Air 5 4 3 2 1,iPad Mini/Retina,iPod Touch;Google Nexus 5 4 7 8 FHD 2;LG Optimus G3,G2,G Pro 2,G Flex,G Pad;Sony Xperia Z2;Other Android Smartphone/Tablets Case Cable USB Power Devices: Páni, tohle je užitečné. Mám i jiné portové nabíječky do auta, ale tahle je nejlepší. PROČ? Jednoduché. Kvalita je špičková a místo jednoho nebo dvou zásuvek nebo konektorů pro firemní použití tato funguje s čímkoli, co se dá nabíjet přes USB. Máte tři porty, každý s jiným výstupem. Horní je nejvýkonnější a funguje skvěle s iPadem Retina. Ostatní fungují s power bricky, iPody atd. Je jasně označený, takže najdete správnou zástrčku. Zapojte do špatné zástrčky... a je vše v pořádku... stačí zkontrolovat zařízení... nabíjí se? Pak je vše v pořádku... nenabíjí se? Posuňte zástrčku výš. Vypne se, když se zařízení nabíjí, takže můžete nechat zařízení zapojená a nechat je ve středové konzoli. Teď mám svůj přenosný iPod a GPS připojené pořád... bezpečně...... hezký detail. Jeden z nich jsem od prodejce dostal zdarma.\nKožené pouzdro KAVAJ \"Berlín\" pro nový Apple iPad mini 2 (Retina displej) a iPad mini černé - pravá kůže s možností stojánku: VELKÝ Forma a funkce jsou stejné jako ty, které mám, pasují na iPad Air Retina. V Evropě prodávají pouzdra, která pasují na některá zařízení Samsung, takže doufám, že sem brzy dorazí. Jak jsem říkal o pouzdře KAVAJ pro můj iPad v plné velikosti..........Skvělé. Nejlepší pouzdro, jaké jsem kdy měl. Ne pro ty, co ho chtějí postavit atd... tohle je pro minimalisty, kteří milují ultratenký iPad, ale nesnášejí tlustá pouzdra. Poskytuje veškerou ochranu, kterou potřebujete. Naživo vypadá mnohem lépe. Opravdové umělecké dílo.\nCool Abe - nálepka na Macbook nebo notebook: Silný materiál, silné lepidlo a snadná aplikace. Vypadá to skvěle, že s tebou tráví čas starý frajer. Koupil \n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "funkčnost",
+        "sentiment": "positive",
+        "evidence": "Co se týče nabíjení, vyzkoušel jsem každé zařízení, které jsem měl s možností nabíjení přes USB, a fungovalo to dobře."
+      },
+      {
+        "aspect": "přenosnost",
+        "sentiment": "positive",
+        "evidence": "Velmi přenosný a nabízí přesně ten správný náklon pro rychlejší a přesnější psaní."
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Spolehlivé, rychlé a kvalitně vyrobené."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Snadná instalace a použití."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "positive",
+        "evidence": "Perfektně pasuje na můj nový Surface Pro 3."
+      }
+    ]
+  }
+}

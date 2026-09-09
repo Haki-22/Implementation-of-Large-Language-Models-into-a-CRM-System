@@ -1,0 +1,83 @@
+{"item_id": "pt::B0048WIXZK", "verdict": "INVALID", "fixes": [{"replace": "kosmetická sada", "with": "Beauty Dish", "why": "Termín 'Beauty Dish' označuje specifický světelný modifikátor v fotografii, nikoliv 'kosmetickou sadu'."}]}
+{"item_id": "pt::B00576T1G6", "verdict": "INVALID", "fixes": [{"replace": "12 úložných prostorů", "with": "12V", "why": "Slovo 'Vault' je v originále překlep pro 'Volt' (napětí), překlad 'úložných prostorů' (vault jako trezor) je chybný."}]}
+{"item_id": "pt::B0055I183U", "verdict": "INVALID", "fixes": [{"replace": "inkoustová mechanika", "with": "inkoustový tisk", "why": "Položka je potisknutelné DVD (Inkjet printable), nikoliv mechanika."}, {"replace": "krabice na dort", "with": "spindle", "why": "Termín 'Cake Box' označuje v retailu plastové válcové balení disků (spindle), nikoliv krabici na dort."}]}
+{"item_id": "pt::B0017JHU10", "verdict": "INVALID", "fixes": [{"replace": "Čelní sklo", "with": "Protivětrná ochrana", "why": "U mikrofonu se 'windscreen' překládá jako protivětrná ochrana, 'čelní sklo' se používá u automobilů."}]}
+{"item_id": "pt::B0000BZL8X", "verdict": "INVALID", "fixes": [{"replace": "objektiv", "with": "filtr", "why": "Produkt je polarizační filtr, nikoliv objektiv."}]}
+{"item_id": "pt::B000FBK3RE", "verdict": "INVALID", "fixes": [{"replace": "v první řadě", "with": "Front Row", "why": "Slova 'Front Row' jsou názvem softwaru od Apple, neměla by se překládat jako 'v první řadě'."}]}
+{"item_id": "pt::B0030QUU4M", "verdict": "INVALID", "fixes": [{"replace": "Baculatý", "with": "Chumby", "why": "'Chumby' je název značky a produktu, nikoliv přídavné jméno 'baculatý'."}]}
+{"item_id": "pt::B0077E48FA", "verdict": "INVALID", "fixes": [{"replace": "3DP a rozlišením 3DP", "with": "3DP", "why": "Překlad zbytečně duplikuje parametr '3DP' a přidává k němu vymyšlený fakt o rozlišení."}]}
+{"item_id": "pt::B0039BPG4C", "verdict": "INVALID", "fixes": [{"replace": "blesk", "with": "blesk a videokameru", "why": "V překladu chybí část originálu 'Camcorder'."}]}
+{"item_id": "pt::B0057ODG6Y", "verdict": "INVALID", "fixes": [{"replace": "n®vi", "with": "nüvi", "why": "Chyba kódování u názvu modelové řady 'nüvi'."}]}
+{"item_id": "pt::B001G403CE", "verdict": "INVALID", "fixes": [{"replace": "spouštěcí kroužek", "with": "redukční kroužek", "why": "'Step Down Ring' je redukční kroužek pro objektiv, nikoliv 'spouštěcí'."}]}
+{"item_id": "pt::B001AXKY70", "verdict": "INVALID", "fixes": [{"replace": "Dětský pin", "with": "Baby Pin", "why": "'Baby Pin' je technický termín pro 5/8 palcový čep v osvětlovací technice, překlad 'dětský' je chybný."}]}
+{"item_id": "pt::B007ZWLRSU", "verdict": "INVALID", "fixes": [{"replace": "SDSDP-064G-G25", "with": "SDSSDP-064G-G25", "why": "Překlad obsahuje chybu v modelovém kódu (chybějící písmeno 'S')."}]}
+{"item_id": "pt::B001D8AGA2", "verdict": "INVALID", "fixes": [{"replace": "luxusními detaily", "with": "Deluxe", "why": "Slovo 'Deluxe' je součástí názvu modelu, překlad 's luxusními detaily' mění význam."}]}
+{"item_id": "pt::B0015F0A8G", "verdict": "INVALID", "fixes": [{"replace": "n&uuml;vi", "with": "nüvi", "why": "V překladu zůstala nezpracovaná HTML entita."}]}
+{"item_id": "pt::B003VOW5WI", "verdict": "INVALID", "fixes": [{"replace": "2 500 čtverečních stop (cca 2 500 čtverečních stop)", "with": "2 500 čtverečních stop", "why": "Zbytečná duplikace téhož údaje v závorce."}]}
+{"item_id": "pt::B005SXT6TA", "verdict": "INVALID", "fixes": [{"replace": "Bambusový", "with": "Bamboo", "why": "'Bamboo' je název modelové řady stylusů, nikoliv materiál, ze kterého jsou vyrobeny."}]}
+{"item_id": "pt::B0000CFYMB", "verdict": "INVALID", "fixes": [{"replace": "pouzdra na šperky", "with": "CD pouzdra (jewel case)", "why": "'Jewel case' je standardní označení plastového obalu na CD, nikoliv 'pouzdro na šperky'."}]}
+{"item_id": "pt::B003VSTDFG", "verdict": "INVALID", "fixes": [{"replace": "Připojitelný", "with": "Plugable", "why": "Došlo k překladu vlastního jména značky 'Plugable'."}]}
+{"item_id": "pt::B0074KBLAW", "verdict": "INVALID", "fixes": [{"replace": "nástroj zdarma", "with": "bez použití nářadí", "why": "'Tool Free' znamená, že k montáži není potřeba nářadí, nikoliv že je nářadí zdarma."}]}
+{"item_id": "pt::B004CR3XEW", "verdict": "INVALID", "fixes": [{"replace": "župan", "with": "pouzdro", "why": "'LA robe' je název značky pouzder pro notebooky, překlad jako 'župan' je chybný."}]}
+{"item_id": "pt::B008CCQI72", "verdict": "INVALID", "fixes": [{"replace": "mikrofon s brokovnicí", "with": "směrový mikrofon (shotgun)", "why": "'Shotgun MIC' je typ směrového mikrofonu, nikoliv mikrofon fyzicky spojený s brokovnicí."}]}
+{"item_id": "pt::B005LEWZ0S", "verdict": "INVALID", "fixes": [{"replace": "kryt z křišťálového skla", "with": "čirý pevný kryt", "why": "'Crystal' u plastových krytů znamená čirost, nikoliv materiál sklo."}]}
+{"item_id": "pt::B0000225BA", "verdict": "INVALID", "fixes": [{"replace": "průměru 12/3 palce", "with": "typu 12/3", "why": "Označení '12/3' u kabelu značí tloušťku vodiče a jejich počet (AWG), nikoliv průměr kabelu v palcích."}]}
+{"item_id": "pt::B008ZGKWQI", "verdict": "INVALID", "fixes": [{"replace": "Zásuvný", "with": "Plugable", "why": "Došlo k překladu vlastního jména značky 'Plugable'."}]}
+{"item_id": "pt::B001B8EOMU", "verdict": "INVALID", "fixes": [{"replace": "stolní počítač", "with": "set klávesnice a myši", "why": "'Wireless Laser Desktop' je označení setu periferií, nikoliv stolního počítače."}]}
+{"item_id": "pt::B002JCSCYS", "verdict": "INVALID", "fixes": [{"replace": "klávesnice", "with": "set", "why": "Originál 'Desktop' v tomto kontextu znamená sadu klávesnice a myši, překlad na pouhou 'klávesnici' vynechává informaci."}]}
+{"item_id": "pt::B000BSJFO8", "verdict": "INVALID", "fixes": [{"replace": "měnič pohlaví", "with": "gender changer (spojka)", "why": "'Gender Changer' je v IT technický termín pro redukci konektorů (samec/samice), nikoliv lékařský termín."}]}
+{"item_id": "pt::B000B73O7I", "verdict": "INVALID", "fixes": [{"replace": "Vlastní konzole", "with": "Custom Brackets", "why": "Došlo k překladu vlastního jména značky 'Custom Brackets'."}]}
+{"item_id": "pt::B0002DUQCM", "verdict": "INVALID", "fixes": [{"replace": "Baterie", "with": "NiMH baterie", "why": "V překladu chybí informace o chemickém složení baterie 'Nickel Metal Hydride'."}]}
+{"item_id": "pt::B004AFEYU8", "verdict": "INVALID", "fixes": [{"replace": "jednorázová", "with": "One Wrap", "why": "'One Wrap' je název produktové řady suchých zipů, nikoliv označení pro jednorázové použití."}]}
+{"item_id": "pt::B0087Y1XS4", "verdict": "INVALID", "fixes": [{"replace": "Pouzdro Star", "with": "Case Star", "why": "Došlo k překladu vlastního jména značky 'Case Star'."}]}
+{"item_id": "pt::B009614ANM", "verdict": "INVALID", "fixes": [{"replace": "Pouzdro Crown", "with": "CaseCrown", "why": "Došlo k překladu vlastního jména značky 'CaseCrown'."}]}
+{"item_id": "pt::B003ZBZ64Q", "verdict": "INVALID", "fixes": [{"replace": "Nová přenosná", "with": "New Trent", "why": "Došlo k chybnému překladu části názvu značky 'New Trent'."}]}
+{"item_id": "pt::B005EP2HMU", "verdict": "INVALID", "fixes": [{"replace": "reproduktor", "with": "set reproduktorů", "why": "V překladu chybí slovo 'Package' (sada/balení)."}]}
+{"item_id": "pt::B002B4P788", "verdict": "INVALID", "fixes": [{"replace": "myš", "with": "set klávesnice a myši", "why": "Originál 'Desktop' značí sadu, nikoliv jen myš."}]}
+{"item_id": "pt::B001OMGVII", "verdict": "INVALID", "fixes": [{"replace": "n®vi", "with": "nüvi", "why": "Chyba kódování u názvu modelové řady 'nüvi'."}]}
+{"item_id": "pt::B000MOS8GW", "verdict": "INVALID", "fixes": [{"replace": "ISOCTŘ", "with": "ISOCTR", "why": "Chyba v přepisu modelového čísla."}]}
+{"item_id": "pt::B0070ZHY6G", "verdict": "INVALID", "fixes": [{"replace": "ÚHLOPRÉLKY", "with": "úhlopříčky", "why": "Překlad obsahuje překlep v českém slově 'úhlopříčky'."}]}
+{"item_id": "pt::B007W5B55A", "verdict": "INVALID", "fixes": [{"replace": "Tab &amp; Note", "with": "Tab & Note", "why": "V překladu zůstala nezpracovaná HTML entita."}]}
+{"item_id": "pt::B003ZX8B1E", "verdict": "INVALID", "fixes": [{"replace": "n®vi", "with": "nüvi", "why": "Chyba kódování u názvu modelové řady 'nüvi'."}]}
+{"item_id": "pt::B000FVDD30", "verdict": "INVALID", "fixes": [{"replace": "Case", "with": "Adapter", "why": "Záměna slov - v originále je 'Adapter', v překladu je 'Case' (pouzdro)."}]}
+{"item_id": "pt::B003L1AFC8", "verdict": "INVALID", "fixes": [{"replace": "průměr 14 stop", "with": "14 AWG", "why": "Záměna technického parametru tloušťky drátu '14AWG' za nesmyslný průměr 14 stop."}]}
+{"item_id": "pt::B003BQ91Y6", "verdict": "INVALID", "fixes": [{"replace": "napájecí adaptér", "with": "kondicionér napájení", "why": "'Power Conditioner' není síťový adaptér, ale zařízení pro filtraci a stabilizaci napájení."}]}
+{"item_id": "pt::B0047EKLWW", "verdict": "INVALID", "fixes": [{"replace": "Canon Gear S3", "with": "USA Gear S3", "why": "Záměna značky 'USA Gear' za 'Canon Gear'."}]}
+{"item_id": "pt::B001PN37LA", "verdict": "INVALID", "fixes": [{"replace": "n&uem;vi", "with": "nüvi", "why": "V překladu zůstala nezpracovaná HTML entita."}]}
+{"item_id": "pt::B00009MJK7", "verdict": "INVALID", "fixes": [{"replace": "zoomem", "with": "telekonvertor", "why": "'Telephoto Converter' není zoomový objektiv, ale přídavný konvertor."}]}
+{"item_id": "pt::B007CGO45W", "verdict": "INVALID", "fixes": [{"replace": "4\"", "with": "2 x 4\"", "why": "V překladu chybí počet kusů '2 X' u prvního typu šňůrky."}]}
+{"item_id": "pt::B002U558IM", "verdict": "INVALID", "fixes": [{"replace": "slunečníky", "with": "fotografické deštníky", "why": "Fotografické 'umbrellas' se nepřekládají jako 'slunečníky' na pláž."}]}
+{"item_id": "pt::B003U2WYMC", "verdict": "INVALID", "fixes": [{"replace": "náhradní díl", "with": "supply", "why": "Zkratka 'SUPL' (supply/dodávka) byla chybně interpretována jako náhradní díl."}]}
+{"item_id": "pt::B0068INSUM", "verdict": "INVALID", "fixes": [{"replace": "bez kláves", "with": "bez numerického bloku (tenkeyless)", "why": "'Tenkeyless' znamená absenci numerické části, nikoliv klávesnice zcela bez kláves."}]}
+{"item_id": "pt::B000R9J5OG", "verdict": "INVALID", "fixes": [{"replace": "24 stop", "with": "3 m", "why": "Parametr délky '3m' byl chybně přeložen jako '24 stop' (převzato pravděpodobně z karátů zlata 24K)."}]}
+{"item_id": "pt::B003Z4G3I6", "verdict": "INVALID", "fixes": [{"replace": "Zásuvný", "with": "Plugable", "why": "Došlo k překladu vlastního jména značky 'Plugable'."}]}
+{"item_id": "pt::B004BATXQC", "verdict": "INVALID", "fixes": [{"replace": "Zásuvný", "with": "Plugable", "why": "Došlo k překladu vlastního jména značky 'Plugable'."}]}
+{"item_id": "pt::B000BRQU0Q", "verdict": "INVALID", "fixes": [{"replace": "9,3 metru", "with": "1 metr", "why": "Délka 3,3 stopy odpovídá přibližně jednomu metru, nikoliv 9,3 metru."}]}
+{"item_id": "pt::B0013G8PTS", "verdict": "INVALID", "fixes": [{"replace": "Nový Trent", "with": "New Trent", "why": "Došlo k překladu vlastního jména značky 'New Trent'."}]}
+{"item_id": "pt::B008OZF9SQ", "verdict": "INVALID", "fixes": [{"replace": "s konektorem", "with": "Plugable", "why": "Název značky 'Plugable' byl chybně přeložen/nahrazen textem 's konektorem'."}]}
+{"item_id": "pt::B00001YVG4", "verdict": "INVALID", "fixes": [{"replace": "9&quot;", "with": "9\"", "why": "V překladu zůstala nezpracovaná HTML entita."}]}
+{"item_id": "pt::B0007MWE28", "verdict": "INVALID", "fixes": [{"replace": "Kabely Neomezený", "with": "Cables Unlimited", "why": "Došlo k překladu vlastního jména značky 'Cables Unlimited'."}]}
+{"item_id": "pt::B003YMIUD0", "verdict": "INVALID", "fixes": [{"replace": "tichým proudem", "with": "tichým chodem", "why": "Originál 'Silence' u měniče odkazuje na tichý provoz, nikoliv na 'tichý proud'."}]}
+{"item_id": "pt::B000P6J67C", "verdict": "INVALID", "fixes": [{"replace": "rádiová stanice", "with": "pár rádiových stanic", "why": "V překladu chybí informace 'Pair', že se jedná o pár vysílaček."}]}
+{"item_id": "pt::B005DFI5ZY", "verdict": "INVALID", "fixes": [{"replace": "Bezdrátový blesk", "with": "Bezdrátový odpalovač blesku", "why": "'Flash Trigger' je odpalovač, nikoliv blesk samotný."}]}
+{"item_id": "pt::B000BMP7IW", "verdict": "INVALID", "fixes": [{"replace": "Přenosný počítač", "with": "přenosné reproduktory", "why": "Produktem jsou reproduktory k PC, nikoliv 'přenosný počítač'."}]}
+{"item_id": "pt::B001O01928", "verdict": "INVALID", "fixes": [{"replace": "Váš obchod s kabely", "with": "Your Cable Store", "why": "Došlo k překladu vlastního jména značky 'Your Cable Store'."}]}
+{"item_id": "pt::B000B5TXQQ", "verdict": "INVALID", "fixes": [{"replace": "disk", "with": "balení (spindle)", "why": "Originál 'Spindle' označuje typ balení, překlad na 'disk' je příliš obecný a mění význam balení."}]}
+{"item_id": "pt::B0067S8IZ8", "verdict": "INVALID", "fixes": [{"replace": "noční vidění", "with": "přísvit pro noční vidění", "why": "Originál 'Illuminator' označuje infračervený přísvit, nikoliv systém nočního vidění jako takový."}]}
+{"item_id": "pt::B005HMO6A6", "verdict": "INVALID", "fixes": [{"replace": "Nové Trent", "with": "New Trent", "why": "Došlo k překladu vlastního jména značky 'New Trent'."}]}
+{"item_id": "pt::B000OH63MI", "verdict": "INVALID", "fixes": [{"replace": "n&uuml;vi", "with": "nüvi", "why": "V překladu zůstala nezpracovaná HTML entita."}]}
+{"item_id": "pt::B0032OZNDK", "verdict": "INVALID", "fixes": [{"replace": "6400 mAh", "with": "7200 mAh", "why": "Číselný údaj kapacity se neshoduje s originálem (7200 mAh)."}]}
+{"item_id": "pt::B00004Y7TC", "verdict": "INVALID", "fixes": [{"replace": "Pružný hledí", "with": "Handspring Visor", "why": "Došlo k chybnému doslovnému překladu názvu značky a modelu 'Handspring Visor'."}]}
+{"item_id": "pt::B008N06I2I", "verdict": "INVALID", "fixes": [{"replace": "konektorem", "with": "Plugable", "why": "Název značky 'Plugable' byl nahrazen obecným slovem 'konektorem'."}]}
+{"item_id": "pt::B007PV9WUQ", "verdict": "INVALID", "fixes": [{"replace": "balení slipů", "with": "batoh (brief pack)", "why": "'Brief Pack' v kontextu značky Tumi označuje pracovní batoh/brašnu, nikoliv balení spodního prádla."}]}
+{"item_id": "pt::B00483WRZ6", "verdict": "INVALID", "fixes": [{"replace": "Připojitelný", "with": "Plugable", "why": "Došlo k překladu vlastního jména značky 'Plugable'."}]}
+{"item_id": "pt::B005NCS304", "verdict": "INVALID", "fixes": [{"replace": "čisticím pouzdrem", "with": "čisticí sadou", "why": "Originál 'Cleanin' (cleaning kit/cloth) byl chybně přeložen jako 'čisticí pouzdro'."}]}
+{"item_id": "pt::B003ZX8AZQ", "verdict": "INVALID", "fixes": [{"replace": "n®vi", "with": "nüvi", "why": "Chyba kódování u názvu modelové řady 'nüvi'."}]}
+{"item_id": "pt::B003NQ9U04", "verdict": "INVALID", "fixes": [{"replace": "Elegantní", "with": "Sleek", "why": "Došlo k překladu názvu modelové řady 'Sleek'."}]}
+{"item_id": "pt::B005LTU6VI", "verdict": "INVALID", "fixes": [{"replace": "2,5 palce", "with": "2,5 GHz", "why": "Číslo 2,5 v názvu procesoru pravděpodobně odkazuje na frekvenci, nikoliv na rozměr v palcích."}]}
+{"item_id": "pt::B008GVL9YQ", "verdict": "INVALID", "fixes": [{"replace": "≈", "with": "®", "why": "Symbol ochranné známky byl chybně nahrazen vlnovkou."}]}
+{"item_id": "pt::B008U3FQL2", "verdict": "INVALID", "fixes": [{"replace": "dusivý přístroj", "with": "utišující přístroj", "why": "Slovo 'Soother' (utišující) bylo chybně přeloženo jako 'dusivý' (smother)."}]}
+{"item_id": "pt::B005AK2X8W", "verdict": "INVALID", "fixes": [{"replace": "domů", "with": "Home", "why": "'Home' je název produktové řady brašen, nikoliv směr 'domů'."}]}
+{"item_id": "pt::B000U0JYZ2", "verdict": "INVALID", "fixes": [{"replace": "REKONSTRUOVANÝ", "with": "Repasovaný", "why": "V kontextu elektroniky se 'Refurbished' překládá jako 'repasovaný', nikoliv 'rekonstruovaný'."}]}
+{"item_id": "pt::B002BDU6IU", "verdict": "INVALID", "fixes": [{"replace": "Maximum Power", "with": "Maximal Power", "why": "Došlo k pozměnění názvu značky 'Maximal Power'."}]}
+{"item_id": "pt::B0002E5P1I", "verdict": "INVALID", "fixes": [{"replace": "Průzkumník", "with": "Explorer", "why": "Došlo k překladu vlastního jména modelu 'Explorer'."}]}

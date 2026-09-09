@@ -1,0 +1,40 @@
+{
+  "contact_id": 292,
+  "reviewer_id": "A38NELQT98S4H8",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 9764,
+  "status": "ok",
+  "seconds": 1092.57,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.2,
+    "E": 3.1,
+    "A": 3.25,
+    "N": 3.4,
+    "evidence_quotes": {
+      "O": "As I'm sitting here writing this review, I'm listening to Beethoven's C minor string quartet (op. 18 No. 4), preformed by the Amadeus Quartet.",
+      "C": "Having been warned by reading the other reviews, I checked the release pins before mounting a lens.",
+      "E": "I have clients that come to my office and I was thinking that it would be nice to easily rotate the screen so that they could also see it.",
+      "A": "Look at my history...I'm not above giving something a lousy review when it's warranted.",
+      "N": "I am listening to this thing and it is driving me up a bloody tree (putting it politely)."
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.2,
+    "E": 3.1,
+    "N": 3.4,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "Look at my history...I'm not above giving something a lousy review when it's warranted.",
+      "C": "Having been warned by reading the other reviews, I checked the release pins before mounting a lens.",
+      "E": "I have clients that come to my office and I was thinking that it would be nice to easily rotate the screen so that they could also see it.",
+      "N": "I am listening to this thing and it is driving me up a bloody tree (putting it politely).",
+      "O": "As I'm sitting here writing this review, I'm listening to Beethoven's C minor string quartet (op. 18 No. 4), preformed by the Amadeus Quartet."
+    }
+  }
+}

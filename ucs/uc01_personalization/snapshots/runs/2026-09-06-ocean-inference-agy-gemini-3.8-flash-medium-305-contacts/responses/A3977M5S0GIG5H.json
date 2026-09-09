@@ -1,0 +1,40 @@
+{
+  "contact_id": 299,
+  "reviewer_id": "A3977M5S0GIG5H",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 85,
+  "reviews_used": 15,
+  "prompt_chars": 8046,
+  "status": "ok",
+  "seconds": 1123.97,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.0,
+    "E": 3.55,
+    "A": 3.5,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "Enough extra memory to install an entire Linux OS installation (I use PuppyLinux) on its own partition.",
+      "C": "I like to research purchases like this for quite a while before taking the plunge.",
+      "E": "I love this thing - set up took about 5 minutes. Insanely easy to configure.",
+      "A": "Could not be more dumbed down or cliched. I don't understand why directors and writers make choices like this.",
+      "N": "Did not work on any computer. Defective. Too bad - the form factor was perfect."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4,
+    "E": 3.55,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Could not be more dumbed down or cliched. I don't understand why directors and writers make choices like this.",
+      "C": "I like to research purchases like this for quite a while before taking the plunge.",
+      "E": "I love this thing - set up took about 5 minutes. Insanely easy to configure.",
+      "N": "Did not work on any computer. Defective. Too bad - the form factor was perfect.",
+      "O": "Enough extra memory to install an entire Linux OS installation (I use PuppyLinux) on its own partition."
+    }
+  }
+}

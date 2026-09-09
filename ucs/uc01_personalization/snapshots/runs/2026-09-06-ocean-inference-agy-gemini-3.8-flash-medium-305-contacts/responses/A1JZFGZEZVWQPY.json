@@ -1,0 +1,40 @@
+{
+  "contact_id": 260,
+  "reviewer_id": "A1JZFGZEZVWQPY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 7893,
+  "status": "ok",
+  "seconds": 960.87,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.55,
+    "A": 3.35,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "This tripod is fun and you are only limited by your imagination as to where and how you can use it.",
+      "C": "The set up of the Logitech 750e was very easy as long as you follow the basic steps and dont try to skip anything.",
+      "E": "Works good for high speeds, and also underwater. Not really meant for impact sports, but I have tried",
+      "A": "First I want to thank all of those who posted thier experiences and how to install this thing, without those posts I would have never gotten it working.",
+      "N": "Some of the others just leave you pissed that you are even holding it in your hand they are so crappy."
+    }
+  },
+  "raw": {
+    "A": 3.35,
+    "C": 4.1,
+    "E": 3.55,
+    "N": 2.6,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "First I want to thank all of those who posted thier experiences and how to install this thing, without those posts I would have never gotten it working.",
+      "C": "The set up of the Logitech 750e was very easy as long as you follow the basic steps and dont try to skip anything.",
+      "E": "Works good for high speeds, and also underwater. Not really meant for impact sports, but I have tried",
+      "N": "Some of the others just leave you pissed that you are even holding it in your hand they are so crappy.",
+      "O": "This tripod is fun and you are only limited by your imagination as to where and how you can use it."
+    }
+  }
+}

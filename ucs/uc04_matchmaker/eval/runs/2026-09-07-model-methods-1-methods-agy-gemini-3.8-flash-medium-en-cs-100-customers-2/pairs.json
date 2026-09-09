@@ -1,0 +1,54 @@
+[
+  {
+    "method": "rank_candidates",
+    "lang": "en",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 64,
+    "hits_second": 28,
+    "difference": 36,
+    "only_first": 41,
+    "only_second": 5,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rank_candidates",
+    "lang": "en",
+    "protocol": "sampled",
+    "versus": "popularity",
+    "n": 100,
+    "hits_first": 64,
+    "hits_second": 34,
+    "difference": 30,
+    "only_first": 44,
+    "only_second": 14,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rank_candidates",
+    "lang": "cs",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 64,
+    "hits_second": 28,
+    "difference": 36,
+    "only_first": 40,
+    "only_second": 4,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rank_candidates",
+    "lang": "cs",
+    "protocol": "sampled",
+    "versus": "popularity",
+    "n": 100,
+    "hits_first": 64,
+    "hits_second": 34,
+    "difference": 30,
+    "only_first": 45,
+    "only_second": 15,
+    "p_sign": 0.0
+  }
+]

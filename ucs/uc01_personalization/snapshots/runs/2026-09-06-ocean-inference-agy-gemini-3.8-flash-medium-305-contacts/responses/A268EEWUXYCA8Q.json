@@ -1,0 +1,40 @@
+{
+  "contact_id": 377,
+  "reviewer_id": "A268EEWUXYCA8Q",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 44,
+  "reviews_used": 15,
+  "prompt_chars": 9845,
+  "status": "ok",
+  "seconds": 1244.25,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.55,
+    "A": 3.45,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "Since then, technology changed and my knowledge of technology changed.",
+      "C": "When I use a headset, I grade it by four things: comfort, sound quality, mic quality and durability.",
+      "E": "When you spent most of your PC gaming time playing co-operative games that require Ventrilo or a different VOIP program",
+      "A": "That headset is probably the most comfortable I've ever owned, had great sound quality and was just an all around good headset, minus a few annoyances.",
+      "N": "So, when my last Logitech headset went the way of the dodo bird, I thought, \"enough's enough!\""
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 4.25,
+    "E": 3.55,
+    "N": 2.8,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "That headset is probably the most comfortable I've ever owned, had great sound quality and was just an all around good headset, minus a few annoyances.",
+      "C": "When I use a headset, I grade it by four things: comfort, sound quality, mic quality and durability.",
+      "E": "When you spent most of your PC gaming time playing co-operative games that require Ventrilo or a different VOIP program",
+      "N": "So, when my last Logitech headset went the way of the dodo bird, I thought, \"enough's enough!\"",
+      "O": "Since then, technology changed and my knowledge of technology changed."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 243,
+  "reviewer_id": "A1JUBRIZMO0RJV",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 97,
+  "reviews_used": 15,
+  "prompt_chars": 9851,
+  "status": "ok",
+  "seconds": 901.58,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.1,
+    "E": 3.5,
+    "A": 3.85,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "Apple is constantly innovating, and pushing the limit, in order to bring you the world's greatest products.",
+      "C": "The new 20 GB iPod with color display is 0.06 inches thicker than its 20 GB monochrome-display predecessor.",
+      "E": "I was excited to pick up the new iPod Touch at the Apple Store because I had never owned a first generation, though I do own iPhones.",
+      "A": "I had intended to purchase my mother a Macbook for some time now. I wobbled between the several models I considered.",
+      "N": "At a price of almost $40, buying a new dock, whenever you buy a new iPod, can be annoying."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.1,
+    "E": 3.5,
+    "N": 2.4,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I had intended to purchase my mother a Macbook for some time now. I wobbled between the several models I considered.",
+      "C": "The new 20 GB iPod with color display is 0.06 inches thicker than its 20 GB monochrome-display predecessor.",
+      "E": "I was excited to pick up the new iPod Touch at the Apple Store because I had never owned a first generation, though I do own iPhones.",
+      "N": "At a price of almost $40, buying a new dock, whenever you buy a new iPod, can be annoying.",
+      "O": "Apple is constantly innovating, and pushing the limit, in order to bring you the world's greatest products."
+    }
+  }
+}

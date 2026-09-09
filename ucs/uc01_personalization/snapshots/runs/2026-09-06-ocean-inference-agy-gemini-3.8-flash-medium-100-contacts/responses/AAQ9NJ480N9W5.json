@@ -1,0 +1,40 @@
+{
+  "contact_id": 255,
+  "reviewer_id": "AAQ9NJ480N9W5",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 3459,
+  "status": "ok",
+  "seconds": 199.65,
+  "error": "",
+  "profile": {
+    "O": 4.0,
+    "C": 4.0,
+    "E": 3.35,
+    "A": 4.1,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "this lens is great for taking closeups, especially of flowers, plants, and bugs.",
+      "C": "size to work on enormous spreadsheets, compare two documents side by side, and do detailed photo editing or work on CAD drawings.",
+      "E": "for what I paid for it I would give it 9 stars.",
+      "A": "Fortunately I was able to donate the extra battery to a charity.",
+      "N": "I had a wireless mouse that began behaving erratically. Fed up, I bought this."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4,
+    "E": 3.35,
+    "N": 2.8,
+    "O": 4,
+    "evidence_quotes": {
+      "A": "Fortunately I was able to donate the extra battery to a charity.",
+      "C": "size to work on enormous spreadsheets, compare two documents side by side, and do detailed photo editing or work on CAD drawings.",
+      "E": "for what I paid for it I would give it 9 stars.",
+      "N": "I had a wireless mouse that began behaving erratically. Fed up, I bought this.",
+      "O": "this lens is great for taking closeups, especially of flowers, plants, and bugs."
+    }
+  }
+}

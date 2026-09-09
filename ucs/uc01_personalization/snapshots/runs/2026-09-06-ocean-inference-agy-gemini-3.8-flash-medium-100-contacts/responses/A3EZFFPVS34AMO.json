@@ -1,0 +1,40 @@
+{
+  "contact_id": 218,
+  "reviewer_id": "A3EZFFPVS34AMO",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 101,
+  "reviews_used": 15,
+  "prompt_chars": 9894,
+  "status": "ok",
+  "seconds": 166.1,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.6,
+    "A": 2.95,
+    "N": 2.9,
+    "evidence_quotes": {
+      "O": "Creative portraits shot at f1.2 are like no other, this lens is like a studio in a box.",
+      "C": "When I first got this I had still owned my 50mm 1.4, so I did a fairly extensive side-by-side test.",
+      "E": "Don't toy with the 24-105mm, the f/4 series of lenses is very good, but they're not WHOA.",
+      "A": "OK, revelation for the day: YOU DON'T HAVE TO BUY IT HERE. WOW! What a concept! I would think that was obvious.",
+      "N": "BUT, THE AUTO FOCUS... hunting, hunting, driving me nuts. I knew f1.2 lenses have that as part of their physics, but it did get annoying."
+    }
+  },
+  "raw": {
+    "A": 2.95,
+    "C": 4.15,
+    "E": 3.6,
+    "N": 2.9,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "OK, revelation for the day: YOU DON'T HAVE TO BUY IT HERE. WOW! What a concept! I would think that was obvious.",
+      "C": "When I first got this I had still owned my 50mm 1.4, so I did a fairly extensive side-by-side test.",
+      "E": "Don't toy with the 24-105mm, the f/4 series of lenses is very good, but they're not WHOA.",
+      "N": "BUT, THE AUTO FOCUS... hunting, hunting, driving me nuts. I knew f1.2 lenses have that as part of their physics, but it did get annoying.",
+      "O": "Creative portraits shot at f1.2 are like no other, this lens is like a studio in a box."
+    }
+  }
+}

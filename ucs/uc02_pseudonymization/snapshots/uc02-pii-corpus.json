@@ -1,0 +1,3769 @@
+[
+  {
+    "message_id": "uc02-msg-00000",
+    "text": "Šimon Brož volal kvůli vadnému zboží z poslední objednávky a žádá urychlené vyřešení reklamace. S Brožem bylo domluveno zaslání fotodokumentace a popisu závady na simon.broz@post.cz, následně předáme podklady reklamačnímu oddělení. Zákazník uvedl, že nákup byl veden na firmu DětskýSvět Velkoobchod s.r.o. a pro ověření doplnil rodné číslo 620124/2817. Po kontrole dokladů zákazníka kontaktujeme s návrhem výměny nebo vrácení peněz.",
+    "contact_id": 328,
+    "scenario": "Interní poznámka z reklamačního telefonátu — zákazník volá kvůli vadnému zboží a žádá o vyřešení reklamace.",
+    "channel": "note",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Šimon Brož",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Brožem",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "simon.broz@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "DětskýSvět Velkoobchod s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "620124/2817",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00001",
+    "text": "Dobrý den, potvrzujeme, že vrácení peněz za zrušenou objednávku bylo schváleno a částku zašleme zpět na účet uvedený u objednávky. Pro kontrolu evidujeme u případu interní označení 48637948 a kontaktní e-mail ester.nemcova20@post.cz. V našich údajích je zároveň uvedena adresa Pod Výšinkou 12, 441 01 Blatno. Platba by měla být připsána během několika pracovních dnů podle zpracování bankou.",
+    "contact_id": 217,
+    "scenario": "E-mail potvrzující vrácení peněz za zrušenou objednávku, včetně čísla účtu pro zaslání částky.",
+    "channel": "email",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "ester.nemcova20@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Pod Výšinkou 12, 441 01 Blatno",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": true,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": [
+      {
+        "surface_form": "48637948",
+        "near_miss_type": "ICO_INVALID_CHECKSUM",
+        "span_start": 181,
+        "span_end": 189
+      }
+    ]
+  },
+  {
+    "message_id": "uc02-msg-00002",
+    "text": "Dobrý den, Elena Němcová, potvrzujeme přijetí vaší žádosti o změnu doručovací adresy u rozpracované objednávky. Objednávku vedenou na Němcovou jsme aktualizovali a nově ji budeme doručovat na adresu Lešenská 142, 411 84 Straškov-Vodochody. Pro případ potřeby dopravce zůstává u objednávky uveden telefon +420 605 990 516 a kontaktní e-mail elena.nemcova@seznam.cz. Pokud by už byla zásilka mezitím předána dopravci, dáme vám obratem vědět a domluvíme další postup.",
+    "contact_id": 439,
+    "scenario": "Žádost zákazníka o změnu doručovací adresy u rozpracované objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Elena Němcová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Němcovou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "elena.nemcova@seznam.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Lešenská 142, 411 84 Straškov-Vodochody",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 605 990 516",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00003",
+    "text": "Klaudie Pavlíková se ozvala s B2B poptávkou a žádá o zaslání velkoobchodních cen pro pravidelné odběry. S Pavlíkovou je potřeba ještě ověřit očekávané množství a sortiment, aby bylo možné připravit konkrétní nabídku. Zákaznice se zároveň ptala, jaké fakturační údaje máme dodat pro vystavení objednávky na firmu. Doporučuji poslat přehled podmínek pro firemní zákazníky a vyžádat si IČO, DIČ a fakturační adresu.",
+    "contact_id": 484,
+    "scenario": "Interní poznámka k B2B poptávce — firemní zákazník se ptá na velkoobchodní ceny a fakturační údaje.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Klaudie Pavlíková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Pavlíkovou",
+        "form": "instr_surname"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00004",
+    "text": "Dobrý den, u objednávky evidované pod interním označením 44131648 se bohužel nepodařilo dokončit platbu. Prosíme vás proto o opakování úhrady přes odkaz v potvrzení objednávky, případně nás kontaktujte, pokud se chyba objeví znovu. Pro správné přiřazení platby u nás vedeme údaje Potraviny Express a.s., DIČ CZ51316471, adresa Před Skalkami Ii 91, 664 71 Brno a datum narození 18. 3. 1933. Jakmile platbu úspěšně přijmeme, objednávku ihned předáme k dalšímu zpracování.",
+    "contact_id": 194,
+    "scenario": "E-mail řešící problém s platbou — zákazníkovi se nepodařilo dokončit úhradu objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "DATE",
+        "surface_form": "18. 3. 1933",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ51316471",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Před Skalkami Ii 91, 664 71 Brno",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Potraviny Express a.s.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": true,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": [
+      {
+        "surface_form": "44131648",
+        "near_miss_type": "ICO_INVALID_CHECKSUM",
+        "span_start": 57,
+        "span_end": 65
+      }
+    ]
+  },
+  {
+    "message_id": "uc02-msg-00005",
+    "text": "Přepravce dnes nahlásil problém s doručením balíku pro zákazníka Zbyněk Doležal na adresu Mlýnská 14, 360 01 Jenišov. Podle informace od dopravce došlo ke zpoždění na depu a zásilka bude doručována v náhradním termínu. Se Zbyněkem Doležalem je potřeba případně ověřit, zda mu nový termín vyhovuje. Stav zásilky doporučuji zkontrolovat znovu během zítřka a podle vývoje zákazníka informovat.",
+    "contact_id": 326,
+    "scenario": "Interní poznámka o zpoždění dodávky — přepravce nahlásil problém s doručením balíku.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Zbyněk Doležal",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Zbyněkem Doležalem",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Mlýnská 14, 360 01 Jenišov",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00006",
+    "text": "Dobrý den, Zdislava Vlčková, děkujeme za Váš dotaz ke konkrétnímu produktu a jeho dostupnosti. K objednávce vedené se Zdislavou Vlčkovou evidujeme kontaktní telefon +420 793 620 918 a e-mail zdislava.vlckova43@seznam.cz. Produkt je momentálně skladem u dodavatele a očekáváme jeho naskladnění v našem e-shopu během několika pracovních dnů. Pro ověření údajů u rezervace máme uvedeno rodné číslo 955318/7468. Jakmile bude položka dostupná k expedici, pošleme Vám potvrzení e-mailem.",
+    "contact_id": 312,
+    "scenario": "E-mail s odpovědí na dotaz zákazníka ke konkrétnímu produktu a jeho dostupnosti.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Zdislava Vlčková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Zdislavou Vlčkovou",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 793 620 918",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "zdislava.vlckova43@seznam.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "955318/7468",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00007",
+    "text": "Pavel Matějka dnes nahlásil záruční reklamaci zakoupeného spotřebiče, podle popisu se závada projevuje opakovaně při běžném používání. Matějkovi bylo vysvětleno, že zařízení je potřeba doručit na servisní posouzení včetně kopie dokladu o koupi. Kontakt pro případné doplnění informací je +420 724 472 282. Zákazník souhlasil s dalším postupem a čeká na instrukce k předání spotřebiče.",
+    "contact_id": 167,
+    "scenario": "Interní poznámka k záruční reklamaci — zákazník uplatňuje záruku na zakoupený spotřebič.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Pavel Matějka",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Matějkovi",
+        "form": "dat_surname"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 724 472 282",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00008",
+    "text": "Dobrý den, potvrzujeme, že kontaktní údaje na zákaznickém účtu byly úspěšně aktualizovány. Účet je veden na jméno Štefan Kraus a jako firma je nově uvedena Sportshop Distribuce s.r.o. V profilu Štefana Krausa evidujeme telefon +420 606 791 286 a DIČ CZ96379405. Pokud jste tuto změnu neprováděli vy, dejte nám prosím co nejdříve vědět odpovědí na tento e-mail.",
+    "contact_id": 291,
+    "scenario": "E-mail potvrzující aktualizaci kontaktních údajů na zákaznickém účtu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 606 791 286",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ96379405",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Sportshop Distribuce s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Štefan Kraus",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Štefana Krausa",
+        "form": "gen_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00009",
+    "text": "Zákazník volal s žádostí o storno objednávky a vystavení dobropisu. Uvedl, že zboží již nechce převzít, protože objednávku vytvořil omylem. Pro kontrolu jsme ověřili doručovací adresu Nad Lávkou 2, 190 16 Praha. Požadavek předávám k dořešení na fakturaci, dobropis prosím vystavit po potvrzení storna.",
+    "contact_id": 288,
+    "scenario": "Interní poznámka z hovoru, kde zákazník žádá o storno objednávky a vystavení dobropisu.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Nad Lávkou 2, 190 16 Praha",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00010",
+    "text": "Dobrý den, Božena Štěpánková, při prvním pokusu se nám bohužel nepodařilo zásilku doručit, proto bychom Vám rádi nabídli náhradní termín doručení. Pro ověření objednávky evidujeme kontakt bozena.stepankova@email.cz a údaje k zákaznici Boženy Štěpánkové: datum narození 8. 1. 1948 a rodné číslo 485405/5217. Prosíme, odpovězte nám, který pracovní den a časové rozmezí Vám pro opakované doručení nejlépe vyhovuje. Jakmile termín potvrdíte, předáme ho dopravci a pošleme Vám potvrzení e-mailem.",
+    "contact_id": 186,
+    "scenario": "E-mail s nabídkou náhradního termínu doručení po neúspěšném prvním pokusu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "bozena.stepankova@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DATE",
+        "surface_form": "8. 1. 1948",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "485405/5217",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Božena Štěpánková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Boženy Štěpánkové",
+        "form": "gen_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00011",
+    "text": "Zákazník se dotazoval na aktuální stav vyřízení objednávky a žádal prověření termínu odeslání. Pro ověření kontaktu uvedl telefon +420 704 005 436 a v poznámce k účtu je evidováno rodné číslo 726003/3946. Objednávka je stále ve zpracování ve skladu, podle posledního stavu čeká na kompletaci jedné položky. Jakmile bude zásilka předána dopravci, je potřeba zákazníka informovat SMS zprávou.",
+    "contact_id": 217,
+    "scenario": "Interní poznámka k dotazu na stav vyřízení objednávky.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 704 005 436",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "726003/3946",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00012",
+    "text": "Dobrý den, potvrzujeme, že objednávka zákaznice Zdislava Žáková byla úspěšně přijata do našeho systému. U objednávky vedené na Žákovou evidujeme IČO 70013381 a kontaktní údaje zdislava.zakova@seznam.cz, +420 779 543 173. Předpokládané doručení je naplánováno na nejbližší pracovní den podle dostupnosti dopravce. Jakmile bude zásilka předána k přepravě, zašleme potvrzení s dalším upřesněním.",
+    "contact_id": 284,
+    "scenario": "E-mail s krátkým potvrzením přijetí objednávky a předpokládaného data doručení.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 779 543 173",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Zdislava Žáková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Žákovou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "70013381",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "zdislava.zakova@seznam.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00013",
+    "text": "Zpětně jsem volal zákazníkovi Chen Li ohledně jeho předchozího dotazu k objednávce. Zákazník uvedl, že se mu nepodařilo najít potvrzení v e-mailu, proto jsem mu doporučil zkontrolovat i složku hromadné pošty. Domluvili jsme se, že pokud potvrzení během dne nedorazí, znovu se ozve přes kontaktní formulář. Zatím bez další akce z naší strany.",
+    "contact_id": 2,
+    "scenario": "Interní poznámka s krátkým záznamem o zpětném zavolání zákazníkovi.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Chen Li",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00014",
+    "text": "Dobrý den, Kateřina Machová, děkujeme za Váš nákup v e-shopu DětskýSvět Velkoobchod s.r.o. a věříme, že zásilka dorazila v pořádku na adresu Na Křivce 84, 152 00 Praha. Budeme moc rádi, pokud si najdete chvilku na vyplnění krátké recenze, která nám pomůže dále zlepšovat naše služby. Zkušenost s Kateřinou Machovou evidujeme k objednávce vedené pod kontaktním e-mailem katerina.machova@centrum.cz. Děkujeme za Váš čas a přejeme hezký den.",
+    "contact_id": 496,
+    "scenario": "E-mail s poděkováním za nákup a žádostí o vyplnění krátké recenze.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Na Křivce 84, 152 00 Praha",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Kateřina Machová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Kateřinou Machovou",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "DětskýSvět Velkoobchod s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "katerina.machova@centrum.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00015",
+    "text": "Zákazník dnes předal podnět k obchodním podmínkám a možnostem individuální nabídky, proto jsem jej postoupil na obchodní oddělení k posouzení. V CRM jsem pro dohledání uvedl rodné číslo 750801/1148 a IČO 65341929. Obchodní tým má prověřit, zda lze připravit upravenou nabídku nebo navrhnout další postup. Zákazník očekává zpětnou vazbu po interním vyhodnocení.",
+    "contact_id": 307,
+    "scenario": "Interní poznámka o předání podnětu zákazníka na obchodní oddělení.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "750801/1148",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "65341929",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00016",
+    "text": "Dobrý den, Františka Moravcová, produkt, který sledujete, je opět skladem a můžete si jej nyní objednat. U profilu Moravcové máme pro ověření evidované datum narození 2. 11. 1944 a rodné číslo 445402/2463. Upozornění jsme zaslali na e-mail frantiska.moravcova@email.cz. Doporučujeme objednávku neodkládat, protože dostupnost se může rychle měnit.",
+    "contact_id": 158,
+    "scenario": "E-mail s upozorněním, že sledovaný produkt je opět skladem.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "DATE",
+        "surface_form": "2. 11. 1944",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "445402/2463",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Františka Moravcová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Moravcové",
+        "form": "gen_surname"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "frantiska.moravcova@email.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00017",
+    "text": "Zákazník požádal o vystavení duplikátu faktury k objednávce, kterou nedohledal ve své schránce. Pro ověření kontaktu uvedl e-mail miroslav.tichy95@post.cz a telefon +420 774 510 679. Požadavek je potřeba předat účetnímu oddělení k dohledání původního dokladu. Po vystavení duplikátu prosím zaslat fakturu zpět na uvedený e-mail.",
+    "contact_id": 273,
+    "scenario": "Interní poznámka k žádosti zákazníka o vystavení duplikátu faktury.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "miroslav.tichy95@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 774 510 679",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00018",
+    "text": "Mária Sedláková volala kvůli vadnému zboží z poslední objednávky a žádá urychlené vyřešení reklamace. U Márie Sedlákové jsem ověřil kontaktní údaje: Hněvkovského 73, 252 26 Praha, datum narození 10. 3. 1958 a e-mail maria.sedlakova@post.cz. Zákaznice uvedla, že závada se projevila krátce po převzetí a zboží nelze běžně používat. Domluveno zaslání fotografií vady e-mailem a následné předání reklamace k posouzení reklamačnímu oddělení.",
+    "contact_id": 497,
+    "scenario": "Interní poznámka z reklamačního telefonátu — zákazník volá kvůli vadnému zboží a žádá o vyřešení reklamace.",
+    "channel": "note",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Mária Sedláková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Márie Sedlákové",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Hněvkovského 73, 252 26 Praha",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DATE",
+        "surface_form": "10. 3. 1958",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "maria.sedlakova@post.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00019",
+    "text": "Dobrý den, potvrzujeme, že vrácení peněz za zrušenou objednávku bylo zaevidováno. Částku prosím zašlete na účet uvedený v potvrzení objednávky a jako identifikaci uveďte adresu Petříkova 1, 671 53 Němčičky. Jakmile platbu přijmeme a spárujeme, zašleme vám potvrzení e-mailem. Děkujeme za spolupráci a omlouváme se za případné komplikace.",
+    "contact_id": 344,
+    "scenario": "E-mail potvrzující vrácení peněz za zrušenou objednávku, včetně čísla účtu pro zaslání částky.",
+    "channel": "email",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Petříkova 1, 671 53 Němčičky",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00020",
+    "text": "Dobrý den, Jana Kopecká, potvrzujeme, že u Vaší rozpracované objednávky evidujeme žádost o změnu doručovací adresy. Adresu jsme upravili na Musílkova 66, 506 01 Podhradí a pro dopravce ponecháváme kontaktní telefon +420 729 215 704. Paní Kopecké změnu ještě ověříme před předáním zásilky dopravci, aby doručení proběhlo bez komplikací. Pokud by kvůli úpravě vznikl rozdíl v platbě nebo případná vratka, použijeme pro vyrovnání účet CZ13 6210 7681 7060 7316 6055.",
+    "contact_id": 116,
+    "scenario": "Žádost zákazníka o změnu doručovací adresy u rozpracované objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 729 215 704",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Musílkova 66, 506 01 Podhradí",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jana Kopecká",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Kopecké",
+        "form": "gen_surname"
+      },
+      {
+        "pii_type": "IBAN_CZ",
+        "surface_form": "CZ13 6210 7681 7060 7316 6055",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00021",
+    "text": "Jolana Vlčková dnes poslala B2B poptávku na velkoobchodní ceny pro pravidelné odběry. U Jolany Vlčkové je potřeba ještě ověřit fakturační údaje a doplnit IČO/DIČ, protože v dotazu zatím uvedla jen datum narození 13. 2. 1975. Zákaznice chce znát minimální odběr, možné množstevní slevy a podmínky splatnosti faktury. Po doplnění údajů připravit cenovou nabídku a poslat ji e-mailem ke schválení.",
+    "contact_id": 17,
+    "scenario": "Interní poznámka k B2B poptávce — firemní zákazník se ptá na velkoobchodní ceny a fakturační údaje.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jolana Vlčková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jolany Vlčkové",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "DATE",
+        "surface_form": "13. 2. 1975",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00022",
+    "text": "Dobrý den, Viktorie Konečná, u Vaší objednávky se nám platbu nepodařilo dokončit, proto zatím zůstává neuhrazená. Prosíme Konečnou o zopakování platby přes odkaz v potvrzení objednávky, případně můžeme po domluvě změnit způsob úhrady. Fakturační údaje u objednávky evidujeme jako Chotětovská 38, 794 01 Krnov a kontaktní e-mail viktorie.konecna58@gmail.com. Pokud by potíže přetrvávaly, napište nám prosím nebo zavolejte na +420 798 631 462, abychom platbu společně dořešili.",
+    "contact_id": 371,
+    "scenario": "E-mail řešící problém s platbou — zákazníkovi se nepodařilo dokončit úhradu objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Chotětovská 38, 794 01 Krnov",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 798 631 462",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Viktorie Konečná",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Konečnou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "viktorie.konecna58@gmail.com",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00023",
+    "text": "Lukáš Fiala má u objednávky hlášené zpoždění dodávky, přepravce dnes avizoval problém s doručením balíku. S Lukášem Fialou je potřeba případně ověřit, zda mu vyhovuje náhradní termín doručení, jakmile ho přepravce potvrdí. Zatím není nutné zakládat reklamaci, čekáme na upřesnění stavu zásilky od depa.",
+    "contact_id": 211,
+    "scenario": "Interní poznámka o zpoždění dodávky — přepravce nahlásil problém s doručením balíku.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lukáš Fiala",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lukášem Fialou",
+        "form": "instr_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00024",
+    "text": "Dobrý den, Bohumír Doležal, děkujeme za váš dotaz ke konkrétnímu produktu a jeho dostupnosti. U objednávky vedené pro Bohumíra Doležala na adrese Náměstí Prezidenta Masaryka 73, 250 82 Úvaly jsme ověřili, že produkt je aktuálně skladem a můžeme jej připravit k odeslání. Pro případné upřesnění dostupnosti nebo termínu doručení vás můžeme kontaktovat na telefonu +420 790 203 778. V evidenci máme také údaj 580724/3475, který použijeme pouze pro ověření související s vaší objednávkou.",
+    "contact_id": 51,
+    "scenario": "E-mail s odpovědí na dotaz zákazníka ke konkrétnímu produktu a jeho dostupnosti.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Náměstí Prezidenta Masaryka 73, 250 82 Úvaly",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Bohumír Doležal",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Bohumíra Doležala",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 790 203 778",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "580724/3475",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00025",
+    "text": "Zákazník uplatňuje záruční reklamaci na zakoupený spotřebič, podle sdělení se závada projevila opakovaně i po kontrole zapojení a běžném restartu. Pro ověření případu je v CRM uvedeno rodné číslo 420808/8951 a kontaktní e-mail horymir.kadlec@email.cz. Zákazník byl informován, že spotřebič je potřeba doručit nebo zaslat k posouzení do servisního střediska včetně dokladu o koupi. Po přijetí reklamace předat technikovi k diagnostice a následně zákazníka kontaktovat s výsledkem posouzení a dalším postupem.",
+    "contact_id": 143,
+    "scenario": "Interní poznámka k záruční reklamaci — zákazník uplatňuje záruku na zakoupený spotřebič.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "420808/8951",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "horymir.kadlec@email.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00026",
+    "text": "Dobrý den, potvrzujeme, že kontaktní údaje ve Vašem zákaznickém účtu byly úspěšně aktualizovány. U účtu nyní evidujeme firmu DětskýSvět Velkoobchod s.r.o., IČO 75423511 a DIČ CZ75423511. Pro ověření údajů máme zároveň uložené rodné číslo 610121/5538. Pokud jste tuto změnu neprováděli Vy, kontaktujte nás prosím co nejdříve odpovědí na tento e-mail.",
+    "contact_id": 282,
+    "scenario": "E-mail potvrzující aktualizaci kontaktních údajů na zákaznickém účtu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ75423511",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "610121/5538",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "75423511",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "DětskýSvět Velkoobchod s.r.o.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00027",
+    "text": "Vratislav Holub dnes volal kvůli žádosti o storno objednávky a následné vystavení dobropisu. Totožnost Holuba byla ověřena dle údaje 850428/4107. Zákazník uvedl, že zboží již nechce převzít a žádá ukončení objednávky bez náhrady. Předáno na fakturaci k vystavení dobropisu a kontrolu stavu platby.",
+    "contact_id": 249,
+    "scenario": "Interní poznámka z hovoru, kde zákazník žádá o storno objednávky a vystavení dobropisu.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "850428/4107",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vratislav Holub",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Holuba",
+        "form": "gen_surname"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00028",
+    "text": "Dobrý den, první pokus o doručení vaší objednávky se bohužel nezdařil, proto vám nabízíme náhradní termín doručení. Pro ověření evidujeme u zásilky rodné číslo 840514/7135, číslo účtu 051-5041494/6210, e-mail martin.dusek@post.cz a telefon +420 774 900 287. Prosíme, odpovězte nám na tento e-mail, který den a čas by vám pro opakované doručení nejlépe vyhovoval. Jakmile termín potvrdíme s dopravcem, zašleme vám krátké potvrzení.",
+    "contact_id": 136,
+    "scenario": "E-mail s nabídkou náhradního termínu doručení po neúspěšném prvním pokusu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "840514/7135",
+        "form": "nom"
+      },
+      {
+        "pii_type": "BBAN",
+        "surface_form": "051-5041494/6210",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "martin.dusek@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 774 900 287",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00029",
+    "text": "Zákazník se dotazoval na aktuální stav vyřízení objednávky, protože zatím neobdržel potvrzení o expedici. Ověřeno podle údajů v CRM, u firmy je uvedeno IČO: 75423511 a objednávka je stále ve zpracování ve skladu. Doporučuji během dne znovu zkontrolovat stav expedice a případně zákazníkovi poslat krátkou informaci o předpokládaném termínu odeslání.",
+    "contact_id": 152,
+    "scenario": "Interní poznámka k dotazu na stav vyřízení objednávky.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ICO",
+        "surface_form": "75423511",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00030",
+    "text": "Dobrý den, Lumír Švec, potvrzujeme přijetí Vaší objednávky evidované na e-mail lumir.svec@post.cz. Zásilku pro pana Švece doručíme na adresu Pikovická 53, 378 06 Suchdol nad Lužnicí. Předpokládané doručení je do 3 pracovních dnů. Pro ověření objednávky máme u záznamu uvedeno rodné číslo 580119/4883.",
+    "contact_id": 161,
+    "scenario": "E-mail s krátkým potvrzením přijetí objednávky a předpokládaného data doručení.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "lumir.svec@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Pikovická 53, 378 06 Suchdol nad Lužnicí",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lumír Švec",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Švece",
+        "form": "gen_surname"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "580119/4883",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00031",
+    "text": "Zpětně jsem volal zákazníkovi Lukáš Hájek ohledně jeho dotazu k objednávce a doručení. S Hájkem jsme ověřili aktuální stav zásilky a vysvětlil jsem mu další postup včetně předpokládaného termínu doručení. Pro případné doplnění informací zákazník potvrdil kontaktní e-mail lukas.hajek49@gmail.com. Domluvili jsme se, že pokud se stav zásilky do zítřka nezmění, znovu ho kontaktujeme.",
+    "contact_id": 36,
+    "scenario": "Interní poznámka s krátkým záznamem o zpětném zavolání zákazníkovi.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lukáš Hájek",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Hájkem",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "lukas.hajek49@gmail.com",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00032",
+    "text": "Dobrý den, Lukáš Král, děkujeme Vám za nákup v našem e-shopu a věříme, že je vše v pořádku. K objednávce vedené pod zákazníkem Lukášem Králem evidujeme doručení na adresu Chotětovská 134, 757 01 Valašské Meziříčí a kontaktní e-mail lukas.kral7@email.cz. Pokud byste měl chvilku, budeme moc rádi za vyplnění krátké recenze, která nám pomůže zlepšovat naše služby. Pro případnou kontrolu platby u objednávky uvádíme také IBAN CZ97 6210 0733 8440 9594 3642. Děkujeme za Váš čas a přejeme hezký den.",
+    "contact_id": 305,
+    "scenario": "E-mail s poděkováním za nákup a žádostí o vyplnění krátké recenze.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Chotětovská 134, 757 01 Valašské Meziříčí",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "lukas.kral7@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lukáš Král",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lukášem Králem",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "IBAN_CZ",
+        "surface_form": "CZ97 6210 0733 8440 9594 3642",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00033",
+    "text": "Zákazník dnes předal podnět k nabídce a požádal, aby se mu k tomu ozvalo obchodní oddělení. Do CRM jsem doplnil kontaktní telefon \"+420 721 303 070\" a stručné shrnutí požadavku. Prosím obchodní tým o prověření možností a následné kontaktování zákazníka.",
+    "contact_id": 123,
+    "scenario": "Interní poznámka o předání podnětu zákazníka na obchodní oddělení.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 721 303 070",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00034",
+    "text": "Dobrý den, Felix Beneš, sledovaný produkt je opět skladem a můžete si jej nyní objednat v našem e-shopu. U upozornění evidujeme kontakt +420 723 312 661 a felix.benes@post.cz. Údaje vedené pod zákazníkem Benešem, včetně data narození 11. 7. 1953, zůstávají beze změny. Doporučujeme objednávku dokončit co nejdříve, protože dostupnost se může rychle změnit.",
+    "contact_id": 435,
+    "scenario": "E-mail s upozorněním, že sledovaný produkt je opět skladem.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 723 312 661",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "felix.benes@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Felix Beneš",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Benešem",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "DATE",
+        "surface_form": "11. 7. 1953",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00035",
+    "text": "Martin Beran požádal o vystavení duplikátu faktury k dřívější objednávce. Žádost byla ověřena s Martinem Beranem a údaje souhlasí s evidencí v CRM. Faktura má být zaslána na adresu Vstupní 173, 370 01 Rudolfov. Duplikát připravit a odeslat zákazníkovi e-mailem, případně doplnit poznámku po odeslání.",
+    "contact_id": 179,
+    "scenario": "Interní poznámka k žádosti zákazníka o vystavení duplikátu faktury.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Martin Beran",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Martinem Beranem",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Vstupní 173, 370 01 Rudolfov",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00036",
+    "text": "Zákazník volal kvůli vadnému zboží a žádá o urychlené vyřízení reklamace. Uvedl, že nákup byl veden na firmu Domácí Potřeby Plzeň a.s., IČO 69407819, a pro další komunikaci potvrdil e-mail vlastimil.bartos43@email.cz. Pro ověření totožnosti doplnil rodné číslo 960901/6835. Domluveno předání případu reklamačnímu oddělení a zpětná vazba po posouzení vady.",
+    "contact_id": 464,
+    "scenario": "Interní poznámka z reklamačního telefonátu — zákazník volá kvůli vadnému zboží a žádá o vyřešení reklamace.",
+    "channel": "note",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ICO",
+        "surface_form": "69407819",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "vlastimil.bartos43@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Domácí Potřeby Plzeň a.s.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "960901/6835",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00037",
+    "text": "Dobrý den, Sabina Hájková, potvrzujeme zrušení Vaší objednávky a vrácení peněz. Částku jsme dnes odeslali na účet uvedený u objednávky Sabině Hájkové. Pokud by platba nedorazila během několika pracovních dnů, dejte nám prosím vědět na telefon +420 779 658 202. Děkujeme za pochopení a omlouváme se za případné komplikace.",
+    "contact_id": 60,
+    "scenario": "E-mail potvrzující vrácení peněz za zrušenou objednávku, včetně čísla účtu pro zaslání částky.",
+    "channel": "email",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Sabina Hájková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Sabině Hájkové",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 779 658 202",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00038",
+    "text": "Dobrý den, potvrzujeme, že zákaznice Barbora Ježková požádala o změnu doručovací adresy u rozpracované objednávky vedené pod interním označením 62427864. Barboře Ježkové jsme změnu předali ke zpracování a o výsledku ji budeme informovat na e-mail barbora.jezkova43@centrum.cz nebo telefonicky na +420 723 401 636. Pro ověření žádosti evidujeme také rodné číslo 715916/2571. Jakmile dopravce změnu potvrdí, zašleme vám finální potvrzení.",
+    "contact_id": 325,
+    "scenario": "Žádost zákazníka o změnu doručovací adresy u rozpracované objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "715916/2571",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 723 401 636",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Barbora Ježková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Barboře Ježkové",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "barbora.jezkova43@centrum.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": true,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": [
+      {
+        "surface_form": "62427864",
+        "near_miss_type": "ICO_INVALID_CHECKSUM",
+        "span_start": 144,
+        "span_end": 152
+      }
+    ]
+  },
+  {
+    "message_id": "uc02-msg-00039",
+    "text": "Julie Dvořáková dnes poslala B2B poptávku a žádá o zaslání velkoobchodních cen pro pravidelné odběry. V další komunikaci je potřeba Dvořákové potvrdit, zda máme k dispozici kompletní fakturační údaje včetně IČO a DIČ. Doporučuji ověřit předpokládaný měsíční objem objednávek a podle toho jí připravit konkrétní cenovou nabídku. Po doplnění údajů předat obchodnímu oddělení k nastavení zákaznického účtu.",
+    "contact_id": 5,
+    "scenario": "Interní poznámka k B2B poptávce — firemní zákazník se ptá na velkoobchodní ceny a fakturační údaje.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Julie Dvořáková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Dvořákové",
+        "form": "gen_surname"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00040",
+    "text": "Dobrý den, Věra Říhová, při kontrole objednávky jsme zjistili, že se nepodařilo dokončit platbu, a proto zatím nemůže být předána k odeslání. U Říhové evidujeme pro ověření telefon +420 704 484 137, rodné číslo 535905/4404 a datum narození 23. 2. 1953. Prosíme, zkuste platbu provést znovu přes odkaz v detailu objednávky, případně nám odpovězte na tento e-mail a připravíme pro vás náhradní platební údaje. Pokud již platba mezitím odešla, pošlete nám prosím potvrzení a vše obratem zkontrolujeme.",
+    "contact_id": 299,
+    "scenario": "E-mail řešící problém s platbou — zákazníkovi se nepodařilo dokončit úhradu objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Věra Říhová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Říhové",
+        "form": "gen_surname"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 704 484 137",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "535905/4404",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DATE",
+        "surface_form": "23. 2. 1953",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00041",
+    "text": "Přepravce dnes nahlásil problém s doručením balíku pro Potraviny Express a.s., zásilka se pravděpodobně zpozdí o 1 až 2 pracovní dny. Zákazníka je potřeba preventivně informovat na zaneta.bartova@post.cz a omluvit se za komplikace. Sledujeme aktualizaci trasování, jakmile dopravce potvrdí nový termín doručení, doplníme ho do CRM.",
+    "contact_id": 108,
+    "scenario": "Interní poznámka o zpoždění dodávky — přepravce nahlásil problém s doručením balíku.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "zaneta.bartova@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Potraviny Express a.s.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00042",
+    "text": "Dobrý den, Jindřich Kovář, děkujeme za váš dotaz ke konkrétnímu produktu a jeho dostupnosti. Jindřichovi Kovářovi můžeme potvrdit, že zboží je aktuálně skladem v omezeném množství a rezervaci u dotazu vedeného pod interním označením 66342164 jsme přiřadili ke kontaktu jindrich.kovar@centrum.cz. Pro ověření objednávky u nás evidujeme také údaje 020330/9524 a +420 794 330 276. Pokud objednávku dokončíte dnes, produkt obvykle odesíláme následující pracovní den.",
+    "contact_id": 318,
+    "scenario": "E-mail s odpovědí na dotaz zákazníka ke konkrétnímu produktu a jeho dostupnosti.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jindřich Kovář",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jindřichovi Kovářovi",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "jindrich.kovar@centrum.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "020330/9524",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 794 330 276",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": true,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": [
+      {
+        "surface_form": "66342164",
+        "near_miss_type": "ICO_INVALID_CHECKSUM",
+        "span_start": 233,
+        "span_end": 241
+      }
+    ]
+  },
+  {
+    "message_id": "uc02-msg-00043",
+    "text": "Zákazník uplatňuje záruční reklamaci na zakoupený spotřebič, podle popisu se závada projevuje opakovaně při běžném používání. Pro ověření identity a dohledání nákupu bylo do záznamu doplněno rodné číslo 850407/8363. Doporučuji vyžádat fotodokumentaci výrobního štítku a následně zákazníka informovat o dalším postupu zaslání nebo předání spotřebiče k posouzení servisem.",
+    "contact_id": 490,
+    "scenario": "Interní poznámka k záruční reklamaci — zákazník uplatňuje záruku na zakoupený spotřebič.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "850407/8363",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00044",
+    "text": "Dobrý den, potvrzujeme, že jsme na zákaznickém účtu Veronika Procházková aktualizovali kontaktní údaje. U účtu evidujeme datum narození 6. 1. 1991, telefon +420 738 111 212 a e-mail veronika.prochazkova@seznam.cz. Potvrzení o změně bylo přiřazeno Veronice Procházkové a není potřeba z Vaší strany nic dalšího doplňovat. Pokud jste tuto změnu neprováděla, odpovězte prosím na tento e-mail co nejdříve.",
+    "contact_id": 471,
+    "scenario": "E-mail potvrzující aktualizaci kontaktních údajů na zákaznickém účtu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "DATE",
+        "surface_form": "6. 1. 1991",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 738 111 212",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "veronika.prochazkova@seznam.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Veronika Procházková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Veronice Procházkové",
+        "form": "dat_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00045",
+    "text": "Klaudie Dušková telefonicky požádala o storno objednávky a vystavení dobropisu. Klaudii Duškové jsem potvrdil, že požadavek předávám k dořešení na fakturační oddělení. Zákaznice uvedla jako kontaktní e-mail klaudie.duskova25@seznam.cz pro zaslání potvrzení a dobropisu. Upozornil jsem ji, že po zpracování storna obdrží další informace e-mailem.",
+    "contact_id": 261,
+    "scenario": "Interní poznámka z hovoru, kde zákazník žádá o storno objednávky a vystavení dobropisu.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Klaudie Dušková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Klaudii Duškové",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "klaudie.duskova25@seznam.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00046",
+    "text": "Dobrý den, Martin Dušek, při prvním pokusu se nám bohužel nepodařilo doručit vaši objednávku, proto vám nabízíme náhradní termín doručení. U Duška prosím ověříme dostupnost na e-mailu martin.dusek@post.cz a následně potvrdíme nový termín. Pro správné spárování požadavku evidujeme číslo účtu 051-5041494/6210 a rodné číslo 570220/4442. Prosíme, odpovězte nám, zda vám vyhovuje doručení zítra mezi 9:00 a 13:00, případně navrhněte jiný vhodný čas.",
+    "contact_id": 136,
+    "scenario": "E-mail s nabídkou náhradního termínu doručení po neúspěšném prvním pokusu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "martin.dusek@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "BBAN",
+        "surface_form": "051-5041494/6210",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Martin Dušek",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Duška",
+        "form": "gen_surname"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "570220/4442",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00047",
+    "text": "Zákazník se dotazoval na stav vyřízení objednávky, kontakt uvedl přes e-mail matej.sedlacek@gmail.com a telefon +420 776 090 225. Ověřeno v systému, objednávka je aktuálně ve fázi přípravy k expedici a čeká na předání dopravci. Zákazníkovi byla sdělena předpokládaná expedice v nejbližším pracovním dni. Doporučeno zkontrolovat automatické odeslání potvrzení s odkazem na sledování zásilky po předání dopravci.",
+    "contact_id": 296,
+    "scenario": "Interní poznámka k dotazu na stav vyřízení objednávky.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "matej.sedlacek@gmail.com",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 776 090 225",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00048",
+    "text": "Dobrý den, potvrzujeme, že objednávka zákazníka Hynek Brož byla úspěšně přijata do našeho systému. Objednávku evidujeme s Brožem a předpokládané doručení na adresu Na Strži 196, 713 00 Ostrava je do 3 pracovních dnů. Pro případné upřesnění dopravce použije telefon +420 775 551 127. V interní evidenci máme k objednávce uvedeno rodné číslo 011224/6860.",
+    "contact_id": 352,
+    "scenario": "E-mail s krátkým potvrzením přijetí objednávky a předpokládaného data doručení.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Hynek Brož",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Brožem",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 775 551 127",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "011224/6860",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Na Strži 196, 713 00 Ostrava",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00049",
+    "text": "Zákaznici jsem zavolal zpět kvůli jejímu dotazu k objednávce a ověřil kontaktní e-mail evelina.janeckova@centrum.cz. Potvrdila, že potřebuje hlavně upřesnit stav doručení a případný termín předání dopravci. Informace jsem jí předal podle aktuálního stavu v systému a domluvili jsme se, že pokud se zásilka do zítřka neposune, znovu ji budeme kontaktovat.",
+    "contact_id": 485,
+    "scenario": "Interní poznámka s krátkým záznamem o zpětném zavolání zákazníkovi.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "evelina.janeckova@centrum.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00050",
+    "text": "Dobrý den, Lumír Kašpar, děkujeme Vám za nákup v našem e-shopu a věříme, že jste s objednávkou spokojen. Pro interní spárování požadavku k recenzi evidujeme zákaznický záznam pro Lumíra Kašpara s kontaktním telefonem +420 735 424 008. U objednávky máme také uvedené údaje 801210/5673 a IČO 65341929, aby bylo možné zpětnou vazbu správně přiřadit. Budeme rádi, když nám věnujete chvíli a vyplníte krátkou recenzi, která nám pomůže zlepšovat naše služby.",
+    "contact_id": 168,
+    "scenario": "E-mail s poděkováním za nákup a žádostí o vyplnění krátké recenze.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lumír Kašpar",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lumíra Kašpara",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 735 424 008",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "801210/5673",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "65341929",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00051",
+    "text": "Edita Brožová dnes předala podnět k nabídce sortimentu a možnostem větší objednávky. Záležitost byla po domluvě s Editou Brožovou předána na obchodní oddělení k dalšímu posouzení. V CRM ponechávám poznámku včetně adresy Na Příčné Mezi 195, 664 81 Brno pro případné ověření doručení nebo regionální dostupnosti. Obchodní tým má zákaznici kontaktovat s návrhem dalšího postupu.",
+    "contact_id": 155,
+    "scenario": "Interní poznámka o předání podnětu zákazníka na obchodní oddělení.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Edita Brožová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Editou Brožovou",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Na Příčné Mezi 195, 664 81 Brno",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00052",
+    "text": "Dobrý den, upozorňujeme vás, že sledovaný produkt je opět skladem a můžete si jej znovu objednat na našem e-shopu. Pro ověření rezervace u firmy Elektro Domov s.r.o. prosím použijte IČO 20433212 a rodné číslo 835822/2180. Pokud budete potřebovat s objednávkou pomoci, kontaktujte nás na telefonu +420 779 561 655. Děkujeme za váš zájem a budeme rádi, když se k objednávce vrátíte co nejdříve, dokud je produkt dostupný.",
+    "contact_id": 239,
+    "scenario": "E-mail s upozorněním, že sledovaný produkt je opět skladem.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 779 561 655",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "20433212",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "835822/2180",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Elektro Domov s.r.o.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00053",
+    "text": "Zákaznice požádala o vystavení duplikátu faktury k objednávce, původní doklad už nemá k dispozici. Ověřit objednávku podle kontaktního e-mailu linda.stejskalova@seznam.cz a následně zaslat kopii faktury na stejnou adresu. Pokud nebude faktura v systému dohledatelná automaticky, předat požadavek účetnímu oddělení k ručnímu vystavení duplikátu.",
+    "contact_id": 146,
+    "scenario": "Interní poznámka k žádosti zákazníka o vystavení duplikátu faktury.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "linda.stejskalova@seznam.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00054",
+    "text": "Felix Beneš volal kvůli vadnému zboží z poslední objednávky a žádá co nejrychlejší vyřešení reklamace. Felixovi Benešovi jsem vysvětlil postup, požádal ho o zaslání fotografií vady na felix.benes@post.cz a ověřil kontaktní telefon +420 723 312 661. Zákazník potvrdil doručovací adresu Opočínská 192, 508 01 Červená Třemešná pro případné vyzvednutí nebo zaslání náhradního kusu. Domluveno, že po přijetí podkladů reklamaci předáme na posouzení a budeme ho informovat o dalším postupu.",
+    "contact_id": 435,
+    "scenario": "Interní poznámka z reklamačního telefonátu — zákazník volá kvůli vadnému zboží a žádá o vyřešení reklamace.",
+    "channel": "note",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Felix Beneš",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Felixovi Benešovi",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "felix.benes@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 723 312 661",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Opočínská 192, 508 01 Červená Třemešná",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00055",
+    "text": "Dobrý den, Vlastimil Říha, potvrzujeme vrácení peněz za zrušenou objednávku na e-mail vlastimil.riha@post.cz. Částku zašleme na číslo účtu, které nám bylo uvedeno Vlastimilem Říhou. Peníze budou odeslány nejpozději do 3 pracovních dnů a podle banky se mohou připsat během dalších 1 až 2 pracovních dnů. Děkujeme za pochopení a v případě jakýchkoli dotazů nás můžete kontaktovat odpovědí na tento e-mail.",
+    "contact_id": 444,
+    "scenario": "E-mail potvrzující vrácení peněz za zrušenou objednávku, včetně čísla účtu pro zaslání částky.",
+    "channel": "email",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "vlastimil.riha@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vlastimil Říha",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vlastimilem Říhou",
+        "form": "instr_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00056",
+    "text": "Dobrý den, paní Marcela Jandová, potvrzujeme přijetí žádosti o změnu doručovací adresy u rozpracované objednávky. U objednávky Marcely Jandové jsme doručovací údaje upravili na Otradovická 169, 431 91 Vejprty a kontaktní telefon +420 704 094 940. Pro ověření evidujeme také rodné číslo 705301/9149. Pokud objednávka ještě nebude předána dopravci, bude zásilka odeslána již na novou adresu.",
+    "contact_id": 205,
+    "scenario": "Žádost zákazníka o změnu doručovací adresy u rozpracované objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Otradovická 169, 431 91 Vejprty",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 704 094 940",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Marcela Jandová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Marcely Jandové",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "705301/9149",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00057",
+    "text": "Firemní zákazník poptává velkoobchodní ceny pro pravidelné odběry a žádá o zaslání podmínek spolupráce. Pro další domluvu uvedl kontakt +420 731 586 851 a prosí o ověření možnosti individuální cenové nabídky podle předpokládaného objemu. Fakturační údaje chce vystavit na DIČ CZ70013381, ostatní údaje doplní po potvrzení nabídky. Doporučuji předat obchodnímu oddělení k nacenění a následně zákazníkovi poslat návrh rámcových podmínek.",
+    "contact_id": 357,
+    "scenario": "Interní poznámka k B2B poptávce — firemní zákazník se ptá na velkoobchodní ceny a fakturační údaje.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 731 586 851",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ70013381",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00058",
+    "text": "Dobrý den, Klára Čechová, u objednávky vedené na e-mail klara.cechova26@email.cz se nám bohužel nepodařilo potvrdit dokončení platby. Při kontrole údajů spojených s Klárou Čechovou evidujeme DIČ CZ20433212 a rodné číslo 935625/9121. Prosíme, zkuste platbu provést znovu přes odkaz v potvrzení objednávky, případně zvolte jinou platební metodu. Pokud se úhrada mezitím odečetla z vašeho účtu, pošlete nám prosím potvrzení o platbě a vše ihned prověříme.",
+    "contact_id": 287,
+    "scenario": "E-mail řešící problém s platbou — zákazníkovi se nepodařilo dokončit úhradu objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "klara.cechova26@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ20433212",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "935625/9121",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Klára Čechová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Klárou Čechovou",
+        "form": "instr_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00059",
+    "text": "Přepravce dnes nahlásil problém s doručením balíku, zásilka se proto pravděpodobně opozdí. Zákazníka budeme informovat na e-mailu vlasta.dostal30@post.cz, jakmile dostaneme přesnější termín doručení. Doporučuji zítra zkontrolovat stav zásilky v systému dopravce a případně urgovat depo.",
+    "contact_id": 82,
+    "scenario": "Interní poznámka o zpoždění dodávky — přepravce nahlásil problém s doručením balíku.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "vlasta.dostal30@post.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00060",
+    "text": "Dobrý den, Iveta Havlíčková, děkujeme za Váš dotaz ke konkrétnímu produktu a jeho dostupnosti. Prověřili jsme sklad a aktuálně je produkt dostupný k objednání, doručení na adresu Kloboukova 178, 742 21 Kopřivnice bychom očekávali během několika pracovních dnů. Informaci o dostupnosti jsme zároveň přiřadili Ivetě Havlíčkové k zákaznickému požadavku vedenému pod kontaktem iveta.havlickova@seznam.cz. Pro ověření v systému uvádíme také evidenční údaj 955525/7965.",
+    "contact_id": 481,
+    "scenario": "E-mail s odpovědí na dotaz zákazníka ke konkrétnímu produktu a jeho dostupnosti.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "iveta.havlickova@seznam.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Kloboukova 178, 742 21 Kopřivnice",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Iveta Havlíčková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Ivetě Havlíčkové",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "955525/7965",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00061",
+    "text": "Kamila Jandová uplatnila záruční reklamaci na zakoupený spotřebič, uvádí opakované vypínání během běžného provozu. Podle sdělení Kamily Jandové se závada začala projevovat minulý týden a nepomohlo ani odpojení od sítě a opětovné zapojení. Spotřebič bude převzat k diagnostice, svoz je potřeba domluvit z adresy Červenkova 41, 617 00 Brno. Zákaznice byla informována, že po posouzení servisem ji budeme kontaktovat s dalším postupem.",
+    "contact_id": 172,
+    "scenario": "Interní poznámka k záruční reklamaci — zákazník uplatňuje záruku na zakoupený spotřebič.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Kamila Jandová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Kamily Jandové",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Červenkova 41, 617 00 Brno",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00062",
+    "text": "Dobrý den, potvrzujeme, že u zákaznického účtu Matouš Tůma jsme aktualizovali kontaktní údaje. Nově evidujeme adresu Brixiho 89, 251 68 Kamenice, firmu Elektro Domov s.r.o. a DIČ CZ20433212. Změna byla provedena na základě požadavku zaslaného Tůmou a je již platná pro další objednávky i fakturaci. Pokud by některý údaj nebyl správně, dejte nám prosím vědět odpovědí na tento e-mail.",
+    "contact_id": 33,
+    "scenario": "E-mail potvrzující aktualizaci kontaktních údajů na zákaznickém účtu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Brixiho 89, 251 68 Kamenice",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Matouš Tůma",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Tůmou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ20433212",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Elektro Domov s.r.o.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00063",
+    "text": "Antonín Sedláček volal kvůli žádosti o storno objednávky, protože zboží už nepotřebuje. Sedláčkovi jsem potvrdil, že předám požadavek na zrušení objednávky a prověření stavu platby. Zákazník zároveň žádá o vystavení dobropisu a zaslání potvrzení na e-mail po dokončení storna. Upozornil jsem ho, že termín vrácení peněz se bude odvíjet od zpracování účetním oddělením.",
+    "contact_id": 11,
+    "scenario": "Interní poznámka z hovoru, kde zákazník žádá o storno objednávky a vystavení dobropisu.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Antonín Sedláček",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Sedláčkovi",
+        "form": "dat_surname"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00064",
+    "text": "Dobrý den, Vítězslav Vávra, při prvním pokusu se nám bohužel nepodařilo doručit zásilku na adresu Doubická 56, 500 03 Hradec Králové. Rádi bychom Vítězslavovi Vávrovi nabídli náhradní termín doručení, prosím odpovězte nám, který pracovní den by vám vyhovoval. Pro rychlejší domluvu vás můžeme kontaktovat na telefonu +420 734 191 965 nebo nám můžete napsat na vitezslav.vavra@email.cz. Jakmile termín potvrdíte, předáme pokyn dopravci.",
+    "contact_id": 200,
+    "scenario": "E-mail s nabídkou náhradního termínu doručení po neúspěšném prvním pokusu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 734 191 965",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "vitezslav.vavra@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vítězslav Vávra",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vítězslavovi Vávrovi",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Doubická 56, 500 03 Hradec Králové",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00065",
+    "text": "Zákazník Vítězslav Vávra se dotazoval na aktuální stav vyřízení objednávky přes e-mail vitezslav.vavra@email.cz. Vítězslavovi Vávrovi bylo ověřeno, že objednávka je již předaná ke kompletaci ve skladu a čeká na expedici. Informaci doporučuji ještě zkontrolovat po odpolední aktualizaci dopravce, aby bylo možné případně doplnit přesnější termín doručení.",
+    "contact_id": 200,
+    "scenario": "Interní poznámka k dotazu na stav vyřízení objednávky.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "vitezslav.vavra@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vítězslav Vávra",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vítězslavovi Vávrovi",
+        "form": "dat_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00066",
+    "text": "Dobrý den, potvrzujeme přijetí objednávky pro zákaznici Šárka Dušková vedenou pod kontaktním e-mailem sarka.duskova18@post.cz. Zásilku pro Šárky Duškové odešleme na adresu Nedvědovo Náměstí 192, 250 01 Brandýs nad Labem-Stará Boleslav a předpokládané doručení je do 3 pracovních dnů. Platba byla přiřazena k účtu 7169/0300. Jakmile bude balík předán dopravci, zašleme Vám potvrzení o odeslání.",
+    "contact_id": 319,
+    "scenario": "E-mail s krátkým potvrzením přijetí objednávky a předpokládaného data doručení.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "sarka.duskova18@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Nedvědovo Náměstí 192, 250 01 Brandýs nad Labem-Stará Boleslav",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Šárka Dušková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Šárky Duškové",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "BBAN",
+        "surface_form": "7169/0300",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00067",
+    "text": "Zpětně jsem volal zákaznici Tereza Jelínková na číslo +420 778 691 557, hovor se podařilo spojit. S Jelínkovou jsme krátce prošli její dotaz k objednávce a potvrdila, že potřebuje ještě ověřit dostupnost jedné položky. Informaci jsem předal skladu k prověření. Zákaznice očekává další kontakt po potvrzení termínu naskladnění.",
+    "contact_id": 94,
+    "scenario": "Interní poznámka s krátkým záznamem o zpětném zavolání zákazníkovi.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Tereza Jelínková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jelínkovou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 778 691 557",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00068",
+    "text": "Dobrý den, Magdalena Benešová, děkujeme za Váš nákup v našem e-shopu a věříme, že jste se zbožím spokojená. Budeme moc rádi, když si najdete chvilku a vyplníte krátkou recenzi, která nám pomůže zlepšovat služby pro zákazníky Magdaleny Benešové. Pro ověření návaznosti uvádíme údaje k zákaznickému záznamu: telefon +420 729 469 681, IČO 51316471 a rodné číslo 815527/0838. Vyplnění recenze zabere jen krátkou chvíli a velmi si Vaší zpětné vazby vážíme.",
+    "contact_id": 476,
+    "scenario": "E-mail s poděkováním za nákup a žádostí o vyplnění krátké recenze.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 729 469 681",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "51316471",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Magdalena Benešová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Magdaleny Benešové",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "815527/0838",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00069",
+    "text": "Podnět zákazníka byl po dnešní komunikaci předán na obchodní oddělení k posouzení dalšího postupu. V CRM jsem k případu doplnil identifikaci zákazníka přes rodné číslo 960125/0318, aby bylo možné dohledat související historii. Obchodní tým má prověřit možnosti individuální nabídky a případně se zákazníkovi ozvat s konkrétním návrhem. Zákazník byl informován, že se k podnětu vrátíme po interním vyhodnocení.",
+    "contact_id": 450,
+    "scenario": "Interní poznámka o předání podnětu zákazníka na obchodní oddělení.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "960125/0318",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00070",
+    "text": "Dobrý den, Antonín Sedláček, sledovaný produkt je opět skladem a můžete si jej nyní objednat. Informaci k rezervaci jsme Sedláčkovi přiřadili k údajům vedeným na adrese Moravanů 157, 250 92 Šestajovice. Pro ověření evidujeme rodné číslo 940308/1292 a kontaktní telefon +420 722 842 513. Doporučujeme objednávku dokončit co nejdříve, protože dostupnost se může rychle změnit.",
+    "contact_id": 11,
+    "scenario": "E-mail s upozorněním, že sledovaný produkt je opět skladem.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 722 842 513",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Antonín Sedláček",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Sedláčkovi",
+        "form": "dat_surname"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "940308/1292",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Moravanů 157, 250 92 Šestajovice",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00071",
+    "text": "Zákazník požádal o vystavení duplikátu faktury pro firmu Zahradní Centrum Morava a.s. a uvedl IČO 70013381. V systému je potřeba dohledat původní daňový doklad podle firemních údajů a ověřit, zda sedí fakturační adresa. Po kontrole zašleme duplikát na e-mail uvedený u objednávky.",
+    "contact_id": 86,
+    "scenario": "Interní poznámka k žádosti zákazníka o vystavení duplikátu faktury.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ORG",
+        "surface_form": "Zahradní Centrum Morava a.s.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "70013381",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00072",
+    "text": "Zákazník Blahoslav Liška volal kvůli vadnému zboží a žádá urychlené vyřešení reklamace. U Lišky ověřena kontaktní adresa Vlčická 8, 724 00 Ostrava a rodné číslo 611010/5892 pro dohledání objednávky. Pro další komunikaci potvrdil e-mail blahoslav.liska@centrum.cz. Zákazník popisuje závadu jako opakovanou a očekává informaci o dalším postupu reklamace.",
+    "contact_id": 160,
+    "scenario": "Interní poznámka z reklamačního telefonátu — zákazník volá kvůli vadnému zboží a žádá o vyřešení reklamace.",
+    "channel": "note",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Vlčická 8, 724 00 Ostrava",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "611010/5892",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Blahoslav Liška",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lišky",
+        "form": "gen_surname"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "blahoslav.liska@centrum.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00073",
+    "text": "Dobrý den, potvrzujeme, že jsme zpracovali vrácení peněz za Vaši zrušenou objednávku. Částku odešleme zpět na účet, ze kterého byla platba provedena; pro ověření v evidenci uvádíme DIČ CZ51316471. Připsání platby obvykle trvá 1 až 3 pracovní dny podle banky. Pokud by Vám peníze v této lhůtě nedorazily, kontaktujte nás prosím a rádi vše prověříme.",
+    "contact_id": 476,
+    "scenario": "E-mail potvrzující vrácení peněz za zrušenou objednávku, včetně čísla účtu pro zaslání částky.",
+    "channel": "email",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ51316471",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00074",
+    "text": "Dobrý den, potvrzujeme, že u rozpracované objednávky evidujeme žádost na změnu doručovací adresy pro zákaznici Lada Pešková, kontaktní e-mail lada.peskova@centrum.cz. Změnu adresy u paní Peškovou nyní předáváme skladu k úpravě před expedicí. Fakturační údaje ponecháváme beze změny: Móda Trend s.r.o., IČO 94959315. Jakmile bude úprava potvrzena, pošleme vám krátké potvrzení e-mailem.",
+    "contact_id": 62,
+    "scenario": "Žádost zákazníka o změnu doručovací adresy u rozpracované objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "lada.peskova@centrum.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Lada Pešková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Peškovou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "ICO",
+        "surface_form": "94959315",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Móda Trend s.r.o.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00075",
+    "text": "Zákazník poptává velkoobchodní ceny pro firmu Zahradní Centrum Morava a.s. a žádá o zaslání podmínek pro B2B odběr. Pro fakturaci uvedl DIČ: CZ70013381, další údaje bude potřeba případně ověřit před vystavením první faktury. Doporučuji připravit cenovou nabídku podle předpokládaného objemu odběru a doplnit informaci o minimální objednávce. Zákazník očekává odpověď e-mailem včetně možností platby a dodání.",
+    "contact_id": 55,
+    "scenario": "Interní poznámka k B2B poptávce — firemní zákazník se ptá na velkoobchodní ceny a fakturační údaje.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ70013381",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Zahradní Centrum Morava a.s.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00076",
+    "text": "Dobrý den, pane Slavomír Polák, u Vaší objednávky evidujeme, že se nepodařilo dokončit platbu, proto zatím nemůže být předána k expedici na adresu Teplická 135, 675 03 Budišov. Údaje spojené se Slavomírem Polákem, včetně kontaktního e-mailu slavomir.polak14@centrum.cz a rodného čísla 850921/2767, jsme v systému dohledali a objednávku pro Vás dočasně rezervujeme. Prosíme, zkuste platbu provést znovu přes odkaz v potvrzení objednávky, případně zvolte jinou platební metodu. Pokud se platba ani poté nepodaří, odpovězte nám na tento e-mail a rádi Vám s dokončením objednávky pomůžeme.",
+    "contact_id": 426,
+    "scenario": "E-mail řešící problém s platbou — zákazníkovi se nepodařilo dokončit úhradu objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Teplická 135, 675 03 Budišov",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "850921/2767",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "slavomir.polak14@centrum.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Slavomír Polák",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Slavomírem Polákem",
+        "form": "instr_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00077",
+    "text": "Přepravce dnes nahlásil problém s doručením balíku na adresu Spolupráce 48, 400 03 Ústí nad Labem a zásilka bude pravděpodobně zpožděna minimálně o jeden pracovní den. Zákaznici jsme informovali na anastazie.holubova@centrum.cz s omluvou a upozorněním, že čekáme na upřesnění dalšího postupu od dopravce. Jakmile přepravce potvrdí nový termín doručení, je potřeba zákaznici obratem poslat aktualizaci a zkontrolovat, zda nechce změnit doručovací údaje.",
+    "contact_id": 166,
+    "scenario": "Interní poznámka o zpoždění dodávky — přepravce nahlásil problém s doručením balíku.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "anastazie.holubova@centrum.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Spolupráce 48, 400 03 Ústí nad Labem",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00078",
+    "text": "Dobrý den, potvrzujeme, že dotaz k dostupnosti produktu evidujeme u zákaznice Soňa Tomanová a odpověď zašleme také na e-mail sona.tomanova@seznam.cz. Pro Soňe Tomanové jsme ověřili skladovou dostupnost a produkt je aktuálně dostupný k odeslání během 2 pracovních dnů. Doručení můžeme směrovat na adresu Záluské 27, 744 01 Frenštát pod Radhoštěm, pokud ji ponecháte v objednávce beze změny. Pro spárování komunikace uvádíme také referenční údaj 795601/5067.",
+    "contact_id": 343,
+    "scenario": "E-mail s odpovědí na dotaz zákazníka ke konkrétnímu produktu a jeho dostupnosti.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Záluské 27, 744 01 Frenštát pod Radhoštěm",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Soňa Tomanová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Soňe Tomanové",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "sona.tomanova@seznam.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "795601/5067",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00079",
+    "text": "Zákazník dnes telefonicky nahlásil záruční reklamaci zakoupeného spotřebiče, podle popisu se závada projevuje nepravidelným vypínáním během provozu. Doporučeno doručit výrobek kompletní včetně příslušenství a kopie dokladu o koupi, aby mohl servis posoudit nárok ze záruky. Pro případné upřesnění nebo domluvu svozu je uveden kontakt +420 737 347 156. Po přijetí zboží založit reklamační protokol a informovat zákazníka o dalším postupu.",
+    "contact_id": 306,
+    "scenario": "Interní poznámka k záruční reklamaci — zákazník uplatňuje záruku na zakoupený spotřebič.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 737 347 156",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00080",
+    "text": "Dobrý den, potvrzujeme, že jsme na vašem zákaznickém účtu aktualizovali kontaktní údaje. Nově u účtu evidujeme firmu Domácí Potřeby Plzeň a.s. s adresou Na Štamberku 197, 101 00 Praha. Pro další komunikaci je nastaven e-mail katerina.markova@centrum.cz a fakturační údaj DIČ CZ69407819. Pokud některý z uvedených údajů není správně, odpovězte prosím na tento e-mail a obratem jej upravíme.",
+    "contact_id": 124,
+    "scenario": "E-mail potvrzující aktualizaci kontaktních údajů na zákaznickém účtu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ORG",
+        "surface_form": "Domácí Potřeby Plzeň a.s.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Na Štamberku 197, 101 00 Praha",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "katerina.markova@centrum.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ69407819",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00081",
+    "text": "Teodor Tůma volal kvůli požadavku na storno objednávky vedené na Móda Trend s.r.o. Se zákazníkem Tůmou bylo ověřeno, že zboží již nemá být expedováno a žádá vystavení dobropisu. Předáno na fakturační oddělení k prověření stavu platby a následnému vystavení dobropisu.",
+    "contact_id": 114,
+    "scenario": "Interní poznámka z hovoru, kde zákazník žádá o storno objednávky a vystavení dobropisu.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ORG",
+        "surface_form": "Móda Trend s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Teodor Tůma",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Tůmou",
+        "form": "instr_surname"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00082",
+    "text": "Dobrý den, pane Ondřej Vítek, při prvním pokusu se nám bohužel nepodařilo doručit zásilku od DětskýSvět Velkoobchod s.r.o. na adresu U Dětského Hřiště 52, 281 26 Týnec nad Labem. Rádi bychom pro Ondřeje Vítka domluvili náhradní termín doručení, aby vám zásilka dorazila v čase, který vám bude vyhovovat. Prosíme, napište nám odpovědí na tento e-mail nebo nás kontaktujte z adresy ondrej.vitek@email.cz s návrhem vhodného dne a časového rozmezí. Jakmile od vás potvrzení obdržíme, předáme nový termín dopravci.",
+    "contact_id": 218,
+    "scenario": "E-mail s nabídkou náhradního termínu doručení po neúspěšném prvním pokusu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 2,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ORG",
+        "surface_form": "DětskýSvět Velkoobchod s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Ondřej Vítek",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Ondřeje Vítka",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "ondrej.vitek@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "U Dětského Hřiště 52, 281 26 Týnec nad Labem",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00083",
+    "text": "Štěpán Ševčík dnes kontaktoval podporu s dotazem na aktuální stav vyřízení objednávky. Štěpánovi Ševčíkovi bylo ověřeno, že objednávka je evidovaná a čeká na předání dopravci. Zákazník byl informován, že jakmile bude zásilka expedována, obdrží automaticky e-mail s odkazem pro sledování. Doporučeno zkontrolovat stav znovu během následujícího pracovního dne.",
+    "contact_id": 431,
+    "scenario": "Interní poznámka k dotazu na stav vyřízení objednávky.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Štěpán Ševčík",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Štěpánovi Ševčíkovi",
+        "form": "dat_full"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00084",
+    "text": "Dobrý den, Věra Musilová, potvrzujeme přijetí Vaší objednávky pod interním označením 92400844. Věře Musilové bude zásilka doručována na adresu Přípřežní 168, 262 31 Příbram, předpokládané datum doručení je 10. září 2026. Potvrzení objednávky jsme zároveň odeslali na e-mail vera.musilova@gmail.com. V evidenci objednávky máme uvedeno rodné číslo 035920/2899; pokud je některý údaj nesprávný, prosím odpovězte na tuto zprávu.",
+    "contact_id": 302,
+    "scenario": "E-mail s krátkým potvrzením přijetí objednávky a předpokládaného data doručení.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "035920/2899",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Přípřežní 168, 262 31 Příbram",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Věra Musilová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Věře Musilové",
+        "form": "dat_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "vera.musilova@gmail.com",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": true,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": [
+      {
+        "surface_form": "92400844",
+        "near_miss_type": "ICO_INVALID_CHECKSUM",
+        "span_start": 85,
+        "span_end": 93
+      }
+    ]
+  },
+  {
+    "message_id": "uc02-msg-00085",
+    "text": "Bohumila Marková byla dnes zpětně kontaktována ohledně upřesnění platby k objednávce. S paní Markovou jsem ověřil číslo účtu 269/0800 a potvrdil, že údaje předáme účetnímu oddělení ke kontrole. Zákaznice uvedla, že zatím vyčká na potvrzení přijetí platby a není potřeba ji znovu kontaktovat.",
+    "contact_id": 327,
+    "scenario": "Interní poznámka s krátkým záznamem o zpětném zavolání zákazníkovi.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Bohumila Marková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Markovou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "BBAN",
+        "surface_form": "269/0800",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00086",
+    "text": "Dobrý den, pane Vítězslav Matějka, děkujeme za váš nákup v našem e-shopu. Budeme rádi, když si najdete chvilku a vyplníte krátkou recenzi k objednávce vedené s kontaktním e-mailem vitezslav.matejka22@post.cz. Zpětná vazba od zákazníka uvedeného jako Vítězslavem Matějkou nám pomůže zlepšit služby i doručení na adresu Dobrošovská 144, 270 36 Rakovník. Pokud bychom potřebovali něco upřesnit, ozveme se na telefon +420 720 579 050. Děkujeme za váš čas a přejeme hezký den.",
+    "contact_id": 95,
+    "scenario": "E-mail s poděkováním za nákup a žádostí o vyplnění krátké recenze.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "vitezslav.matejka22@post.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Dobrošovská 144, 270 36 Rakovník",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vítězslav Matějka",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Vítězslavem Matějkou",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 720 579 050",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00087",
+    "text": "Žaneta Vítková zaslala podnět k možnosti individuální cenové nabídky při opakovaných objednávkách pro menší firmu. Po konzultaci se Žanetou Vítkovou byl požadavek předán na obchodní oddělení k posouzení a případnému navázání spolupráce. Kontaktní e-mail pro zpětnou vazbu je zaneta.vitkova@gmail.com. Zákaznice očekává informaci, zda je možné připravit rámcovou nabídku nebo doporučit vhodný postup pro další objednávky.",
+    "contact_id": 78,
+    "scenario": "Interní poznámka o předání podnětu zákazníka na obchodní oddělení.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Žaneta Vítková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Žanetou Vítkovou",
+        "form": "instr_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "zaneta.vitkova@gmail.com",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00088",
+    "text": "Dobrý den, upozorňujeme vás, že sledovaný produkt je opět skladem a můžete si jej nyní objednat na našem e-shopu Elektro Domov s.r.o. Pro kontrolu údajů u vašeho upozornění evidujeme e-mail jarmila.kratochvilova@gmail.com a adresu Na Štamberku 97, 370 01 České Budějovice. V systému je u požadavku uvedeno také rodné číslo 936008/7946. Doporučujeme objednávku dokončit co nejdříve, protože dostupnost se může rychle změnit.",
+    "contact_id": 311,
+    "scenario": "E-mail s upozorněním, že sledovaný produkt je opět skladem.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Na Štamberku 97, 370 01 České Budějovice",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "jarmila.kratochvilova@gmail.com",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Elektro Domov s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "936008/7946",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00089",
+    "text": "Zákazník požádal o vystavení duplikátu faktury k předchozí objednávce. Pro ověření identity uvedl rodné číslo 916002/6249, které je potřeba porovnat s údaji v CRM. Po potvrzení shody lze duplikát faktury zaslat na e-mail evidovaný u zákaznického účtu. Poznámku předávám k vyřízení fakturačnímu oddělení.",
+    "contact_id": 157,
+    "scenario": "Interní poznámka k žádosti zákazníka o vystavení duplikátu faktury.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "916002/6249",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00090",
+    "text": "Ludmila Petrová volala kvůli vadnému zboží zakoupenému u Elektro Domov s.r.o. a žádá o urychlené vyřešení reklamace. Paní Petrové vadí, že se závada projevila krátce po převzetí, a chce být informována o dalším postupu. Kontaktní e-mail potvrdila jako ludmila.petrova8@seznam.cz a telefonní číslo jako +420 737 240 559. Domluveno předání podkladů reklamačnímu oddělení a zpětné kontaktování po posouzení případu.",
+    "contact_id": 441,
+    "scenario": "Interní poznámka z reklamačního telefonátu — zákazník volá kvůli vadnému zboží a žádá o vyřešení reklamace.",
+    "channel": "note",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ORG",
+        "surface_form": "Elektro Domov s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Ludmila Petrová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Petrové",
+        "form": "gen_surname"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "ludmila.petrova8@seznam.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 737 240 559",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00091",
+    "text": "Dobrý den, Ilona Králová, potvrzujeme zrušení Vaší objednávky a zahájení vrácení peněz. U objednávky evidujeme adresu Záluské 41, 285 06 Úžice a platbu vrátíme na účet, ze kterého byla uhrazena, případně nám prosím pošlete číslo účtu pro zaslání částky. Informaci o vrácení peněz jsme zároveň předali Královou ke kontrole v našem systému. Částka by měla být připsána obvykle do 3 až 5 pracovních dnů podle banky.",
+    "contact_id": 353,
+    "scenario": "E-mail potvrzující vrácení peněz za zrušenou objednávku, včetně čísla účtu pro zaslání částky.",
+    "channel": "email",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Ilona Králová",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Královou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Záluské 41, 285 06 Úžice",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 3,
+    "gold_span_count": 3,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00092",
+    "text": "Dobrý den, paní Apolena Slavíková, potvrzujeme přijetí žádosti o změnu doručovací adresy u Vaší rozpracované objednávky. U objednávky Apoleny Slavíkové jsme adresu upravili na K Hořavce 112, 181 00 Praha. Potvrzení změny jsme zároveň navázali na e-mail apolena.slavikova22@email.cz a evidenční údaj 716119/6779. Pokud už bude zásilka předána dopravci, dáme Vám vědět, zda je potřeba změnu ještě potvrdit přímo u přepravní společnosti.",
+    "contact_id": 120,
+    "scenario": "Žádost zákazníka o změnu doručovací adresy u rozpracované objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "K Hořavce 112, 181 00 Praha",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Apolena Slavíková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Apoleny Slavíkové",
+        "form": "gen_full"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "apolena.slavikova22@email.cz",
+        "form": "nom"
+      },
+      {
+        "pii_type": "RC",
+        "surface_form": "716119/6779",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00093",
+    "text": "Firemní zákazník se ozval kvůli možnosti nastavení velkoobchodních cen a zaslání podmínek pro dlouhodobější odběr. Potřebuje také ověřit, jaké fakturační údaje máme uvést při vystavení daňového dokladu, případně zda lze fakturaci vést na centrálu firmy. Pro další domluvu uvedl kontaktní telefon \"+420 602 797 996\" a požádal o zpětné zavolání v pracovní době. Doporučuji připravit nabídku podle předpokládaného objemu objednávek a následně potvrdit fakturační údaje e-mailem.",
+    "contact_id": 474,
+    "scenario": "Interní poznámka k B2B poptávce — firemní zákazník se ptá na velkoobchodní ceny a fakturační údaje.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 602 797 996",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 1,
+    "gold_span_count": 1,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00094",
+    "text": "Dobrý den, Mikuláš Janda, u Vaší objednávky se nám zatím nepodařilo potvrdit dokončení platby. V souvislosti s Jandou evidujeme kontaktní údaje +420 796 418 343, mikulas.janda@gmail.com a doručovací adresu Kosmonoská 133, 747 21 Kravaře. Prosím zkuste platbu zopakovat přes odkaz v potvrzení objednávky, případně zvolte jinou platební metodu. Pokud se úhrada stále nedaří, odpovězte nám na tento e-mail a platbu společně ověříme.",
+    "contact_id": 473,
+    "scenario": "E-mail řešící problém s platbou — zákazníkovi se nepodařilo dokončit úhradu objednávky.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 796 418 343",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "mikulas.janda@gmail.com",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Kosmonoská 133, 747 21 Kravaře",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Mikuláš Janda",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jandou",
+        "form": "instr_surname"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00095",
+    "text": "Přepravce dnes nahlásil problém s doručením balíku pro Elektro Domov s.r.o., zásilka zatím nebyla předána na cílové depo. Interní označení případu je 49904909 a je potřeba průběžně hlídat další aktualizaci v systému dopravce. Pokud se stav nezmění do zítřka, kontaktovat zákazníka na +420 797 839 335 a informovat ho o zpoždění dodávky.",
+    "contact_id": 42,
+    "scenario": "Interní poznámka o zpoždění dodávky — přepravce nahlásil problém s doručením balíku.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ORG",
+        "surface_form": "Elektro Domov s.r.o.",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 797 839 335",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": true,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": [
+      {
+        "surface_form": "49904909",
+        "near_miss_type": "ICO_INVALID_CHECKSUM",
+        "span_start": 150,
+        "span_end": 158
+      }
+    ]
+  },
+  {
+    "message_id": "uc02-msg-00096",
+    "text": "Dobrý den, děkujeme za Váš dotaz ke konkrétnímu produktu a jeho dostupnosti. Aktuálně ověřujeme skladovou zásobu u dodavatele a jakmile budeme mít potvrzený termín naskladnění, dáme Vám vědět na leos.pavlicek@gmail.com nebo telefonicky na +420 722 514 846. Pro kontrolu evidujeme u objednávky adresu Ingrišova 103, 154 00 Praha a rodné číslo 881109/1850. Pokud bude produkt dostupný dříve, můžeme Vám jej po potvrzení ihned rezervovat.",
+    "contact_id": 241,
+    "scenario": "E-mail s odpovědí na dotaz zákazníka ke konkrétnímu produktu a jeho dostupnosti.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "RC",
+        "surface_form": "881109/1850",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "leos.pavlicek@gmail.com",
+        "form": "nom"
+      },
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Ingrišova 103, 154 00 Praha",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 722 514 846",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 4,
+    "gold_span_count": 4,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00097",
+    "text": "Zákazník uplatňuje záruční reklamaci na zakoupený spotřebič, uvádí, že závada se projevila opakovaně při běžném používání. K případu je evidováno DIČ CZ20433212 a kontaktní e-mail nora.pavlikova8@centrum.cz pro zaslání dalšího postupu. Doporučuji ověřit datum nákupu a kompletnost dodané dokumentace, zejména doklad o koupi a popis závady. Po kontrole podkladů předat reklamaci servisnímu oddělení k posouzení v zákonné lhůtě.",
+    "contact_id": 210,
+    "scenario": "Interní poznámka k záruční reklamaci — zákazník uplatňuje záruku na zakoupený spotřebič.",
+    "channel": "note",
+    "density_band": "moderate",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "DIC",
+        "surface_form": "CZ20433212",
+        "form": "nom"
+      },
+      {
+        "pii_type": "EMAIL",
+        "surface_form": "nora.pavlikova8@centrum.cz",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00098",
+    "text": "Dobrý den, potvrzujeme, že jsme na zákaznickém účtu vedeném pro Kristýna Bílková úspěšně aktualizovali kontaktní údaje. U účtu evidujeme adresu Malešovská 82, 438 01 Podbořany a telefon +420 721 975 523. Změna byla provedena pro Bílkovou ve spojení s firmou Zdraví a Krása s.r.o. Pokud některý z údajů není správný, odpovězte prosím na tento e-mail a rádi jej upravíme.",
+    "contact_id": 148,
+    "scenario": "E-mail potvrzující aktualizaci kontaktních údajů na zákaznickém účtu.",
+    "channel": "email",
+    "density_band": "dense",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "ADDRESS",
+        "surface_form": "Malešovská 82, 438 01 Podbořany",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PHONE",
+        "surface_form": "+420 721 975 523",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Kristýna Bílková",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Bílkovou",
+        "form": "instr_surname"
+      },
+      {
+        "pii_type": "ORG",
+        "surface_form": "Zdraví a Krása s.r.o.",
+        "form": "nom"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 5,
+    "gold_span_count": 5,
+    "near_misses": []
+  },
+  {
+    "message_id": "uc02-msg-00099",
+    "text": "Mikuláš Janda dnes volal kvůli zrušení objednávky, kterou už nechce dále řešit. S Jandou bylo ověřeno číslo objednávky a potvrzeno, že zboží ještě nebylo expedováno. Zákazník žádá o storno celé objednávky a následné vystavení dobropisu na uhrazenou částku. Požadavek předán na fakturaci, zákazník očekává potvrzení e-mailem.",
+    "contact_id": 473,
+    "scenario": "Interní poznámka z hovoru, kde zákazník žádá o storno objednávky a vystavení dobropisu.",
+    "channel": "note",
+    "density_band": "sparse",
+    "renderer": "model",
+    "tries": 1,
+    "verification": {
+      "ok": true,
+      "issues": []
+    },
+    "planted": [
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Mikuláš Janda",
+        "form": "nom"
+      },
+      {
+        "pii_type": "PERSON",
+        "surface_form": "Jandou",
+        "form": "instr_surname"
+      }
+    ],
+    "is_negative_control": false,
+    "planted_pii_count": 2,
+    "gold_span_count": 2,
+    "near_misses": []
+  }
+]

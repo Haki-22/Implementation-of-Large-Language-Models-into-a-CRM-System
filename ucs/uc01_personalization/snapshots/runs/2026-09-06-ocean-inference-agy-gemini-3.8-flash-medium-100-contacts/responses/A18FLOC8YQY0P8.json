@@ -1,0 +1,40 @@
+{
+  "contact_id": 157,
+  "reviewer_id": "A18FLOC8YQY0P8",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 109,
+  "reviews_used": 15,
+  "prompt_chars": 8142,
+  "status": "ok",
+  "seconds": 96.37,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.25,
+    "E": 3.1,
+    "A": 3.5,
+    "N": 2.95,
+    "evidence_quotes": {
+      "O": "After more research, I came across this B & W filter.",
+      "C": "They're stack-able has a place for label. I have different colors for different types of hard drive",
+      "E": "First, I didn't buy this from Amazon. I was walking around my local electronics store and played with it and bought it.",
+      "A": "Amazon did a wonderful job of letting me return the product for full refund.",
+      "N": "Good value, but has one annoyance that bugs the heck out of me."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.25,
+    "E": 3.1,
+    "N": 2.95,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "Amazon did a wonderful job of letting me return the product for full refund.",
+      "C": "They're stack-able has a place for label. I have different colors for different types of hard drive",
+      "E": "First, I didn't buy this from Amazon. I was walking around my local electronics store and played with it and bought it.",
+      "N": "Good value, but has one annoyance that bugs the heck out of me.",
+      "O": "After more research, I came across this B & W filter."
+    }
+  }
+}

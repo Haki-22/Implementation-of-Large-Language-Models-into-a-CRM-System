@@ -1,0 +1,40 @@
+{
+  "contact_id": 98,
+  "reviewer_id": "A3NHUQ33CFH3VM",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 183,
+  "reviews_used": 15,
+  "prompt_chars": 9822,
+  "status": "ok",
+  "seconds": 347.94,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.45,
+    "E": 3.45,
+    "A": 4.0,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I'm running Windows 7 64-bit with Parallels, so I can still use programs that would otherwise not be accessed on a Mac.",
+      "C": "My review is based on my experience and I have made every effort to be unbiased.",
+      "E": "There is no better blue tooth keyboard for the iPad. Period.",
+      "A": "I feel that I cannot give a lesser number of stars as a precaution that the cable might stop functioning.",
+      "N": "With this Mac I don't worry about software causing my system to fail."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 4.45,
+    "E": 3.45,
+    "N": 2.1,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I feel that I cannot give a lesser number of stars as a precaution that the cable might stop functioning.",
+      "C": "My review is based on my experience and I have made every effort to be unbiased.",
+      "E": "There is no better blue tooth keyboard for the iPad. Period.",
+      "N": "With this Mac I don't worry about software causing my system to fail.",
+      "O": "I'm running Windows 7 64-bit with Parallels, so I can still use programs that would otherwise not be accessed on a Mac."
+    }
+  }
+}

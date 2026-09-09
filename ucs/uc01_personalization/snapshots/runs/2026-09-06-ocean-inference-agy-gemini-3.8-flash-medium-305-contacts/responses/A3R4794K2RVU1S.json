@@ -1,0 +1,40 @@
+{
+  "contact_id": 87,
+  "reviewer_id": "A3R4794K2RVU1S",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 163,
+  "reviews_used": 15,
+  "prompt_chars": 10398,
+  "status": "ok",
+  "seconds": 304.23,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.35,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "Sexy build. Very appealing glossy finish. Mesh on the rear speakers is attractive.",
+      "C": "I waited several months before reviewing this hard disk.",
+      "E": "good for chatting, gaming (if you don't have a headset), and some voice recording.",
+      "A": "I'm sure there were better options out there, but I'm not complaining.",
+      "N": "Not a huge concern, really. As long as it works, there's no worry."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 3.35,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I'm sure there were better options out there, but I'm not complaining.",
+      "C": "I waited several months before reviewing this hard disk.",
+      "E": "good for chatting, gaming (if you don't have a headset), and some voice recording.",
+      "N": "Not a huge concern, really. As long as it works, there's no worry.",
+      "O": "Sexy build. Very appealing glossy finish. Mesh on the rear speakers is attractive."
+    }
+  }
+}

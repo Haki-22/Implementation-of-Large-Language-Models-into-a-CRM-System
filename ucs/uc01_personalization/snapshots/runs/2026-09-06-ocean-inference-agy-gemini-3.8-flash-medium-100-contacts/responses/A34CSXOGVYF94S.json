@@ -1,0 +1,40 @@
+{
+  "contact_id": 342,
+  "reviewer_id": "A34CSXOGVYF94S",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 73,
+  "reviews_used": 15,
+  "prompt_chars": 10653,
+  "status": "ok",
+  "seconds": 426.88,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.3,
+    "E": 3.4,
+    "A": 3.7,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "I have been steeped in digital photography for over a decade and have quite a few cameras to fit my needs.",
+      "C": "This review will be long, but I wish to be thorough with such a big purchase.",
+      "E": "With that, I was eager and excited to try out these",
+      "A": "My 3 year old son really wanted a pair of his own binoculars. I wanted to get him something that looked just like an adult pair",
+      "N": "I was skeptical when I opened the box - how could something so small have a deep and full sound?"
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 4.3,
+    "E": 3.4,
+    "N": 2.4,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "My 3 year old son really wanted a pair of his own binoculars. I wanted to get him something that looked just like an adult pair",
+      "C": "This review will be long, but I wish to be thorough with such a big purchase.",
+      "E": "With that, I was eager and excited to try out these",
+      "N": "I was skeptical when I opened the box - how could something so small have a deep and full sound?",
+      "O": "I have been steeped in digital photography for over a decade and have quite a few cameras to fit my needs."
+    }
+  }
+}

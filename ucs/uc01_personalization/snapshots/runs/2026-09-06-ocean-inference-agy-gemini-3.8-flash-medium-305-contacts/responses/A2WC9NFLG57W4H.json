@@ -1,0 +1,40 @@
+{
+  "contact_id": 56,
+  "reviewer_id": "A2WC9NFLG57W4H",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 9534,
+  "status": "ok",
+  "seconds": 205.86,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 4.05,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I take it on all my treks though the woods and countryside and have captured some really stunning shots.",
+      "C": "After TOO much research, I broke down & finally bought this camera & let me tell you, we have been nothing but pleased in that decision!",
+      "E": "WOW! This is so cool! YAY Onkyo, way to go!",
+      "A": "I Highly recommend going \"BIG\" for anyone with \"older eyes\" or any type of vision issues",
+      "N": "have not found one thing that I have disliked neither have I regretted my decision in any way."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.15,
+    "E": 4.05,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I Highly recommend going \"BIG\" for anyone with \"older eyes\" or any type of vision issues",
+      "C": "After TOO much research, I broke down & finally bought this camera & let me tell you, we have been nothing but pleased in that decision!",
+      "E": "WOW! This is so cool! YAY Onkyo, way to go!",
+      "N": "have not found one thing that I have disliked neither have I regretted my decision in any way.",
+      "O": "I take it on all my treks though the woods and countryside and have captured some really stunning shots."
+    }
+  }
+}

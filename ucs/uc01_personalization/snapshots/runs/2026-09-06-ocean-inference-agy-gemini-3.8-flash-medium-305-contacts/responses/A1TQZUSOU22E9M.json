@@ -1,0 +1,40 @@
+{
+  "contact_id": 153,
+  "reviewer_id": "A1TQZUSOU22E9M",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 112,
+  "reviews_used": 15,
+  "prompt_chars": 10583,
+  "status": "ok",
+  "seconds": 562.21,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.3,
+    "E": 3.45,
+    "A": 4.2,
+    "N": 1.9,
+    "evidence_quotes": {
+      "O": "This lens also produces nice bokeh. The picture quality and bokeh quality are comparable with the other Nikon prime lenses",
+      "C": "To use this remote, first remove the clear plastic battery insulator sheet (just need to do this one/first time), and it's ready to go.",
+      "E": "Get this lens by any means unless you already have those alternative and more expensive zoom lenses that I mentioned above.",
+      "A": "However, I think you should really consider buying the f/1.8 first before thinking to buy this f/1.4 lens",
+      "N": "Unless you are a sport journalist, I don't think you can go wrong with this camera"
+    }
+  },
+  "raw": {
+    "A": 4.2,
+    "C": 4.3,
+    "E": 3.45,
+    "N": 1.9,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "However, I think you should really consider buying the f/1.8 first before thinking to buy this f/1.4 lens",
+      "C": "To use this remote, first remove the clear plastic battery insulator sheet (just need to do this one/first time), and it's ready to go.",
+      "E": "Get this lens by any means unless you already have those alternative and more expensive zoom lenses that I mentioned above.",
+      "N": "Unless you are a sport journalist, I don't think you can go wrong with this camera",
+      "O": "This lens also produces nice bokeh. The picture quality and bokeh quality are comparable with the other Nikon prime lenses"
+    }
+  }
+}

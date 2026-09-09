@@ -1,0 +1,40 @@
+{
+  "contact_id": 64,
+  "reviewer_id": "A22I55P15NSAOX",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 9884,
+  "status": "ok",
+  "seconds": 198.56,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.45,
+    "E": 3.25,
+    "A": 3.85,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "Opera: if seeing details is more important to you than seeing a lot of the stage at a time.",
+      "C": "The actual measured weight of the tripod and head in the included case is 72 ounces and just shy of 30 inches (in the case).",
+      "E": "I am a teacher and am now using three versions of this projector currently in my classrooms as well as sharing with others,",
+      "A": "Here is how to get your player connected to Amazon Prime after you have connected it to the internet as best as I can remember it",
+      "N": "I don't mind that it missed that one."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.45,
+    "E": 3.25,
+    "N": 2.15,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "Here is how to get your player connected to Amazon Prime after you have connected it to the internet as best as I can remember it",
+      "C": "The actual measured weight of the tripod and head in the included case is 72 ounces and just shy of 30 inches (in the case).",
+      "E": "I am a teacher and am now using three versions of this projector currently in my classrooms as well as sharing with others,",
+      "N": "I don't mind that it missed that one.",
+      "O": "Opera: if seeing details is more important to you than seeing a lot of the stage at a time."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 205,
+  "reviewer_id": "A1VHCO8RQFIGQJ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 3522,
+  "status": "ok",
+  "seconds": 756.23,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 3.9,
+    "E": 3.4,
+    "A": 3.75,
+    "N": 2.9,
+    "evidence_quotes": {
+      "O": "Great for capturing a good bokeh. Also, solid for portraits. You'll get great photos with these.",
+      "C": "I read several reviews before purchasing this cage, and I am glad I did.",
+      "E": "I've used it on several shoots now, and I have been extremely satisfied with the results.",
+      "A": "I'd recommend this or their newer lines. Can't go wrong with Canon.",
+      "N": "Ugh... where do I begin. Too many problems to list. The apps for this suck. I hated that I could not close apps."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 3.9,
+    "E": 3.4,
+    "N": 2.9,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I'd recommend this or their newer lines. Can't go wrong with Canon.",
+      "C": "I read several reviews before purchasing this cage, and I am glad I did.",
+      "E": "I've used it on several shoots now, and I have been extremely satisfied with the results.",
+      "N": "Ugh... where do I begin. Too many problems to list. The apps for this suck. I hated that I could not close apps.",
+      "O": "Great for capturing a good bokeh. Also, solid for portraits. You'll get great photos with these."
+    }
+  }
+}

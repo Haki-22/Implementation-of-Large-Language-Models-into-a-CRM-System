@@ -1,0 +1,15 @@
+{
+  "model": "gpt-5.5",
+  "tier": "medium",
+  "prompt_id": "translation_judge-only-invalid",
+  "prompt_version": "1",
+  "sample_size": 300,
+  "input_chars": 78527,
+  "wall_seconds": 76.2,
+  "response_chars": 10252,
+  "raw_verdicts_returned": 50,
+  "hallucinated_dropped": 0,
+  "codex_invalid": 50,
+  "BOTH_with_gemini_pro": 44,
+  "BOTH_with_opus": 34
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 252,
+  "reviewer_id": "A2R6RA8FRBS608",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 96,
+  "reviews_used": 15,
+  "prompt_chars": 9845,
+  "status": "ok",
+  "seconds": 938.49,
+  "error": "",
+  "profile": {
+    "O": 3.8,
+    "C": 4.25,
+    "E": 3.5,
+    "A": 4.0,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "until recently when I started taking them out, dusting them off and enjoying some of those great sounding vinyl records!",
+      "C": "This allows you the option of color coding types of CDs if you wish by putting all CDs or DVDs in one category into a certain single color sleeve.",
+      "E": "I like the idea of a ten pack for people who love to snap lots of photos on vacations and other social occasions.",
+      "A": "this might be a first portable CD player to give to a young child so that it won't break your heart (or your wallet)",
+      "N": "it's the one I don't mind if it accidentally gets a little bit banged up over time."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 4.25,
+    "E": 3.5,
+    "N": 2.3,
+    "O": 3.8,
+    "evidence_quotes": {
+      "A": "this might be a first portable CD player to give to a young child so that it won't break your heart (or your wallet)",
+      "C": "This allows you the option of color coding types of CDs if you wish by putting all CDs or DVDs in one category into a certain single color sleeve.",
+      "E": "I like the idea of a ten pack for people who love to snap lots of photos on vacations and other social occasions.",
+      "N": "it's the one I don't mind if it accidentally gets a little bit banged up over time.",
+      "O": "until recently when I started taking them out, dusting them off and enjoying some of those great sounding vinyl records!"
+    }
+  }
+}

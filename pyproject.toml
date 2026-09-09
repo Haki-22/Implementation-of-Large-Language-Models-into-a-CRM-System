@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "implementation-of-large-language-models-into-a-crm-system"
+version = "1.0.0"
+description = "Implementation of Large Language Models into a CRM System"
+requires-python = ">=3.12"
+# Runtime dependencies are pinned in ``requirements.txt`` and read from it below, so
+# one command installs them and makes the local packages importable:
+#   python3.12 -m venv .venv && source .venv/bin/activate && pip install -e .
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ucs*", "utils*", "substrate*"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+markers = [
+    "live: tests that hit a real LLM provider (skipped unless THESIS_LIVE_GENERATION=1)",
+]

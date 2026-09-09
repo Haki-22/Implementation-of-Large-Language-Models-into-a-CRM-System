@@ -1,0 +1,40 @@
+{
+  "contact_id": 120,
+  "reviewer_id": "A6VXZ1EEPRTLV",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 140,
+  "reviews_used": 15,
+  "prompt_chars": 9933,
+  "status": "ok",
+  "seconds": 434.5,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.05,
+    "A": 3.85,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "After doing some research, and reading a number of glowing reviews at different reputable photo related forums, I decided to take a chance.",
+      "C": "In my informal comparison of the transfer rate of 256MB compact flash cards by Viking, SimpleTech, and Kingston, the Viking card came in a distant third.",
+      "E": "informal test results for this 400x card indicate...this baby is fast!",
+      "A": "For other less critical tasks, the Viking card has proven perfectly adequate.",
+      "N": "It is very annoying to focus on the subject, lock on, and press the shutter button, only to have the camera fail to fire."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.35,
+    "E": 3.05,
+    "N": 2.75,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "For other less critical tasks, the Viking card has proven perfectly adequate.",
+      "C": "In my informal comparison of the transfer rate of 256MB compact flash cards by Viking, SimpleTech, and Kingston, the Viking card came in a distant third.",
+      "E": "informal test results for this 400x card indicate...this baby is fast!",
+      "N": "It is very annoying to focus on the subject, lock on, and press the shutter button, only to have the camera fail to fire.",
+      "O": "After doing some research, and reading a number of glowing reviews at different reputable photo related forums, I decided to take a chance."
+    }
+  }
+}

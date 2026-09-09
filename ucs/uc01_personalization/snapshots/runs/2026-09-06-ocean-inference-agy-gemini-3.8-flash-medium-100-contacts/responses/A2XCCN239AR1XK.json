@@ -1,0 +1,40 @@
+{
+  "contact_id": 256,
+  "reviewer_id": "A2XCCN239AR1XK",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 10227,
+  "status": "ok",
+  "seconds": 207.56,
+  "error": "",
+  "profile": {
+    "O": 4.4,
+    "C": 4.6,
+    "E": 3.45,
+    "A": 4.05,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "Bought specifically for hackability - intervalometer, HDR bracketing, and RAW capable!",
+      "C": "The bulk of my review describes my verifying all features.",
+      "E": "then go as his caddy for a couple of 18 hole rounds.",
+      "A": "Trying to add some information you might not get in the standard review, this is a brief comparison",
+      "N": "It is what it is, and it's excellent as a low-end, entry level system."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.6,
+    "E": 3.45,
+    "N": 2.1,
+    "O": 4.4,
+    "evidence_quotes": {
+      "A": "Trying to add some information you might not get in the standard review, this is a brief comparison",
+      "C": "The bulk of my review describes my verifying all features.",
+      "E": "then go as his caddy for a couple of 18 hole rounds.",
+      "N": "It is what it is, and it's excellent as a low-end, entry level system.",
+      "O": "Bought specifically for hackability - intervalometer, HDR bracketing, and RAW capable!"
+    }
+  }
+}

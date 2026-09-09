@@ -1,0 +1,40 @@
+{
+  "contact_id": 5,
+  "reviewer_id": "A1UQBFCERIP7VJ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 228,
+  "reviews_used": 15,
+  "prompt_chars": 9968,
+  "status": "ok",
+  "seconds": 19.83,
+  "error": "",
+  "profile": {
+    "O": 4.6,
+    "C": 4.5,
+    "E": 3.1,
+    "A": 3.9,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "with a shiny, black, crystalline aesthetic that seems to be influenced by early twentieth-century German Expressionism or Italian Futurism.",
+      "C": "Although it is only claimed to be water resistant and not waterproof, I tested it underwater for five minutes and the inside stayed dry.",
+      "E": "This gadget is fun to handle and explore, with a nice physical form, a responsive touch screen, and useful software",
+      "A": "CAUTION: Don't be misled (as I was) by the claim that it can used with Thunderbolt and Firewire with an adapter",
+      "N": "I called back the next business day and was fortunately only on hold for five minutes."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.5,
+    "E": 3.1,
+    "N": 2.1,
+    "O": 4.6,
+    "evidence_quotes": {
+      "A": "CAUTION: Don't be misled (as I was) by the claim that it can used with Thunderbolt and Firewire with an adapter",
+      "C": "Although it is only claimed to be water resistant and not waterproof, I tested it underwater for five minutes and the inside stayed dry.",
+      "E": "This gadget is fun to handle and explore, with a nice physical form, a responsive touch screen, and useful software",
+      "N": "I called back the next business day and was fortunately only on hold for five minutes.",
+      "O": "with a shiny, black, crystalline aesthetic that seems to be influenced by early twentieth-century German Expressionism or Italian Futurism."
+    }
+  }
+}

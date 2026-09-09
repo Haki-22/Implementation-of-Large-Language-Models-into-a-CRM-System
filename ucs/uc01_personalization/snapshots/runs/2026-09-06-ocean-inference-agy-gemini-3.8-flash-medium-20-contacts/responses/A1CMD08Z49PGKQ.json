@@ -1,0 +1,40 @@
+{
+  "contact_id": 50,
+  "reviewer_id": "A1CMD08Z49PGKQ",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16",
+  "reviews_total": 190,
+  "reviews_used": 15,
+  "prompt_chars": 8816,
+  "status": "ok",
+  "seconds": 113.21,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.3,
+    "E": 3.45,
+    "A": 4.15,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I have discovered playbook app and the ability to upload my rather extensive book library.",
+      "C": "I am careful with my things to the point of being OCD.",
+      "E": "My day to day use of this OtterBox causes me to wish I could give it 6 or 7 stars.",
+      "A": "when I retired a few years back I could not see having it sit around so I donated it to a school.",
+      "N": "I gave it one star which is something I rarely do."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.3,
+    "E": 3.45,
+    "N": 2.35,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "when I retired a few years back I could not see having it sit around so I donated it to a school.",
+      "C": "I am careful with my things to the point of being OCD.",
+      "E": "My day to day use of this OtterBox causes me to wish I could give it 6 or 7 stars.",
+      "N": "I gave it one star which is something I rarely do.",
+      "O": "I have discovered playbook app and the ability to upload my rather extensive book library."
+    }
+  }
+}

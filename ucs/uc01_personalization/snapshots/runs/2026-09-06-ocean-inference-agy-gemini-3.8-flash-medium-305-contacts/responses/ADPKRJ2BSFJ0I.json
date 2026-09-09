@@ -1,0 +1,40 @@
+{
+  "contact_id": 407,
+  "reviewer_id": "ADPKRJ2BSFJ0I",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 55,
+  "reviews_used": 15,
+  "prompt_chars": 9186,
+  "status": "ok",
+  "seconds": 1390.84,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.65,
+    "E": 3.55,
+    "A": 3.45,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I have read many many reviews about this camera and have looked at countless videos on YouTube about it.",
+      "C": "There is a Table of Contents to easily find pages for a variety of topics. The Custom settings are in the PDF on pages 34-36.",
+      "E": "I was the top reviewer of the FZ100 and FZ150 and have been directly responsible for selling many of those cameras.",
+      "A": "This is unacceptable and the reason I gave the item three stars. I ordered a cheaper cord from another vender and it works perfectly.",
+      "N": "My pictures at first were blurry. My shutter speed was too low to hand hold the shots. After giving the shutter more speed I solved that problem."
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 4.65,
+    "E": 3.55,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "This is unacceptable and the reason I gave the item three stars. I ordered a cheaper cord from another vender and it works perfectly.",
+      "C": "There is a Table of Contents to easily find pages for a variety of topics. The Custom settings are in the PDF on pages 34-36.",
+      "E": "I was the top reviewer of the FZ100 and FZ150 and have been directly responsible for selling many of those cameras.",
+      "N": "My pictures at first were blurry. My shutter speed was too low to hand hold the shots. After giving the shutter more speed I solved that problem.",
+      "O": "I have read many many reviews about this camera and have looked at countless videos on YouTube about it."
+    }
+  }
+}

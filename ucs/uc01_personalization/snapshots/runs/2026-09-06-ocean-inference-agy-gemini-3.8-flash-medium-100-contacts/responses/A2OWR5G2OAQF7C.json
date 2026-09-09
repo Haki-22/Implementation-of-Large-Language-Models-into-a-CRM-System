@@ -1,0 +1,40 @@
+{
+  "contact_id": 60,
+  "reviewer_id": "A2OWR5G2OAQF7C",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 9614,
+  "status": "ok",
+  "seconds": 21.25,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.35,
+    "E": 3.7,
+    "A": 4.05,
+    "N": 2.05,
+    "evidence_quotes": {
+      "O": "I played a range of music that included classical (Yo-Yo Ma:cello suite#1 suite, piano trio no 4), jazz from Ella Fitzgerald Chet baker), lounge music, rock",
+      "C": "After two years of research, many many visits to the local Bose store, lots of questions asked, we finally took the plunge with the latest model",
+      "E": "Holy MAC, FOUR Tuners, this is unreal!: We are the TiVo family: as it is all in the timing, we were seeking to get a new TiVo",
+      "A": "Yep, there is a slight mm gap, but hell you are going to need that to peel it off eventually! It is part of the design",
+      "N": "even though it makes the left buttons defunct: i didnt notice as I can equally use the right buttons."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.35,
+    "E": 3.7,
+    "N": 2.05,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "Yep, there is a slight mm gap, but hell you are going to need that to peel it off eventually! It is part of the design",
+      "C": "After two years of research, many many visits to the local Bose store, lots of questions asked, we finally took the plunge with the latest model",
+      "E": "Holy MAC, FOUR Tuners, this is unreal!: We are the TiVo family: as it is all in the timing, we were seeking to get a new TiVo",
+      "N": "even though it makes the left buttons defunct: i didnt notice as I can equally use the right buttons.",
+      "O": "I played a range of music that included classical (Yo-Yo Ma:cello suite#1 suite, piano trio no 4), jazz from Ella Fitzgerald Chet baker), lounge music, rock"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 121,
+  "reviewer_id": "A1RL1OTV8IJMVD",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 135,
+  "reviews_used": 15,
+  "prompt_chars": 10038,
+  "status": "ok",
+  "seconds": 439.31,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.45,
+    "E": 3.65,
+    "A": 3.1,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "First, the X20 is a very attractive camera, because it captures that retro look very well.",
+      "C": "Rather than a wall of text, I'll break it down into some pros and cons!",
+      "E": "First off, this TV is hilarious. I mean really. It has a giant volume dial on the right-hand side. That, to me, is fabulous.",
+      "A": "First, the box is MISLABELED. It says you need a Windows XP or Windows Vista system. LIES. Second, the box shows the keyboard with no Apple-specific commands. LIES.",
+      "N": "And while the light doesn't glare off the screen, it does glare off my graphite Kindle 3's top right corner, making for constant distraction while reading."
+    }
+  },
+  "raw": {
+    "A": 3.1,
+    "C": 4.45,
+    "E": 3.65,
+    "N": 3.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "First, the box is MISLABELED. It says you need a Windows XP or Windows Vista system. LIES. Second, the box shows the keyboard with no Apple-specific commands. LIES.",
+      "C": "Rather than a wall of text, I'll break it down into some pros and cons!",
+      "E": "First off, this TV is hilarious. I mean really. It has a giant volume dial on the right-hand side. That, to me, is fabulous.",
+      "N": "And while the light doesn't glare off the screen, it does glare off my graphite Kindle 3's top right corner, making for constant distraction while reading.",
+      "O": "First, the X20 is a very attractive camera, because it captures that retro look very well."
+    }
+  }
+}

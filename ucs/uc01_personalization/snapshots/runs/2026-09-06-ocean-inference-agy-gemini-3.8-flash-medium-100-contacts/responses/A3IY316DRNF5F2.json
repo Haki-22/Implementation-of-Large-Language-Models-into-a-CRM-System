@@ -1,0 +1,40 @@
+{
+  "contact_id": 183,
+  "reviewer_id": "A3IY316DRNF5F2",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 101,
+  "reviews_used": 15,
+  "prompt_chars": 8882,
+  "status": "ok",
+  "seconds": 113.02,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 2.8,
+    "A": 2.65,
+    "N": 3.55,
+    "evidence_quotes": {
+      "O": "I mostly use the manual, shutter- and aperture priority modes. I can't comment on the pre-sets or video, never use them.",
+      "C": "Follow the directions exactly, and it'll be gone. You may need to perform a firmware update first.",
+      "E": "Then I put the thing away and zone out.",
+      "A": "Whose dimwitted idea was this? Other than that, it is sturdy and quick.",
+      "N": "The price was right but it darn irritating to have the U3 System load up with the drive."
+    }
+  },
+  "raw": {
+    "A": 2.65,
+    "C": 4.2,
+    "E": 2.8,
+    "N": 3.55,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Whose dimwitted idea was this? Other than that, it is sturdy and quick.",
+      "C": "Follow the directions exactly, and it'll be gone. You may need to perform a firmware update first.",
+      "E": "Then I put the thing away and zone out.",
+      "N": "The price was right but it darn irritating to have the U3 System load up with the drive.",
+      "O": "I mostly use the manual, shutter- and aperture priority modes. I can't comment on the pre-sets or video, never use them."
+    }
+  }
+}

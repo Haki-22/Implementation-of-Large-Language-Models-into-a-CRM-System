@@ -1,0 +1,40 @@
+{
+  "contact_id": 71,
+  "reviewer_id": "A5JLAU2ARJ0BO",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 351,
+  "reviews_used": 15,
+  "prompt_chars": 9887,
+  "status": "ok",
+  "seconds": 36.09,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.45,
+    "A": 3.35,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "I also found other positive independent online reviews, so I decided to give this new brand a try",
+      "C": "tested on two recent HP laptops, one with Intel and the other with AMD both running Vista",
+      "E": "I spent three hours yesterday playing with the brand-new Canon Digital Rebel XT digital SLR camera, and man, was I impressed.",
+      "A": "I wish people would refrain from lying; some people will do anything to defame Microsoft, a genuine, all-American company.",
+      "N": "But I'm very disappointed in the way Palm implements multimedia functions."
+    }
+  },
+  "raw": {
+    "A": 3.35,
+    "C": 4.35,
+    "E": 3.45,
+    "N": 2.45,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I wish people would refrain from lying; some people will do anything to defame Microsoft, a genuine, all-American company.",
+      "C": "tested on two recent HP laptops, one with Intel and the other with AMD both running Vista",
+      "E": "I spent three hours yesterday playing with the brand-new Canon Digital Rebel XT digital SLR camera, and man, was I impressed.",
+      "N": "But I'm very disappointed in the way Palm implements multimedia functions.",
+      "O": "I also found other positive independent online reviews, so I decided to give this new brand a try"
+    }
+  }
+}

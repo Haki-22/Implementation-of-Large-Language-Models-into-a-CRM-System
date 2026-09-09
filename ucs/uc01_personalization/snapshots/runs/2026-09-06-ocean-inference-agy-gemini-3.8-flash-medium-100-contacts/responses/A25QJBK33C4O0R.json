@@ -1,0 +1,40 @@
+{
+  "contact_id": 316,
+  "reviewer_id": "A25QJBK33C4O0R",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 84,
+  "reviews_used": 15,
+  "prompt_chars": 10268,
+  "status": "ok",
+  "seconds": 304.35,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.55,
+    "A": 3.9,
+    "N": 2.9,
+    "evidence_quotes": {
+      "O": "thinking of the possibilities of life-size, if not bigger, characters from video games moving around on the wall or on a projector screen had me drooling pretty quickly.",
+      "C": "Seriously though, I bought this item sight unseen, something that I rarely do. I had been coveting this item for a while",
+      "E": "Several of my gamer friends raved about how nice it was to use their Turtle Beach Ear Force headsets with some of my favorite games",
+      "A": "Let me start with a big note that might help others right away -- when I first connected this unit to my computer",
+      "N": "well, what am I supposed to do if/when this device fails? I know I have the same potential issues with the drives that are in my desktop"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.35,
+    "E": 3.55,
+    "N": 2.9,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Let me start with a big note that might help others right away -- when I first connected this unit to my computer",
+      "C": "Seriously though, I bought this item sight unseen, something that I rarely do. I had been coveting this item for a while",
+      "E": "Several of my gamer friends raved about how nice it was to use their Turtle Beach Ear Force headsets with some of my favorite games",
+      "N": "well, what am I supposed to do if/when this device fails? I know I have the same potential issues with the drives that are in my desktop",
+      "O": "thinking of the possibilities of life-size, if not bigger, characters from video games moving around on the wall or on a projector screen had me drooling pretty quickly."
+    }
+  }
+}

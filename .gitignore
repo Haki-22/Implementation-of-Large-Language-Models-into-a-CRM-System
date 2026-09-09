@@ -1,0 +1,52 @@
+__pycache__/
+*.py[cod]
+
+ucs/uc03_mcp_privacy/.runtime/
+thesis-dm-frontend/bridge/.runtime/
+ucs/uc03_mcp_privacy/models/
+
+# local settings (THESIS_LLM_CALLS etc.); template is env.example
+.env
+
+# ČSÚ / Czech Post raw downloads (fetch_csu.py --download); the reduced CSVs next to them are committed
+# COMET scoring working files (the frozen result lives under snapshots/provenance/)
+substrate/snapshots/intermediate/comet-pairs.jsonl.gz
+substrate/snapshots/intermediate/stage2-comet*
+substrate/snapshots/intermediate/comet-gpu-run/
+
+# The built database: assembled from the committed snapshots by build_all (the Instalace screen), never shipped
+substrate/snapshots/substrate.db
+
+# Compressed transport (substrate/pipeline/packing.py): git ships the .gz, code reads the plain .json
+substrate/snapshots/amazon/amazon-original-en.json
+substrate/snapshots/amazon/amazon-translated-cz.json
+substrate/snapshots/amazon/amazon-catalog-en.json
+substrate/snapshots/provenance/translation/stage1-translate.json
+substrate/snapshots/provenance/pre-clean-2026-09-02/uc01-contacts-english-mapped-snapshot.json
+# Regenerable layers (build_all rebuilds them from the pinned downloads) and the downloads themselves
+substrate/snapshots/intermediate/
+substrate/pipeline/data_acquisition/stratified_500_users.json
+substrate/pipeline/data_acquisition/downloaded/
+
+
+# Run folders are the provenance of the numbers in the thesis and stay tracked; the
+# negations make that explicit should a broader `runs/` rule ever be added above.
+!ucs/uc01_personalization/snapshots/runs/
+!ucs/uc02_pseudonymization/eval/runs/
+
+# Model catalog updater caches (models.dev body + etag, claude docs, agy last-good); the outputs are committed
+utils/generation/catalog/.cache/
+!ucs/uc04_matchmaker/eval/runs/
+# UC-04 encoder caches (catalogue vectors, regenerable)
+ucs/uc04_matchmaker/eval/cache/
+
+# Local environment, build metadata and tool caches (never published)
+/.venv/
+/.venv-*/
+/venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+/.playwright-cli/
+/output/
+/.playwright-mcp/

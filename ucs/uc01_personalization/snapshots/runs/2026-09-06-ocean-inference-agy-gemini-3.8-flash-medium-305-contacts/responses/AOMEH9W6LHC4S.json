@@ -1,0 +1,40 @@
+{
+  "contact_id": 126,
+  "reviewer_id": "AOMEH9W6LHC4S",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 132,
+  "reviews_used": 15,
+  "prompt_chars": 9546,
+  "status": "ok",
+  "seconds": 461.35,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.25,
+    "E": 3.15,
+    "A": 3.0,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "After years of shooting outdoors, I decided it was time to learn about shooting with artificial lighting.",
+      "C": "I performed a side-by-side evaluation of the two cards. Both are 32 GB, but one is supposedly twice as fast as the other.",
+      "E": "I've rarely been so happy to be wrong. It is an excellent camera, especially when you ignore its many automatic modes and use it as a serious photographer.",
+      "A": "When other reviewers discuss the quality of documentation, they are being too kind. It would serve ePhoto well to hire an actual English speaker to write the instruction page.",
+      "N": "After one of my old MyCloud drives bit the dust (it happens) I set up a NAS from another company."
+    }
+  },
+  "raw": {
+    "A": 3,
+    "C": 4.25,
+    "E": 3.15,
+    "N": 2.15,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "When other reviewers discuss the quality of documentation, they are being too kind. It would serve ePhoto well to hire an actual English speaker to write the instruction page.",
+      "C": "I performed a side-by-side evaluation of the two cards. Both are 32 GB, but one is supposedly twice as fast as the other.",
+      "E": "I've rarely been so happy to be wrong. It is an excellent camera, especially when you ignore its many automatic modes and use it as a serious photographer.",
+      "N": "After one of my old MyCloud drives bit the dust (it happens) I set up a NAS from another company.",
+      "O": "After years of shooting outdoors, I decided it was time to learn about shooting with artificial lighting."
+    }
+  }
+}

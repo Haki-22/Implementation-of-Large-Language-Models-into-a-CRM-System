@@ -1,0 +1,34 @@
+{
+  "contact_id": 340,
+  "status": "ok",
+  "seconds": 13.59,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-2-methods-agy-gemini-3.8-flash-medium-en-cs-100-customers",
+  "parsed": {
+    "next_purchases": [
+      "Přepěťová ochrana Tripp Lite ISOBAR6ULTRA, kovová, 6 zásuvek, přepěťový útlum 3330 joulů",
+      "Sada inkoustových kazet Canon PGI-250XL / CLI-251XL pro tiskárny PIXMA MG5520",
+      "Připojovací kabel Plantronics Quick Disconnect (QD) na 3,5mm jack pro náhlavní soupravy řady HW"
+    ]
+  },
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "agy",
+  "model": "gemini-3.8-flash",
+  "tier": "medium",
+  "provider_cli_version": "1.1.27",
+  "prompt_version": "1.0.2",
+  "database_sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+  "prompt": "Zákazník Z-340 (anonymizováno). Názvy produktů česky.\nNákupní historie (45 nákupů, od nejstaršího):\n- 2010-08-16 ★5 Scythe S-FLEX SFF21E / 120mm 1,200rpm Fan.\n- 2011-01-31 ★1 Plantronics GameCom777 Gaming Headset\n- 2011-02-07 ★4 Creative Inspire S2 2.1 Multimedia Speaker System\n- 2011-07-02 ★5 Klávesnice Microsoft Comfort Curve 2000\n- 2011-07-02 ★2 Bezdrátová myš Logitech Wave Combo MK550 s klávesnicí a laserovou myší\n- 2012-01-29 ★1 Flash disk Patriot 8GB Pulse Series USB 3.0 - PSF8GSPUSB\n- 2012-12-15 ★4 Audio-Technica ATH-M10 Professional Studio Monitor Headphones\n- 2012-12-31 ★5 Sony 21 in 1 External Multi Card Reader/Writer (MRWEA7)\n- 2013-01-05 ★3 Přenosný externí pevný disk Seagate Backup Plus 1TB USB 3.0 (červený)(STBU1000103)\n- 2013-01-15 ★5 Vanguard Alta Plus 203AP třídílný hliníkový stativ s třícestnou panhead hlavicí z hořčíkové slitiny\n- 2013-01-16 ★4 Watts Up Pro Electricity Consumption Meter\n- 2013-02-02 ★5 Přepěťová ochrana Tripp Lite HT10DBS pro domácí kino, Isobar, 10 zásuvek RJ11 RJ45 koaxiální\n- 2013-02-03 ★5 TRIPP LITE SK5TEL-0 Surge Protector Wallmount Direct Plug in 5 Outlet RJ11 1080 Joule\n- 2013-02-16 ★5 Furman PST 8D Advanced Level Power Conditioning, SMP, EVS, LiFT, 15 Amp, Aluminum Chassis, 8 Outlets, Isolated Outlet Ba\n- 2013-02-18 ★5 Prodlužovací kabel pro venkovní použití Coleman Cable 02356-05, 12 metrů, 16/3, vinylový, pro krajinářské použití, zelen\n- 2013-02-19 ★4 Monoprice Fastening Tape 0.75inch One Wrap Hook & Loop Fastening Tape 5 yard/Roll - White\n- 2013-02-23 ★5 Mediabridge Coaxial Digital Audio/Video Cable (25 Feet) - Triple Shielded F-Pin to F-Pin with Easy Grip Connector Caps -\n- 2013-02-26 ★4 Herní sluchátka Creative Labs Sound Blaster Arena Surround s USB rozhraním 51EF0180AA001\n- 2013-03-25 ★4 Samsung UN32EH4000 32-Inch 720p 60Hz LED HDTV\n- 2013-04-06 ★4 Panasonic RQ2102 Cassette Recorder\n- 2013-05-08 ★3 Sony DVPFX780 7-Inch Screen DVD Portable\n- 2013-05-24 ★5 Sony DVP-FX980 9-Inch Portable DVD Player\n- 2013-06-18 ★5 Plantronics S12 kabelový telefonní headset\n- 2013-07-12 ★5 Rozšiřující karta UtechSmart PCI Express na SuperSpeed USB 3.0 se 4 porty a 5V 4pinovým napájecím konektorem pro stolní \n- 2013-07-17 ★5 Pevný disk WD Red 3 TB pro NAS: 3,5 palce, SATA III, 64 MB mezipaměti - WD30EFRX\n- 2013-07-21 ★5 KingWin Stryker 500W ATX 500 bezventilátorový napájecí zdroj STR-500\n- 2013-07-22 ★5 Noctua NH-L12 Low-profile Quiet CPU Cooler with 120/90mm Dual PWM Fan\n- 2013-07-31 ★5 Nexus PCI-300 PCI Ventilation Brackets\n- 2013-08-01 ★5 Regulátor otáček ventilátorů Zalman FANMATE-2\n- 2013-08-01 ★5 ASUS GeForce GTX 670-DC2-2GD5 VGA - 2GB GDDR5 - GPU Tweak - PCIE 3.0 Graphics Card Graphics Cards GTX670-DC2-2GD5\n- 2013-08-14 ★4 APC SMC1000 Smart-UPS 1000VA 120V LCD UPS RJ-45 sériový systém 100 BTU/hod s nepřerušovaným napájením\n- 2013-09-05 ★4 SteelSeries Siberia V2 Full-Size Gaming Headset (White)\n- 2013-09-19 ★4 Systém UPS APC Smart-UPS SMT1000 1000VA 120V LCD\n- 2013-09-24 ★4 CyberPower CP850PFCLCD PFC Sinewave UPS 850VA 510W PFC Compatible Mini-Tower\n- 2013-09-24 ★4 CyberPower PR750LCD Smart App Sinewave UPS 750VA 525W SNMP/HTTP Mini-Tower\n- 2013-09-28 ★4 Malcom Distributors 2.5 mm Female to 3.5 mm Male 3 Rings Jack Stereo Adapter On/Off Enabled\n- 2013-09-28 ★5 Headset Buddy Gold Plated 2.5mm to 3.5mm Adapter for iPhone, iPad, Android, Blackberry - Convert 2.5mm Headset to 3.5mm \n- 2013-09-28 ★3 Atomic Market 2.5 Female to 3.5 Male Audio Adapter Stero or Mono Gold Plated\n- 2013-10-07 ★3 Sluchátka Plantronics M214C s nastavitelnou hlasitostí\n- 2013-10-07 ★4 Panasonic KX-TCA430 Komfortní skládací náhlavní souprava\n- 2013-10-22 ★4 Plantronics HW261N Binaural Headset\n- 2013-10-22 ★4 Plantronics HW251N SupraPlus Wideband Headset (64338-31)\n- 2013-12-17 ★3 Bezdrátová multifunkční barevná fototiskárna Canon PIXMA MG5520 se skenerem, kopírkou a automatickým oboustranným tiskem\n- 2014-02-27 ★5 Tripp Lite ISOBAR8ULTRA Přepěťová ochrana Isobar, kovová, 8 zásuvek, kabel 3,6 m, 3840 joulů\n- 2014-03-04 ★4 Tripp Lite AVBAR10 Isobar Audio Video Surge Protector 10 Outlet Tel/Coax 8 feet Cord\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Přepěťová ochrana Tripp Lite ISOBAR6ULTRA, kovová, 6 zásuvek, přepěťový útlum 3330 joulů",
+      "Sada inkoustových kazet Canon PGI-250XL / CLI-251XL pro tiskárny PIXMA MG5520",
+      "Připojovací kabel Plantronics Quick Disconnect (QD) na 3,5mm jack pro náhlavní soupravy řady HW"
+    ]
+  },
+  "held_out": "B001JG4NFM"
+}

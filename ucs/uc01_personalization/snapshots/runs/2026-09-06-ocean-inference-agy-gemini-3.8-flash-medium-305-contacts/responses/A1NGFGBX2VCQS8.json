@@ -1,0 +1,40 @@
+{
+  "contact_id": 114,
+  "reviewer_id": "A1NGFGBX2VCQS8",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 135,
+  "reviews_used": 15,
+  "prompt_chars": 9863,
+  "status": "ok",
+  "seconds": 412.78,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.45,
+    "E": 3.4,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "Since I do a lot of music and video work, that is important to me.",
+      "C": "Ensure you load the software FIRST and then connect the A6200 adapter when it tells you to do so.",
+      "E": "Ok, so I gave it a title that probably makes you wonder what I could possibly be talking about so here it is:",
+      "A": "I bought the first pair for my wife so that she could escape a noisy environment at work. She absolutely loved them.",
+      "N": "That night, almost every channel stopped working. I thought maybe the power supply failed so I went out to unplug it and test it."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.45,
+    "E": 3.4,
+    "N": 2.15,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I bought the first pair for my wife so that she could escape a noisy environment at work. She absolutely loved them.",
+      "C": "Ensure you load the software FIRST and then connect the A6200 adapter when it tells you to do so.",
+      "E": "Ok, so I gave it a title that probably makes you wonder what I could possibly be talking about so here it is:",
+      "N": "That night, almost every channel stopped working. I thought maybe the power supply failed so I went out to unplug it and test it.",
+      "O": "Since I do a lot of music and video work, that is important to me."
+    }
+  }
+}

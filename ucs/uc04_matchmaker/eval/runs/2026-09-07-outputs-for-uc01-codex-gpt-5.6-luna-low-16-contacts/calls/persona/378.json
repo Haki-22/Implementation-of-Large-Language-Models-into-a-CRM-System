@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "378",
+  "status": "ok",
+  "seconds": 19.63,
+  "error": "",
+  "parsed": {
+    "label": "aktivni_technicky_fotograficky_zakaznik",
+    "narrative_cs": "Aktivní zákazník se opakovaně vrací k počítačům a příslušenství, zejména ke kabelům, USB zařízením a externím diskům, přičemž 21 z 37 nákupů spadá do této kategorie. Zajímá se také o digitální fotografii a foto-video techniku, recenze píše podrobně a nakupuje ve smíšené cenové hladině.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "digitální fotografie",
+      "foto-video technika",
+      "aktivní zákazník"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-378 (anonymizován).\nNákupů: 37, průměrné hodnocení 3.6 z 5, fáze v e-shopu: aktivní zákazník.\nNejčastější kategorie: Computers & Accessories (21), Camera & Photo (10), Portable Audio & Video (2)\nTémata zájmu (klasické shlukování): camera / photo / digitální / fotoaparát / zoomem; accessories / hdmi / supplies / computers / kabel; usb / computers / accessories / disk / externí\nUkázky recenzí (nejdelší, zkrácené):\n- Digitální fotoaparát Canon PowerShot SD780IS s rozlišením 12,1 MP, 3x optickým zoomem, stabilizací obrazu a 2,5palcovým LCD displejem (stříbrný): Pokud chcete tento malý nový fotoaparát od Canonu, je to pravděpodobně kvůli jeho atraktivnímu tělu a malým rozměrům, což je něco, co Canon v minulosti dělal dobře a v SD780 IS se mu podařilo vylepšit. Pokud jsou tyto dvě věci na vrcholu vašeho seznamu, neobtěžujte se číst tuto recenzi. Podařilo se \n- Notebook Apple MacBook Air 13,3 palce (procesor Intel Core 2 Duo 1,8 GHz, 2 GB RAM, 80 GB pevný disk): Toto je velmi podrobná recenze, takže pokud se chcete dostat k jádru věci, doporučuji přeskočit na poslední odstavec. Možná nemám moc co dodat, co už tu nebylo řečeno několikrát, ale chtěl jsem se k tomuto notebooku vyjádřit, protože jeho výběr může být těžký a možná můžu být nápomocný. Když byl Air\n- Kapesní videokamera Kodak Zi6 HD: Zi6 je jasným konkurentem pro videokameru Flip Video Ultra Series (a nyní i pro videokameru Flip Video Mino Series). Má výklopné USB rameno, stejně jako Flip Video, které bylo průkopníkem. Používá dvě AA baterie a má velmi podobný tvarový faktor. Ale spolu s napodobeninou se Kodaku podařilo to, co s\n- Notebook Apple MacBook MB466LL/A 13,3 palce (STARÁ VERZE): Na tyto notebooky jsem čekal už od zavedení procesorů Intel v Macech. MacBooky Pro používaly téměř stejný design skříně až příliš dlouho. I když jsem si nemyslel, že by MacBooky skutečně potřebovaly aktualizaci designu, líbí se mi volby, které Apple udělal, natolik, že jsem si jeden koupil. Mám rád \n- Batoh Case Logic SLRC-206 na zrcadlovku a 15,4palcový notebook (černý): Stejně jako u každé recenze brašny na fotoaparát, kterou píšu, se budu zabývat tím, jak moc miluji Tenba Messenger a jak si myslím, že se s ní prakticky nic nevyrovná. Nicméně je to trochu jiná nabídka – je zcela specifičtější ve svém použití – a má i své skutečné silné stránky, i když to není pro m\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "aktivni_technicky_fotograficky_zakaznik",
+    "narrative_cs": "Aktivní zákazník se opakovaně vrací k počítačům a příslušenství, zejména ke kabelům, USB zařízením a externím diskům, přičemž 21 z 37 nákupů spadá do této kategorie. Zajímá se také o digitální fotografii a foto-video techniku, recenze píše podrobně a nakupuje ve smíšené cenové hladině.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "digitální fotografie",
+      "foto-video technika",
+      "aktivní zákazník"
+    ],
+    "price_segment": "mixed"
+  }
+}

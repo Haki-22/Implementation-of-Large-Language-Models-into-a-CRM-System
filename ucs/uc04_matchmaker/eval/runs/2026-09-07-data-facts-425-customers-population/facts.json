@@ -1,0 +1,188 @@
+{
+  "run_dir": "2026-09-07-data-facts-425-customers-population",
+  "date": "2026-09-07",
+  "database": {
+    "file": "substrate/snapshots/substrate.db",
+    "sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+    "customers": 425,
+    "groups": {
+      "A": 300,
+      "B": 50,
+      "C": 75
+    },
+    "catalogue_items": 18213,
+    "reviews_in_histories": 45526
+  },
+  "population": {
+    "file": "reviews_Electronics_5.json.gz",
+    "md5_pin": "e4524af6c644cd044b1969bac7b62b2a",
+    "size_pin": 495854086,
+    "users": 192403,
+    "items": 63001,
+    "reviews": 1689188,
+    "load_seconds": 9.5
+  },
+  "seed": 42,
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "implicit": "0.7.3",
+      "scipy": "1.14.1",
+      "scikit-learn": "1.8.0",
+      "lightgbm": "4.6.0",
+      "mlxtend": "0.24.0",
+      "rank_bm25": "0.2.2",
+      "sentence_transformers": "5.5.1",
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "simplemma": "1.1.2"
+    }
+  },
+  "facts": {
+    "customers_linked": {
+      "value": 425,
+      "meaning": "contacts with an Amazon reviewer, i.e. with purchases; the arena's population"
+    },
+    "customers_prospects": {
+      "value": 75,
+      "meaning": "contacts without a reviewer: no purchases, out of leave-one-out by construction"
+    },
+    "groups": {
+      "value": {
+        "A": 300,
+        "B": 50,
+        "C": 75
+      },
+      "meaning": "stratum sizes A / B / C"
+    },
+    "catalogue_products": {
+      "value": 18213,
+      "meaning": "products in the shop catalogue = the ranking universe"
+    },
+    "catalogue_czech_titles": {
+      "value": 16067,
+      "meaning": "products with a Czech title (the Czech branch reads it)"
+    },
+    "interactions": {
+      "value": 45526,
+      "meaning": "purchases in the histories (hidden items excluded)"
+    },
+    "density_percent": {
+      "value": 0.588,
+      "meaning": "share of the customer x product matrix that is filled"
+    },
+    "products_bought": {
+      "value": 18116,
+      "meaning": "products bought by at least one customer in the histories"
+    },
+    "products_single_buyer": {
+      "value": 10355,
+      "meaning": "of those, bought by exactly one customer"
+    },
+    "median_buyers_per_bought_product": {
+      "value": 1.0,
+      "meaning": "median number of customers per bought product"
+    },
+    "hidden_bought_by_0_others": {
+      "value": 108,
+      "meaning": "hidden items nobody else bought: unreachable for any behavioural method"
+    },
+    "hidden_bought_by_1_other": {
+      "value": 77,
+      "meaning": "hidden items bought by one other customer"
+    },
+    "hidden_bought_by_2_to_4_others": {
+      "value": 98,
+      "meaning": "hidden items bought by two to four other customers"
+    },
+    "hidden_bought_by_5_plus_others": {
+      "value": 142,
+      "meaning": "hidden items bought by five or more other customers"
+    },
+    "last_day_ties": {
+      "value": 88,
+      "meaning": "customers with two or more reviews on their final day (tie broken by review id)"
+    },
+    "history_products_median": {
+      "value": 94,
+      "meaning": "median purchases per customer in the history"
+    },
+    "history_products_min": {
+      "value": 11,
+      "meaning": "shortest history"
+    },
+    "history_products_max": {
+      "value": 430,
+      "meaning": "longest history"
+    },
+    "history_title_words_median": {
+      "value": 1061,
+      "meaning": "median words if every bought title is written out (a prompt's history block)"
+    },
+    "history_title_words_max": {
+      "value": 4665,
+      "meaning": "longest such history in words"
+    },
+    "review_words_per_customer_median": {
+      "value": 29469,
+      "meaning": "median words of English review text per customer"
+    },
+    "review_words_per_customer_max": {
+      "value": 203047,
+      "meaning": "most review text a single customer wrote"
+    },
+    "czech_history_texts_empty": {
+      "value": 3181,
+      "meaning": "history reviews with no Czech text in the Czech branch (dropped by the May translation run)"
+    },
+    "random_floor_full_top10": {
+      "value": 0.00055,
+      "meaning": "hit rate of guessing under the full protocol at top 10"
+    },
+    "random_floor_sampled_top10": {
+      "value": 0.099,
+      "meaning": "hit rate of guessing under the sampled protocol (100 negatives) at top 10"
+    },
+    "population_users": {
+      "value": 192403,
+      "meaning": "reviewers in the public Amazon Electronics 5-core dump"
+    },
+    "population_items": {
+      "value": 63001,
+      "meaning": "products in the dump"
+    },
+    "population_reviews": {
+      "value": 1689188,
+      "meaning": "reviews in the dump"
+    },
+    "hidden_bought_by_0_others_in_population": {
+      "value": 0,
+      "meaning": "our hidden items nobody in the population bought"
+    },
+    "hidden_bought_by_1_to_4_others_in_population": {
+      "value": 26,
+      "meaning": "our hidden items bought by one to four other reviewers in the population"
+    },
+    "hidden_bought_by_5_plus_others_in_population": {
+      "value": 399,
+      "meaning": "our hidden items bought by five or more other reviewers in the population"
+    },
+    "sanity_users": {
+      "value": 2000,
+      "meaning": "random ordinary reviewers (not ours, >= 5 reviews) scored with the population ALS, their chronologically last review hidden, as in the arena"
+    },
+    "sanity_hits_top10": {
+      "value": 50,
+      "meaning": "of them, hidden interaction in the ALS top 10 over the full population catalogue"
+    },
+    "sanity_hr10_percent": {
+      "value": 2.5,
+      "meaning": "the population model's hit rate on ordinary reviewers, the yardstick for the shop's heavy buyers"
+    },
+    "sanity_seconds": {
+      "value": 6.7,
+      "meaning": "training + scoring time of the sanity check"
+    }
+  },
+  "total_seconds": 19.1
+}

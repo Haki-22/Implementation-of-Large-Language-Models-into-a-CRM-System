@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "11",
+  "status": "ok",
+  "seconds": 11.28,
+  "error": "",
+  "parsed": {
+    "label": "verny_nakupujici_pocitacoveho_a_fotografickeho_vybaveni",
+    "narrative_cs": "Zákazník nakupuje především počítače, příslušenství a fotografickou techniku, často také spotřební materiál, pouzdra a bezdrátové periferie, celkem uskutečnil 407 nákupů. Vrací se dlouhodobě a pravidelně, hodnotí převážně kladně a kombinuje rozpočtová zařízení s pokročilejší technikou podle účelu a poměru ceny a výkonu.",
+    "tags": [
+      "počítače",
+      "fototechnika",
+      "příslušenství",
+      "spotřební materiál",
+      "poměr ceny a výkonu"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-11 (anonymizován).\nNákupů: 407, průměrné hodnocení 4.5 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (171), Camera & Photo (100), Accessories & Supplies (69)\nTémata zájmu (klasické shlukování): supplies / accessories / sluchátka / výrobce / ukončil; photo / camera / digitální / canon / pouzdro; computers / accessories / logitech / myš / bezdrátová\nUkázky recenzí (nejdelší, zkrácené):\n- Startovací sada PaperShow obsahuje poznámkový blok A4 (48 listů), papír do tiskárny 8,5 x 11 palců (30 listů), digitální pero, USB klíčenku a příslušenství.: PaperShow je inovativní a užitečné zařízení, které vám umožňuje vytvářet interaktivní prezentace na bílé tabuli a v PowerPointu. Startovací sada obsahuje vše potřebné k uvedení do provozu a zahrnuje: digitální pero, USB klíčenku (Bluetooth a 256MB flash disk), patentovaný poznámkový blok velikosti A\n- Videokamera Canon VIXIA HV40 s vysokým rozlišením: Canon VIXIA HV40 je miniDV kamera průměru Prosumer s bohatou nabídkou funkcí, která by měla oslovit pokročilé domácí uživatele, amatéry nebo majitele firmy. Pravděpodobně se jedná o kameru s větším výkonem, než bude běžný uživatel potřebovat, a pro ty, kteří nepotřebují všechny funkce, které tato ka\n- Belkin @TV Plus – Mobilní televize kdekoli: Belkin „@TV Plus – Mobilní televize kdekoli“ umožňuje vzdálené sledování zdroje videa (obvykle kabelového přijímače) a funguje úžasně dobře! Jsme docela často mimo domov a často nám uniká naše „běžné“ pořady, pokud zapomeneme nastavit DVR, ale to už není takový problém, protože toto zařízení nám umo\n- DEFENDER 21026 SENTINEL 4kanálový chytrý bezpečnostní DVR se 4 venkovními bezpečnostními kamerami s vysokým rozlišením: Tento monitorovací systém Defender Sentinel dobře vyhovuje mým potřebám a je také velmi poměr ceny a kvality. Abych byl upřímný, nejedná se o špičkový systém s kamerami ve vysokém rozlišení, ale ani jeho cena není taková jako u špičkových systémů. Jedná se o do jisté míry rozpočtový systém, který př\n- Q-See QT5716-8E3-1 16kanálový 960H DVR s 8 kamerami s vysokým rozlišením 700TVL/960H a předinstalovaným 1TB pevným diskem (černý): Aktualizace 07.04.2014 - Museli jsme policii poskytnout videozáznam z našeho systému, když byl zákazník obviněn z prodeje kradeného majetku. Funkce vyhledávání a exportu byla mnohem lepší než u starších systémů, které jsme používali dříve, a byli jsme schopni požadované záběry uložit přímo na USB fl\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "verny_nakupujici_pocitacoveho_a_fotografickeho_vybaveni",
+    "narrative_cs": "Zákazník nakupuje především počítače, příslušenství a fotografickou techniku, často také spotřební materiál, pouzdra a bezdrátové periferie, celkem uskutečnil 407 nákupů. Vrací se dlouhodobě a pravidelně, hodnotí převážně kladně a kombinuje rozpočtová zařízení s pokročilejší technikou podle účelu a poměru ceny a výkonu.",
+    "tags": [
+      "počítače",
+      "fototechnika",
+      "příslušenství",
+      "spotřební materiál",
+      "poměr ceny a výkonu"
+    ],
+    "price_segment": "mixed"
+  }
+}

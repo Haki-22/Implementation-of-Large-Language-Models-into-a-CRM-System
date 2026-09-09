@@ -1,0 +1,31 @@
+{
+  "corpus_id": "uc02-corpus-v2-model",
+  "generated_at": "2026-09-05T19:44:44",
+  "n": 100,
+  "seed": 42,
+  "renderer": "model",
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "contacts_available": 450,
+  "db": "substrate/snapshots/substrate.db",
+  "types": [
+    "PERSON",
+    "EMAIL",
+    "PHONE",
+    "ADDRESS",
+    "DATE",
+    "BBAN",
+    "IBAN_CZ",
+    "ORG",
+    "ICO",
+    "DIC",
+    "RC"
+  ],
+  "gold_spans": 345,
+  "flagged_messages": [],
+  "corpus_file": "uc02-pii-corpus.json",
+  "gold_file": "uc02-pii-gold.jsonl",
+  "corpus_sha256": "1171eab3e747bbde40c440f175d469cfe311de04765acf4134175ea029ccd422",
+  "gold_sha256": "6384feddcb9bb5fea3c781c3682e5ce89797aabc78b0a2663c8dba18407b538d"
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 349,
+  "reviewer_id": "A2VODABWSVHV8E",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 79,
+  "reviews_used": 15,
+  "prompt_chars": 9934,
+  "status": "ok",
+  "seconds": 457.5,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.05,
+    "E": 3.45,
+    "A": 3.95,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "there is the ever-present hope that this new model may move us closer to that \"gold standard\" camera of our imagination",
+      "C": "I've been using it for about three months now, and have had enough experience with it at this point to write up a short review",
+      "E": "I was delighted to have finally received my Powershot S90, and without further adieu, let me say that this is one heck of a camera.",
+      "A": "that I hope will be helpful for others investigating this camera.",
+      "N": "The a33/a55 had a few deficiencies, as all cameras do, but if you learned to work around them, it was"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.05,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "that I hope will be helpful for others investigating this camera.",
+      "C": "I've been using it for about three months now, and have had enough experience with it at this point to write up a short review",
+      "E": "I was delighted to have finally received my Powershot S90, and without further adieu, let me say that this is one heck of a camera.",
+      "N": "The a33/a55 had a few deficiencies, as all cameras do, but if you learned to work around them, it was",
+      "O": "there is the ever-present hope that this new model may move us closer to that \"gold standard\" camera of our imagination"
+    }
+  }
+}

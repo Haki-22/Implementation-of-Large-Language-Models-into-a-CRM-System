@@ -1,0 +1,562 @@
+[
+  {
+    "contact_id": 4,
+    "content": "Záruční podmínky zaslat na leona.jelinkova@post.cz.",
+    "category": "support",
+    "created_at": "2014-06-15T00:24:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 13,
+    "content": "Vladislav se ptal na možnost osobního odběru v prodejně.",
+    "category": "delivery",
+    "created_at": "2013-11-04T20:03:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 14,
+    "content": "Záruční podmínky zaslat na agata.vlckova@centrum.cz.",
+    "category": "support",
+    "created_at": "2014-05-16T14:58:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 14,
+    "content": "Domluvena schůzka k prezentaci novinek, termín upřesní Agáta.",
+    "category": "follow_up",
+    "created_at": "2014-07-01T23:52:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 16,
+    "content": "Záruční podmínky zaslat na petr.kolar86@centrum.cz.",
+    "category": "support",
+    "created_at": "2013-11-22T03:08:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 25,
+    "content": "Naděžda se ptala na možnost osobního odběru v prodejně.",
+    "category": "delivery",
+    "created_at": "2013-08-12T15:58:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 37,
+    "content": "Záruční podmínky zaslat na robin.kaspar@post.cz.",
+    "category": "support",
+    "created_at": "2014-01-26T21:39:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 37,
+    "content": "Stížnost na nefunkční příslušenství, Robin požadoval výměnu kusu.",
+    "category": "complaint",
+    "created_at": "2014-04-17T15:18:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 44,
+    "content": "Domluvena fakturace na firmu, doklad vystaven.",
+    "category": "general",
+    "created_at": "2014-01-15T04:07:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 45,
+    "content": "Poptávka na velkoobchodní ceník, předáno obchodnímu zástupci.",
+    "category": "sales",
+    "created_at": "2013-12-25T01:08:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 48,
+    "content": "Cenovou nabídku poslat na romana.slavikova64@post.cz, Romana požadovala odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2013-12-20T10:42:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 56,
+    "content": "Cenovou nabídku poslat na alena.ticha11@seznam.cz, Alena požadovala odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2013-08-18T02:23:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 57,
+    "content": "Dotaz na kompatibilitu příslušenství, doporučen produkt z katalogu.",
+    "category": "support",
+    "created_at": "2013-12-27T02:48:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 72,
+    "content": "Cenovou nabídku poslat na danuse.vankova@post.cz, Danuše požadovala odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2013-10-05T15:35:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 72,
+    "content": "Danuše projevila zájem o sezónní výprodej elektroniky.",
+    "category": "sales",
+    "created_at": "2013-10-13T19:39:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 79,
+    "content": "Reklamace vyřízena vrácením peněz na účet, zákazník informován e-mailem.",
+    "category": "complaint",
+    "created_at": "2013-12-01T13:12:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 82,
+    "content": "Reklamace vyřízena vrácením peněz na účet, zákazník informován e-mailem.",
+    "category": "complaint",
+    "created_at": "2014-06-12T17:39:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 115,
+    "content": "Veronika projevila zájem o sezónní výprodej elektroniky.",
+    "category": "sales",
+    "created_at": "2013-12-09T00:56:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 115,
+    "content": "Veronika vznesla dotaz na stav reklamace předchozí objednávky.",
+    "category": "support",
+    "created_at": "2014-01-10T00:52:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 123,
+    "content": "Domluvena fakturace na firmu, doklad vystaven.",
+    "category": "general",
+    "created_at": "2013-10-14T09:24:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 127,
+    "content": "Doručovací adresa potvrzena: Podle Náhonu 108, Srubec 37316.",
+    "category": "delivery",
+    "created_at": "2014-05-19T22:34:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 136,
+    "content": "Poptávka na velkoobchodní ceník, předáno obchodnímu zástupci.",
+    "category": "sales",
+    "created_at": "2013-10-30T07:27:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 136,
+    "content": "Telefonní kontakt ověřen pro Martin Dušek: +420 774 900 287.",
+    "category": "support",
+    "created_at": "2014-04-13T18:58:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 143,
+    "content": "Nabídnut věrnostní program, Horymír potvrdil zájem o registraci.",
+    "category": "sales",
+    "created_at": "2013-12-31T12:47:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 187,
+    "content": "Telefonní kontakt ověřen pro Oldřich Štěpánek: +420 772 081 770.",
+    "category": "support",
+    "created_at": "2014-02-10T05:33:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 187,
+    "content": "Telefonní kontakt ověřen pro Oldřich Štěpánek: +420 772 081 770.",
+    "category": "support",
+    "created_at": "2014-06-24T04:13:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 194,
+    "content": "Iva projevila zájem o sezónní výprodej elektroniky.",
+    "category": "sales",
+    "created_at": "2013-11-25T16:24:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 203,
+    "content": "Domluvena schůzka k prezentaci novinek, termín upřesní Pavel.",
+    "category": "follow_up",
+    "created_at": "2013-10-07T06:09:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 215,
+    "content": "Stížnost na nefunkční příslušenství, Zdeňka požadovala výměnu kusu.",
+    "category": "complaint",
+    "created_at": "2013-10-25T18:37:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 217,
+    "content": "Cenovou nabídku poslat na ester.nemcova20@post.cz, Ester požadovala odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2013-11-28T01:12:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 220,
+    "content": "Slavěna projevila zájem o sezónní výprodej elektroniky.",
+    "category": "sales",
+    "created_at": "2013-09-04T04:21:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 227,
+    "content": "Lucie se ptala na možnost osobního odběru v prodejně.",
+    "category": "delivery",
+    "created_at": "2014-01-08T07:07:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 230,
+    "content": "Balík nedoručen, zahájena reklamace u přepravce.",
+    "category": "delivery",
+    "created_at": "2013-09-22T13:10:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 233,
+    "content": "Pavlína požadovala krátké shrnutí k předchozí objednávce, zavolat příští týden.",
+    "category": "follow_up",
+    "created_at": "2013-11-30T12:03:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 259,
+    "content": "Lumír reklamoval poškozený obal zásilky, sjednána sleva 10 %.",
+    "category": "complaint",
+    "created_at": "2013-10-22T12:41:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 259,
+    "content": "Reklamace vyřízena vrácením peněz na účet, zákazník informován e-mailem.",
+    "category": "complaint",
+    "created_at": "2014-04-28T01:30:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 274,
+    "content": "Zásilka zpožděna u dopravce, Eliška informována o novém termínu.",
+    "category": "delivery",
+    "created_at": "2013-09-09T21:12:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 276,
+    "content": "Poznámka ze schůzky: Romana porovnává varianty, rozhodne do konce měsíce.",
+    "category": "general",
+    "created_at": "2013-09-13T01:40:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 280,
+    "content": "Vasyl požadoval krátké shrnutí k předchozí objednávce, zavolat příští týden.",
+    "category": "follow_up",
+    "created_at": "2014-03-25T01:02:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 283,
+    "content": "Bez reakce na poslední nabídku, připomenout po konci měsíce.",
+    "category": "follow_up",
+    "created_at": "2013-08-14T17:16:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 285,
+    "content": "Zdeněk potvrdil doručení na adresu Kadaňská 154, Králíky.",
+    "category": "delivery",
+    "created_at": "2014-04-05T21:48:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 286,
+    "content": "Ladislava Krausová žádá vést poznámku pod zákaznickým kódem A195EZSQDW3E21.",
+    "category": "general",
+    "created_at": "2013-10-13T13:46:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 286,
+    "content": "Domluvena schůzka k prezentaci novinek, termín upřesní Ladislava.",
+    "category": "follow_up",
+    "created_at": "2014-07-11T17:52:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 291,
+    "content": "Domluvena schůzka k prezentaci novinek, termín upřesní Štefan.",
+    "category": "follow_up",
+    "created_at": "2013-08-17T12:43:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 291,
+    "content": "Telefonní kontakt ověřen pro Štefan Kraus: +420 606 791 286.",
+    "category": "support",
+    "created_at": "2013-09-08T04:46:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 293,
+    "content": "Poznámka ze schůzky: Johana porovnává varianty, rozhodne do konce měsíce.",
+    "category": "general",
+    "created_at": "2014-05-21T13:44:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 296,
+    "content": "Domluvena fakturace na firmu, doklad vystaven.",
+    "category": "general",
+    "created_at": "2014-07-23T06:15:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 300,
+    "content": "Domluvena fakturace na firmu, doklad vystaven.",
+    "category": "general",
+    "created_at": "2013-11-07T09:26:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 302,
+    "content": "Doručovací adresa potvrzena: Přípřežní 168, Příbram 26231.",
+    "category": "delivery",
+    "created_at": "2014-04-05T06:43:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 303,
+    "content": "Alice se ptala na záruční podmínky, zaslány e-mailem.",
+    "category": "support",
+    "created_at": "2014-03-10T22:41:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 310,
+    "content": "Bez reakce na poslední nabídku, připomenout po konci měsíce.",
+    "category": "follow_up",
+    "created_at": "2013-08-16T20:29:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 317,
+    "content": "Lýdie se ptala na možnost osobního odběru v prodejně.",
+    "category": "delivery",
+    "created_at": "2013-12-26T12:51:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 317,
+    "content": "Poznámka ze schůzky: Lýdie porovnává varianty, rozhodne do konce měsíce.",
+    "category": "general",
+    "created_at": "2014-03-03T12:00:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 328,
+    "content": "Cenovou nabídku poslat na simon.broz@post.cz, Šimon požadoval odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2014-03-19T02:14:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 333,
+    "content": "Domluvena fakturace na firmu, doklad vystaven.",
+    "category": "general",
+    "created_at": "2014-02-19T10:08:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 333,
+    "content": "Libor reklamoval poškozený obal zásilky, sjednána sleva 10 %.",
+    "category": "complaint",
+    "created_at": "2014-03-29T16:23:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 347,
+    "content": "Stanislava Brožová žádá vést poznámku pod zákaznickým kódem A2I18AO597DSDI.",
+    "category": "general",
+    "created_at": "2014-01-02T19:31:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 350,
+    "content": "Zásilka zpožděna u dopravce, Žofie informována o novém termínu.",
+    "category": "delivery",
+    "created_at": "2013-10-19T08:05:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 350,
+    "content": "Cenovou nabídku poslat na zofie.jandova46@email.cz, Žofie požadovala odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2014-06-27T20:50:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 358,
+    "content": "Daniela preferuje stručné e-mailové aktualizace, bez telefonátů.",
+    "category": "general",
+    "created_at": "2014-03-10T06:44:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 367,
+    "content": "Šimon projevil zájem o sezónní výprodej elektroniky.",
+    "category": "sales",
+    "created_at": "2014-02-18T14:12:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 368,
+    "content": "Domluvena schůzka k prezentaci novinek, termín upřesní Štěpánka.",
+    "category": "follow_up",
+    "created_at": "2013-09-30T03:17:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 368,
+    "content": "Štěpánka Kubíčková žádá vést poznámku pod zákaznickým kódem AU90FZYTYG0FT.",
+    "category": "general",
+    "created_at": "2014-03-27T10:55:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 380,
+    "content": "Zásilka zpožděna u dopravce, admin informována o novém termínu.",
+    "category": "delivery",
+    "created_at": "2014-01-28T13:17:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 380,
+    "content": "Balík nedoručen, zahájena reklamace u přepravce.",
+    "category": "delivery",
+    "created_at": "2014-05-03T07:47:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 387,
+    "content": "Cenovou nabídku poslat na vilem.beran@gmail.com, Vilém požadoval odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2013-07-29T20:18:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 402,
+    "content": "Záruční podmínky zaslat na otylie.rihova48@centrum.cz.",
+    "category": "support",
+    "created_at": "2014-06-14T14:14:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 415,
+    "content": "Vratislav projevil zájem o sezónní výprodej elektroniky.",
+    "category": "sales",
+    "created_at": "2014-07-03T11:47:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 426,
+    "content": "Slavomír vznesl dotaz na stav reklamace předchozí objednávky.",
+    "category": "support",
+    "created_at": "2013-08-31T15:03:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 434,
+    "content": "Domluvena schůzka k prezentaci novinek, termín upřesní Vilém.",
+    "category": "follow_up",
+    "created_at": "2014-04-10T01:08:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 439,
+    "content": "Telefonní kontakt ověřen pro Elena Němcová: +420 605 990 516.",
+    "category": "support",
+    "created_at": "2013-08-22T00:31:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 442,
+    "content": "Lenka vznesla dotaz na stav reklamace předchozí objednávky.",
+    "category": "support",
+    "created_at": "2014-03-24T18:27:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 446,
+    "content": "Cenovou nabídku poslat na jana.stankova5@centrum.cz, Jana požadovala odpověď do týdne.",
+    "category": "sales",
+    "created_at": "2014-03-12T17:54:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 446,
+    "content": "Domluvena fakturace na firmu, doklad vystaven.",
+    "category": "general",
+    "created_at": "2014-05-04T09:02:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 473,
+    "content": "Záruční podmínky zaslat na mikulas.janda@gmail.com.",
+    "category": "support",
+    "created_at": "2014-04-07T12:17:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 480,
+    "content": "Lukáš potvrdil doručení na adresu V Nížinách 98, Čelákovice.",
+    "category": "delivery",
+    "created_at": "2013-08-01T06:19:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 480,
+    "content": "Nabídnut věrnostní program, Lukáš potvrdil zájem o registraci.",
+    "category": "sales",
+    "created_at": "2013-10-13T18:41:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 489,
+    "content": "Václav preferuje stručné e-mailové aktualizace, bez telefonátů.",
+    "category": "general",
+    "created_at": "2014-06-24T22:17:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 491,
+    "content": "Poptávka na velkoobchodní ceník, předáno obchodnímu zástupci.",
+    "category": "sales",
+    "created_at": "2014-05-30T09:29:59",
+    "pseudonymized": false
+  },
+  {
+    "contact_id": 497,
+    "content": "Mária potvrdila doručení na adresu Hněvkovského 73, Praha.",
+    "category": "delivery",
+    "created_at": "2014-03-18T19:51:59",
+    "pseudonymized": false
+  }
+]

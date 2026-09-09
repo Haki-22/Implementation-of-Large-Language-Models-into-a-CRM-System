@@ -1,0 +1,40 @@
+{
+  "contact_id": 353,
+  "reviewer_id": "A4H4KYSM2KQ85",
+  "group": "C",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 48,
+  "reviews_used": 15,
+  "prompt_chars": 8789,
+  "status": "ok",
+  "seconds": 463.48,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.45,
+    "E": 3.35,
+    "A": 3.85,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "The base can be pointed in both horizontal and vertical directions, giving you complete flexibility for composing your photos.",
+      "C": "We have used the disk heavily for several months and clean it off several times a week and have had no problems with it yet.",
+      "E": "With high resolution pictures, we can fit 567 pictures on the disk. That's plenty to carry us through an entire vacation--or two.",
+      "A": "It looks and feels like cheap plastic, but it works as advertised, and we have had no problems with it after 6 months of use.",
+      "N": "I was a bit dubious about the quick start guide, having struggled for hours with a similar Seagate device."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.45,
+    "E": 3.35,
+    "N": 2.45,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "It looks and feels like cheap plastic, but it works as advertised, and we have had no problems with it after 6 months of use.",
+      "C": "We have used the disk heavily for several months and clean it off several times a week and have had no problems with it yet.",
+      "E": "With high resolution pictures, we can fit 567 pictures on the disk. That's plenty to carry us through an entire vacation--or two.",
+      "N": "I was a bit dubious about the quick start guide, having struggled for hours with a similar Seagate device.",
+      "O": "The base can be pointed in both horizontal and vertical directions, giving you complete flexibility for composing your photos."
+    }
+  }
+}

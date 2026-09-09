@@ -1,0 +1,40 @@
+{
+  "contact_id": 325,
+  "reviewer_id": "AU5U16YWAIYZP",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 37,
+  "reviews_used": 15,
+  "prompt_chars": 9984,
+  "status": "ok",
+  "seconds": 349.53,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.2,
+    "E": 3.9,
+    "A": 3.85,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "Fantastic amazing image quality you have to see to believe!",
+      "C": "I am now using this lens mainly in dust free in-door environments and my Canon 24-70 F/2.8 which is sealed for outdoor dusty areas.",
+      "E": "4-27-2009 I just got back from photographing the World Premiere of X-Men Origins: Wolverine and once again the 100-400 IS L lens was awesome.",
+      "A": "Will keep you posted when I find out",
+      "N": "I now have a single spec of dust inside the corner of this lens under the front element. Hope this is not a trend."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.2,
+    "E": 3.9,
+    "N": 2.5,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Will keep you posted when I find out",
+      "C": "I am now using this lens mainly in dust free in-door environments and my Canon 24-70 F/2.8 which is sealed for outdoor dusty areas.",
+      "E": "4-27-2009 I just got back from photographing the World Premiere of X-Men Origins: Wolverine and once again the 100-400 IS L lens was awesome.",
+      "N": "I now have a single spec of dust inside the corner of this lens under the front element. Hope this is not a trend.",
+      "O": "Fantastic amazing image quality you have to see to believe!"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 23,
+  "reviewer_id": "ALDAF4VVLFRHP",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 143,
+  "reviews_used": 15,
+  "prompt_chars": 7841,
+  "status": "ok",
+  "seconds": 62.74,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 3.85,
+    "E": 3.45,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I am going to school working on my Bachelors' degree in Photograph, I am required to use Adobe Lightroom",
+      "C": "Once installed, it is just a matter of placing the stuff to be backed up on to the drive.",
+      "E": "It is great for a picnic or BBQ in the backyard.",
+      "A": "It is definitely a nice and cheaper alternative, especially for beginners or just for family photos.",
+      "N": "nothing that can't be fixed with a safety pin."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 3.85,
+    "E": 3.45,
+    "N": 2.3,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "It is definitely a nice and cheaper alternative, especially for beginners or just for family photos.",
+      "C": "Once installed, it is just a matter of placing the stuff to be backed up on to the drive.",
+      "E": "It is great for a picnic or BBQ in the backyard.",
+      "N": "nothing that can't be fixed with a safety pin.",
+      "O": "I am going to school working on my Bachelors' degree in Photograph, I am required to use Adobe Lightroom"
+    }
+  }
+}

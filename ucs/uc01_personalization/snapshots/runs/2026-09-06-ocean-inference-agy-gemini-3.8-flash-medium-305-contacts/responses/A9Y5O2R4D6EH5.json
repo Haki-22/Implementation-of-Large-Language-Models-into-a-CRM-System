@@ -1,0 +1,40 @@
+{
+  "contact_id": 174,
+  "reviewer_id": "A9Y5O2R4D6EH5",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 103,
+  "reviews_used": 15,
+  "prompt_chars": 10086,
+  "status": "ok",
+  "seconds": 645.29,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.35,
+    "E": 3.4,
+    "A": 4.1,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "Sensor measurements are; Diagonal 7.66mm / 6.17mm Wide x 4.55mm High / Area 28.50 mm Sq / Crop Factor 5.64",
+      "C": "Four Amazon stars for \"I like it\" so far... needs to be used over time to know if it is an actual five star \"I love it\" item.",
+      "E": "Never did find more than the one photo of this Monopod on the Internet so thought I would upload some since it arrived here..",
+      "A": "I use more expensive Canon cameras but unfair to compare to this price range.",
+      "N": "Won't know until it quits, but will report back when it does to let everyone know."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 3.4,
+    "N": 2.2,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I use more expensive Canon cameras but unfair to compare to this price range.",
+      "C": "Four Amazon stars for \"I like it\" so far... needs to be used over time to know if it is an actual five star \"I love it\" item.",
+      "E": "Never did find more than the one photo of this Monopod on the Internet so thought I would upload some since it arrived here..",
+      "N": "Won't know until it quits, but will report back when it does to let everyone know.",
+      "O": "Sensor measurements are; Diagonal 7.66mm / 6.17mm Wide x 4.55mm High / Area 28.50 mm Sq / Crop Factor 5.64"
+    }
+  }
+}

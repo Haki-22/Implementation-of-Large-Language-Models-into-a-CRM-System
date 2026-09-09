@@ -1,0 +1,40 @@
+{
+  "contact_id": 221,
+  "reviewer_id": "A2SH6A32BE6NEV",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9463,
+  "status": "ok",
+  "seconds": 827.65,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 2.95,
+    "A": 3.65,
+    "N": 3.35,
+    "evidence_quotes": {
+      "O": "Hands down, the bokeh is creamy and a total amateur can start taking unbelievable photos with the most mundane type of objects",
+      "C": "I bought this for my D5100 after an exhaustive evaluation of what type of lens I should get to replace my stock 18-55 lens.",
+      "E": "I have this attached to my desktop since I enjoy listening late at night not to disturb anyone.",
+      "A": "I had to learn this the hard way so hopefully this will help someone !",
+      "N": "Seriously, I've been scrounging around for quite some time trying to find a decent security cam package suite and been left in frustration"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.25,
+    "E": 2.95,
+    "N": 3.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I had to learn this the hard way so hopefully this will help someone !",
+      "C": "I bought this for my D5100 after an exhaustive evaluation of what type of lens I should get to replace my stock 18-55 lens.",
+      "E": "I have this attached to my desktop since I enjoy listening late at night not to disturb anyone.",
+      "N": "Seriously, I've been scrounging around for quite some time trying to find a decent security cam package suite and been left in frustration",
+      "O": "Hands down, the bokeh is creamy and a total amateur can start taking unbelievable photos with the most mundane type of objects"
+    }
+  }
+}

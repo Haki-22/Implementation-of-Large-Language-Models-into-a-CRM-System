@@ -1,0 +1,40 @@
+{
+  "contact_id": 63,
+  "reviewer_id": "A37IRE9GZ0CZ7I",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 88,
+  "reviews_used": 15,
+  "prompt_chars": 6232,
+  "status": "ok",
+  "seconds": 187.78,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 3.65,
+    "E": 3.6,
+    "A": 3.45,
+    "N": 3.3,
+    "evidence_quotes": {
+      "O": "Reminds me of the bookcase in Beauty & the Beast or something out of Harry Potter. Just classic. If you love books and libraries, you'll love this skin",
+      "C": "the Kindle Fire HD was a bit more expensive than my other Kindles and I noticed that I tended to keep the case open so it would/could fall on the screen.",
+      "E": "These seemed like a great anniversary present for my brother-in-law. He loved using them for phone calls and for the gym.",
+      "A": "I'm not an audiophile--sorry I can't tell you about the bass, just that the sound is crisp--but I think these are pretty decent headphones for all my purposes",
+      "N": "I had frequent problems with Time Machine and had to reformat the drive so many times that it became annoying."
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 3.65,
+    "E": 3.6,
+    "N": 3.3,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I'm not an audiophile--sorry I can't tell you about the bass, just that the sound is crisp--but I think these are pretty decent headphones for all my purposes",
+      "C": "the Kindle Fire HD was a bit more expensive than my other Kindles and I noticed that I tended to keep the case open so it would/could fall on the screen.",
+      "E": "These seemed like a great anniversary present for my brother-in-law. He loved using them for phone calls and for the gym.",
+      "N": "I had frequent problems with Time Machine and had to reformat the drive so many times that it became annoying.",
+      "O": "Reminds me of the bookcase in Beauty & the Beast or something out of Harry Potter. Just classic. If you love books and libraries, you'll love this skin"
+    }
+  }
+}

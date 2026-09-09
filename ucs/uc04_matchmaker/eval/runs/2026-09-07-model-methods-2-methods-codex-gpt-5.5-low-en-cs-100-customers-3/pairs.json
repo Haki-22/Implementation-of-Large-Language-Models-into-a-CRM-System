@@ -1,0 +1,80 @@
+[
+  {
+    "method": "rerank_als",
+    "lang": "en",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 57,
+    "hits_second": 28,
+    "difference": 29,
+    "only_first": 32,
+    "only_second": 3,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rerank_als",
+    "lang": "cs",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 54,
+    "hits_second": 28,
+    "difference": 26,
+    "only_first": 28,
+    "only_second": 2,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rerank_als_with_profile",
+    "lang": "en",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 51,
+    "hits_second": 28,
+    "difference": 23,
+    "only_first": 28,
+    "only_second": 5,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rerank_als_with_profile",
+    "lang": "en",
+    "protocol": "sampled",
+    "versus": "rerank_als",
+    "n": 100,
+    "hits_first": 51,
+    "hits_second": 57,
+    "difference": -6,
+    "only_first": 3,
+    "only_second": 9,
+    "p_sign": 0.146
+  },
+  {
+    "method": "rerank_als_with_profile",
+    "lang": "cs",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 48,
+    "hits_second": 28,
+    "difference": 20,
+    "only_first": 24,
+    "only_second": 4,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rerank_als_with_profile",
+    "lang": "cs",
+    "protocol": "sampled",
+    "versus": "rerank_als",
+    "n": 100,
+    "hits_first": 48,
+    "hits_second": 54,
+    "difference": -6,
+    "only_first": 2,
+    "only_second": 8,
+    "p_sign": 0.109
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "contact_id": 361,
+  "reviewer_id": "A1F50KG7O9A0JD",
+  "group": "C",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 20,
+  "reviews_used": 15,
+  "prompt_chars": 9803,
+  "status": "ok",
+  "seconds": 479.48,
+  "error": "",
+  "profile": {
+    "O": 4.45,
+    "C": 4.3,
+    "E": 3.6,
+    "A": 3.2,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "I'm a serious gadget junkie. I have more mp3 players than I care to admit - iPod, iRiver, even a Rio. You name a player, I probably have it.",
+      "C": "But I never, ever, do short reviews... So here's the long story. Grab a cup of coffee, as this review answers questions you never knew existed.",
+      "E": "I have to admit that there have been few items that have captured and kept my enthusiasm for as long as the iPod Touch.",
+      "A": "The consumer-hostile atrocity that some studios force on their customers hits people outside of the US (US = region 1) especially hard.",
+      "N": "Each interaction with the 10 is a fight: you against the an unforgiving, unhelpful and sometimes do"
+    }
+  },
+  "raw": {
+    "A": 3.2,
+    "C": 4.3,
+    "E": 3.6,
+    "N": 3.1,
+    "O": 4.45,
+    "evidence_quotes": {
+      "A": "The consumer-hostile atrocity that some studios force on their customers hits people outside of the US (US = region 1) especially hard.",
+      "C": "But I never, ever, do short reviews... So here's the long story. Grab a cup of coffee, as this review answers questions you never knew existed.",
+      "E": "I have to admit that there have been few items that have captured and kept my enthusiasm for as long as the iPod Touch.",
+      "N": "Each interaction with the 10 is a fight: you against the an unforgiving, unhelpful and sometimes do",
+      "O": "I'm a serious gadget junkie. I have more mp3 players than I care to admit - iPod, iRiver, even a Rio. You name a player, I probably have it."
+    }
+  }
+}

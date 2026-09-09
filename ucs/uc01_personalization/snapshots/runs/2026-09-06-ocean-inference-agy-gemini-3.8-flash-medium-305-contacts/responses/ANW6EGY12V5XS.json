@@ -1,0 +1,40 @@
+{
+  "contact_id": 135,
+  "reviewer_id": "ANW6EGY12V5XS",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 129,
+  "reviews_used": 15,
+  "prompt_chars": 9607,
+  "status": "ok",
+  "seconds": 491.11,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.05,
+    "A": 3.75,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "It aroused my curiosity, especially when it was said that these new headphones were better than my all-time favorites, the AKG-Q701.",
+      "C": "I made sure to give it a fair burn-in time so for a week, I did let it run almost constantly",
+      "E": "I was immediately enthusiastic about them and the reviews I read of them were raving",
+      "A": "I am not going to list all the specs like so many others have done. I will just try to answer a few points.",
+      "N": "Second, I received it loose in a box which made me fear the worst since Hard Drives are considered pretty fragile."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.15,
+    "E": 3.05,
+    "N": 2.75,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I am not going to list all the specs like so many others have done. I will just try to answer a few points.",
+      "C": "I made sure to give it a fair burn-in time so for a week, I did let it run almost constantly",
+      "E": "I was immediately enthusiastic about them and the reviews I read of them were raving",
+      "N": "Second, I received it loose in a box which made me fear the worst since Hard Drives are considered pretty fragile.",
+      "O": "It aroused my curiosity, especially when it was said that these new headphones were better than my all-time favorites, the AKG-Q701."
+    }
+  }
+}

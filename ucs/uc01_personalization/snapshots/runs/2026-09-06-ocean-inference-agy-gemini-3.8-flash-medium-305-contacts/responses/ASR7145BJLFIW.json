@@ -1,0 +1,40 @@
+{
+  "contact_id": 410,
+  "reviewer_id": "ASR7145BJLFIW",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 44,
+  "reviews_used": 15,
+  "prompt_chars": 10310,
+  "status": "ok",
+  "seconds": 1405.88,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.1,
+    "E": 3.45,
+    "A": 4.05,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I'm fluent in technology and am very much at home building my own computers, setting up networks, etc.",
+      "C": "I used to go through a routine of disconnecting the AC adapter, unplugging the network cable, disconnecting my secondary monitor, disconnecting my mouse",
+      "E": "I'm a bit of a networking guru (as deemed by friends, family, and coworkers)",
+      "A": "My friend wanted a UDMA memory card for his new Nikon D700 so I ordered the Sandisk Extreme using Amazon Prime.",
+      "N": "Overall, I think the XPS12 is a highly-usable device with first-class design and build-quality, though in the factory state, it's somewhat let down by the software."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.1,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "My friend wanted a UDMA memory card for his new Nikon D700 so I ordered the Sandisk Extreme using Amazon Prime.",
+      "C": "I used to go through a routine of disconnecting the AC adapter, unplugging the network cable, disconnecting my secondary monitor, disconnecting my mouse",
+      "E": "I'm a bit of a networking guru (as deemed by friends, family, and coworkers)",
+      "N": "Overall, I think the XPS12 is a highly-usable device with first-class design and build-quality, though in the factory state, it's somewhat let down by the software.",
+      "O": "I'm fluent in technology and am very much at home building my own computers, setting up networks, etc."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 89,
+  "reviewer_id": "A1X1CEGHTHMBL1",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 160,
+  "reviews_used": 15,
+  "prompt_chars": 10244,
+  "status": "ok",
+  "seconds": 297.49,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.45,
+    "E": 3.55,
+    "A": 4.15,
+    "N": 2.65,
+    "evidence_quotes": {
+      "O": "the iPad is designed like a piece of art and I didn't want to scratch or damage it.",
+      "C": "I chose this chip over the 3960X as it is about $450 cheaper but only about 2% difference in performance.",
+      "E": "My video covers the speaker's features and it goes through the setup and operation of using it. I even play music under water.",
+      "A": "I usually have several of these powers supplies sitting in my inventory of computer parts to help out friends.",
+      "N": "I have to tell you I was nervous holding the iPad without a case."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.45,
+    "E": 3.55,
+    "N": 2.65,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I usually have several of these powers supplies sitting in my inventory of computer parts to help out friends.",
+      "C": "I chose this chip over the 3960X as it is about $450 cheaper but only about 2% difference in performance.",
+      "E": "My video covers the speaker's features and it goes through the setup and operation of using it. I even play music under water.",
+      "N": "I have to tell you I was nervous holding the iPad without a case.",
+      "O": "the iPad is designed like a piece of art and I didn't want to scratch or damage it."
+    }
+  }
+}

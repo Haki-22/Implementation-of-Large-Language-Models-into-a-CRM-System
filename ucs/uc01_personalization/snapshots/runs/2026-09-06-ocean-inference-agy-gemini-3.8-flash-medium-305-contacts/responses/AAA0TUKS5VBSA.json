@@ -1,0 +1,40 @@
+{
+  "contact_id": 223,
+  "reviewer_id": "AAA0TUKS5VBSA",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9632,
+  "status": "ok",
+  "seconds": 821.53,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 2.65,
+    "A": 3.85,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I am comforted by the knowledge that it is accomplishing high-end science, and perhaps professional tools simply shouldn't be pretty.",
+      "C": "Make sure to head over to the Garmin website and look at your area of interest's coverage map prior to purchasing.",
+      "E": "I decided to put a PC in my kitchen, which probably tells you that I am not married.",
+      "A": "There are as many opinions about mice as there are hands to fit them, so it is always a bit tricky to review them.",
+      "N": "The reception is good in my area and really I can think of nothing negative to say about it."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.1,
+    "E": 2.65,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "There are as many opinions about mice as there are hands to fit them, so it is always a bit tricky to review them.",
+      "C": "Make sure to head over to the Garmin website and look at your area of interest's coverage map prior to purchasing.",
+      "E": "I decided to put a PC in my kitchen, which probably tells you that I am not married.",
+      "N": "The reception is good in my area and really I can think of nothing negative to say about it.",
+      "O": "I am comforted by the knowledge that it is accomplishing high-end science, and perhaps professional tools simply shouldn't be pretty."
+    }
+  }
+}

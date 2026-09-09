@@ -1,0 +1,18 @@
+{
+    "_note": "Copy the uc03 block into your MCP host's configuration. Replace <project_root> with the absolute path of the thesis directory and <python> with the project virtualenv interpreter. UC03_SECURITY is open | masked | strict.",
+    "mcpServers": {
+        "uc03": {
+            "command": "<python>",
+            "args": ["-m", "ucs.uc03_mcp_privacy.server"],
+            "cwd": "<project_root>",
+            "env": {
+                "PYTHONPATH": "<project_root>",
+                "UC03_SECURITY": "strict",
+                "UC03_MANIFEST_STRICT": "1",
+                "UC03_AUDIT_PATH": "<project_root>/ucs/uc03_mcp_privacy/.runtime/host/audit.jsonl",
+                "UC03_SESSION_MAP": "<project_root>/ucs/uc03_mcp_privacy/.runtime/host/session-map.json",
+                "UC03_AUTHOR": "llm:host"
+            }
+        }
+    }
+}

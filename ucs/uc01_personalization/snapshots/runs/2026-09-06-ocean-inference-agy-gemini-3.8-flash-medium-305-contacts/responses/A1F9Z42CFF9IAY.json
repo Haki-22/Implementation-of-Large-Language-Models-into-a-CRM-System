@@ -1,0 +1,40 @@
+{
+  "contact_id": 47,
+  "reviewer_id": "A1F9Z42CFF9IAY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 192,
+  "reviews_used": 15,
+  "prompt_chars": 9512,
+  "status": "ok",
+  "seconds": 142.76,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.15,
+    "E": 3.4,
+    "A": 3.85,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I shoot a lot of images where I want the out of focus areas (bokeh) to be glassy smooth and creamy",
+      "C": "I can recommend this DVD player after doing a lot of research and also trying out a few other models.",
+      "E": "For me, a point and shoot camera should be small and light so that it can conveniently go with me everywhere.",
+      "A": "Patagonia uses environmentally friendly materials, donates 1% of profits to good causes and offers a satisfaction guarantee on their products as well.",
+      "N": "it can be corrected in software however it can be a hassle."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.15,
+    "E": 3.4,
+    "N": 2.35,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "Patagonia uses environmentally friendly materials, donates 1% of profits to good causes and offers a satisfaction guarantee on their products as well.",
+      "C": "I can recommend this DVD player after doing a lot of research and also trying out a few other models.",
+      "E": "For me, a point and shoot camera should be small and light so that it can conveniently go with me everywhere.",
+      "N": "it can be corrected in software however it can be a hassle.",
+      "O": "I shoot a lot of images where I want the out of focus areas (bokeh) to be glassy smooth and creamy"
+    }
+  }
+}

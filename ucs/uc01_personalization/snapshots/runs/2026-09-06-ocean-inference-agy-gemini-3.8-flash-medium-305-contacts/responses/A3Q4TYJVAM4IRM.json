@@ -1,0 +1,40 @@
+{
+  "contact_id": 160,
+  "reviewer_id": "A3Q4TYJVAM4IRM",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 121,
+  "reviews_used": 15,
+  "prompt_chars": 9743,
+  "status": "ok",
+  "seconds": 585.64,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.45,
+    "E": 2.8,
+    "A": 3.6,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "I'm a technology junkie, and run networks professionally, so I've had home LANs for years.",
+      "C": "After several failed desktop gig switches, and reading dozens of user reviews, I picked this model as a combination of reliability and low-price.",
+      "E": "Even so, I'll take that possibility over yet another noisy fan in my office.",
+      "A": "I've owned many models of Elph, this is my 6th or 7th, so my review is aimed especially at other serial Canon owners.",
+      "N": "Whenever a new version of a favorite product is released, I always worry that it won't be as good as the last, that I'll be disappointed in some way."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.45,
+    "E": 2.8,
+    "N": 2.75,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I've owned many models of Elph, this is my 6th or 7th, so my review is aimed especially at other serial Canon owners.",
+      "C": "After several failed desktop gig switches, and reading dozens of user reviews, I picked this model as a combination of reliability and low-price.",
+      "E": "Even so, I'll take that possibility over yet another noisy fan in my office.",
+      "N": "Whenever a new version of a favorite product is released, I always worry that it won't be as good as the last, that I'll be disappointed in some way.",
+      "O": "I'm a technology junkie, and run networks professionally, so I've had home LANs for years."
+    }
+  }
+}

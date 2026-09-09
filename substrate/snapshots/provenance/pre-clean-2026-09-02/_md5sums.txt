@@ -1,0 +1,6 @@
+44c042b073fb31f0a3e447afde0fd778  amazon-catalog-en.json
+4fe8e8730a245e5c7444e63c5ccf8c45  amazon-original-en.json
+18f8fd31e3ec01580f7679510738dacb  amazon-translated-cz.json
+f6fd65b1a693270114dc6e26e5547edf  english-amazon.json
+bb14ebf127cd39cb2f63956990ca6dbe  uc01-contacts-english-mapped-snapshot.json
+1515e291b274673247fa36e34a70f7f6  english-items.sent-to-translator.jsonl

@@ -1,0 +1,40 @@
+{
+  "contact_id": 337,
+  "reviewer_id": "A33775AIB1A664",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 68,
+  "reviews_used": 15,
+  "prompt_chars": 9968,
+  "status": "ok",
+  "seconds": 405.01,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.65,
+    "E": 2.85,
+    "A": 3.65,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I decided to get it because of the range of sensors and output devices it includes - most of which are not present in my parts bins",
+      "C": "Also, the rated frequency response is 10-20k, not 16-23k. I think this is (or was) an Amazon editorial error.",
+      "E": "My interest for this product is as a solution to listening to music, lectures, and movies while travelling, and I travel a lot.",
+      "A": "A discussion in the comments has convinced me that the optional adapters may indeed make a difference for transferring very large files, such as video",
+      "N": "As with any new technology, there are problems; these will be worked out as the technology matures."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.65,
+    "E": 2.85,
+    "N": 2.15,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "A discussion in the comments has convinced me that the optional adapters may indeed make a difference for transferring very large files, such as video",
+      "C": "Also, the rated frequency response is 10-20k, not 16-23k. I think this is (or was) an Amazon editorial error.",
+      "E": "My interest for this product is as a solution to listening to music, lectures, and movies while travelling, and I travel a lot.",
+      "N": "As with any new technology, there are problems; these will be worked out as the technology matures.",
+      "O": "I decided to get it because of the range of sensors and output devices it includes - most of which are not present in my parts bins"
+    }
+  }
+}

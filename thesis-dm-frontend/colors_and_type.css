@@ -1,0 +1,168 @@
+/* ============================================================
+   AURI — Design Tokens
+   Apple-clean · glass · warm orange (#f58020)
+   For: "Implementace Large Language Modelů do CRM systému"
+   ============================================================ */
+
+:root {
+  /* ---------- BRAND / ACCENT (orange) ---------- */
+  --orange-50:  #fff4ec;
+  --orange-100: #ffe4d1;
+  --orange-200: #ffc8a3;
+  --orange-250: #ffb787;  /* working range starts here */
+  --orange-300: #ffa56b;
+  --orange-350: #fd9a57;
+  --orange-400: #fa8e44;
+  --orange-450: #f88732;
+  --orange-500: #f58020;  /* primary accent */
+  --orange-550: #ea7618;
+  --orange-600: #e06d10;
+  --orange-650: #cd6310;
+  --orange-700: #b9560b;  /* working range ends here */
+  --orange-800: #934310;
+  --orange-900: #763811;
+
+  --accent:        var(--orange-500);
+  --accent-hover:  var(--orange-600);
+  --accent-press:  var(--orange-700);
+  --accent-soft:   var(--orange-50);
+  --accent-ring:   color-mix(in srgb, var(--orange-500) 38%, transparent);
+
+  /* ---------- NEUTRALS (orange-tinted warm gray — carries the #f58020 hue) ---------- */
+  --gray-0:   #ffffff;
+  --gray-25:  #fdfbf8;
+  --gray-50:  #f8f5f0;
+  --gray-100: #f1ece4;
+  --gray-150: #e9e1d6;
+  --gray-200: #ddd3c5;
+  --gray-300: #c7bba8;
+  --gray-400: #a89a85;
+  --gray-500: #877a66;
+  --gray-600: #685c4b;
+  --gray-700: #4d4338;
+  --gray-800: #342c23;
+  --gray-900: #1f1810;
+  --gray-950: #110d08;
+
+  /* ---------- SURFACES & BACKGROUNDS ---------- */
+  --bg-app:      #f6f4f1;   /* warm canvas behind everything */
+  --bg-elevated: #ffffff;   /* cards, sheets */
+  --bg-sunken:   #efece7;   /* wells, input tracks */
+  --bg-tint:     #fbf8f4;   /* faint warm panel */
+
+  /* Glass — translucent surfaces meant to sit over blurred backdrops */
+  --glass-bg:        rgba(255, 255, 255, 0.62);
+  --glass-bg-strong: rgba(255, 255, 255, 0.78);
+  --glass-bg-thin:   rgba(255, 255, 255, 0.42);
+  --glass-border:    rgba(255, 255, 255, 0.7);
+  --glass-stroke:    rgba(28, 26, 24, 0.06);  /* hairline on light glass */
+  --glass-blur:      20px;
+  --glass-blur-lg:   40px;
+
+  /* ---------- TEXT ---------- */
+  --fg1: var(--gray-900);   /* primary text / titles */
+  --fg2: var(--gray-700);   /* body */
+  --fg3: var(--gray-500);   /* secondary / captions */
+  --fg4: var(--gray-400);   /* placeholder / disabled */
+  --fg-on-accent: #ffffff;
+  --fg-accent: var(--orange-600);
+
+  /* ---------- BORDERS / HAIRLINES ---------- */
+  --border:        var(--gray-150);
+  --border-strong: var(--gray-200);
+  --border-faint:  var(--gray-100);
+  --hairline:      rgba(28, 26, 24, 0.08);
+
+  /* ---------- SEMANTIC (Apple system colors) ---------- */
+  --success:    #34c759;  /* systemGreen */
+  --success-bg: #e6f9ec;
+  --warning:    #ff9500;  /* systemOrange */
+  --warning-bg: #fff1de;
+  --danger:     #ff3b30;  /* systemRed */
+  --danger-bg:  #ffe8e6;
+  --info:       #007aff;  /* systemBlue */
+  --info-bg:    #e4f0ff;
+
+  /* ---------- RADII ---------- */
+  --r-xs:  6px;
+  --r-sm:  10px;
+  --r-md:  14px;
+  --r-lg:  20px;
+  --r-xl:  28px;
+  --r-2xl: 36px;
+  --r-pill: 999px;
+  --r-card: var(--r-lg);
+
+  /* ---------- SPACING (4pt base) ---------- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+
+  /* ---------- ELEVATION / SHADOWS (soft, diffuse, Apple-like) ---------- */
+  --shadow-xs:  0 1px 2px rgba(28, 26, 24, 0.05);
+  --shadow-sm:  0 1px 3px rgba(28, 26, 24, 0.06), 0 1px 2px rgba(28, 26, 24, 0.04);
+  --shadow-md:  0 4px 12px rgba(28, 26, 24, 0.07), 0 2px 4px rgba(28, 26, 24, 0.04);
+  --shadow-lg:  0 12px 32px rgba(28, 26, 24, 0.10), 0 4px 10px rgba(28, 26, 24, 0.05);
+  --shadow-xl:  0 24px 60px rgba(28, 26, 24, 0.14), 0 8px 20px rgba(28, 26, 24, 0.06);
+  --shadow-glass: 0 8px 32px rgba(28, 26, 24, 0.10), inset 0 1px 0 rgba(255,255,255,0.6);
+  --shadow-accent: 0 6px 18px color-mix(in srgb, var(--orange-500) 35%, transparent);
+
+  /* ---------- TYPOGRAPHY ---------- */
+  /* Primary: system stack → renders as SF Pro on Apple devices (intentional).
+     See README "Font substitution" note. */
+  --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text",
+               "Helvetica Neue", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "SF Mono", ui-monospace, "JetBrains Mono", Menlo, Consolas, monospace;
+
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* Type scale (px / line-height / tracking) */
+  --t-display: 600 44px/1.08 var(--font-sans);
+  --t-h1: 600 32px/1.14 var(--font-sans);
+  --t-h2: 600 24px/1.2 var(--font-sans);
+  --t-h3: 600 19px/1.28 var(--font-sans);
+  --t-body-lg: 400 17px/1.5 var(--font-sans);
+  --t-body: 400 15px/1.55 var(--font-sans);
+  --t-small: 400 13px/1.45 var(--font-sans);
+  --t-caption: 500 11px/1.3 var(--font-sans);
+  --t-mono: 400 13px/1.5 var(--font-mono);
+
+  --track-tight: -0.02em;
+  --track-snug: -0.01em;
+  --track-normal: 0;
+  --track-wide: 0.04em;
+
+  /* ---------- MOTION ---------- */
+  --ease-standard: cubic-bezier(0.4, 0.0, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);     /* gentle Apple deceleration */
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1); /* subtle overshoot */
+  --dur-fast: 120ms;
+  --dur-base: 200ms;
+  --dur-slow: 360ms;
+}
+
+/* ============================================================
+   SEMANTIC ELEMENT DEFAULTS — opt in by importing this file
+   ============================================================ */
+
+.auri-display { font: var(--t-display); letter-spacing: var(--track-tight); color: var(--fg1); }
+.auri-h1 { font: var(--t-h1); letter-spacing: var(--track-tight); color: var(--fg1); }
+.auri-h2 { font: var(--t-h2); letter-spacing: var(--track-snug); color: var(--fg1); }
+.auri-h3 { font: var(--t-h3); letter-spacing: var(--track-snug); color: var(--fg1); }
+.auri-body-lg { font: var(--t-body-lg); color: var(--fg2); }
+.auri-body { font: var(--t-body); color: var(--fg2); }
+.auri-small { font: var(--t-small); color: var(--fg3); }
+.auri-caption { font: var(--t-caption); letter-spacing: var(--track-wide); text-transform: uppercase; color: var(--fg3); }
+.auri-mono { font: var(--t-mono); color: var(--fg2); }
+.auri-link { color: var(--fg-accent); text-decoration: none; }
+.auri-link:hover { text-decoration: underline; }

@@ -1,0 +1,61 @@
+run,regime,protocol,arm,title,branch,customers,hits_top5,hits_top10,hr_top10,ci95_low,ci95_high,ndcg10,mrr10,hidden_in_top30,hidden_in_top200,seconds
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,adamic_adar,Adamic-Adar link prediction,cs,425,1,3,0.0071,0.0024,0.0205,0.0025,0.0012,10,53,4.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,adamic_adar,Adamic-Adar link prediction,cs,425,114,154,0.3624,0.3181,0.4091,0.2192,0.1748,,,4.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,adamic_adar,Adamic-Adar link prediction,en,425,1,3,0.0071,0.0024,0.0205,0.0025,0.0012,10,53,4.4
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,adamic_adar,Adamic-Adar link prediction,en,425,114,154,0.3624,0.3181,0.4091,0.2192,0.1748,,,4.4
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,als_cf,ALS collaborative filtering,cs,425,3,6,0.0141,0.0065,0.0305,0.0056,0.0031,12,45,0.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,als_cf,ALS collaborative filtering,cs,425,90,119,0.28,0.2394,0.3245,0.1672,0.1322,,,0.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,als_cf,ALS collaborative filtering,en,425,3,6,0.0141,0.0065,0.0305,0.0056,0.0031,12,45,0.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,als_cf,ALS collaborative filtering,en,425,90,119,0.28,0.2394,0.3245,0.1672,0.1322,,,0.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,apriori_rules,Apriori association rules,cs,425,2,5,0.0118,0.005,0.0272,0.0048,0.0028,14,48,2.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,apriori_rules,Apriori association rules,cs,425,88,110,0.2588,0.2195,0.3025,0.171,0.1436,,,2.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,apriori_rules,Apriori association rules,en,425,2,5,0.0118,0.005,0.0272,0.0048,0.0028,14,48,3.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,apriori_rules,Apriori association rules,en,425,88,110,0.2588,0.2195,0.3025,0.171,0.1436,,,3.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,bert_encoder,BERT encoders as recommenders,cs,425,0,1,0.0024,0.0004,0.0132,0.0007,0.0003,1,4,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,bert_encoder,BERT encoders as recommenders,cs,425,23,46,0.1082,0.0821,0.1414,0.0485,0.0307,,,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,bert_encoder,BERT encoders as recommenders,en,425,0,1,0.0024,0.0004,0.0132,0.0008,0.0004,2,19,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,bert_encoder,BERT encoders as recommenders,en,425,57,94,0.2212,0.1843,0.263,0.1185,0.0873,,,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,bm25_text,BM25 keyword search,cs,425,1,2,0.0047,0.0013,0.017,0.0023,0.0015,4,14,90.7
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,bm25_text,BM25 keyword search,cs,425,45,75,0.1765,0.1432,0.2156,0.0876,0.0608,,,90.7
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,bm25_text,BM25 keyword search,en,425,1,1,0.0024,0.0004,0.0132,0.0012,0.0008,2,13,160.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,bm25_text,BM25 keyword search,en,425,33,57,0.1341,0.105,0.1698,0.0707,0.0517,,,160.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,dense_e5,Dense multilingual retrieval (e5),cs,425,0,2,0.0047,0.0013,0.017,0.0015,0.0006,4,20,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,dense_e5,Dense multilingual retrieval (e5),cs,425,63,110,0.2588,0.2195,0.3025,0.133,0.0955,,,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,dense_e5,Dense multilingual retrieval (e5),en,425,1,4,0.0094,0.0037,0.0239,0.0037,0.002,7,26,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,dense_e5,Dense multilingual retrieval (e5),en,425,77,131,0.3082,0.2662,0.3537,0.1561,0.1107,,,0.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,hybrid_als_dense,ALS + dense hybrid,cs,425,5,7,0.0165,0.008,0.0336,0.0084,0.0059,13,35,0.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,hybrid_als_dense,ALS + dense hybrid,cs,425,90,128,0.3012,0.2595,0.3464,0.1704,0.1307,,,0.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,hybrid_als_dense,ALS + dense hybrid,en,425,4,8,0.0188,0.0096,0.0367,0.0083,0.0053,19,36,0.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,hybrid_als_dense,ALS + dense hybrid,en,425,98,148,0.3482,0.3045,0.3947,0.1931,0.1461,,,0.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,lightgbm_features,LightGBM on engineered features,cs,425,0,3,0.0071,0.0024,0.0205,0.0022,0.0009,5,21,8.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,lightgbm_features,LightGBM on engineered features,cs,425,88,145,0.3412,0.2977,0.3875,0.1656,0.1124,,,8.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,lightgbm_features,LightGBM on engineered features,en,425,0,3,0.0071,0.0024,0.0205,0.0022,0.0009,5,21,8.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,lightgbm_features,LightGBM on engineered features,en,425,88,145,0.3412,0.2977,0.3875,0.1656,0.1124,,,8.5
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,naive_bayes,Naive Bayes over the purchase history,cs,425,2,4,0.0094,0.0037,0.0239,0.0039,0.0023,10,40,5.7
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,naive_bayes,Naive Bayes over the purchase history,cs,425,69,91,0.2141,0.1778,0.2556,0.1388,0.1157,,,5.7
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,naive_bayes,Naive Bayes over the purchase history,en,425,2,4,0.0094,0.0037,0.0239,0.0039,0.0023,10,40,5.7
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,naive_bayes,Naive Bayes over the purchase history,en,425,69,91,0.2141,0.1778,0.2556,0.1388,0.1157,,,5.7
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,popularity,Most-bought products,cs,425,1,1,0.0024,0.0004,0.0132,0.0009,0.0005,5,33,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,popularity,Most-bought products,cs,425,88,125,0.2941,0.2528,0.3391,0.1647,0.125,,,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,popularity,Most-bought products,en,425,1,1,0.0024,0.0004,0.0132,0.0009,0.0005,5,33,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,popularity,Most-bought products,en,425,88,125,0.2941,0.2528,0.3391,0.1647,0.125,,,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,svd_mf,SVD matrix factorisation,cs,425,4,6,0.0141,0.0065,0.0305,0.0079,0.006,16,48,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,svd_mf,SVD matrix factorisation,cs,425,89,125,0.2941,0.2528,0.3391,0.1836,0.15,,,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,svd_mf,SVD matrix factorisation,en,425,4,6,0.0141,0.0065,0.0305,0.0079,0.006,16,48,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,svd_mf,SVD matrix factorisation,en,425,89,125,0.2941,0.2528,0.3391,0.1836,0.15,,,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,svm_features,Linear SVM on engineered features,cs,425,0,1,0.0024,0.0004,0.0132,0.0007,0.0003,3,12,3.4
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,svm_features,Linear SVM on engineered features,cs,425,37,65,0.1529,0.1218,0.1903,0.076,0.053,,,3.4
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,full,svm_features,Linear SVM on engineered features,en,425,0,1,0.0024,0.0004,0.0132,0.0007,0.0003,3,12,3.3
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,crm,sampled,svm_features,Linear SVM on engineered features,en,425,37,65,0.1529,0.1218,0.1903,0.076,0.053,,,3.3
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,full,als_cf,ALS collaborative filtering,cs,425,3,3,0.0071,0.0024,0.0205,0.0036,0.0024,7,50,5.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,sampled,als_cf,ALS collaborative filtering,cs,425,120,182,0.4282,0.382,0.4757,0.2309,0.1709,,,5.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,full,als_cf,ALS collaborative filtering,en,425,3,3,0.0071,0.0024,0.0205,0.0036,0.0024,7,50,5.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,sampled,als_cf,ALS collaborative filtering,en,425,120,182,0.4282,0.382,0.4757,0.2309,0.1709,,,5.6
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,full,popularity,Most-bought products,cs,425,1,1,0.0024,0.0004,0.0132,0.0024,0.0024,2,18,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,sampled,popularity,Most-bought products,cs,425,36,50,0.1176,0.0904,0.1518,0.0718,0.0577,,,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,full,popularity,Most-bought products,en,425,1,1,0.0024,0.0004,0.0132,0.0024,0.0024,2,18,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,sampled,popularity,Most-bought products,en,425,36,50,0.1176,0.0904,0.1518,0.0718,0.0577,,,0.0
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,full,svd_mf,SVD matrix factorisation,cs,425,0,1,0.0024,0.0004,0.0132,0.0008,0.0004,5,42,1.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,sampled,svd_mf,SVD matrix factorisation,cs,425,111,157,0.3694,0.3249,0.4163,0.2083,0.1589,,,1.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,full,svd_mf,SVD matrix factorisation,en,425,0,1,0.0024,0.0004,0.0132,0.0008,0.0004,5,42,1.1
+2026-09-07-arena-crm-population-12-arms-en-cs-425-customers,population,sampled,svd_mf,SVD matrix factorisation,en,425,111,157,0.3694,0.3249,0.4163,0.2083,0.1589,,,1.1

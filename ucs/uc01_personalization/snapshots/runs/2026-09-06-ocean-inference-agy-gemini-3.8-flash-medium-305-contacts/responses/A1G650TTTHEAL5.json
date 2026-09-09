@@ -1,0 +1,40 @@
+{
+  "contact_id": 250,
+  "reviewer_id": "A1G650TTTHEAL5",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 10448,
+  "status": "ok",
+  "seconds": 933.36,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.6,
+    "E": 3.45,
+    "A": 3.85,
+    "N": 2.65,
+    "evidence_quotes": {
+      "O": "Sound is a way of life. We hear music to express ourselves, whether mad, happy, angry, or sad.",
+      "C": "The device is small and lightweight (6.75” x 2.125” x 0.74”; 4 ounces), as expected for a remote.",
+      "E": "This is the best Bluetooth receiver concept available! A must buy for audiophiles!",
+      "A": "suit the common person who want to change their songs without fumbling with their smart device.",
+      "N": "This leads to a frustrating experience when you are in a hotel with \"internet\" but can't connect to it because the connection is wired."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.6,
+    "E": 3.45,
+    "N": 2.65,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "suit the common person who want to change their songs without fumbling with their smart device.",
+      "C": "The device is small and lightweight (6.75” x 2.125” x 0.74”; 4 ounces), as expected for a remote.",
+      "E": "This is the best Bluetooth receiver concept available! A must buy for audiophiles!",
+      "N": "This leads to a frustrating experience when you are in a hotel with \"internet\" but can't connect to it because the connection is wired.",
+      "O": "Sound is a way of life. We hear music to express ourselves, whether mad, happy, angry, or sad."
+    }
+  }
+}

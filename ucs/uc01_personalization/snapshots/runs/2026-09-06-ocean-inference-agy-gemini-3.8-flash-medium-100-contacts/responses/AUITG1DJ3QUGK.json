@@ -1,0 +1,40 @@
+{
+  "contact_id": 302,
+  "reviewer_id": "AUITG1DJ3QUGK",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 82,
+  "reviews_used": 15,
+  "prompt_chars": 9647,
+  "status": "ok",
+  "seconds": 245.84,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 2.95,
+    "A": 3.8,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "sitting over a 2000 degree torch melting glass in a semi-enclosed outdoor studio",
+      "C": "The second time around I was very cautious and read dozens of reviews before purchasing this machine.",
+      "E": "My enthusiasm for a device is hard won.",
+      "A": "This could be a plus or minus, depending on what you are looking for.",
+      "N": "just to have a back up set in case anything untowards happens to one of the others and they become unavailable (I hope they don't)."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.2,
+    "E": 2.95,
+    "N": 2.75,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "This could be a plus or minus, depending on what you are looking for.",
+      "C": "The second time around I was very cautious and read dozens of reviews before purchasing this machine.",
+      "E": "My enthusiasm for a device is hard won.",
+      "N": "just to have a back up set in case anything untowards happens to one of the others and they become unavailable (I hope they don't).",
+      "O": "sitting over a 2000 degree torch melting glass in a semi-enclosed outdoor studio"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contact_id": 336,
+  "status": "ok",
+  "seconds": 4.36,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Pouzdro nebo chytrý kryt pro Apple iPad Mini 1. generace",
+      "Apple Lightning kabel USB pro iPad Mini",
+      "Ochranná fólie na displej pro Apple iPad Mini 7,9 palce"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-336 (anonymizováno). Názvy produktů česky.\nNákupní historie (19 nákupů, od nejstaršího):\n- 2010-01-15 ★5 Apex MI-100 4BAY stolní počítač, černo/stříbrná, 250W ATX12V, Mitx\n- 2010-01-15 ★3 Základní deska Zotac IONITX-A-U Atom N330 s dvoujádrovým procesorem, 90 W, WiFi, ITX, Intel\n- 2010-01-15 ★3 Základní deska Zotac IONITX-D-E Atom N330 s dvoujádrovým procesorem, WiFi a procesorem ITX od Intelu\n- 2010-01-15 ★5 Základní deska ZOTAC Atom Dual-Core 1,6 GHz MCP7A-ION HDMI A&V&GbE Mini ITX - IONITX-F-E\n- 2010-01-18 ★2 Vnitřní anténa D-Link ANT24-0230 Xtreme N 2,4 GHz\n- 2010-02-13 ★3 Intel Core i7 Processor i7-920 2.66GHz 8 MB LGA1366 CPU BX80601920\n- 2010-02-13 ★5 Procesor Intel Core i7-950 3,06 GHz, 8 MB mezipaměti, patice LGA1366\n- 2010-03-06 ★3 Stolní počítač Acer AspireRevo AR3610-U9022 (tmavě modrý)\n- 2010-03-06 ★3 Zotac MAG Intel Atom N330, NVIDIA ION, 2 GB DDR2, 160 GB HD, eSATA, HDMI HD-ND01-U Mini PC - Bez OS\n- 2010-03-16 ★4 Netbook Dell Inspiron Mini 10V\n- 2010-03-16 ★5 Dell Inspiron iM1012-687OBK 10.1-Inch Netbook (Obsidian Black)\n- 2010-03-20 ★3 Nettop Acer Aspire Revo 3610\n- 2010-03-22 ★3 Procesor Intel Core i7 965 3,2 GHz, 8 MB L3 Cache, 6,4 GT/s, QPI Hyper-Threading, Turbo Boost, LGA1366 Extreme\n- 2010-04-16 ★3 Tablet Apple iPad (první generace) MB292LL/A (16 GB, Wi-Fi)\n- 2010-09-07 ★5 Apple iPod touch 32GB černý (4. generace) (Ukončeno výrobcem)\n- 2010-11-16 ★4 Netbook HP Mini 110-3130NR s úhlopříčkou 10,1 palce (černý)\n- 2011-12-12 ★2 Zálohovací USB flash disk Lexar Echo ZX 16GB LEHZX16GBSBNA\n- 2012-03-16 ★5 Apple iPad MC705LL/A (16 GB, Wi-Fi, černý) 3. generace\n- 2012-12-02 ★5 Apple iPad Mini MD528LL/A (16 GB, Wi-Fi, černý a břidlicový)\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Pouzdro nebo chytrý kryt pro Apple iPad Mini 1. generace",
+      "Apple Lightning kabel USB pro iPad Mini",
+      "Ochranná fólie na displej pro Apple iPad Mini 7,9 palce"
+    ]
+  },
+  "held_out": "B0097BEF1S"
+}

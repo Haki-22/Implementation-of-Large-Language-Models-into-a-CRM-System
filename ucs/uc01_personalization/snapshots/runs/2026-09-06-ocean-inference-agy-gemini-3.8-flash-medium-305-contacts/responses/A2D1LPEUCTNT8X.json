@@ -1,0 +1,40 @@
+{
+  "contact_id": 53,
+  "reviewer_id": "A2D1LPEUCTNT8X",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 10184,
+  "status": "ok",
+  "seconds": 157.35,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.65,
+    "E": 3.1,
+    "A": 4.05,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I found bass as well as high frequencies to be very good listening to classical music.",
+      "C": "Amazon description does not specify the amps, but I looked up the specs for the model number on the Samsung web site before purchasing this recharger.",
+      "E": "I work in a noisy cube environment and have several over the ear headphones to block out a noise.",
+      "A": "To help you determine if they are a good fit for your head I am including detailed measurements of the headband.",
+      "N": "I was looking forward to receiving this portable TV, but it turned out to be a disappointing purchase."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.65,
+    "E": 3.1,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "To help you determine if they are a good fit for your head I am including detailed measurements of the headband.",
+      "C": "Amazon description does not specify the amps, but I looked up the specs for the model number on the Samsung web site before purchasing this recharger.",
+      "E": "I work in a noisy cube environment and have several over the ear headphones to block out a noise.",
+      "N": "I was looking forward to receiving this portable TV, but it turned out to be a disappointing purchase.",
+      "O": "I found bass as well as high frequencies to be very good listening to classical music."
+    }
+  }
+}

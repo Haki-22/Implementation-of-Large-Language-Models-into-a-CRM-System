@@ -1,0 +1,35 @@
+{
+  "contact_id": 367,
+  "status": "ok",
+  "seconds": 12.9,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Bezdrátová Bluetooth sluchátka přes uši Sony s potlačením hluku",
+      "Sportovní bezdrátová sluchátka do uší s odolností proti potu a háčky za uši",
+      "Přenosná USB powerbanka s kapacitou alespoň 10 000 mAh"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-367 (anonymizováno). Názvy produktů česky.\nNákupní historie (34 nákupů, od nejstaršího):\n- 2002-01-24 ★5 Kapesní počítač PalmOne m125\n- 2002-01-25 ★4 Pružný hledí platinové (stříbrné)\n- 2002-01-28 ★5 Handspring Visor Pro (stříbrný)\n- 2002-02-07 ★5 Tenké kožené pouzdro PalmOne řady m100\n- 2002-02-13 ★5 Kryt čelního panelu PalmOne řady m100 (stříbrná mlha)\n- 2002-02-13 ★5 Přenosná klávesnice PalmOne pro kapesní počítače Palm m100/m105, řady III a VII\n- 2002-04-12 ★5 Kapesní počítač PalmOne m130\n- 2002-11-19 ★4 Barevný kapesní počítač PalmOne m515\n- 2004-02-03 ★5 PalmOne Tungsten T2 Handheld\n- 2004-02-10 ★5 Kapesní počítač PalmOne Tungsten T3\n- 2006-01-16 ★3 PalmOne Zire 71 Handheld\n- 2007-04-03 ★4 Náramkový počítač Suunto Vector s kompasem, výškoměrem a barometrem\n- 2008-01-04 ★4 TREO 700 PALM\n- 2008-01-15 ★5 Sluchátka s potlačením hluku Philips HN060/37 (výrobce ukončil výrobu)\n- 2008-01-30 ★5 SanDisk Sansa Clip 2 GB MP3 přehrávač - modrý\n- 2009-08-21 ★4 Philips SA32 4GB Flash Video MP3 přehrávač s FM rádiem a 1,8palcovým barevným displejem (černý)\n- 2010-06-28 ★3 Přenosný 9palcový digitální televizor Tivax HiRez9\n- 2010-07-20 ★4 Přenosný GPS navigátor TomTom GO 740TM LIVE s 4,3palcovým displejem a Bluetooth (edice Lifetime Traffic & Maps)\n- 2010-07-21 ★4 Přenosný GPS navigátor TomTom XL 350 s 4,3palcovým displejem\n- 2012-01-25 ★5 Bezdrátová klávesnice Motorola\n- 2012-10-09 ★5 Motorola MOTOACTV 8GB GPS sportovní hodinky a MP3 přehrávač s poutkem na zápěstí (výrobce ukončil výrobu)\n- 2012-11-20 ★3 Logitech 982-000072 UE 4000 Headphones - Black (Discontinued by Manufacturer)\n- 2013-01-31 ★5 B004MSQZUU\n- 2013-07-24 ★5 PŘENOSNÁ NABÍJEČKA RAVPower® 5600mAh Externí nabíječka baterií Power Bank s USB, vhodná pro Apple iPad 4, nový iPad, iPa\n- 2013-09-18 ★5 Sluchátka do uší MEElectronics Sport-Fi M6 s izolací hluku a paměťovým drátem (černá)\n- 2013-10-07 ★5 Profesionální sluchátka Sony MDR7506 s velkou membránou\n- 2013-11-03 ★5 Sluchátka Sony MDR-V55/WHI ve stylu DJ\n- 2013-11-15 ★5 Kombinace bezdrátové tenké klávesnice a optické myši Anker® Mini Wireless Slim pro stolní počítače, Windows 8 / 7 / Vist\n- 2013-11-20 ★3 Sluchátka Beats Studio Over-Ear (černá)\n- 2013-12-09 ★2 Sluchátka Yurbuds Ironman Inspire Performance Fit Sport, bílá-10111\n- 2014-04-08 ★4 Philips SHQ1207/28 Sport ActionFit In-Ear Headset pro iPhone/iPod/iPad, oranžová/šedá\n- 2014-04-08 ★4 B00DQZSFSA\n- 2014-04-08 ★3 B00HPM1FZ0\n- 2014-05-06 ★3 Sluchátka do uší Beats urBeats (bílá)\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Bezdrátová Bluetooth sluchátka přes uši Sony s potlačením hluku",
+      "Sportovní bezdrátová sluchátka do uší s odolností proti potu a háčky za uši",
+      "Přenosná USB powerbanka s kapacitou alespoň 10 000 mAh"
+    ]
+  },
+  "held_out": "B00BWHILCY"
+}

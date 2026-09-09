@@ -1,0 +1,40 @@
+{
+  "contact_id": 52,
+  "reviewer_id": "A17V9XL4CWTQ6G",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 10337,
+  "status": "ok",
+  "seconds": 157.66,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.5,
+    "E": 3.75,
+    "A": 4.2,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "A small one for creative shots where I want no background or when I want to morph an object into another background creatively in Phot",
+      "C": "I spend weeks researching before I make a major purchase. It is my own way of always avoiding any buyer's remorse.",
+      "E": "I was shooting a wedding reception for a friend and forgot to recharge before leaving but by the time the wedding was over I grabbed my fully charged unit",
+      "A": "I've realized that the time I spend doing my product comparisons is often time that others don't have so I may as well share what I can.",
+      "N": "It is my own way of always avoiding any buyer's remorse."
+    }
+  },
+  "raw": {
+    "A": 4.2,
+    "C": 4.5,
+    "E": 3.75,
+    "N": 2.45,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I've realized that the time I spend doing my product comparisons is often time that others don't have so I may as well share what I can.",
+      "C": "I spend weeks researching before I make a major purchase. It is my own way of always avoiding any buyer's remorse.",
+      "E": "I was shooting a wedding reception for a friend and forgot to recharge before leaving but by the time the wedding was over I grabbed my fully charged unit",
+      "N": "It is my own way of always avoiding any buyer's remorse.",
+      "O": "A small one for creative shots where I want no background or when I want to morph an object into another background creatively in Phot"
+    }
+  }
+}

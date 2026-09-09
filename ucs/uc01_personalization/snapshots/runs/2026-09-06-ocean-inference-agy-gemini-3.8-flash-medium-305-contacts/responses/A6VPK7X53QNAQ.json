@@ -1,0 +1,40 @@
+{
+  "contact_id": 14,
+  "reviewer_id": "A6VPK7X53QNAQ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 150,
+  "reviews_used": 15,
+  "prompt_chars": 10416,
+  "status": "ok",
+  "seconds": 37.42,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.4,
+    "E": 3.7,
+    "A": 4.0,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "I wanted to use an iPad as a sketch book and the pad like it's name...and go digital rather than filling up notebook after notebook.",
+      "C": "I'll break up my review into convenience, sound quality, features and finally the overall verdict.",
+      "E": "My new shuffle gives me the ultimate coolness factor! The functionality is awesome too.",
+      "A": "There are 2 basic reasons why I like A80 more than A85, but you may decide otherwise:",
+      "N": "I spent more time worrying whether the sand would damage it than taking pics of my family."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 4.4,
+    "E": 3.7,
+    "N": 2.7,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "There are 2 basic reasons why I like A80 more than A85, but you may decide otherwise:",
+      "C": "I'll break up my review into convenience, sound quality, features and finally the overall verdict.",
+      "E": "My new shuffle gives me the ultimate coolness factor! The functionality is awesome too.",
+      "N": "I spent more time worrying whether the sand would damage it than taking pics of my family.",
+      "O": "I wanted to use an iPad as a sketch book and the pad like it's name...and go digital rather than filling up notebook after notebook."
+    }
+  }
+}

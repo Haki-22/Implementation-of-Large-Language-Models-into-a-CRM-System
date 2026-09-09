@@ -1,0 +1,40 @@
+{
+  "contact_id": 57,
+  "reviewer_id": "A1R377IPZOKLMM",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 7930,
+  "status": "ok",
+  "seconds": 20.52,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 3.5,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "I could see halos around gradient objects and artifacts that are not there with my Hauppauage card.",
+      "C": "So I pack one of these babies and an extra network cable - and length is never an issue.",
+      "E": "This is the third I've owned and I am nothing short of thrilled.",
+      "A": "I found this to be a super simple camera to use with full auto settings (so makes a great gift for Mom or Grandma).",
+      "N": "What a ROYAL PAIN! Everytime I have to burn a CD it takes forever."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 3.2,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I found this to be a super simple camera to use with full auto settings (so makes a great gift for Mom or Grandma).",
+      "C": "So I pack one of these babies and an extra network cable - and length is never an issue.",
+      "E": "This is the third I've owned and I am nothing short of thrilled.",
+      "N": "What a ROYAL PAIN! Everytime I have to burn a CD it takes forever.",
+      "O": "I could see halos around gradient objects and artifacts that are not there with my Hauppauage card."
+    }
+  }
+}

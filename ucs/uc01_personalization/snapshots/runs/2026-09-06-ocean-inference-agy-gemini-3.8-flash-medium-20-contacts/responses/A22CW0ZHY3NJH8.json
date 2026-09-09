@@ -1,0 +1,40 @@
+{
+  "contact_id": 2,
+  "reviewer_id": "A22CW0ZHY3NJH8",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 255,
+  "reviews_used": 15,
+  "prompt_chars": 9693,
+  "status": "ok",
+  "seconds": 23.23,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.35,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I now consider myself a collector of camcorders. Still, I demand excellent quality with point and shoot simplicity.",
+      "C": "I had backed up my files from the old drive and then recovered them to this new drive.",
+      "E": "I'm using it right now to write this review, but I pretty much have to wrestle it away from him.",
+      "A": "This receiver is rarely completely functional with USB 3.0 ports, so I usually forgive a hub for glitches.",
+      "N": "There's a lot to like and not much to complain about."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.25,
+    "E": 3.35,
+    "N": 2.3,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "This receiver is rarely completely functional with USB 3.0 ports, so I usually forgive a hub for glitches.",
+      "C": "I had backed up my files from the old drive and then recovered them to this new drive.",
+      "E": "I'm using it right now to write this review, but I pretty much have to wrestle it away from him.",
+      "N": "There's a lot to like and not much to complain about.",
+      "O": "I now consider myself a collector of camcorders. Still, I demand excellent quality with point and shoot simplicity."
+    }
+  }
+}

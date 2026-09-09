@@ -1,0 +1,40 @@
+{
+  "contact_id": 196,
+  "reviewer_id": "A3FPSY1M6G7XIB",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 97,
+  "reviews_used": 15,
+  "prompt_chars": 9365,
+  "status": "ok",
+  "seconds": 736.66,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.65,
+    "A": 3.8,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "Curiously, it maintains the separate setting on the dial for SETTINGS which should be standard for all creative zone options.",
+      "C": "The 18-55 is not only a third of the price, but it is crisper and clearer at 18, and super sharp from 35 - 55.",
+      "E": "And there is nothing better than a 6 ounce lens for carrying to parties, events, and dinners, rather than those pound+ lenses.",
+      "A": "buying for myself as a backup to a dSLR, but also for colleagues and employees.",
+      "N": "I tried this camera this week, and found myself returning it within a couple days."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.2,
+    "E": 3.65,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "buying for myself as a backup to a dSLR, but also for colleagues and employees.",
+      "C": "The 18-55 is not only a third of the price, but it is crisper and clearer at 18, and super sharp from 35 - 55.",
+      "E": "And there is nothing better than a 6 ounce lens for carrying to parties, events, and dinners, rather than those pound+ lenses.",
+      "N": "I tried this camera this week, and found myself returning it within a couple days.",
+      "O": "Curiously, it maintains the separate setting on the dial for SETTINGS which should be standard for all creative zone options."
+    }
+  }
+}

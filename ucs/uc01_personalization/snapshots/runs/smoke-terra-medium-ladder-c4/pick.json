@@ -1,0 +1,499 @@
+{
+  "name": "uc01-personalization-20-level",
+  "created": "2026-09-07T12:10:44+00:00",
+  "rule": "per cell of formality x gender fill 4 slots in the order linked, linked, linked, prospect (cycling): linked = clean contacts with Czech text and a purchase history (every model level possible: the OCEAN profile is inferred for every linked contact and UC-04 writes its outputs for the pick); prospect = no purchase history at all; within a kind ordered by gender_paired DESC, id; stratum = the first 4 defective rows by id; briefs = one named brief per category (invitation seasonal_sale_launch, upsell personal_recommendation, followup review_request_with_reward); briefs per level = the tiers (0, 1, 2, 3, 5, 6) on every category, each single-field arm on the category where its field has a place (3a, 3d invitation; 3b, 3c, 4, 6a, 6b, 6d upsell; 6c followup)",
+  "tier_mix": [
+    "linked",
+    "linked",
+    "linked",
+    "prospect"
+  ],
+  "pools": {
+    "linked": 360,
+    "prospect": 75
+  },
+  "core_size": 360,
+  "cells": {
+    "formal_m": [
+      1,
+      11,
+      13,
+      426
+    ],
+    "formal_f": [
+      2,
+      3,
+      5,
+      428
+    ],
+    "informal_m": [
+      38,
+      44,
+      46,
+      431
+    ],
+    "informal_f": [
+      4,
+      22,
+      25,
+      427
+    ]
+  },
+  "reading_set": [
+    1,
+    11,
+    13,
+    426,
+    2,
+    3,
+    5,
+    428,
+    38,
+    44,
+    46,
+    431,
+    4,
+    22,
+    25,
+    427
+  ],
+  "strata": {
+    "defective": [
+      376,
+      377,
+      378,
+      379
+    ]
+  },
+  "briefs": [
+    1,
+    26,
+    10
+  ],
+  "briefs_by_level": {
+    "0": [
+      1,
+      26,
+      10
+    ],
+    "1": [
+      1,
+      26,
+      10
+    ],
+    "2": [
+      1,
+      26,
+      10
+    ],
+    "3a": [
+      1
+    ],
+    "3b": [
+      26
+    ],
+    "3c": [
+      26
+    ],
+    "3d": [
+      1
+    ],
+    "3": [
+      1,
+      26,
+      10
+    ],
+    "4": [
+      26
+    ],
+    "5": [
+      1,
+      26,
+      10
+    ],
+    "6a": [
+      26
+    ],
+    "6b": [
+      26
+    ],
+    "6c": [
+      10
+    ],
+    "6d": [
+      26
+    ],
+    "6": [
+      1,
+      26,
+      10
+    ]
+  },
+  "brief_titles": {
+    "1": "seasonal_sale_launch",
+    "26": "personal_recommendation",
+    "10": "review_request_with_reward"
+  },
+  "contacts": {
+    "1": {
+      "id": 1,
+      "name": "Nguyen Tran",
+      "name_vocative": "Dobrý den,",
+      "gender": "m",
+      "formal": true,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 431,
+      "has_czech": true,
+      "has_uc04": false,
+      "has_role": false
+    },
+    "11": {
+      "id": 11,
+      "name": "Antonín Sedláček",
+      "name_vocative": "Vážený pane Sedláčku",
+      "gender": "m",
+      "formal": true,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 407,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": false
+    },
+    "13": {
+      "id": 13,
+      "name": "Vladislav Staněk",
+      "name_vocative": "Vážený pane Staňku",
+      "gender": "m",
+      "formal": true,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 367,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": false
+    },
+    "426": {
+      "id": 426,
+      "name": "Slavomír Polák",
+      "name_vocative": "Vážený pane Poláku",
+      "gender": "m",
+      "formal": true,
+      "is_clean": true,
+      "tier": "prospect",
+      "gender_paired": false,
+      "reviewer_gender": null,
+      "ocean_source": null,
+      "lifecycle_stage": "prospect",
+      "amazon_group": null,
+      "orders": 0,
+      "has_czech": false,
+      "has_uc04": false,
+      "has_role": true
+    },
+    "2": {
+      "id": 2,
+      "name": "Chen Li",
+      "name_vocative": "Dobrý den,",
+      "gender": "f",
+      "formal": true,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "f",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 255,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": false
+    },
+    "3": {
+      "id": 3,
+      "name": "Edita Benešová",
+      "name_vocative": "Vážená paní Benešová",
+      "gender": "f",
+      "formal": true,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "f",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 241,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": true
+    },
+    "5": {
+      "id": 5,
+      "name": "Julie Dvořáková",
+      "name_vocative": "Vážená paní Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "f",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 228,
+      "has_czech": true,
+      "has_uc04": false,
+      "has_role": false
+    },
+    "428": {
+      "id": 428,
+      "name": "Sára Mašková",
+      "name_vocative": "Vážená paní Mašková",
+      "gender": "f",
+      "formal": true,
+      "is_clean": true,
+      "tier": "prospect",
+      "gender_paired": false,
+      "reviewer_gender": null,
+      "ocean_source": "synthetic",
+      "lifecycle_stage": "prospect",
+      "amazon_group": null,
+      "orders": 0,
+      "has_czech": false,
+      "has_uc04": false,
+      "has_role": true
+    },
+    "38": {
+      "id": 38,
+      "name": "Leoš Tichý",
+      "name_vocative": "Ahoj Leoši",
+      "gender": "m",
+      "formal": false,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 227,
+      "has_czech": true,
+      "has_uc04": false,
+      "has_role": false
+    },
+    "44": {
+      "id": 44,
+      "name": "Štěpán Mareš",
+      "name_vocative": "Ahoj Štěpáne",
+      "gender": "m",
+      "formal": false,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "active",
+      "amazon_group": "A",
+      "orders": 210,
+      "has_czech": true,
+      "has_uc04": false,
+      "has_role": false
+    },
+    "46": {
+      "id": 46,
+      "name": "Hubert Jelínek",
+      "name_vocative": "Ahoj Huberte",
+      "gender": "m",
+      "formal": false,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 204,
+      "has_czech": true,
+      "has_uc04": false,
+      "has_role": false
+    },
+    "431": {
+      "id": 431,
+      "name": "Štěpán Ševčík",
+      "name_vocative": "Ahoj Štěpáne",
+      "gender": "m",
+      "formal": false,
+      "is_clean": true,
+      "tier": "prospect",
+      "gender_paired": false,
+      "reviewer_gender": null,
+      "ocean_source": null,
+      "lifecycle_stage": "prospect",
+      "amazon_group": null,
+      "orders": 0,
+      "has_czech": false,
+      "has_uc04": false,
+      "has_role": false
+    },
+    "4": {
+      "id": 4,
+      "name": "Leona Jelínková",
+      "name_vocative": "Ahoj Leono",
+      "gender": "f",
+      "formal": false,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "f",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 231,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": true
+    },
+    "22": {
+      "id": 22,
+      "name": "Zdislava Dostálová",
+      "name_vocative": "Ahoj Zdislavo",
+      "gender": "f",
+      "formal": false,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "f",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 143,
+      "has_czech": true,
+      "has_uc04": false,
+      "has_role": true
+    },
+    "25": {
+      "id": 25,
+      "name": "Naděžda Sedláková",
+      "name_vocative": "Ahoj Naděždo",
+      "gender": "f",
+      "formal": false,
+      "is_clean": true,
+      "tier": "linked",
+      "gender_paired": true,
+      "reviewer_gender": "f",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "loyal_active",
+      "amazon_group": "A",
+      "orders": 132,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": true
+    },
+    "427": {
+      "id": 427,
+      "name": "Adéla Šťastná",
+      "name_vocative": "Ahoj Adélo",
+      "gender": "f",
+      "formal": false,
+      "is_clean": true,
+      "tier": "prospect",
+      "gender_paired": false,
+      "reviewer_gender": null,
+      "ocean_source": null,
+      "lifecycle_stage": "prospect",
+      "amazon_group": null,
+      "orders": 0,
+      "has_czech": false,
+      "has_uc04": false,
+      "has_role": true
+    },
+    "376": {
+      "id": 376,
+      "name": "Bohumír Strnad",
+      "name_vocative": null,
+      "gender": "m",
+      "formal": true,
+      "is_clean": false,
+      "tier": "defective",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "active",
+      "amazon_group": "C",
+      "orders": 37,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": false
+    },
+    "377": {
+      "id": 377,
+      "name": "12345 Kopecký",
+      "name_vocative": null,
+      "gender": "f",
+      "formal": false,
+      "is_clean": false,
+      "tier": "defective",
+      "gender_paired": false,
+      "reviewer_gender": null,
+      "ocean_source": "inferred",
+      "lifecycle_stage": "at_risk",
+      "amazon_group": "C",
+      "orders": 44,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": false
+    },
+    "378": {
+      "id": 378,
+      "name": "Štěpán Konečný",
+      "name_vocative": null,
+      "gender": "m",
+      "formal": null,
+      "is_clean": false,
+      "tier": "defective",
+      "gender_paired": true,
+      "reviewer_gender": "m",
+      "ocean_source": "inferred",
+      "lifecycle_stage": "active",
+      "amazon_group": "C",
+      "orders": 37,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": false
+    },
+    "379": {
+      "id": 379,
+      "name": "Kamila Stejskalová",
+      "name_vocative": null,
+      "gender": "f",
+      "formal": null,
+      "is_clean": false,
+      "tier": "defective",
+      "gender_paired": false,
+      "reviewer_gender": null,
+      "ocean_source": "inferred",
+      "lifecycle_stage": "acquisition",
+      "amazon_group": "C",
+      "orders": 45,
+      "has_czech": true,
+      "has_uc04": true,
+      "has_role": false
+    }
+  }
+}

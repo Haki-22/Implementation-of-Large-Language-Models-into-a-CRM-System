@@ -1,0 +1,40 @@
+{
+  "contact_id": 339,
+  "reviewer_id": "A3CP1WGNTOSKDA",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 38,
+  "reviews_used": 15,
+  "prompt_chars": 9882,
+  "status": "ok",
+  "seconds": 396.81,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.65,
+    "E": 3.45,
+    "A": 3.65,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "It is superb in color, resolution, CA, flare control, and bokeh.",
+      "C": "Before buying, I tested it extensively against my Sony 16-105. I made a series of identical shots, on a tripod, in camera RAW on an A580",
+      "E": "This camera is not for novices and neither is this review. Fasten your seatbelt!",
+      "A": "Another reviewer has done a superlative job of going through the specs and feature set, so I won't repeat that.",
+      "N": "If I have trouble down the road, I'll come back and amend this review. If you don't see an amendment here, assume it is still going strong."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.65,
+    "E": 3.45,
+    "N": 2.25,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "Another reviewer has done a superlative job of going through the specs and feature set, so I won't repeat that.",
+      "C": "Before buying, I tested it extensively against my Sony 16-105. I made a series of identical shots, on a tripod, in camera RAW on an A580",
+      "E": "This camera is not for novices and neither is this review. Fasten your seatbelt!",
+      "N": "If I have trouble down the road, I'll come back and amend this review. If you don't see an amendment here, assume it is still going strong.",
+      "O": "It is superb in color, resolution, CA, flare control, and bokeh."
+    }
+  }
+}

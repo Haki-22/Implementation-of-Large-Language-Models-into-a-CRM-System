@@ -1,0 +1,40 @@
+{
+  "contact_id": 46,
+  "reviewer_id": "A1T1YSCDW0PD25",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 204,
+  "reviews_used": 15,
+  "prompt_chars": 9405,
+  "status": "ok",
+  "seconds": 136.3,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.4,
+    "A": 3.4,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "This is a great lens. I have a 20D and it instantly became my favorite lens because of the quality, size, reach, and of course IS!",
+      "C": "Includes a place in the grip to put the battery door so it doesn't get lost",
+      "E": "Makes you and your camera look like a PRO!",
+      "A": "I like this unit for the price, but was disappointed in the sound quality because I was expecting too much from the reviews.",
+      "N": "There's a piece of lint under the glass that is annoying and distracting (see photo I uploaded)."
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.1,
+    "E": 3.4,
+    "N": 3.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I like this unit for the price, but was disappointed in the sound quality because I was expecting too much from the reviews.",
+      "C": "Includes a place in the grip to put the battery door so it doesn't get lost",
+      "E": "Makes you and your camera look like a PRO!",
+      "N": "There's a piece of lint under the glass that is annoying and distracting (see photo I uploaded).",
+      "O": "This is a great lens. I have a 20D and it instantly became my favorite lens because of the quality, size, reach, and of course IS!"
+    }
+  }
+}

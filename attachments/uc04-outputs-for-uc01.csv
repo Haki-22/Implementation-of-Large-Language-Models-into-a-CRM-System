@@ -1,0 +1,11 @@
+run,key,value,meaning
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,prose_contacts,16,kontaktů z picku UC-01 s modelovou prózou
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,reasons_ok,80 / 80,zdůvodnění platných podle schématu a pravidel
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,reasons_grounded,80,"zdůvodnění, jejichž všechny citované nákupy v historii existují"
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,reason_words_median,18.0,medián slov ve větě (pravidlo nejvýš 30)
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,personas_ok,16 / 16,person platných podle schématu
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,aspects_grounded,74 / 75,citací u aspektů nalezených doslova v recenzích
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,aspects_contacts_skipped,0,kontaktů bez českých recenzí
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,topics_contacts,425,"kontaktů s tématy zájmu (LDA, klasika)"
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,calls,112,volání modelu
+2026-09-07-outputs-for-uc01-codex-gpt-5.6-luna-low-16-contacts,wall_seconds,212.2,stěna při souběhu 4

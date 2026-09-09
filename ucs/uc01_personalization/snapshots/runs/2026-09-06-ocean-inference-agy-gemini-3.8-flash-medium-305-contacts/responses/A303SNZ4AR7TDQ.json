@@ -1,0 +1,40 @@
+{
+  "contact_id": 392,
+  "reviewer_id": "A303SNZ4AR7TDQ",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 41,
+  "reviews_used": 15,
+  "prompt_chars": 9793,
+  "status": "ok",
+  "seconds": 1326.67,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.3,
+    "E": 3.45,
+    "A": 3.9,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "It's my first experience with an i7 Ivy Bridge quad, so I was excited to see how it worked.",
+      "C": "I work in IT and exclusively buy WD drives for our customers when they need a new hard drive, and we prefer the Black series whenever possible",
+      "E": "I have built 4 machines with that CPU and have 4 very happy customers.",
+      "A": "We purchased this for one of our customers as a replacement to an older Brother color inkjet printer.",
+      "N": "after listening to them for several months, I am pleased to say that despite being somewhat low-powered, they sound pretty good."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.3,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "We purchased this for one of our customers as a replacement to an older Brother color inkjet printer.",
+      "C": "I work in IT and exclusively buy WD drives for our customers when they need a new hard drive, and we prefer the Black series whenever possible",
+      "E": "I have built 4 machines with that CPU and have 4 very happy customers.",
+      "N": "after listening to them for several months, I am pleased to say that despite being somewhat low-powered, they sound pretty good.",
+      "O": "It's my first experience with an i7 Ivy Bridge quad, so I was excited to see how it worked."
+    }
+  }
+}

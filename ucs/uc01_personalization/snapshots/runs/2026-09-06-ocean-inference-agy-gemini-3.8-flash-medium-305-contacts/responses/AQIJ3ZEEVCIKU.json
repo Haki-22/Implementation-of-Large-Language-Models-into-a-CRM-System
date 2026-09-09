@@ -1,0 +1,40 @@
+{
+  "contact_id": 9,
+  "reviewer_id": "AQIJ3ZEEVCIKU",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 164,
+  "reviews_used": 15,
+  "prompt_chars": 10168,
+  "status": "ok",
+  "seconds": 39.13,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.3,
+    "E": 3.8,
+    "A": 3.4,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "Cosmetically, the Qosmio looks like a technological piece of art; under the hood, it gets even better.",
+      "C": "I researched disk cleaners and repair thoroughly before buying the Maxell DSR-1, and this unit is the best by far.",
+      "E": "Am I gushing? Yup, cuz this remote is that good.",
+      "A": "First off, in all fairness to Magellan, this RoadMate 2035 is really more of an entry level GPS.",
+      "N": "I convinced myself I was willing to live with the funky lines running through my screen in favor of being frugal"
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.3,
+    "E": 3.8,
+    "N": 2.35,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "First off, in all fairness to Magellan, this RoadMate 2035 is really more of an entry level GPS.",
+      "C": "I researched disk cleaners and repair thoroughly before buying the Maxell DSR-1, and this unit is the best by far.",
+      "E": "Am I gushing? Yup, cuz this remote is that good.",
+      "N": "I convinced myself I was willing to live with the funky lines running through my screen in favor of being frugal",
+      "O": "Cosmetically, the Qosmio looks like a technological piece of art; under the hood, it gets even better."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 248,
+  "reviewer_id": "A11T807LX2EF00",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 9171,
+  "status": "ok",
+  "seconds": 197.5,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 3.6,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I heard nuances that I had not heard before. I had to stop and marvel.",
+      "C": "For most of those journeys I have had my Nuvi 660 next to the Navigon 7100. Both have their strengths and weaknesses.",
+      "E": "What a joy this unit is. It is like an iPhone 5... svelte, lightweight and simply gorgeous.",
+      "A": "This is a wonderful product by a great company. I highly recommend it.",
+      "N": "That had always been a frustration for me. Not this one. So much easier to find and use."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.05,
+    "E": 3.6,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "This is a wonderful product by a great company. I highly recommend it.",
+      "C": "For most of those journeys I have had my Nuvi 660 next to the Navigon 7100. Both have their strengths and weaknesses.",
+      "E": "What a joy this unit is. It is like an iPhone 5... svelte, lightweight and simply gorgeous.",
+      "N": "That had always been a frustration for me. Not this one. So much easier to find and use.",
+      "O": "I heard nuances that I had not heard before. I had to stop and marvel."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 10,
+  "reviewer_id": "A1BT6TL7UCIC5Y",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 152,
+  "reviews_used": 15,
+  "prompt_chars": 9795,
+  "status": "ok",
+  "seconds": 31.99,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 3.8,
+    "E": 3.15,
+    "A": 4.0,
+    "N": 3.45,
+    "evidence_quotes": {
+      "O": "The images on this monitor are simply stunning.",
+      "C": "I am very happy that it keeps my living room uncluttered.",
+      "E": "I purchased this monitor a few months ago and couldn't be happier!",
+      "A": "I bought the Toshiba 32AV502R for my elderly grandpa. I wanted to get something for him that was easy to use and took up very little space.",
+      "N": "I tend to worry more than most people and I feel concerned that the interior might end up scratching the LCD screen."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 3.8,
+    "E": 3.15,
+    "N": 3.45,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "I bought the Toshiba 32AV502R for my elderly grandpa. I wanted to get something for him that was easy to use and took up very little space.",
+      "C": "I am very happy that it keeps my living room uncluttered.",
+      "E": "I purchased this monitor a few months ago and couldn't be happier!",
+      "N": "I tend to worry more than most people and I feel concerned that the interior might end up scratching the LCD screen.",
+      "O": "The images on this monitor are simply stunning."
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "run_id": "2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness",
+  "kind": "faithfulness",
+  "created": "2026-09-07T14:37:08+00:00",
+  "pick": "uc01-personalization-20-level",
+  "brief": 1,
+  "level": "5",
+  "contacts": [
+    1,
+    11,
+    13,
+    426,
+    2,
+    3,
+    5,
+    428,
+    38,
+    44,
+    46,
+    431,
+    4,
+    22,
+    25,
+    427
+  ],
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "requested": {
+    "model": "gpt-5.6-terra",
+    "tier": "low"
+  },
+  "prompt_version": "2.4.1",
+  "database": {
+    "path": "substrate/snapshots/substrate.db",
+    "sha256": "70dd24d85a120d14dc1315131efffa5420522652a5cbc6206e20e7e7d3b2cd82"
+  },
+  "llm_calls": {
+    "enabled": true,
+    "source": "env"
+  },
+  "calls": 24,
+  "scored": 12,
+  "skipped": 4,
+  "mean_responsiveness": 0.5061,
+  "seconds": 157.3
+}

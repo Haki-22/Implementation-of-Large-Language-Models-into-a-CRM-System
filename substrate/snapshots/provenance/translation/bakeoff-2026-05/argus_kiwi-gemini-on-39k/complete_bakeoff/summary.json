@@ -1,0 +1,51 @@
+{
+  "Sonnet-4.6": {
+    "wall_seconds": 2429.7,
+    "total_verdicts": 6,
+    "hallucinated": 0,
+    "invalid": 6,
+    "error": "ProviderCliError: claude: CLI exited with code 143. Details: exit code 143"
+  },
+  "Haiku-4.5": {
+    "wall_seconds": 580.8,
+    "total_verdicts": 55,
+    "hallucinated": 0,
+    "invalid": 55,
+    "error": null
+  },
+  "Codex-5.5-low": {
+    "wall_seconds": 105.9,
+    "total_verdicts": 77,
+    "hallucinated": 0,
+    "invalid": 77,
+    "error": null
+  },
+  "Gemini-3.0-Pro": {
+    "wall_seconds": 0.5,
+    "total_verdicts": 0,
+    "hallucinated": 0,
+    "invalid": 0,
+    "error": "ProviderOutputError: vertex-gemini: HTTP 404: model not found in this region. Hint: Gemini 3.x is only on the 'global' region; check model ID + region. Details: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher Mo"
+  },
+  "Gemini-3.0-Flash": {
+    "wall_seconds": 159.0,
+    "total_verdicts": 83,
+    "hallucinated": 0,
+    "invalid": 83,
+    "error": null
+  },
+  "Gemini-2.0-Flash": {
+    "wall_seconds": 1.2,
+    "total_verdicts": 0,
+    "hallucinated": 0,
+    "invalid": 0,
+    "error": "ProviderOutputError: vertex-gemini: HTTP 404: model not found in this region. Hint: Gemini 3.x is only on the 'global' region; check model ID + region. Details: {\n  \"error\": {\n    \"code\": 404,\n    \"message\": \"Publisher Mo"
+  },
+  "Gemini-3.1-Flash-lite-prev": {
+    "wall_seconds": 5.3,
+    "total_verdicts": 14,
+    "hallucinated": 0,
+    "invalid": 14,
+    "error": null
+  }
+}

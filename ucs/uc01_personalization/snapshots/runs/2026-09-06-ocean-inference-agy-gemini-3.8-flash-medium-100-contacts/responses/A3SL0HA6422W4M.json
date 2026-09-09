@@ -1,0 +1,40 @@
+{
+  "contact_id": 304,
+  "reviewer_id": "A3SL0HA6422W4M",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 70,
+  "reviews_used": 15,
+  "prompt_chars": 10348,
+  "status": "ok",
+  "seconds": 248.15,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.6,
+    "E": 2.8,
+    "A": 3.75,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "The main exceptions are soundstage and resolution of upper harmonic details.",
+      "C": "I describe how I relate to the MS400 (i.e. my personal tastes and how I use the headphone) only after covering all of the objective issues.",
+      "E": "clarity which I didn't expect from a modestly-priced Sennheiser, so since there were other people with me",
+      "A": "the similarities and differences are of great interest to persons whose budgets don't stretch much beyond the SRH-940.",
+      "N": "Although there were no configurations for me to make the HeadStreamer work with my Windows 7-64 computer, the PC volume window tripped me up at times."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.6,
+    "E": 2.8,
+    "N": 2.2,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "the similarities and differences are of great interest to persons whose budgets don't stretch much beyond the SRH-940.",
+      "C": "I describe how I relate to the MS400 (i.e. my personal tastes and how I use the headphone) only after covering all of the objective issues.",
+      "E": "clarity which I didn't expect from a modestly-priced Sennheiser, so since there were other people with me",
+      "N": "Although there were no configurations for me to make the HeadStreamer work with my Windows 7-64 computer, the PC volume window tripped me up at times.",
+      "O": "The main exceptions are soundstage and resolution of upper harmonic details."
+    }
+  }
+}

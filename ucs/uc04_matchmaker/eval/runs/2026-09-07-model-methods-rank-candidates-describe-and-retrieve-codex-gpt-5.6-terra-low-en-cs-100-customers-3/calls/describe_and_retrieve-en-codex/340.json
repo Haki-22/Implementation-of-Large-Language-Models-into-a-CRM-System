@@ -1,0 +1,35 @@
+{
+  "contact_id": 340,
+  "status": "ok",
+  "seconds": 4.72,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Plantronics Quick Disconnect headset adapter cable",
+      "Tripp Lite Isobar surge protector with 8–10 outlets",
+      "APC or CyberPower pure sine wave UPS, 1000VA"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Customer C-340 (anonymised). Product titles in English.\nPurchase history (45 purchases, oldest first):\n- 2010-08-16 ★5 Scythe S-FLEX SFF21E / 120mm 1,200rpm Fan.\n- 2011-01-31 ★1 Plantronics GameCom777 Gaming Headset\n- 2011-02-07 ★4 Creative Inspire S2 2.1 Multimedia Speaker System\n- 2011-07-02 ★5 Microsoft Comfort Curve Keyboard 2000\n- 2011-07-02 ★2 Logitech Wireless Wave Combo Mk550 With Keyboard and Laser Mouse\n- 2012-01-29 ★1 Patriot 8GB Pulse Series USB 3.0 Flash Drive - PSF8GSPUSB\n- 2012-12-15 ★4 Audio-Technica ATH-M10 Professional Studio Monitor Headphones\n- 2012-12-31 ★5 Sony 21 in 1 External Multi Card Reader/Writer (MRWEA7)\n- 2013-01-05 ★3 Seagate Backup Plus 1TB Portable External Hard Drive USB 3.0 (Red)(STBU1000103)\n- 2013-01-15 ★5 Vanguard Alta Plus 203AP 3-Section Aluminum Tripod with 3-way Magnesium Alloy Panhead\n- 2013-01-16 ★4 Watts Up Pro Electricity Consumption Meter\n- 2013-02-02 ★5 Tripp Lite HT10DBS Home Theater Isobar Surge Protector 10 Outlet RJ11 RJ45 Coax\n- 2013-02-03 ★5 TRIPP LITE SK5TEL-0 Surge Protector Wallmount Direct Plug in 5 Outlet RJ11 1080 Joule\n- 2013-02-16 ★5 Furman PST 8D Advanced Level Power Conditioning, SMP, EVS, LiFT, 15 Amp, Aluminum Chassis, 8 Outlets, Isolated Outlet Ba\n- 2013-02-18 ★5 Coleman Cable 02356-05 40-Feet 16/3 Vinyl Landscape Outdoor Extension Cord, Green\n- 2013-02-19 ★4 Monoprice Fastening Tape 0.75inch One Wrap Hook & Loop Fastening Tape 5 yard/Roll - White\n- 2013-02-23 ★5 Mediabridge Coaxial Digital Audio/Video Cable (25 Feet) - Triple Shielded F-Pin to F-Pin with Easy Grip Connector Caps -\n- 2013-02-26 ★4 Creative Labs 51EF0180AA001 Sound Blaster Arena Surround USB Gaming Headset\n- 2013-03-25 ★4 Samsung UN32EH4000 32-Inch 720p 60Hz LED HDTV\n- 2013-04-06 ★4 Panasonic RQ2102 Cassette Recorder\n- 2013-05-08 ★3 Sony DVPFX780 7-Inch Screen DVD Portable\n- 2013-05-24 ★5 Sony DVP-FX980 9-Inch Portable DVD Player\n- 2013-06-18 ★5 Plantronics S12 Corded Telephone Headset System\n- 2013-07-12 ★5 UtechSmart PCI Express to SuperSpeed USB 3.0 4-Port Expansion Card with 5V 4-Pin Power Connector for Desktops [ Include \n- 2013-07-17 ★5 WD Red 3 TB NAS Hard Drive: 3.5 Inch, SATA III, 64 MB Cache - WD30EFRX\n- 2013-07-21 ★5 KingWin Stryker 500-Watt ATX 500 Fanless Power Supply STR-500\n- 2013-07-22 ★5 Noctua NH-L12 Low-profile Quiet CPU Cooler with 120/90mm Dual PWM Fan\n- 2013-07-31 ★5 Nexus PCI-300 PCI Ventilation Brackets\n- 2013-08-01 ★5 Zalman Fan Speed Controller FANMATE-2\n- 2013-08-01 ★5 ASUS GeForce GTX 670-DC2-2GD5 VGA - 2GB GDDR5 - GPU Tweak - PCIE 3.0 Graphics Card Graphics Cards GTX670-DC2-2GD5\n- 2013-08-14 ★4 APC SMC1000 Smart-UPS 1000VA 120-Volt LCD UPS RJ-45 Serial 100 BTU/Hr System with Uninterrupted Power Supply\n- 2013-09-05 ★4 SteelSeries Siberia V2 Full-Size Gaming Headset (White)\n- 2013-09-19 ★4 APC Smart-UPS SMT1000 1000VA 120V LCD UPS System\n- 2013-09-24 ★4 CyberPower CP850PFCLCD PFC Sinewave UPS 850VA 510W PFC Compatible Mini-Tower\n- 2013-09-24 ★4 CyberPower PR750LCD Smart App Sinewave UPS 750VA 525W SNMP/HTTP Mini-Tower\n- 2013-09-28 ★4 Malcom Distributors 2.5 mm Female to 3.5 mm Male 3 Rings Jack Stereo Adapter On/Off Enabled\n- 2013-09-28 ★5 Headset Buddy Gold Plated 2.5mm to 3.5mm Adapter for iPhone, iPad, Android, Blackberry - Convert 2.5mm Headset to 3.5mm \n- 2013-09-28 ★3 Atomic Market 2.5 Female to 3.5 Male Audio Adapter Stero or Mono Gold Plated\n- 2013-10-07 ★3 Plantronics M214C Headset with Adjustable Volume\n- 2013-10-07 ★4 Panasonic KX-TCA430 Comfort-Fit, Foldable Headset\n- 2013-10-22 ★4 Plantronics HW261N Binaural Headset\n- 2013-10-22 ★4 Plantronics HW251N SupraPlus Wideband Headset (64338-31)\n- 2013-12-17 ★3 Canon PIXMA MG5520 Wireless All-In-One Color Photo Printer with Scanner, Copier and Auto Duplex Printing, White (Tablet \n- 2014-02-27 ★5 Tripp Lite ISOBAR8ULTRA Isobar Surge Protector Metal 8 Outlet 12 feet Cord 3840 Joules\n- 2014-03-04 ★4 Tripp Lite AVBAR10 Isobar Audio Video Surge Protector 10 Outlet Tel/Coax 8 feet Cord\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Plantronics Quick Disconnect headset adapter cable",
+      "Tripp Lite Isobar surge protector with 8–10 outlets",
+      "APC or CyberPower pure sine wave UPS, 1000VA"
+    ]
+  },
+  "held_out": "B001JG4NFM"
+}

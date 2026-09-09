@@ -1,0 +1,40 @@
+{
+  "contact_id": 346,
+  "reviewer_id": "A2L0F2T1DLTNT8",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 59,
+  "reviews_used": 15,
+  "prompt_chars": 9912,
+  "status": "ok",
+  "seconds": 464.06,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.45,
+    "E": 3.5,
+    "A": 4.05,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I am a big movie and home theater buff as well as a photographer of over 50 years. To me, \"Image IS Everything\".",
+      "C": "I am quite particular and \"picky\" about image quality as well as very analytical and scrutinizing about any tech device I use.",
+      "E": "I participated as a volunteer photographer in the Dragonheart Boat Races here in Vermont",
+      "A": "I've helped others set up theirs as well.",
+      "N": "I swapped out this router for my old DIR-655 and everything was working fine."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.45,
+    "E": 3.5,
+    "N": 2.25,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "I've helped others set up theirs as well.",
+      "C": "I am quite particular and \"picky\" about image quality as well as very analytical and scrutinizing about any tech device I use.",
+      "E": "I participated as a volunteer photographer in the Dragonheart Boat Races here in Vermont",
+      "N": "I swapped out this router for my old DIR-655 and everything was working fine.",
+      "O": "I am a big movie and home theater buff as well as a photographer of over 50 years. To me, \"Image IS Everything\"."
+    }
+  }
+}

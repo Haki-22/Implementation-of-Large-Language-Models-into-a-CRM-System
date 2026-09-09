@@ -1,0 +1,40 @@
+{
+  "contact_id": 285,
+  "reviewer_id": "A1ILWPH1GHUXE2",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 9483,
+  "status": "ok",
+  "seconds": 223.81,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.3,
+    "E": 2.9,
+    "A": 3.65,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "It has bass that really reaches down when the music calls for it without becoming boomy or unnatural.",
+      "C": "Note that during listening sessions I compared the MartinLogan 4's with my current Yamaha HTIB system",
+      "E": "I have listened to them for up to two hours at a time with no sign of \"listener fatigue\"",
+      "A": "I would suggest reading reviews for the Denon C700 here and on headfi to aid in your decision.",
+      "N": "for me at least - the frustration of trying to find specific frequencies on the AM or FM dial using the analog tuner outweigh any possible advantages"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.3,
+    "E": 2.9,
+    "N": 2.75,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I would suggest reading reviews for the Denon C700 here and on headfi to aid in your decision.",
+      "C": "Note that during listening sessions I compared the MartinLogan 4's with my current Yamaha HTIB system",
+      "E": "I have listened to them for up to two hours at a time with no sign of \"listener fatigue\"",
+      "N": "for me at least - the frustration of trying to find specific frequencies on the AM or FM dial using the analog tuner outweigh any possible advantages",
+      "O": "It has bass that really reaches down when the music calls for it without becoming boomy or unnatural."
+    }
+  }
+}

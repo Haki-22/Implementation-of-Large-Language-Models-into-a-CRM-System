@@ -1,0 +1,8 @@
+{
+  "n_items": 100,
+  "seed": 42,
+  "helsinki_wall_seconds": 43.7,
+  "helsinki_items_per_sec": 2.29,
+  "nllb_wall_seconds": 346.7,
+  "nllb_items_per_sec": 0.29
+}

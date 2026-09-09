@@ -1,0 +1,40 @@
+{
+  "contact_id": 32,
+  "reviewer_id": "A38RMU1Y5TDP9",
+  "group": "A",
+  "sources": "previous",
+  "reviews_total": 244,
+  "reviews_used": 15,
+  "prompt_chars": 10138,
+  "status": "ok",
+  "seconds": 92.31,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.2,
+    "E": 3.5,
+    "A": 3.9,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "This thing looks way cool. It's a nice techno-retro mix that I really like.",
+      "C": "To clean a disc you spray it a couple times, place it in the spinner (label down), close the lid, and turn the crank 20 times.",
+      "E": "It is a small camera and carries with it the baggage that comes with the convenience of having to carry so little baggage. (sorry, couldn't resist)",
+      "A": "What I want to do is add some value to the many reviews that have already been posted.",
+      "N": "I ran an accidental durability test when I dropped it onto a hard surface while it was plugged in and spinning. It continued working without a hiccup."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.2,
+    "E": 3.5,
+    "N": 2.15,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "What I want to do is add some value to the many reviews that have already been posted.",
+      "C": "To clean a disc you spray it a couple times, place it in the spinner (label down), close the lid, and turn the crank 20 times.",
+      "E": "It is a small camera and carries with it the baggage that comes with the convenience of having to carry so little baggage. (sorry, couldn't resist)",
+      "N": "I ran an accidental durability test when I dropped it onto a hard surface while it was plugged in and spinning. It continued working without a hiccup.",
+      "O": "This thing looks way cool. It's a nice techno-retro mix that I really like."
+    }
+  }
+}

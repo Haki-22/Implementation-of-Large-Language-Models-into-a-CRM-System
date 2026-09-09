@@ -1,0 +1,40 @@
+{
+  "contact_id": 110,
+  "reviewer_id": "A32O5FZH994CNY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 139,
+  "reviews_used": 15,
+  "prompt_chars": 9737,
+  "status": "ok",
+  "seconds": 400.51,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 3.85,
+    "E": 3.6,
+    "A": 3.65,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "It is a revolutionary product whose sole function is to turn video from any source into MPEG-4",
+      "C": "I gave my assistant partial access to the drive, and password protected the rest.",
+      "E": "To say that I was enthusiastic is an understatement.",
+      "A": "There are a number of reviews for this charger that say things like \"works great.\" And those reviewers are right, it does work great.",
+      "N": "So if I lost this thing I would owe my brother money."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 3.85,
+    "E": 3.6,
+    "N": 2.35,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "There are a number of reviews for this charger that say things like \"works great.\" And those reviewers are right, it does work great.",
+      "C": "I gave my assistant partial access to the drive, and password protected the rest.",
+      "E": "To say that I was enthusiastic is an understatement.",
+      "N": "So if I lost this thing I would owe my brother money.",
+      "O": "It is a revolutionary product whose sole function is to turn video from any source into MPEG-4"
+    }
+  }
+}

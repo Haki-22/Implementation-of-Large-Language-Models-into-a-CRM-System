@@ -1,0 +1,265 @@
+{
+  "arm": "popularity",
+  "customers": [
+    2,
+    3,
+    4,
+    7,
+    11
+  ],
+  "protocols": {
+    "full": {
+      "protocol": "full",
+      "n_customers": 5,
+      "hits": {
+        "5": 0,
+        "10": 0
+      },
+      "hr": {
+        "5": 0.0,
+        "10": 0.0
+      },
+      "wilson95_hr10": [
+        -3.139202815737979e-17,
+        0.43449149475208104
+      ],
+      "ndcg@10": 0.0,
+      "mrr@10": 0.0,
+      "per_group": {
+        "A": {
+          "n": 5,
+          "hits": {
+            "5": 0,
+            "10": 0
+          },
+          "hr": {
+            "5": 0.0,
+            "10": 0.0
+          }
+        }
+      },
+      "reach": {
+        "30": 0,
+        "200": 0
+      }
+    },
+    "sampled": {
+      "protocol": "sampled",
+      "n_customers": 5,
+      "hits": {
+        "5": 1,
+        "10": 2
+      },
+      "hr": {
+        "5": 0.2,
+        "10": 0.4
+      },
+      "wilson95_hr10": [
+        0.11761823115925325,
+        0.769280067791163
+      ],
+      "ndcg@10": 0.18927892607143726,
+      "mrr@10": 0.125,
+      "per_group": {
+        "A": {
+          "n": 5,
+          "hits": {
+            "5": 1,
+            "10": 2
+          },
+          "hr": {
+            "5": 0.2,
+            "10": 0.4
+          }
+        }
+      }
+    }
+  },
+  "subset": "sample",
+  "per_customer": {
+    "full": [
+      {
+        "contact_id": 2,
+        "group": "A",
+        "held_out": "B00L2442H0",
+        "rank": 728,
+        "top10": [
+          "B0088CJT4U",
+          "B002R5AM7C",
+          "B00829TIEK",
+          "B000N99BBC",
+          "B004CLYEDC",
+          "B008DWCRQW",
+          "B004CLYEFK",
+          "B00829THK0",
+          "B002SQK2F2",
+          "B004T9RR6I"
+        ]
+      },
+      {
+        "contact_id": 3,
+        "group": "A",
+        "held_out": "B00JWV1LP6",
+        "rank": 224,
+        "top10": [
+          "B0088CJT4U",
+          "B002R5AM7C",
+          "B000N99BBC",
+          "B004CLYEDC",
+          "B008DWCRQW",
+          "B004CLYEFK",
+          "B002SQK2F2",
+          "B0079UAT0A",
+          "B0034CL2ZI",
+          "B004CLYEE6"
+        ]
+      },
+      {
+        "contact_id": 4,
+        "group": "A",
+        "held_out": "B00KJJW36G",
+        "rank": 11059,
+        "top10": [
+          "B00829TIEK",
+          "B003ES5ZUU",
+          "B000N99BBC",
+          "B008DWCRQW",
+          "B004CLYEFK",
+          "B00829THK0",
+          "B002SQK2F2",
+          "B004T9RR6I",
+          "B0079UAT0A",
+          "B0034CL2ZI"
+        ]
+      },
+      {
+        "contact_id": 7,
+        "group": "A",
+        "held_out": "B005E2XTO8",
+        "rank": 17999,
+        "top10": [
+          "B0088CJT4U",
+          "B002R5AM7C",
+          "B00829TIEK",
+          "B003ES5ZUU",
+          "B004CLYEDC",
+          "B008DWCRQW",
+          "B00829THK0",
+          "B004T9RR6I",
+          "B002SQK2F2",
+          "B0079UAT0A"
+        ]
+      },
+      {
+        "contact_id": 11,
+        "group": "A",
+        "held_out": "B008RZ0EQ0",
+        "rank": 13006,
+        "top10": [
+          "B0088CJT4U",
+          "B00829TIEK",
+          "B000N99BBC",
+          "B008DWCRQW",
+          "B004T9RR6I",
+          "B0034CL2ZI",
+          "B00HFRWWAM",
+          "B00834SJSK",
+          "B00BOHNYTW",
+          "B007WTAJTO"
+        ]
+      }
+    ],
+    "sampled": [
+      {
+        "contact_id": 2,
+        "group": "A",
+        "held_out": "B00L2442H0",
+        "rank": 8,
+        "top10": [
+          "B008X9Z528",
+          "B00829THEG",
+          "B001CIREXA",
+          "B00CHT6CRC",
+          "B002VPE1XY",
+          "B0014J07R2",
+          "B004XVN17G",
+          "B00L2442H0",
+          "B00EVIBN8U",
+          "B0035JEL6C"
+        ]
+      },
+      {
+        "contact_id": 3,
+        "group": "A",
+        "held_out": "B00JWV1LP6",
+        "rank": 2,
+        "top10": [
+          "B004QK7HI8",
+          "B00JWV1LP6",
+          "B000A6PPOK",
+          "B00BQ5RYI4",
+          "B00E3FJJYG",
+          "B00CZ6WC3A",
+          "B003ZSHNGS",
+          "B001TUYQT6",
+          "B00GDL2PPI",
+          "B0017JY5FE"
+        ]
+      },
+      {
+        "contact_id": 4,
+        "group": "A",
+        "held_out": "B00KJJW36G",
+        "rank": 80,
+        "top10": [
+          "B00CSDMWGW",
+          "B00I3YKEKG",
+          "B007XOQUY6",
+          "B005VTGCE8",
+          "B00A7FS3AW",
+          "B004S4R5CK",
+          "B00HGE3C5I",
+          "B001O5CCQK",
+          "B0082D563I",
+          "B00546JKJC"
+        ]
+      },
+      {
+        "contact_id": 7,
+        "group": "A",
+        "held_out": "B005E2XTO8",
+        "rank": 100,
+        "top10": [
+          "B0079UAT0A",
+          "B008H9BXMK",
+          "B00HRQB28Y",
+          "B0054YF0C0",
+          "B00BB6LTI4",
+          "B00BAM2PJQ",
+          "B003VAM32E",
+          "B004TLH6GM",
+          "B003EYV224",
+          "B005HY4UJ6"
+        ]
+      },
+      {
+        "contact_id": 11,
+        "group": "A",
+        "held_out": "B008RZ0EQ0",
+        "rank": 71,
+        "top10": [
+          "B00BQ5RY1G",
+          "B002O3W2OI",
+          "B00BWHILCY",
+          "B0040QE98O",
+          "B003VANO7C",
+          "B005HY4UG4",
+          "B00DIHVL2I",
+          "B009M3UT16",
+          "B002BH3U20",
+          "B00F3SOHNU"
+        ]
+      }
+    ]
+  }
+}

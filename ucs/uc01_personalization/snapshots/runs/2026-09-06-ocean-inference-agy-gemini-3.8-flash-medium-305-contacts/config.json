@@ -1,0 +1,108 @@
+{
+  "run_dir": "2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-305-contacts",
+  "date": "2026-09-06",
+  "provider": "agy",
+  "model": "gemini-3.8-flash",
+  "tier": "medium",
+  "prompt_version": "1.2.0",
+  "system_prompt": "You are an experienced psychometrician applying the Big Five Inventory 2 (BFI-2; Soto & John 2017) framework. You receive an anonymized customer's Amazon review history. Estimate the customer's Big Five personality scores on a 1.00-5.00 scale (continuous, two decimals) using textual evidence ONLY from the reviews. Each dimension must come with a short verbatim evidence quote (<= 30 words) extracted from the reviews that supports your estimate.\n\nDimensions:\n- O Openness to Experience (intellectual curiosity, aesthetic sensitivity)\n- C Conscientiousness (organization, dependability, attention to detail)\n- E Extraversion (sociability, assertiveness, positive emotion)\n- A Agreeableness (warmth, trust, cooperation)\n- N Neuroticism (negative emotionality, anxiety, frustration sensitivity)\n\nCalibrate against US population means (O=3.75, C=3.55, E=3.20, A=3.75, N=2.85). Avoid extreme scores unless strongly justified.\n\nOutput strict JSON: {\"O\": <float>, \"C\": <float>, \"E\": <float>, \"A\": <float>, \"N\": <float>, \"evidence_quotes\": {\"O\": \"...\", \"C\": \"...\", \"E\": \"...\", \"A\": \"...\", \"N\": \"...\"}}",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "O": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 5.0
+      },
+      "C": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 5.0
+      },
+      "E": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 5.0
+      },
+      "A": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 5.0
+      },
+      "N": {
+        "type": "number",
+        "minimum": 1.0,
+        "maximum": 5.0
+      },
+      "evidence_quotes": {
+        "type": "object",
+        "properties": {
+          "O": {
+            "type": "string"
+          },
+          "C": {
+            "type": "string"
+          },
+          "E": {
+            "type": "string"
+          },
+          "A": {
+            "type": "string"
+          },
+          "N": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "O",
+          "C",
+          "E",
+          "A",
+          "N"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "required": [
+      "O",
+      "C",
+      "E",
+      "A",
+      "N",
+      "evidence_quotes"
+    ],
+    "additionalProperties": false
+  },
+  "max_reviews_per_contact": 15,
+  "max_review_chars": 600,
+  "review_order": "helpful_up DESC, review_date DESC, id",
+  "language": "English reviews only (the Czech text is a machine translation)",
+  "concurrency": 4,
+  "timeout_seconds": 180,
+  "targets": {
+    "sample": null,
+    "pick": null,
+    "previous": null,
+    "contacts": [],
+    "all": true,
+    "limit": null,
+    "exclude_runs": [
+      "2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-20-contacts",
+      "2026-09-06-ocean-inference-agy-gemini-3.8-flash-medium-100-contacts"
+    ],
+    "excluded_count": 120,
+    "count": 305,
+    "unmatched_previous": []
+  },
+  "database": {
+    "file": "substrate/snapshots/substrate.db",
+    "sha256": "b6d82a0dc5a4eff894ea14546bc8c8b41aa9916a27a6eb1776762a2084264c3f",
+    "linked_contacts": 425
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "numpy": "1.26.4"
+    }
+  }
+}

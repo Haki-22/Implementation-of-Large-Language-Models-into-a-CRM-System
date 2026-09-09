@@ -1,0 +1,650 @@
+{
+  "manifest_sha256": "5329584753cf426dbb2367e93fd616af779b1ab9337fbd02bd96e4592f2f49f3",
+  "pinned_at": "2026-09-08T00:00:46Z",
+  "schema_version": 3,
+  "tools": {
+    "create_note": {
+      "payload": {
+        "description": "File a note on a contact.\n\n        category is one of complaint, support, sales, follow_up, delivery,\n        general; when omitted the server assigns one. Session tokens in content\n        are restored by the server before the note is stored, so write them\n        exactly as received. The note records its author and the audit sequence\n        number of this call. Returns note_id, contact_id, category, created_at.\n        ",
+        "inputSchema": {
+          "properties": {
+            "category": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Category"
+            },
+            "contact_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Contact Id"
+            },
+            "content": {
+              "title": "Content",
+              "type": "string"
+            }
+          },
+          "required": [
+            "contact_id",
+            "content"
+          ],
+          "title": "create_noteArguments",
+          "type": "object"
+        },
+        "name": "create_note",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "create_noteDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "0521e55f4f7aff68d8cb35d2df0b4b275cce857129af12632941ff42665c5807"
+    },
+    "delete_note": {
+      "payload": {
+        "description": "Delete a note you have read; its text stays in the change log.\n\n        expected_updated_at is the note's updated_at as the server returned it;\n        a stale value is refused with the current content.\n        ",
+        "inputSchema": {
+          "properties": {
+            "expected_updated_at": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Expected Updated At"
+            },
+            "note_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Note Id"
+            }
+          },
+          "required": [
+            "note_id",
+            "expected_updated_at"
+          ],
+          "title": "delete_noteArguments",
+          "type": "object"
+        },
+        "name": "delete_note",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "delete_noteDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "fd75aed00242fdcf7de233e6022e2b300b77087662c32ffa75ecfeb602f7e073"
+    },
+    "get_company": {
+      "payload": {
+        "description": "One company with its identifiers, address and the contacts employed there.\n\n        company_id is the company_id returned with a contact. Ids and personal\n        values may be session tokens; pass them back exactly as received.\n        ",
+        "inputSchema": {
+          "properties": {
+            "company_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Company Id"
+            },
+            "contact_limit": {
+              "default": 20,
+              "title": "Contact Limit",
+              "type": "integer"
+            }
+          },
+          "required": [
+            "company_id"
+          ],
+          "title": "get_companyArguments",
+          "type": "object"
+        },
+        "name": "get_company",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "get_companyDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "8dbf25e487cd36d8ca545bf7f7a3c903810772278a294445c71c6d9ef3b66f3f"
+    },
+    "get_contact": {
+      "payload": {
+        "description": "One contact record with the employer and, by default, the most recent notes.\n\n        contact_id is the id returned by search_contacts: a CONTACT handle when\n        masked, a database id when open. A PERSON token is a name, not an id;\n        pass it to search_contacts first. Preserve the whole returned handle.\n        ",
+        "inputSchema": {
+          "properties": {
+            "contact_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Contact Id"
+            },
+            "include_notes": {
+              "default": true,
+              "title": "Include Notes",
+              "type": "boolean"
+            },
+            "note_limit": {
+              "default": 10,
+              "title": "Note Limit",
+              "type": "integer"
+            }
+          },
+          "required": [
+            "contact_id"
+          ],
+          "title": "get_contactArguments",
+          "type": "object"
+        },
+        "name": "get_contact",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "get_contactDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "f6b1cd20ad5eb125b8e3f2bc5dd3322ee40f86dae45d8c3847bd44c868256ad0"
+    },
+    "list_orders": {
+      "payload": {
+        "description": "A customer's purchases, newest first: order_date, product, category, quantity, unit_price.",
+        "inputSchema": {
+          "properties": {
+            "contact_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Contact Id"
+            },
+            "limit": {
+              "default": 20,
+              "title": "Limit",
+              "type": "integer"
+            }
+          },
+          "required": [
+            "contact_id"
+          ],
+          "title": "list_ordersArguments",
+          "type": "object"
+        },
+        "name": "list_orders",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "list_ordersDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "6866d791d1a175d455c63fa69d7ebb09a4037e8ae35a7f0ad517a72b503da7df"
+    },
+    "ping": {
+      "payload": {
+        "description": "Liveness check: echoes the message with the server time and process id.",
+        "inputSchema": {
+          "properties": {
+            "message": {
+              "default": "ping",
+              "title": "Message",
+              "type": "string"
+            }
+          },
+          "title": "pingArguments",
+          "type": "object"
+        },
+        "name": "ping",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "pingDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "c2e978742cd7cbf74227c4cafa74186990fedf3bb24003b94b45227060e3df83"
+    },
+    "query_sql": {
+      "payload": {
+        "description": "Run one read-only SELECT over the CRM tables (open security profile only).\n\n        Tables: uc_contacts, uc_companies, uc_notes, uc_products, uc_orders,\n        uc_reviews (with the full-text index uc_reviews_fts), uc_change_log.\n        Only a single SELECT is accepted, at most limit rows come back, long\n        cells are cut, and a query is stopped after two seconds. Under the\n        masked and strict profiles the tool answers disabled.\n        ",
+        "inputSchema": {
+          "properties": {
+            "limit": {
+              "default": 50,
+              "title": "Limit",
+              "type": "integer"
+            },
+            "sql": {
+              "title": "Sql",
+              "type": "string"
+            }
+          },
+          "required": [
+            "sql"
+          ],
+          "title": "query_sqlArguments",
+          "type": "object"
+        },
+        "name": "query_sql",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "query_sqlDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "b986d38182c3f2d282515955f61809eb4c8d63ee525ded5cb9e645fdde64a9ed"
+    },
+    "search_contacts": {
+      "payload": {
+        "description": "Find CRM contacts.\n\n        Start here for a name or PERSON token: pass the whole token as query,\n        never its numeric part. Tokens are resolved locally before matching.\n        Every query word must match first name, last name, e-mail, phone, city\n        or employer; partial and Czech declined names are supported. company\n        narrows by employer. Returns id, name, company_id, company, city,\n        lifecycle_stage, note_count and last_order_date per candidate.\n        A surname and matching full names may have different PERSON tokens;\n        random token numbers do not indicate whether names match. Ask the user\n        to choose among multiple candidates. Pass the returned id (CONTACT\n        handle when masked) to subsequent contact tools. Preserve tokens exactly.\n        ",
+        "inputSchema": {
+          "properties": {
+            "company": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Company"
+            },
+            "limit": {
+              "default": 10,
+              "title": "Limit",
+              "type": "integer"
+            },
+            "query": {
+              "title": "Query",
+              "type": "string"
+            }
+          },
+          "required": [
+            "query"
+          ],
+          "title": "search_contactsArguments",
+          "type": "object"
+        },
+        "name": "search_contacts",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "search_contactsDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "18c20069d8b051a8af253477dc20189161f9d06a269d84be5e3562b95b2a93b5"
+    },
+    "search_notes": {
+      "payload": {
+        "description": "Search CRM notes by text and/or contact, newest first.\n\n        Returns id, contact_id, contact, content, category, created_at and\n        author per note. Tokens in the arguments and results are session tokens;\n        pass them back exactly as received.\n        ",
+        "inputSchema": {
+          "properties": {
+            "contact_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Contact Id"
+            },
+            "limit": {
+              "default": 10,
+              "title": "Limit",
+              "type": "integer"
+            },
+            "query": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Query"
+            }
+          },
+          "title": "search_notesArguments",
+          "type": "object"
+        },
+        "name": "search_notes",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "search_notesDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "4be87b9490960fa5939b214b487f0f5a4101dbacc7aa704771a48da90fee211d"
+    },
+    "search_reviews": {
+      "payload": {
+        "description": "Full-text search over the customers' product reviews (Czech and English).\n\n        query is plain words and all of them must occur in the review; contact_id\n        narrows to one customer's reviews. Returns contact_id, contact, product,\n        rating, review_date, summary and text per review.\n        ",
+        "inputSchema": {
+          "properties": {
+            "contact_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Contact Id"
+            },
+            "limit": {
+              "default": 10,
+              "title": "Limit",
+              "type": "integer"
+            },
+            "query": {
+              "title": "Query",
+              "type": "string"
+            }
+          },
+          "required": [
+            "query"
+          ],
+          "title": "search_reviewsArguments",
+          "type": "object"
+        },
+        "name": "search_reviews",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "search_reviewsDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "6986c56796caa43b71468d5cb758416800e890174150a6960742284b7ef520ab"
+    },
+    "server_info": {
+      "payload": {
+        "description": "Server metadata: version, Python, platform, active security profile, registered tools.",
+        "inputSchema": {
+          "properties": {},
+          "title": "server_infoArguments",
+          "type": "object"
+        },
+        "name": "server_info",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "server_infoDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "9a24cc6379235e5b54768e84f459f0e006fa839cf802bd161de2d5eb49de1846"
+    },
+    "update_company": {
+      "payload": {
+        "description": "Change one field of a company you have read (full_street, city, postal_code, legal_form, ...).\n\n        Same rules as update_contact: pass the company's updated_at you read, a\n        stale one is refused with the current value, strict holds the change for\n        review, other profiles apply and log it.\n        ",
+        "inputSchema": {
+          "properties": {
+            "company_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Company Id"
+            },
+            "expected_updated_at": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Expected Updated At"
+            },
+            "field": {
+              "title": "Field",
+              "type": "string"
+            },
+            "value": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "boolean"
+                }
+              ],
+              "title": "Value"
+            }
+          },
+          "required": [
+            "company_id",
+            "field",
+            "value",
+            "expected_updated_at"
+          ],
+          "title": "update_companyArguments",
+          "type": "object"
+        },
+        "name": "update_company",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "update_companyDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "a3194a3efa9dd54d5a4992d067c8bb14ec9ad10297774e97cdbc759f62ca996f"
+    },
+    "update_contact": {
+      "payload": {
+        "description": "Change one field of a contact you have read.\n\n        field is a column such as phone, email, full_street, city, postal_code,\n        lifecycle_stage, title or company_id; value is the new value (session\n        tokens are restored by the server). expected_updated_at is the contact's\n        updated_at exactly as search_contacts or get_contact returned it (null\n        when it was null). If the record changed since, the answer is error =\n        stale with the field's current value: show it to the user and ask before\n        retrying with the current updated_at. In the strict security profile a\n        matching request is recorded and held for a human reviewer (status =\n        pending_review); otherwise it is applied at once and logged.\n        ",
+        "inputSchema": {
+          "properties": {
+            "contact_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Contact Id"
+            },
+            "expected_updated_at": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Expected Updated At"
+            },
+            "field": {
+              "title": "Field",
+              "type": "string"
+            },
+            "value": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "number"
+                },
+                {
+                  "type": "boolean"
+                }
+              ],
+              "title": "Value"
+            }
+          },
+          "required": [
+            "contact_id",
+            "field",
+            "value",
+            "expected_updated_at"
+          ],
+          "title": "update_contactArguments",
+          "type": "object"
+        },
+        "name": "update_contact",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "update_contactDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "df068d1ac005c1d536f3272605f794f68e6e755782319c7e2fa61b970183d93c"
+    },
+    "update_note": {
+      "payload": {
+        "description": "Change the text and/or the category of a note you have read.\n\n        expected_updated_at is the note's updated_at exactly as the server\n        returned it (null when it was null). If the note changed since, the\n        answer is error = stale with the current content: show it to the user\n        and ask before retrying with the current updated_at. The change is logged.\n        ",
+        "inputSchema": {
+          "properties": {
+            "category": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Category"
+            },
+            "content": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "default": null,
+              "title": "Content"
+            },
+            "expected_updated_at": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "null"
+                }
+              ],
+              "title": "Expected Updated At"
+            },
+            "note_id": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "integer"
+                }
+              ],
+              "title": "Note Id"
+            }
+          },
+          "required": [
+            "note_id",
+            "expected_updated_at"
+          ],
+          "title": "update_noteArguments",
+          "type": "object"
+        },
+        "name": "update_note",
+        "outputSchema": {
+          "additionalProperties": true,
+          "title": "update_noteDictOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "6b2a89ab4f9e74df69a884d433bf5f573853a31d4741ffc5ab5156f6902f67eb"
+    },
+    "whoami": {
+      "payload": {
+        "description": "One-line identity of this server.",
+        "inputSchema": {
+          "properties": {},
+          "title": "whoamiArguments",
+          "type": "object"
+        },
+        "name": "whoami",
+        "outputSchema": {
+          "properties": {
+            "result": {
+              "title": "Result",
+              "type": "string"
+            }
+          },
+          "required": [
+            "result"
+          ],
+          "title": "whoamiOutput",
+          "type": "object"
+        }
+      },
+      "sha256": "0551a6fc1be73426e5c63b6d8531cc6a46ff7732fe8d3c81428976231aeffacd"
+    }
+  }
+}

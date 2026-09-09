@@ -1,0 +1,40 @@
+{
+  "contact_id": 45,
+  "reviewer_id": "A2ZY49IDE6TY5I",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 110,
+  "reviews_used": 15,
+  "prompt_chars": 9776,
+  "status": "ok",
+  "seconds": 126.69,
+  "error": "",
+  "profile": {
+    "O": 3.7,
+    "C": 4.15,
+    "E": 3.45,
+    "A": 4.05,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "The sounds are crisp and you can pick up the nuances present in what you are listening to.",
+      "C": "Her parents and I looked at all the tablets currently available, and compared them and read the reviews.",
+      "E": "Throwing caution to the wind, I bought this Ipad2 and it was instant love.",
+      "A": "We planned where the cameras would be mounted. I observed and handed him tools,etc. while my husband attached all the cameras in strategic places",
+      "N": "I was apprehensive re: dropping a nice piece of change on a tablet and wasn't really sure if I really needed a tablet."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.15,
+    "E": 3.45,
+    "N": 2.75,
+    "O": 3.7,
+    "evidence_quotes": {
+      "A": "We planned where the cameras would be mounted. I observed and handed him tools,etc. while my husband attached all the cameras in strategic places",
+      "C": "Her parents and I looked at all the tablets currently available, and compared them and read the reviews.",
+      "E": "Throwing caution to the wind, I bought this Ipad2 and it was instant love.",
+      "N": "I was apprehensive re: dropping a nice piece of change on a tablet and wasn't really sure if I really needed a tablet.",
+      "O": "The sounds are crisp and you can pick up the nuances present in what you are listening to."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 371,
+  "reviewer_id": "ALYU98KL3VUGF",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 38,
+  "reviews_used": 15,
+  "prompt_chars": 10037,
+  "status": "ok",
+  "seconds": 1223.14,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.45,
+    "E": 3.1,
+    "A": 3.8,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "its ability to create a beautiful out of focus effect in background or foreground.",
+      "C": "Panasonic G2 weights 371 g / 13.09 oz body only, 593 g / 20.92 oz with battery, memory card and 14-42mm lens.",
+      "E": "I get the Sigma Teleconverter 1.4X especially for outdor sport games.",
+      "A": "It helps you set up your camera, in the same time, it tells you about basic photography setting and concepts.",
+      "N": "When Think Tank Photo announced Shape Shifter last year (2009), I am a bit skeptical."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.45,
+    "E": 3.1,
+    "N": 2.2,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "It helps you set up your camera, in the same time, it tells you about basic photography setting and concepts.",
+      "C": "Panasonic G2 weights 371 g / 13.09 oz body only, 593 g / 20.92 oz with battery, memory card and 14-42mm lens.",
+      "E": "I get the Sigma Teleconverter 1.4X especially for outdor sport games.",
+      "N": "When Think Tank Photo announced Shape Shifter last year (2009), I am a bit skeptical.",
+      "O": "its ability to create a beautiful out of focus effect in background or foreground."
+    }
+  }
+}

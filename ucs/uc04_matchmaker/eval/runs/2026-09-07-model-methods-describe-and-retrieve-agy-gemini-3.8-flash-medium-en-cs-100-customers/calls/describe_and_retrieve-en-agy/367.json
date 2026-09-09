@@ -1,0 +1,34 @@
+{
+  "contact_id": 367,
+  "status": "ok",
+  "seconds": 12.78,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-2-methods-agy-gemini-3.8-flash-medium-en-cs-100-customers",
+  "parsed": {
+    "next_purchases": [
+      "Replacement ear pads for Sony MDR7506 headphones",
+      "Headphone stand for over-ear headphones",
+      "Hard travel carrying case for over-ear headphones"
+    ]
+  },
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "agy",
+  "model": "gemini-3.8-flash",
+  "tier": "medium",
+  "provider_cli_version": "1.1.27",
+  "prompt_version": "1.0.2",
+  "database_sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+  "prompt": "Customer C-367 (anonymised). Product titles in English.\nPurchase history (34 purchases, oldest first):\n- 2002-01-24 ★5 PalmOne m125 Handheld\n- 2002-01-25 ★4 Handspring Visor Platinum (Silver)\n- 2002-01-28 ★5 Handspring Visor Pro (Silver)\n- 2002-02-07 ★5 PalmOne m100 Series Slim Leather Carrying Case\n- 2002-02-13 ★5 PalmOne m100 series Faceplate Cover (Silver Mist)\n- 2002-02-13 ★5 PalmOne Portable Keyboard for Palm m100/m105, III Series, and VII Series Handhelds\n- 2002-04-12 ★5 PalmOne m130 Handheld\n- 2002-11-19 ★4 PalmOne m515 Color Handheld\n- 2004-02-03 ★5 PalmOne Tungsten T2 Handheld\n- 2004-02-10 ★5 PalmOne Tungsten T3 Handheld\n- 2006-01-16 ★3 PalmOne Zire 71 Handheld\n- 2007-04-03 ★4 Suunto Vector Wristop Computer with Compass, Altimeter & Barometer\n- 2008-01-04 ★4 TREO 700 PALM\n- 2008-01-15 ★5 Philips HN060/37 Noise-Canceling Earbuds (Discontinued by Manufacturer)\n- 2008-01-30 ★5 SanDisk Sansa Clip 2 GB MP3 Player - Blue\n- 2009-08-21 ★4 Philips SA32 4 GB Flash Video MP3 Player with FM Radio and 1.8-Inch Color Screen (Black)\n- 2010-06-28 ★3 Tivax HiRez9 Portable 9-Inch Digital TV\n- 2010-07-20 ★4 TomTom GO 740TM LIVE 4.3-Inch Bluetooth Portable GPS Navigator (Lifetime Traffic & Maps Edition)\n- 2010-07-21 ★4 TomTom XL 350 4.3-Inch Portable GPS Navigator\n- 2012-01-25 ★5 Motorola Wireless Keyboard\n- 2012-10-09 ★5 Motorola MOTOACTV 8GB GPS Sports Watch and MP3 Player with Wrist Strap (Discontinued by Manufacturer)\n- 2012-11-20 ★3 Logitech 982-000072 UE 4000 Headphones - Black (Discontinued by Manufacturer)\n- 2013-01-31 ★5 B004MSQZUU\n- 2013-07-24 ★5 PORTABLE CHARGER RAVPower® 5600mAh External Battery Charger Power Bank USB External Battery Pack , Fit for Apple iPad 4,\n- 2013-09-18 ★5 MEElectronics Sport-Fi M6 Noise-Isolating In-Ear Headphones with Memory Wire (Black)\n- 2013-10-07 ★5 Sony MDR7506 Professional Large Diaphragm Headphone\n- 2013-11-03 ★5 Sony MDR-V55/WHI DJ style Headphones\n- 2013-11-15 ★5 Anker® Mini Wireless Slim Keyboard and Optical Mouse Combo for Desktop, Win 8 / 7 / Vista / XP\n- 2013-11-20 ★3 Beats Studio Over-Ear Headphones (Black)\n- 2013-12-09 ★2 Yurbuds Ironman Inspire Performance Fit Sport Earphones, White-10111\n- 2014-04-08 ★4 Philips SHQ1207/28 Sport ActionFit In-Ear Headset for iPhone/iPod/iPad, Orange/Gray\n- 2014-04-08 ★4 B00DQZSFSA\n- 2014-04-08 ★3 B00HPM1FZ0\n- 2014-05-06 ★3 Beats urBeats In-Ear Headphones (White)\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Replacement ear pads for Sony MDR7506 headphones",
+      "Headphone stand for over-ear headphones",
+      "Hard travel carrying case for over-ear headphones"
+    ]
+  },
+  "held_out": "B00BWHILCY"
+}

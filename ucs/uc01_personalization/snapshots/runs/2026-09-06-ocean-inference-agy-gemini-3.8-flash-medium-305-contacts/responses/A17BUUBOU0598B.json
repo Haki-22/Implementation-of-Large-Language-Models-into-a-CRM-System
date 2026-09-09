@@ -1,0 +1,40 @@
+{
+  "contact_id": 36,
+  "reviewer_id": "A17BUUBOU0598B",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 228,
+  "reviews_used": 15,
+  "prompt_chars": 10438,
+  "status": "ok",
+  "seconds": 91.17,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.55,
+    "A": 4.1,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "I did a lot of research into the various models in this price range.",
+      "C": "I have added most of these cons after long term use. These are mostly nit-picky cons, and this unit is still a great value.",
+      "E": "In fact I also own many other portable hard drives in the Western Digital passport lineup and so far I couldn't be happier.",
+      "A": "The model numbers are confusing, but I've gone through a few new models recently and hope this extra info may help you.",
+      "N": "Considering the price it's hard to get too demanding in the sound department."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 3.55,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "The model numbers are confusing, but I've gone through a few new models recently and hope this extra info may help you.",
+      "C": "I have added most of these cons after long term use. These are mostly nit-picky cons, and this unit is still a great value.",
+      "E": "In fact I also own many other portable hard drives in the Western Digital passport lineup and so far I couldn't be happier.",
+      "N": "Considering the price it's hard to get too demanding in the sound department.",
+      "O": "I did a lot of research into the various models in this price range."
+    }
+  }
+}

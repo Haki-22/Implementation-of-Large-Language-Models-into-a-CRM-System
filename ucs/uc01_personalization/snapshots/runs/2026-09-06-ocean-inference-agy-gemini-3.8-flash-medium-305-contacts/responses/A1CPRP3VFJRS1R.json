@@ -1,0 +1,40 @@
+{
+  "contact_id": 232,
+  "reviewer_id": "A1CPRP3VFJRS1R",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 8907,
+  "status": "ok",
+  "seconds": 861.33,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.5,
+    "E": 3.35,
+    "A": 2.8,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "The unit is aesthetically beautiful, and could easily pass for a high end smoke detector.",
+      "C": "I spent a lot of time trying out GPS units, and have compared Garmin, Tom Tom, Magellan, and several factory GPS units.",
+      "E": "All you need to know about these is that they unnecessarily use a proprietary rechargeable battery.",
+      "A": "Did they re-write the firmware to correct the bugs? No. They just removed all support for EXT3.",
+      "N": "There are two things that are just downright annoying about the headphones that make them far worse than the 7-year old unit I was using before."
+    }
+  },
+  "raw": {
+    "A": 2.8,
+    "C": 4.5,
+    "E": 3.35,
+    "N": 3.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Did they re-write the firmware to correct the bugs? No. They just removed all support for EXT3.",
+      "C": "I spent a lot of time trying out GPS units, and have compared Garmin, Tom Tom, Magellan, and several factory GPS units.",
+      "E": "All you need to know about these is that they unnecessarily use a proprietary rechargeable battery.",
+      "N": "There are two things that are just downright annoying about the headphones that make them far worse than the 7-year old unit I was using before.",
+      "O": "The unit is aesthetically beautiful, and could easily pass for a high end smoke detector."
+    }
+  }
+}

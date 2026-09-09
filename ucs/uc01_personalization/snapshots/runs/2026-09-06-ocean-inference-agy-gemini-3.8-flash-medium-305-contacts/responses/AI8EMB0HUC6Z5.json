@@ -1,0 +1,40 @@
+{
+  "contact_id": 167,
+  "reviewer_id": "AI8EMB0HUC6Z5",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 117,
+  "reviews_used": 15,
+  "prompt_chars": 9176,
+  "status": "ok",
+  "seconds": 631.15,
+  "error": "",
+  "profile": {
+    "O": 3.6,
+    "C": 4.2,
+    "E": 3.4,
+    "A": 3.1,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "Firstly, I am not an audiophile. I enjoy a good sound system, but it isn't a point of pride or anything like that for me.",
+      "C": "So, I took an Icom M36 as a backup. The boat's installed radio turned out to be perfectly fine and its much higher antennae (top of the mast) provided great reception.",
+      "E": "It was nice to make dinner reservations (this was in the British Virgin Islands, aka BVI) via VHF while taking the dinghy between harbors and stuff.",
+      "A": "I used to be a Sony fan. I bought this thing because of the Sony label. No more. The Sony brand has lost it.",
+      "N": "Executive Summary: Works as expected so far, no drama."
+    }
+  },
+  "raw": {
+    "A": 3.1,
+    "C": 4.2,
+    "E": 3.4,
+    "N": 2.3,
+    "O": 3.6,
+    "evidence_quotes": {
+      "A": "I used to be a Sony fan. I bought this thing because of the Sony label. No more. The Sony brand has lost it.",
+      "C": "So, I took an Icom M36 as a backup. The boat's installed radio turned out to be perfectly fine and its much higher antennae (top of the mast) provided great reception.",
+      "E": "It was nice to make dinner reservations (this was in the British Virgin Islands, aka BVI) via VHF while taking the dinghy between harbors and stuff.",
+      "N": "Executive Summary: Works as expected so far, no drama.",
+      "O": "Firstly, I am not an audiophile. I enjoy a good sound system, but it isn't a point of pride or anything like that for me."
+    }
+  }
+}

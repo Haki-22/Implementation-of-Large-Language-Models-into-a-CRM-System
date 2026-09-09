@@ -1,0 +1,35 @@
+{
+  "contact_id": 374,
+  "status": "ok",
+  "seconds": 5.92,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "3D Blu-ray discs compatible with Samsung BD-H5900",
+      "HDMI cable for 3D Blu-ray player and 55-inch LG Smart TV",
+      "Replacement NB-6L camera battery for Canon PowerShot"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Customer C-374 (anonymised). Product titles in English.\nPurchase history (34 purchases, oldest first):\n- 2010-02-01 ★5 Sennheiser PX 100 Lightweight Collapsible Headphones (Discontinued by Manufacturer)\n- 2010-10-28 ★5 Logitech V450 Cordless Laser Mouse\n- 2010-10-28 ★3 ThermaPAK HS15A HeatShift Laptop Cooler for Laptops Up to 15\" (Black)\n- 2010-10-30 ★4 Case Logic MSEC-2 EVA Molded Compact Camera Case (Blue)\n- 2010-10-30 ★5 Guided Products ReSleeve View Recycled Cardboard CD Sleeve, 25 Pack (GDP00083)\n- 2010-11-27 ★5 Headset Buddy 2.5mm Female to 3.5mm Male Headset Adapter, Color May Very from Image\n- 2011-03-23 ★4 Veebeam HD | Wireless PC to TV link | 1080p\n- 2011-04-15 ★5 Targus Car Charger -DC for Apple iPad, iPad 2, iPad 3 and iPad 4th Generation, iPad mini, 16GB, 32GB, 64GB WiFi , 4G, iP\n- 2011-05-30 ★1 Archos Vision 30c 8 GB Video MP3 Player with 3-Inch Touchscreen and FM Radio (Silver)\n- 2011-07-24 ★3 Belkin Micra Digital HDMI to Micro-HDMI Cable (6ft)\n- 2011-07-26 ★5 Belkin Ultra Slim Aluminium Series 7-Port USB 2.0 Hub (F4U039fcAPL)\n- 2011-08-02 ★5 Logitech 920-003390 Tablet Keyboard for Android 3.0 Plus\n- 2011-08-14 ★2 Sony Bloggie 3D Camera (Black)\n- 2011-08-14 ★4 Belkin N450 Wireless N Router (Latest Generation)\n- 2011-11-23 ★5 Motorola MOTOACTV Clip (Discontinued by Manufacturer)\n- 2011-11-26 ★4 MOTOACTV 8 GB GPS Fitness Tracker and Music Player (Discontinued by Manufacturer)\n- 2012-02-22 ★3 Pogoplug Series 4 Backup Device\n- 2012-04-08 ★3 Samsung HM1700 Bluetooth Headset (Gray)\n- 2012-05-06 ★4 Thule Gauntlet TMAS-113 13.3\" MacBook Air and Pro Retina Display Sleeve (Black)\n- 2012-05-22 ★4 Sony Cyber-shot DSC-TX66 18.2 MP Exmor R CMOS Digital Camera with 5x Optical Zoom and 3.3-inch OLED (Silver) (2012 Model\n- 2012-05-24 ★5 Sony RDPX500iP Dock for iPod, iPhone and iPad\n- 2012-07-10 ★5 Canon NB-6L Compatible Li-Ion Battery + Battery Charger for PowerShot D10 / PowerShot SD1200 IS / PowerShot S90 / PowerS\n- 2012-08-02 ★4 Belkin UltraThin Folio Case for Acer Tablet 10.1in (Midnight Black)\n- 2013-05-05 ★4 LG Electronics 55LA6900 55-Inch Cinema Screen Cinema 3D 1080p 120Hz LED-LCD HDTV with Smart TV and Four Pairs of 3D Glas\n- 2013-08-31 ★5 Belkin MiXiT Tangle-Free Aux / Auxiliary Cable, 3 Feet (Red)\n- 2013-09-11 ★4 Google Chromecast HDMI Streaming Media Player\n- 2013-09-18 ★3 Samsung BD-E5400 Wi-Fi Blu-ray Player (Black) (2012 Model)\n- 2013-09-28 ★4 iHome iDL91 Dual Charging Stereo FM Clock Radio with Lightning Dock and USB Charge/Play for iPhone/iPod/iPad\n- 2013-10-13 ★3 Jabra STYLE Wireless Bluetooth Headset - Black\n- 2013-10-26 ★4 Genius 2.4 GHz 1600dpi Laser Mouse for glass surface (Traveler 9010LS)\n- 2013-10-30 ★5 Duracell Powermat GoPower Overnighter Backup Battery, Power Bank for iPhone 5S/5C/5, Samsung Galaxy S4, Other Smartphone\n- 2014-02-26 ★5 Nexxt Gallery Series Digital Solid Wood Frame, 12 by 18-Inch, Black\n- 2014-04-12 ★3 Sony DSC-QX100 Smartphone Attachable Lens-style Camera\n- 2014-06-25 ★4 Samsung BD-H5900 3D Blu-Ray Disc Player\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "3D Blu-ray discs compatible with Samsung BD-H5900",
+      "HDMI cable for 3D Blu-ray player and 55-inch LG Smart TV",
+      "Replacement NB-6L camera battery for Canon PowerShot"
+    ]
+  },
+  "held_out": "B00K4PAPG0"
+}

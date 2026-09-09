@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "305",
+  "status": "ok",
+  "seconds": 15.94,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "rychlost",
+        "sentiment": "positive",
+        "evidence": "Čtečka paměťových karet Kingston USB 3.0 je RYCHLÁ, stabilní a robustní!"
+      },
+      {
+        "aspect": "spolehlivost",
+        "sentiment": "positive",
+        "evidence": "Dobrá SDXC flash karta od PNY; rychlá, spolehlivá, splňuje všechny výše uvedené požadavky!"
+      },
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Ale na to, co jsou, tyto malé reproduktory Yamaha do každého počasí zní po správném záběhu, jak je popsáno výše, fantasticky a bezpochyby vydrží pár měsíců při vyšším výkonu, než na který jsou jmenovité!"
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Je robustní, vyrobená z kovu, nikoli z plastu, takže má trochu sílu a zůstane na stole, aniž by se převrhla a přejela ji židle, nebo ještě hůř (šlápla na ni!)."
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Ale Amazon nabídl nejnižší cenu, která byla na mém účtu PRIME nejlepší, takže jsem je koupil znovu tam... ceny a dopravu Amazonu prostě nepřekonáte!"
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-305 (anonymizován).\nRecenze (75, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nČtečka paměťových karet Kingston USB 3.0 FCR-HS3: Čtečka paměťových karet Kingston USB 3.0 je RYCHLÁ, stabilní a robustní! Jsem velkým fanouškem produktů Kingston, protože jejich paměti používám výhradně pro PC a Macy ve svých sestavovacích serverech a stolních počítačích. V RAM jsem se stal věřícím už dávno... tehdy, když slovo G-5 v řeči Maců znamenalo skvělý stolní počítač! Stejný příběh je s touto čtečkou karet od Kingstonu. Je robustní, vyrobená z kovu, nikoli z plastu, takže má trochu sílu a zůstane na stole, aniž by se převrhla a přejela ji židle, nebo ještě hůř (šlápla na ni!). Funkce USB 3.0 je důvodem číslo jedna pro investici do jedné z těchto čteček, protože rychlost přenosu dat je oproti USB 2.0 velmi vysoká, a ani čtečky Firewire (ano, jednu takovou mám!) se nemohou srovnávat s dnešním novým rozhraním USB 3.0. Je to prostě neuvěřitelně rychlý přenos dat, ke kterému dochází, když kliknete na jakoukoli fotografii nebo video, které jste pořídili digitálním fotoaparátem! Rychlé, rychlé a ještě rychlejší! Celkově vzato k tomuto zařízení není moc co dodat, než KOUPIT! Je to prostě nejlepší malá čtečka karet, jakou si dnes můžete koupit. Díky malým rozměrům na stole je mnohem lepší než levná plastová čtečka. Vždyť ji vyrábí Kingston, že? Musí být pevná, dobře zkonstruovaná a ze své podstaty kvalitní, že? Jasně! Pořiďte si ji ještě dnes!\nPaměťová karta PNY Elite Performance 64GB UHS-1 SDXC (P-SDX64U1H-GE): Dobrá SDXC flash karta od PNY; rychlá, spolehlivá, splňuje všechny výše uvedené požadavky! Tuhle skvělou, skvělou kartu PNY Elite Performance 64GB Flash SDXC jsem vrátil, ale až poté, co jsem ji důkladně otestoval. Moje testy HD Tune Pro a HD Speed Pro ji zařadily mezi elitní SDXD karty od renomovaných výrobců, jako jsou Sony, San Disk Extreme a další... čísla jako rychlost zápisu přes 60 MB/s napříč celým svazkem ji opravdu odlišují od jiných, méně kvalitních karet. Kéž by všechny flash karty byly vyrobeny takhle dobře, možná s DRAM od Samsungu (?), nejkvalitnější jednočlánkovou pamětí připravenou na cokoli, co jí postavíte do cesty!! Wavey Davey - 13.1.2014\nSanDisk Ultra 64GB MicroSDXC Class 10 UHS Memory Card Speed Up To 30MB/s With Adapter, Frustration-Free Packaging - SDSDQU-064G-AFFP-A: SanDisk vyrábí OBROVSKOU řadu mikro USB čipů SDXC! Lidé se mě často ptají na nízké ceny médií neznámých značek a já prostě musím uvést vlastní zkušenosti s levnými médii. Je to prostě tak, že levná média jsou náchylná k selhání, nebo ještě hůř, pokud se jedná o složitý formát, jako je tento, formát SDXC. Do té malé krabičky nacpali hromadu paměťových modulů, víte? Říkám, že je důležité volit zkušenosti, volit lídra v oboru, takže SanDisk je v podstatě na vrcholu a zbytek výrazně zaostává v objemu a přesných montážních technikách... takže vždycky hlasuji pro SanDisk a pokud se moje zkušenost nezmění nějakou anomálií, budu SanDisk i nadále doporučovat před všemi ostatními. Jeho rychlost zápisu je 40 MB/s, což stačí k tomu, aby udržel krok i s nejrychlejším skutečným fotoaparátem nebo fotoaparátem telefonu, a rozhodně drží krok s 13megapixelovým fotoaparátem mého Samsungu Note 3, který v režimu sériového snímání pořizuje až 8 snímků za sekundu a pořizuje určité snímky, takže pokud to funguje perfektně pro tento fotoaparát, je pravděpodobné, že bude skvěle fungovat i pro vaši sestavu! Koupě paměťového modulu SanDisk stojí kolik, maximálně o 5-7 dolarů více než ostatní, že? Říkám, kupte si tenhle tady, je to vítěz ve všech ohledech. Wavey Davey 1. 12. 2014\nMonoprice 1 pár vysoce kvalitních měděných banánek pro reproduktory s uzavřeným šroubovacím typem: Velmi POZITIVNÍ kontakt a držení drátu! Tohle jsou nejlepší banánové zástrčky, které jsem si v poslední době na Amazonu koupil, protože jich každý rok pár kupuji na nějaký produkt nebo projekt, a tento šroubovací typ nenechává nikoho na pochybách, že jste uchopili, zachytili a upevnili spojovací konce reproduktorových kabelů na 100 %. Vypadají také velmi „trendy“ a na zadní straně reproduktorů je každý konektor zdoben spoustou třpytek, takže vypadají moc hezky! Snadno se používají, snáze se instalují a nastavují, na Amazonu se neprodává lepší banánový konektor než tyto. Vysoce lesklé červeno-černé barevné kódování plus a mínus na každém konektoru jen umocňuje celkový „profesionální efekt“, který takový konektor poskytuje i při práci na zapojení, kterou jste provedli. Celkově vzato solidní a dobře investovaný nákup, i když jich musíte na velkou práci na zapojení sehnat asi tucet. Wavey Davey - 13. 7. 2013\nYamaha NS-AW150BL 2pásmové venkovní reproduktory (pár, černé): Od těchto skvělých reproduktorů jsem nečekal nic moc, chtěl jsem jen malou součástku, která dobře zní! A tak to pokračovalo. Po zhruba deseti dnech v kuse, kdy jsem zaběhal cívky, úchyty a slepení takových reproduktorů do každého počasí, jako jsou ty od Yahamy, začínají mé 7.2kanálové domácí kino Yamaha znít docela elegantně a jemně, po troše chraplavého, syčivého a praskavého zvuku ve vyšších rejstřících. Omezil jsem veškerá nastavení systému u těchto reproduktorů, protože je na pár měsíců budu v obývacím pokoji používat jen ony, protože potřebuji novou kompletní sadu reproduktorů pro prostorový zvuk, subwoofer, všechno v mém herním pokoji, našem druhém obývacím pokoji... poté, co jsem před dvěma týdny v noci viděl, jak se rozplakala krásná sada JBL, všechny lepidla a držáky reproduktorů za zhruba 25 let své životnosti prostě vyschly a odfoukl se. Ale na to, co jsou, tyto malé reproduktory Yamaha do každého počasí zní po správném záběhu, jak je popsáno výše, fantasticky a bezpochyby vydrží pár měsíců při vyšším výkonu, než na který jsou jmenovité! Jsou to těžké, pevné, zasazené kusy jednotlivých reproduktorů, které se při umístění nebudou toulat po celé podlaze... pod spodní částí jednotek je pěkná „železniční kolejnice“, která je drží na místě... navíc jsou poměrně těžké a mají kvalitní industriální povrchovou úpravu. Jsem rád, že jsem tyto pěkné malé reproduktory mohl sehnat v místním Walgreens za méně než 75 dolarů, prodávaly se také v obchodě Ward's poblíž mého bydliště a viděl jsem je i ve Fry's Electronics... takže se zdají být oblíbené a vhodné pro takové obchody, aby je měly skladem. Ale Amazon nabídl nejnižší cenu, která byla na mém účtu PRIME nejlepší, takže jsem je koupil znovu tam... ceny a dopravu Amazonu prostě nepřekonáte! Wavey Davey - 13. 7. 2013\nReproduktorový kabel RCA AH18100N, 100 stop, průměr 18, 18 mm: NEJLEPŠÍ reproduktorový kabel prodávaný na Amazonu Loni jsem s tímto kabelem zapojil svou reproduktorovou sadu Logitech Z-906 a zní s ní asi o 100 % lépe než s tím nedbale 18\" kabelem, který dodávali... totéž platí pro pár povětrnostně odolných 2pásmových reproduktorů Yahama, které jsem si právě koupil, abych přežil, než si budu moct dovolit novou blitz sadu do přední místnosti pro kvadrofonní HDTV systém, s centrálním prvkem z velkých 17,5\", 9\" a 3palcových reproduktorů JBL, které se u mě po asi 25 letech služby prostě opotřebovaly... a věřte nebo ne, ty malé Yamahy zní hutně a plné basů a s tím skvělým 14\" kabelem v nich funguje i pěkný výhybkový systém! V každé kladné a záporné části je tolik pramenů drátu, že existuje zatraceně dobrý důvod, proč je tento typ kabelového systému tak bezproblémový, nezkreslený a z hlediska odolnosti velmi pevný. Pokud použijete také velmi vysoce kvalitní banánové konektory, jako jsou moje pozlacené banánové konektory pro 12\" reproduktory Yamaha, které jsem sehnal tady na Amazonu za asi 3 dolary za sadu, opravdu to posune laťku a i z těch nejskromnějších reproduktorových sestav získáte slušný zvuk. Používám různé značky drátů o průměru 14, odjakživa, a pokud jde o dokončení systému skvělými dráty a příslušenstvím, prostě neexistuje žádná omluva pro šetření. Prostě si musíte koupit drát o průměru 14, abyste měli šanci na perfektně znějící systém, konec příběhu. Wavey Davey - 13. 7. 2013\nPowergen bílá 2,4ampérová (12wattová) duální USB nabíječka do zásuvky s plnou zástrčkou určená pro zařízen\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "rychlost",
+        "sentiment": "positive",
+        "evidence": "Čtečka paměťových karet Kingston USB 3.0 je RYCHLÁ, stabilní a robustní!"
+      },
+      {
+        "aspect": "spolehlivost",
+        "sentiment": "positive",
+        "evidence": "Dobrá SDXC flash karta od PNY; rychlá, spolehlivá, splňuje všechny výše uvedené požadavky!"
+      },
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Ale na to, co jsou, tyto malé reproduktory Yamaha do každého počasí zní po správném záběhu, jak je popsáno výše, fantasticky a bezpochyby vydrží pár měsíců při vyšším výkonu, než na který jsou jmenovité!"
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Je robustní, vyrobená z kovu, nikoli z plastu, takže má trochu sílu a zůstane na stole, aniž by se převrhla a přejela ji židle, nebo ještě hůř (šlápla na ni!)."
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Ale Amazon nabídl nejnižší cenu, která byla na mém účtu PRIME nejlepší, takže jsem je koupil znovu tam... ceny a dopravu Amazonu prostě nepřekonáte!"
+      }
+    ]
+  }
+}

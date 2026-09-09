@@ -1,0 +1,40 @@
+{
+  "contact_id": 163,
+  "reviewer_id": "A36A1ZYZH8568P",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 118,
+  "reviews_used": 15,
+  "prompt_chars": 10175,
+  "status": "ok",
+  "seconds": 605.49,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.55,
+    "A": 3.95,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I'm an experienced nature photographer, having been at it for over 50 years.",
+      "C": "After six months of study, I decided on the A620, and am moderately happy with my decision.",
+      "E": "10 stars! I've discovered \"Stephanie\" - well, that's what I call Galaxy's answer to Siri. I may never have to type again. Absolutely love this Galaxy.",
+      "A": "Sorry, Amazon (and Nikon), but this was not well thought out.",
+      "N": "Now I'll return this, and take my lumps because I'm not spending more than $83 to watch a DVD and all my CD drives work just fine."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.35,
+    "E": 3.55,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Sorry, Amazon (and Nikon), but this was not well thought out.",
+      "C": "After six months of study, I decided on the A620, and am moderately happy with my decision.",
+      "E": "10 stars! I've discovered \"Stephanie\" - well, that's what I call Galaxy's answer to Siri. I may never have to type again. Absolutely love this Galaxy.",
+      "N": "Now I'll return this, and take my lumps because I'm not spending more than $83 to watch a DVD and all my CD drives work just fine.",
+      "O": "I'm an experienced nature photographer, having been at it for over 50 years."
+    }
+  }
+}

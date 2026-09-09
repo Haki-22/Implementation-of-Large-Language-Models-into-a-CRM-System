@@ -1,0 +1,40 @@
+{
+  "contact_id": 329,
+  "reviewer_id": "AUCIFMWP3DU8R",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 65,
+  "reviews_used": 15,
+  "prompt_chars": 9438,
+  "status": "ok",
+  "seconds": 367.31,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.05,
+    "E": 3.2,
+    "A": 2.75,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "23 years ago I built a boom box using the first ever Sony D-5 CD player as the anchor.",
+      "C": "after reviewing as many Amazon reviews as I could before the purchase, I was confident this model would do the job.",
+      "E": "When I returned them later that day, the clerk asked,\"Is there anything wrong with them?\" I said, \"Yeah, they suck\".",
+      "A": "To anyone who may like these, I am sorry to learn about your hearing disability.",
+      "N": "There is really nothing bad I can think of to say about the Sennheiser MM 550-X Bluetooth headphones."
+    }
+  },
+  "raw": {
+    "A": 2.75,
+    "C": 4.05,
+    "E": 3.2,
+    "N": 2.45,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "To anyone who may like these, I am sorry to learn about your hearing disability.",
+      "C": "after reviewing as many Amazon reviews as I could before the purchase, I was confident this model would do the job.",
+      "E": "When I returned them later that day, the clerk asked,\"Is there anything wrong with them?\" I said, \"Yeah, they suck\".",
+      "N": "There is really nothing bad I can think of to say about the Sennheiser MM 550-X Bluetooth headphones.",
+      "O": "23 years ago I built a boom box using the first ever Sony D-5 CD player as the anchor."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 34,
+  "reviewer_id": "A2BYV7S1QP2YIG",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 120,
+  "reviews_used": 15,
+  "prompt_chars": 9876,
+  "status": "ok",
+  "seconds": 83.45,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.15,
+    "E": 4.05,
+    "A": 4.1,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "It is so aesthetically pleasing, not very heavy and comfortable to hold.",
+      "C": "I like to leave my pad in a tiny baggie, or wrapped in a microfiber, just to keep it super clean.",
+      "E": "I have been looking for a light ipad cover that has a kickstand so I can watch movies with friends when we are on the road.",
+      "A": "do not listen to the complainers...they didn't bother to aEmail customer service, who was so incredibly helpful and nice.",
+      "N": "I won't be afraid to take it anywhere with me, and I won't be neurotic that it might get scratched."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.15,
+    "E": 4.05,
+    "N": 2.2,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "do not listen to the complainers...they didn't bother to aEmail customer service, who was so incredibly helpful and nice.",
+      "C": "I like to leave my pad in a tiny baggie, or wrapped in a microfiber, just to keep it super clean.",
+      "E": "I have been looking for a light ipad cover that has a kickstand so I can watch movies with friends when we are on the road.",
+      "N": "I won't be afraid to take it anywhere with me, and I won't be neurotic that it might get scratched.",
+      "O": "It is so aesthetically pleasing, not very heavy and comfortable to hold."
+    }
+  }
+}

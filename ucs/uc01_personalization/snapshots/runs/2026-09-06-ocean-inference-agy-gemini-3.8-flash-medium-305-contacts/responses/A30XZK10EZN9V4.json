@@ -1,0 +1,40 @@
+{
+  "contact_id": 172,
+  "reviewer_id": "A30XZK10EZN9V4",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 103,
+  "reviews_used": 15,
+  "prompt_chars": 6594,
+  "status": "ok",
+  "seconds": 648.1,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.4,
+    "A": 2.45,
+    "N": 3.4,
+    "evidence_quotes": {
+      "O": "I even used this enclosure on it's default settings to setup a Mountain Lion \"Fusion\" drive using 3 different size drives",
+      "C": "the first thing I did was upgrade their firmware. I then installed them both inside a Macbook Pro and booted from an external Firewire backup drive.",
+      "E": "I LOVE this battery grip! It has a nice feel to it and holds and uses two batteries which has greatly lengthened shooting time.",
+      "A": "whomever packaged it should be fired since packing it like that is bound to cost the company money with unnecessary returns and bad PR.",
+      "N": "This is total crap...don't waste your cash, having purchased this and then having to duc tape the crap out of it to get it to stay together"
+    }
+  },
+  "raw": {
+    "A": 2.45,
+    "C": 4.2,
+    "E": 3.4,
+    "N": 3.4,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "whomever packaged it should be fired since packing it like that is bound to cost the company money with unnecessary returns and bad PR.",
+      "C": "the first thing I did was upgrade their firmware. I then installed them both inside a Macbook Pro and booted from an external Firewire backup drive.",
+      "E": "I LOVE this battery grip! It has a nice feel to it and holds and uses two batteries which has greatly lengthened shooting time.",
+      "N": "This is total crap...don't waste your cash, having purchased this and then having to duc tape the crap out of it to get it to stay together",
+      "O": "I even used this enclosure on it's default settings to setup a Mountain Lion \"Fusion\" drive using 3 different size drives"
+    }
+  }
+}

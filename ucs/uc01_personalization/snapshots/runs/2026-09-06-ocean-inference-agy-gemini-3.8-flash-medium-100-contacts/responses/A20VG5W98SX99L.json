@@ -1,0 +1,40 @@
+{
+  "contact_id": 313,
+  "reviewer_id": "A20VG5W98SX99L",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 77,
+  "reviews_used": 15,
+  "prompt_chars": 9896,
+  "status": "ok",
+  "seconds": 300.42,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.05,
+    "E": 3.6,
+    "A": 3.9,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "I have been using camcorders since 1985 and I've used almost every possible format available to consumers.",
+      "C": "First of all, I would like to clarify other reviewer's information that might misguide some folks.",
+      "E": "It is always great to see my family over the webcam no matter what the quality of the video is.",
+      "A": "I always chose their motherboards for any self-assembled desktop computer for me and my friend.",
+      "N": "I was skeptical. I was afraid to waste the film again by having some dust or the air bubbles in"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.05,
+    "E": 3.6,
+    "N": 2.75,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I always chose their motherboards for any self-assembled desktop computer for me and my friend.",
+      "C": "First of all, I would like to clarify other reviewer's information that might misguide some folks.",
+      "E": "It is always great to see my family over the webcam no matter what the quality of the video is.",
+      "N": "I was skeptical. I was afraid to waste the film again by having some dust or the air bubbles in",
+      "O": "I have been using camcorders since 1985 and I've used almost every possible format available to consumers."
+    }
+  }
+}

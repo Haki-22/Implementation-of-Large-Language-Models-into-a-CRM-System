@@ -1,0 +1,40 @@
+{
+  "contact_id": 263,
+  "reviewer_id": "A1Z16630QMH8Q6",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 88,
+  "reviews_used": 15,
+  "prompt_chars": 9127,
+  "status": "ok",
+  "seconds": 980.48,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.05,
+    "E": 3.35,
+    "A": 4.05,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I have used Corel Draw for several years and love what can be done with it.",
+      "C": "I solved the problem by cutting a piece of gripper type rubberized shelf liner and that solved the problem.",
+      "E": "My idea of a home theater is to be able to watch my dvd movies and YouTube downloads plus videos of my family and soon to be great-grandson.",
+      "A": "It's not perfect and some channels, the sound is not loud enough, especially since I'm hard of hearing. If I have a problem, I can use earphones.",
+      "N": "I got a no good one this time. Win some, lose some."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.05,
+    "E": 3.35,
+    "N": 2.1,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "It's not perfect and some channels, the sound is not loud enough, especially since I'm hard of hearing. If I have a problem, I can use earphones.",
+      "C": "I solved the problem by cutting a piece of gripper type rubberized shelf liner and that solved the problem.",
+      "E": "My idea of a home theater is to be able to watch my dvd movies and YouTube downloads plus videos of my family and soon to be great-grandson.",
+      "N": "I got a no good one this time. Win some, lose some.",
+      "O": "I have used Corel Draw for several years and love what can be done with it."
+    }
+  }
+}

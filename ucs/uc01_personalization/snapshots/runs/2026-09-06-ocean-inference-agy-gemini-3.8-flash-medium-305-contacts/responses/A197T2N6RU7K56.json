@@ -1,0 +1,40 @@
+{
+  "contact_id": 220,
+  "reviewer_id": "A197T2N6RU7K56",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9662,
+  "status": "ok",
+  "seconds": 808.7,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.05,
+    "A": 3.9,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "Don't have any experience with Linux so I'm on a learning curve",
+      "C": "The active noise-canceling feature seemed to work very well, silencing the air conditioner and fans I had set going on \"high\" as a test.",
+      "E": "That case protected my Kindle from being dirtied (or worse) by spilled food at a cookout.",
+      "A": "It's not at all hard to change the RAM modules, I'm no techie and if I can do it anybody can.",
+      "N": "Well, that's over. I'm glad I haven't discarded the box this TV came in. This morning, it earned itself a return trip to Costco."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.35,
+    "E": 3.05,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "It's not at all hard to change the RAM modules, I'm no techie and if I can do it anybody can.",
+      "C": "The active noise-canceling feature seemed to work very well, silencing the air conditioner and fans I had set going on \"high\" as a test.",
+      "E": "That case protected my Kindle from being dirtied (or worse) by spilled food at a cookout.",
+      "N": "Well, that's over. I'm glad I haven't discarded the box this TV came in. This morning, it earned itself a return trip to Costco.",
+      "O": "Don't have any experience with Linux so I'm on a learning curve"
+    }
+  }
+}

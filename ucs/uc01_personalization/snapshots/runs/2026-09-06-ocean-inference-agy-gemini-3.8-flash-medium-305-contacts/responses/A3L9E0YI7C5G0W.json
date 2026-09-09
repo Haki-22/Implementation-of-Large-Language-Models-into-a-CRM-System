@@ -1,0 +1,40 @@
+{
+  "contact_id": 200,
+  "reviewer_id": "A3L9E0YI7C5G0W",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 104,
+  "reviews_used": 15,
+  "prompt_chars": 6012,
+  "status": "ok",
+  "seconds": 741.62,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.35,
+    "E": 3.25,
+    "A": 4.15,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I bought this for macro work but I use it as a prime lens most of the time.",
+      "C": "I purchased this as a gift for Christmas but I tried it out to make sure it worked correctly before wrapping it.",
+      "E": "I love this accessory! I use it all the time with my Rebel XT.",
+      "A": "I occasionally get images that are out of focus but again I think this is my fault.",
+      "N": "First I will say that during the 4 weeks that I had this computer it was a real pleasure using it."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.35,
+    "E": 3.25,
+    "N": 2.15,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "I occasionally get images that are out of focus but again I think this is my fault.",
+      "C": "I purchased this as a gift for Christmas but I tried it out to make sure it worked correctly before wrapping it.",
+      "E": "I love this accessory! I use it all the time with my Rebel XT.",
+      "N": "First I will say that during the 4 weeks that I had this computer it was a real pleasure using it.",
+      "O": "I bought this for macro work but I use it as a prime lens most of the time."
+    }
+  }
+}

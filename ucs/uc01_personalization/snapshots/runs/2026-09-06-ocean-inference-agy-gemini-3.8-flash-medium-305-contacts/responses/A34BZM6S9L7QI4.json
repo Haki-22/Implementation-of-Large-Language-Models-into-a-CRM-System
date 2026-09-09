@@ -1,0 +1,40 @@
+{
+  "contact_id": 115,
+  "reviewer_id": "A34BZM6S9L7QI4",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 154,
+  "reviews_used": 15,
+  "prompt_chars": 8097,
+  "status": "ok",
+  "seconds": 421.93,
+  "error": "",
+  "profile": {
+    "O": 3.1,
+    "C": 3.9,
+    "E": 3.85,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "First, let me say that I am not terribly techy. I can barely turn on the TV anymore.",
+      "C": "Earthquakes in Hawaii that left everyone starnded without power or news taught me how unimportant these things are until ALL OF A SUDDEN they become important. Be prepared.",
+      "E": "WOW, in just a few days I have grown to love this thing and can't imagine life without it!",
+      "A": "It isn't perfect, however for the very low price I have to bump up the rating.",
+      "N": "I continued to snap amazing pictures of the storm, not worried at all about the camera getting drenched."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 3.9,
+    "E": 3.85,
+    "N": 2.15,
+    "O": 3.1,
+    "evidence_quotes": {
+      "A": "It isn't perfect, however for the very low price I have to bump up the rating.",
+      "C": "Earthquakes in Hawaii that left everyone starnded without power or news taught me how unimportant these things are until ALL OF A SUDDEN they become important. Be prepared.",
+      "E": "WOW, in just a few days I have grown to love this thing and can't imagine life without it!",
+      "N": "I continued to snap amazing pictures of the storm, not worried at all about the camera getting drenched.",
+      "O": "First, let me say that I am not terribly techy. I can barely turn on the TV anymore."
+    }
+  }
+}

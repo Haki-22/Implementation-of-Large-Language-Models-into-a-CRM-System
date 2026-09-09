@@ -1,0 +1,40 @@
+{
+  "contact_id": 364,
+  "reviewer_id": "A37QUQPYFMR9Y9",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 33,
+  "reviews_used": 15,
+  "prompt_chars": 9939,
+  "status": "ok",
+  "seconds": 1193.63,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.4,
+    "E": 3.55,
+    "A": 3.15,
+    "N": 3.35,
+    "evidence_quotes": {
+      "O": "For those that have seen the Apple matte/antiglare screen option for the 15\", it's a thing of beauty, it really is.",
+      "C": "I was skeptical at first, but I'd brought a CD-R-based VCD to test it. Sure enough, it passed the test",
+      "E": "Let's face it: The majority of you reading these reviews do so because you want to know three things primarily.",
+      "A": "Besides, I knew they'd use FedEx and leave it sitting out in a plain box ready for theft.",
+      "N": "it's only a big deal if you're hypersensitive to sound like I am"
+    }
+  },
+  "raw": {
+    "A": 3.15,
+    "C": 4.4,
+    "E": 3.55,
+    "N": 3.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Besides, I knew they'd use FedEx and leave it sitting out in a plain box ready for theft.",
+      "C": "I was skeptical at first, but I'd brought a CD-R-based VCD to test it. Sure enough, it passed the test",
+      "E": "Let's face it: The majority of you reading these reviews do so because you want to know three things primarily.",
+      "N": "it's only a big deal if you're hypersensitive to sound like I am",
+      "O": "For those that have seen the Apple matte/antiglare screen option for the 15\", it's a thing of beauty, it really is."
+    }
+  }
+}

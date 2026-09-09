@@ -1,0 +1,35 @@
+{
+  "contact_id": 356,
+  "status": "ok",
+  "seconds": 13.3,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Over-ear headphone replacement ear pads for Brainwavz HM5",
+      "3.5 mm audio extension cable for headphones and in-ear monitors",
+      "Protective carrying case for in-ear monitor earphones"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Customer C-356 (anonymised). Product titles in English.\nPurchase history (26 purchases, oldest first):\n- 2011-06-08 ★2 HiFiMan RE-0 In-Ear Stereo Headphones\n- 2011-08-01 ★4 MEElectronics A151-BK Balanced Armature In-Ear Headphones for iPod, iPhone, MP3/CD/DVD Players (Black)\n- 2011-08-16 ★4 Woodees IESW100V Vintage Noise Isolating Earphones with 3 Button Microphone (Sunburst)\n- 2011-08-16 ★4 DUNU DN-11 Balanced Armature Noise-Isolation Earphones, Ear buds Ares ARE Great in-Ear Monitors!\n- 2011-08-20 ★3 FiiO L3 Line Out Dock (LOD) Cable For iPod and iPhone\n- 2011-08-20 ★4 Canon Powershot A3300 IS 16 MP Digital Camera with 5x Optical Zoom (Red)\n- 2011-08-20 ★4 MEElectronics Clarity Series CC51-WT Ceramic In-Ear Headphone for iPod, iPhone, MP3/CD/DVD Players -White (Discontinued \n- 2011-09-30 ★5 Audio Technica ATH-AD900 Audiophile Open-air Dynamic Headphones\n- 2011-09-30 ★4 Brainwavz Beta In Ear Noise Isolating Headphones\n- 2011-10-05 ★4 Sony MDR-XB500 40mm XB Diaphragm Driver Extra Bass Headphones\n- 2011-10-10 ★4 JAYS q-JAYS Dual Armature In-Ear Earphones -Black (Discontinued by Manufacturer)\n- 2011-11-23 ★4 Brainwavz M4 In Ear Noise Isolating Earphones\n- 2011-12-19 ★5 Brainwavz HM5 Studio Monitor Headphones\n- 2012-08-13 ★4 MEElectronics A161P In-Ear Noise-Canceling Headphones with Balanced Armature Technology (Discontinued by Manufacturer)\n- 2012-09-16 ★5 LaCie Grand 1 TB USB 2.0 Desktop External Hard Drive 301897KUA\n- 2012-10-15 ★5 Superlux HD668B Dynamic Semi-Open Headphones\n- 2012-10-15 ★4 DUNU DN-12 Trident Metal Full Range Noise-Isolation Earphones, Earbuds with Elegant and Powerful Design\n- 2012-10-15 ★4 SoundMAGIC E30 Noise Isolating In-Ear Monitor Earphones (Black)\n- 2012-12-15 ★4 Belkin 6-Outlet Home/Office Surge Protector (4 Feet)4 Feet\n- 2012-12-15 ★3 RHA MA350 Aluminium Noise Isolating In-Ear Headphone - 3 year warranty\n- 2012-12-31 ★4 Dell XPS M1330 65 Watt AC Adapter PA-21 Family - HR763\n- 2012-12-31 ★5 thinksound ms01 in-ear monitor with passive noise isolation (gunmetal/chocolate)\n- 2013-07-12 ★4 Focal 529102-SPOH Spirit One Headphones\n- 2013-07-30 ★4 MEElectronics M-Duo Dual Driver Enhanced Bass In-Ear Headphone with Microphone and Remote, Black\n- 2013-10-01 ★5 TDK BA-200 Dual Balanced Armature In Ear Headphone (Discontinued by Manufacturer)\n- 2013-11-04 ★4 Anker® Golden AC Adapter + Power Supply Cord for Laptop Dell Inspiron 15(1545) 14(1440) 13(1318) 1551 1557; Dell XPS M13\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Over-ear headphone replacement ear pads for Brainwavz HM5",
+      "3.5 mm audio extension cable for headphones and in-ear monitors",
+      "Protective carrying case for in-ear monitor earphones"
+    ]
+  },
+  "held_out": "B00C2P61FO"
+}

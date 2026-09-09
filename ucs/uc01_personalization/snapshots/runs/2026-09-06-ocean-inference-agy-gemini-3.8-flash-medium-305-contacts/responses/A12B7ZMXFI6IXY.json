@@ -1,0 +1,40 @@
+{
+  "contact_id": 425,
+  "reviewer_id": "A12B7ZMXFI6IXY",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 46,
+  "reviews_used": 15,
+  "prompt_chars": 10152,
+  "status": "ok",
+  "seconds": 1474.95,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.45,
+    "E": 3.6,
+    "A": 3.9,
+    "N": 2.65,
+    "evidence_quotes": {
+      "O": "Since it's been over a year, I decided to do some more research to see if SanDisk offered anything new.",
+      "C": "I'm in IT, so I like being prepared so I have dozens of micro USB chargers & USB cables laying everywhere at work, home, and in my car.",
+      "E": "So my lovely wife bought me a Samsung Galaxy Tab 4 for Father's Day and I've been loving it ever since.",
+      "A": "Not to say external closures are bad... as they do have place in the computing industry but in my scenario, they aren't for me.",
+      "N": "But if there's one thing about a computer component that gets on my nerves the most, it's the fans."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.45,
+    "E": 3.6,
+    "N": 2.65,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "Not to say external closures are bad... as they do have place in the computing industry but in my scenario, they aren't for me.",
+      "C": "I'm in IT, so I like being prepared so I have dozens of micro USB chargers & USB cables laying everywhere at work, home, and in my car.",
+      "E": "So my lovely wife bought me a Samsung Galaxy Tab 4 for Father's Day and I've been loving it ever since.",
+      "N": "But if there's one thing about a computer component that gets on my nerves the most, it's the fans.",
+      "O": "Since it's been over a year, I decided to do some more research to see if SanDisk offered anything new."
+    }
+  }
+}

@@ -1,0 +1,49 @@
+kind,run,arm,variant,branch,protocol,customers,hits_top10,hr_top10,ci95_low,ci95_high,difference,only_first,only_second,p_sign
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,none,en,full,425,2,0.0047,0.0013,0.017,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,none,en,sampled,425,151,0.3553,0.3113,0.4019,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,none,cs,full,425,2,0.0047,0.0013,0.017,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,none,cs,sampled,425,151,0.3553,0.3113,0.4019,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred,en,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred,en,sampled,425,152,0.3576,0.3135,0.4043,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred,cs,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred,cs,sampled,425,152,0.3576,0.3135,0.4043,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled,en,full,425,2,0.0047,0.0013,0.017,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled,en,sampled,425,151,0.3553,0.3113,0.4019,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled,cs,full,425,2,0.0047,0.0013,0.017,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled,cs,sampled,425,151,0.3553,0.3113,0.4019,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,none,en,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,none,en,sampled,425,65,0.1529,0.1218,0.1903,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,none,cs,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,none,cs,sampled,425,65,0.1529,0.1218,0.1903,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred,en,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred,en,sampled,425,65,0.1529,0.1218,0.1903,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred,cs,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred,cs,sampled,425,65,0.1529,0.1218,0.1903,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled,en,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled,en,sampled,425,65,0.1529,0.1218,0.1903,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled,cs,full,425,1,0.0024,0.0004,0.0132,,,,
+variant,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled,cs,sampled,425,65,0.1529,0.1218,0.1903,,,,
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs none,en,full,425,1 vs 2,,,,-1,1,2,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled vs none,en,full,271,2 vs 2,,,,0,1,1,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs sampled,en,full,271,1 vs 2,,,,-1,1,2,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs none,en,sampled,425,152 vs 151,,,,1,23,22,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled vs none,en,sampled,271,96 vs 99,,,,-3,13,16,0.711
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs sampled,en,sampled,271,100 vs 96,,,,4,15,11,0.557
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs none,cs,full,425,1 vs 2,,,,-1,1,2,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled vs none,cs,full,271,2 vs 2,,,,0,1,1,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs sampled,cs,full,271,1 vs 2,,,,-1,1,2,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs none,cs,sampled,425,152 vs 151,,,,1,23,22,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,sampled vs none,cs,sampled,271,96 vs 99,,,,-3,13,16,0.711
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,lightgbm_features,inferred vs sampled,cs,sampled,271,100 vs 96,,,,4,15,11,0.557
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs none,en,full,425,1 vs 1,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled vs none,en,full,271,1 vs 1,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs sampled,en,full,271,1 vs 1,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs none,en,sampled,425,65 vs 65,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled vs none,en,sampled,271,44 vs 44,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs sampled,en,sampled,271,44 vs 44,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs none,cs,full,425,1 vs 1,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled vs none,cs,full,271,1 vs 1,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs sampled,cs,full,271,1 vs 1,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs none,cs,sampled,425,65 vs 65,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,sampled vs none,cs,sampled,271,44 vs 44,,,,0,0,0,1.0
+pair,2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers,svm_features,inferred vs sampled,cs,sampled,271,44 vs 44,,,,0,0,0,1.0

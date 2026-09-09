@@ -1,0 +1,40 @@
+{
+  "contact_id": 296,
+  "reviewer_id": "A3V5F050GVZ56Q",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 9229,
+  "status": "ok",
+  "seconds": 1113.64,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.5,
+    "E": 3.35,
+    "A": 3.9,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I picked up a Raspberry Pi recently as a fun little tinker project. I was able to get it up an running within an hour",
+      "C": "Transfers a large volume of data at fast transfer speeds with no errors (381 large files equaling 158GB and thousands of small files tested).",
+      "E": "I love the integrated Aux cable that wraps around the bottom",
+      "A": "We received this battery the other day to replace the original battery in my wife's HP Laptop",
+      "N": "knew that I wasn't getting every bell and whistle, which is fine with me."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.5,
+    "E": 3.35,
+    "N": 2.1,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "We received this battery the other day to replace the original battery in my wife's HP Laptop",
+      "C": "Transfers a large volume of data at fast transfer speeds with no errors (381 large files equaling 158GB and thousands of small files tested).",
+      "E": "I love the integrated Aux cable that wraps around the bottom",
+      "N": "knew that I wasn't getting every bell and whistle, which is fine with me.",
+      "O": "I picked up a Raspberry Pi recently as a fun little tinker project. I was able to get it up an running within an hour"
+    }
+  }
+}

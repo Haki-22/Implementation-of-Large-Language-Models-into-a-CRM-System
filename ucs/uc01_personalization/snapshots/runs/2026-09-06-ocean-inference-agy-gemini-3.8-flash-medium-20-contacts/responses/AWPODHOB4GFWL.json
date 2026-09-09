@@ -1,0 +1,40 @@
+{
+  "contact_id": 20,
+  "reviewer_id": "AWPODHOB4GFWL",
+  "group": "A",
+  "sources": "previous",
+  "reviews_total": 260,
+  "reviews_used": 15,
+  "prompt_chars": 9284,
+  "status": "ok",
+  "seconds": 64.8,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.15,
+    "E": 3.65,
+    "A": 3.55,
+    "N": 3.35,
+    "evidence_quotes": {
+      "O": "The best are the various `tones' you can give your pictures. Just look at all the technical specifications here and you'll be amazed!",
+      "C": "Then as I was reading the instructions (and another review), I found out that California (and Minnesota) have laws against Navigational devices being applied to windshields.",
+      "E": "Forget those expensive loading docks! This little 2\" X 3\" transmitter simply plugs into the front or back of your computer",
+      "A": "It would have been nice if they included a clip for vertical surfaces, but hey, for the price, it's a steal.",
+      "N": "Then the night when I felt one crawl across my neck was the final insult. I couldn't sleep knowing these ancient bugs wer"
+    }
+  },
+  "raw": {
+    "A": 3.55,
+    "C": 4.15,
+    "E": 3.65,
+    "N": 3.35,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "It would have been nice if they included a clip for vertical surfaces, but hey, for the price, it's a steal.",
+      "C": "Then as I was reading the instructions (and another review), I found out that California (and Minnesota) have laws against Navigational devices being applied to windshields.",
+      "E": "Forget those expensive loading docks! This little 2\" X 3\" transmitter simply plugs into the front or back of your computer",
+      "N": "Then the night when I felt one crawl across my neck was the final insult. I couldn't sleep knowing these ancient bugs wer",
+      "O": "The best are the various `tones' you can give your pictures. Just look at all the technical specifications here and you'll be amazed!"
+    }
+  }
+}

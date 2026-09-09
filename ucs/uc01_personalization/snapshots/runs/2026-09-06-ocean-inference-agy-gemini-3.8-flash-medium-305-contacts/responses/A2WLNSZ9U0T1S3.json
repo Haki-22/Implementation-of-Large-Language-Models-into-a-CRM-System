@@ -1,0 +1,40 @@
+{
+  "contact_id": 65,
+  "reviewer_id": "A2WLNSZ9U0T1S3",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 182,
+  "reviews_used": 15,
+  "prompt_chars": 10112,
+  "status": "ok",
+  "seconds": 205.72,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.65,
+    "A": 3.4,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "True to my gadget envy, I acquired one of these dual band extreme base stations to see if they held up to the hype.",
+      "C": "The setup was as follows:A. Plug cable into new modem.B. Plug ethernet cable from modem to your computer (first time only).C. Power up modem.D. Power up computer.",
+      "E": "I spoke to some Comcast tech's on Twitter and they recommended I go and buy this modem since it was not yet being distributed by them in my area.",
+      "A": "Come on AMAZON/CREATIVE at-least get the listing right. I would downgrade to 4/5 for that mis-information.",
+      "N": "I was mildly irritated when I read the quick start guide."
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.25,
+    "E": 3.65,
+    "N": 2.75,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Come on AMAZON/CREATIVE at-least get the listing right. I would downgrade to 4/5 for that mis-information.",
+      "C": "The setup was as follows:A. Plug cable into new modem.B. Plug ethernet cable from modem to your computer (first time only).C. Power up modem.D. Power up computer.",
+      "E": "I spoke to some Comcast tech's on Twitter and they recommended I go and buy this modem since it was not yet being distributed by them in my area.",
+      "N": "I was mildly irritated when I read the quick start guide.",
+      "O": "True to my gadget envy, I acquired one of these dual band extreme base stations to see if they held up to the hype."
+    }
+  }
+}

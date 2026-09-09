@@ -1,0 +1,18 @@
+{
+  "model": "claude-opus-4-7",
+  "prompt_id": "translation_judge-only-invalid",
+  "prompt_version": "1",
+  "seed": 7,
+  "sample_size": 300,
+  "input_chars": 78527,
+  "wall_seconds": 392.4,
+  "response_chars": 15395,
+  "raw_verdicts_returned": 62,
+  "hallucinated_dropped": 0,
+  "valid_verdicts": 62,
+  "opus_invalid": 62,
+  "gemini_invalid_in_sample": 151,
+  "BOTH_invalid": 58,
+  "gemini_only_invalid": 93,
+  "opus_only_invalid": 4
+}

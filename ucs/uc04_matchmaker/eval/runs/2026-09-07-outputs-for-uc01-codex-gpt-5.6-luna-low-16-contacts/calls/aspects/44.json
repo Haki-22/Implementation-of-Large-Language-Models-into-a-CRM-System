@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "44",
+  "status": "ok",
+  "seconds": 18.3,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Kompaktní design",
+        "sentiment": "positive",
+        "evidence": "Je efektivní a velmi kompaktní, ale zároveň dostatečně malý na to, aby se snadno ztratil nebo založil."
+      },
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "Kvalita zvuku byla překvapivě dobrá a reproduktor má protiskluzovou základnu, která také zlepšuje kvalitu zvuku při umístění na stůl."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Pokyny mi usnadnily nastavení tohoto reproduktoru, nejprve na mém 7\" tabletu Kindle Fire HDX a poté na mém telefonu Samsung Galaxy S III s Androidem, který slouží i jako MP3 přehrávač."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Překvapilo mě, že tablety řady Amazon Kindle Fire nebyly v seznamu kompatibilních disků (no tak, SanDisk!), ale po pátrání jsem zjistil, že je můžu použít i k přenosu souborů JPG z mého digitálního fotoaparátu Nikon řady D."
+      },
+      {
+        "aspect": "Poměr ceny",
+        "sentiment": "positive",
+        "evidence": "Jeho vyměnitelná lithium-iontová baterie z něj činí dobrou volbu pro dlouhodobé používání a pokud jej používáte pro vylepšení zvuku pro stávající reproduktory stolního počítače, pomůže vám prodlužovací stereo audio kabel."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-44 (anonymizován).\nRecenze (209, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nSanDisk Ultra 32GB Micro USB 2.0 OTG Flash Drive For Android Smartphone/Tablet With App- SDDD-032G-G46: Disk SanDisk Ultra 32GB Micro USB 2.0 OTG: Vysoce efektivní Zapojte jej do svého smartphonu s Androidem a funguje to. Tento flash disk SanDisk Ultra 32GB Micro USB 2.0 OTG pro smartphony/tablety s Androidem je vítězem a zázrakem jednoduché a efektivní práce. Je to malý USB disk, který umožňuje připojení k jiným počítačům nebo zařízením, jako je například smartphone. Dodává se s micro-USB konektorem na jednom konci a plnohodnotným USB 2.0 konektorem na druhém konci, což umožňuje přímé připojení k většině smartphonů a mnoha tabletům s Androidem. Stáhl jsem si do svého smartphonu Samsung Galaxy S III bezplatnou aplikaci SanDisk Memory Zone a nechal ji indexovat obsah interní paměti a dodatečné 32GB micro-SD karty, kterou mám od doby, co jsem si telefon koupil. Aplikace může běžet na pozadí a také vám umožní přidávat online cloudové služby. Zálohování aplikací, dokumentů, kontaktů, fotografií, videí a hudebních souborů je snadné. Během prvního zálohování se vás systém zeptá, které typy souborů chcete zálohovat, a poté se záloha provede automaticky. Překvapilo mě, že tablety řady Amazon Kindle Fire nebyly v seznamu kompatibilních disků (no tak, SanDisk!), ale po pátrání jsem zjistil, že je můžu použít i k přenosu souborů JPG z mého digitálního fotoaparátu Nikon řady D. Vyplatí se zkontrolovat seznam kompatibility na stránkách SanDisku, abyste si mohli vybrat, co nejlépe vyhovuje vašim potřebám. Tento USB disk OTG (On-The-Go) je skutečně plug-and-play a je v současné době k dispozici ve třech velikostech: 16 GB, 32 GB a 64 GB. Je kompatibilní s počítači se systémem Windows XP až Windows 8.x a s počítači Mac s OS X 10.5 a vyšším. Má také pětiletou omezenou záruku od společnosti SanDisk. Většina chytrých telefonů se systémem Android je kompatibilní, stejně jako mnoho tabletů se systémem Android, ale pokud máte pochybnosti, podívejte se na seznam kompatibility SanDisku. Flash disk SanDisk Ultra 32GB Micro USB 2.0 OTG nezklame. Je efektivní a velmi kompaktní, ale zároveň dostatečně malý na to, aby se snadno ztratil nebo založil. Přiznávám, že jsem si na něj natolik zvykl, že jsem si koupil druhý jako záložní, který si můžu uložit do brašny na fotoaparát. JW ▪ 22. 5. 2014\nPřenosný bezdrátový stereofonní reproduktor Roker®Sound Cube s Bluetooth, vestavěným handsfree hlasitým telefonem a dobíjecí baterií, čistý a čistý zvuk, funguje s iPhonem, iPadem, iPodem, MP3 přehrávačem, tabletem, notebookem, počítači a jakýmkoli zařízením s podporou Bluetooth, podporuje připojení audio kabelem 3,5 mm (černý): Roker Sound Cube: Černý reproduktor s kvalitním zvukem Malé přenosné reproduktory sice nenabízejí tak velký celkový dynamický rozsah jako jejich plnohodnotné protějšky, ale jejich výhodou je, že šetří dost místa. Navíc tyto samostatné stereo mini reproduktory mohou být vynikající při práci u počítače a vše, co chcete, je lepší zvuk než ten, který nabízí počítač. Roker Sound Cube je navržen pro iPhone, iPad, iPod, MP3 přehrávače, tablety, telefony Android, notebooky a prakticky jakákoli zařízení s podporou Bluetooth, která najdete. Pro ty, kteří jej chtějí používat jako reproduktor telefonu, je to také možné, i když může být trochu malý na to, aby nabízel kvalitu zvuku, kterou by člověk očekával od specializovaného zařízení ideálního pro konferenční hovory v malých skupinách.◆ Líbí se mi:+ Vynikající kompaktní design; ~ 17,2 cm Š x 5,2 cm H x 7,2 cm V+ Robustní a dobře zpracovaný produkt; dostatečně robustní na cesty+ Vynikající kvalita stereo zvuku; výkon 2 W, frekvenční odezva 100 Hz–20 kHz+ Snadné párování Bluetooth; dosah ~9 metrů+ Nabíjecí port USB; nabije se za ~4 hodiny, kabel je součástí balení+ Pogumovaná protiskluzová základna; při používání neklouže z povrchu stolu+ Přijímá karty TF (microSD); praktický pro ukládání hudby◆ Na zakázku: Dodávaný audio kabel může být pro některé uživatele příliš krátký◆ Co se nelíbí:- Zatím žádné◆ V provozu: Přenosný bezdrátový Bluetooth stereo reproduktor Roker Sound Cube dorazil v praktické, snadno otevíratelné kartonové krabici. Uvnitř byl reproduktor, nabíjecí kabel USB, krátký audio kabel 3,5 mm a jednoduchý uživatelský manuál v angličtině. Reproduktor jsem nabíjel (LED indikuje úroveň nabití atd.) asi čtyři hodiny a poté jsem jej nastavil k použití. Pokyny jsou jednoduché a párování Bluetooth... Pokyny mi usnadnily nastavení tohoto reproduktoru, nejprve na mém 7\" tabletu Kindle Fire HDX a poté na mém telefonu Samsung Galaxy S III s Androidem, který slouží i jako MP3 přehrávač. Kvalita zvuku byla překvapivě dobrá a reproduktor má protiskluzovou základnu, která také zlepšuje kvalitu zvuku při umístění na stůl. Na konci reproduktoru je nalevo od víceúčelového USB portu malý vertikální slot. Ten umožňuje vložit karty, jako je například paměťová karta Sandisk 16GB Micro SDHC Class 4 TF, pro přehrávání hudby. Pokud si na jednu z těchto karet ukládáte hudební soubory, může to být docela praktické. Ale jak dobrý je zvuk a jak užitečný je tento reproduktor? Pro konferenční hovory v malých skupinách jsem zjistil, že hlasitý odposlech Jabra SPEAK410 USB je vynikající, i když za mnohem vyšší cenu. Roker Sound Cube funguje docela dobře se soukromými hovory s nízkou až střední úrovní hluku v pozadí a za mnohem cenově výhodnější cenu. Co se týče celkové kvality zvuku, měl jsem možnost vyzkoušet si lokálně Photive CYREN a ještě dražší bezdrátový Bluetooth reproduktor Jawbone JAMBOX a i když mají větší sílu, je to spíše otázka ceny vs. výkonu, a proto jsem se rozhodl pro Roker Sound Cube. Tuto značku dobře znám, protože jsem si před několika měsíci koupil menší bezdrátový přenosný Bluetooth reproduktor Sound Cannon od Rokeru a shledal jsem ho překvapivě dobrým pro přenosné použití při cestování s notebookem. Osobně preferuji nastavení reproduktorů jako je tento pomocí vestavěného standardního 3,5mm audio kabelu pro nejlepší kvalitu zvuku, ale ten na tomto zařízení je trochu krátký, jak je uvedeno výše. Koupil jsem si zde 3-metrový stereo audio prodlužovací kabel Cables to Go 3,5mm samec/samice a momentálně je připojen k mému mini-tower počítači. Problém vyřešen. I když to není uvedeno ve specifikacích, tento reproduktor má vyměnitelnou baterii, označenou jako dobíjecí lithium-iontová baterie BL-5C. Více informací naleznete v komentářích.◆ Shrnutí: Roker Sound Cube se osvědčil jako dobrý nástroj pro běžné poslechové účely. Připojení Bluetooth je dobré pro ty, kteří jej chtějí tímto způsobem používat. Vzhledem ke kompaktním rozměrům je to dobrý produkt a osvědčil se jako vynikající poměr ceny a kvality. Jeho vyměnitelná lithium-iontová baterie z něj činí dobrou volbu pro dlouhodobé používání a pokud jej používáte pro vylepšení zvuku pro stávající reproduktory stolního počítače, pomůže vám prodlužovací stereo audio kabel.JW ▪ 22. 5. 2013\nPřenosný pevný disk Seagate Backup Plus Slim 500GB se zálohováním mobilních zařízení USB 3.0 (STCD500102) - černý: Seagate Backup Plus Slim 1TB: Rychlý, kompaktní a efektivní Někdy je jednoduchá a snadná cesta plug and play tou nejlepší cestou. Přenosný externí pevný disk Seagate Backup Plus Slim 1TB je dobrým příkladem toho, jak daleko se zálohovací řešení v posledních několika letech posunula. Je extrémně kompaktní, snadno přenosný a pro ty, kteří stále používají počítače s porty USB 2.0, je to perspektivní zařízení, pokud je v plánu počítač s USB 3.0. Ale nejdříve základy...◆ Líbí se:+ Kompaktní a robustní; Rozměry 11,2 cm D x 7,4 cm Š x 1,9 cm V+ Nízká hmotnost; necelých 140 g+ USB 3.0; lze použít s počítači s USB 2.0+ Funguje s počítači se systémem Windows (Vista nebo vyšší) a Mac (O SX 10.4.8 nebo vyšší)+ Snadné nastavení plug-and-play na systémech Mac OS i Windows+ Kapacita 1 TB (terabajt); přibližně 930 GB použitelného místa po formátování+ Tichý provoz; nabízí vynikající výkon+ Rozumná cena; vynikající poměr ceny a kvality◆ Nelíbí se:- Zatím žádné nenalezeny◆ V provozu: Všichni máme jinou motiva\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Kompaktní design",
+        "sentiment": "positive",
+        "evidence": "Je efektivní a velmi kompaktní, ale zároveň dostatečně malý na to, aby se snadno ztratil nebo založil."
+      },
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "Kvalita zvuku byla překvapivě dobrá a reproduktor má protiskluzovou základnu, která také zlepšuje kvalitu zvuku při umístění na stůl."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Pokyny mi usnadnily nastavení tohoto reproduktoru, nejprve na mém 7\" tabletu Kindle Fire HDX a poté na mém telefonu Samsung Galaxy S III s Androidem, který slouží i jako MP3 přehrávač."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Překvapilo mě, že tablety řady Amazon Kindle Fire nebyly v seznamu kompatibilních disků (no tak, SanDisk!), ale po pátrání jsem zjistil, že je můžu použít i k přenosu souborů JPG z mého digitálního fotoaparátu Nikon řady D."
+      },
+      {
+        "aspect": "Poměr ceny",
+        "sentiment": "positive",
+        "evidence": "Jeho vyměnitelná lithium-iontová baterie z něj činí dobrou volbu pro dlouhodobé používání a pokud jej používáte pro vylepšení zvuku pro stávající reproduktory stolního počítače, pomůže vám prodlužovací stereo audio kabel."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 184,
+  "reviewer_id": "A3LWC833HQIG7J",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 108,
+  "reviews_used": 15,
+  "prompt_chars": 10324,
+  "status": "ok",
+  "seconds": 690.18,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.5,
+    "A": 3.9,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "With just a little trial and error and web searching for solutions I have quickly become a fan of Windows 8 on this computer.",
+      "C": "I did some research and I decided against IPODs. They are NOT good value for the money plus I did not want to be tied to Itunes.",
+      "E": "Boy am I glad I did. The 17.3 inch screen is simply incredible.",
+      "A": "Apprently KOSS got a lot of feedback from the first version, they listened, and made a much better product.",
+      "N": "You had to constantly be on edge that it would fall off."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.1,
+    "E": 3.5,
+    "N": 2.45,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Apprently KOSS got a lot of feedback from the first version, they listened, and made a much better product.",
+      "C": "I did some research and I decided against IPODs. They are NOT good value for the money plus I did not want to be tied to Itunes.",
+      "E": "Boy am I glad I did. The 17.3 inch screen is simply incredible.",
+      "N": "You had to constantly be on edge that it would fall off.",
+      "O": "With just a little trial and error and web searching for solutions I have quickly become a fan of Windows 8 on this computer."
+    }
+  }
+}

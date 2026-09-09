@@ -1,0 +1,40 @@
+{
+  "contact_id": 208,
+  "reviewer_id": "A1U5NWJOYH2QQH",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 8618,
+  "status": "ok",
+  "seconds": 786.96,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.25,
+    "A": 3.1,
+    "N": 3.0,
+    "evidence_quotes": {
+      "O": "I have been an amateur photographer for many years. My favorite type of photography is \"nature\", especially birds.",
+      "C": "But I wanted to plan a 600 mile trip myself using it's internal maps and waypoints. But I tried a local test first.",
+      "E": "I discovered satellite joy! WOW! No commercials! Lotsa stations, including stand up comedy! I was hooked.",
+      "A": "No more Linksys or Cisco for me. I have had them many many years, and like all things, cost goes up, quality goes down.",
+      "N": "Internal Digix5 processing is horrendous. You must use this camera at ISO 100 as much as possible."
+    }
+  },
+  "raw": {
+    "A": 3.1,
+    "C": 4.15,
+    "E": 3.25,
+    "N": 3,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "No more Linksys or Cisco for me. I have had them many many years, and like all things, cost goes up, quality goes down.",
+      "C": "But I wanted to plan a 600 mile trip myself using it's internal maps and waypoints. But I tried a local test first.",
+      "E": "I discovered satellite joy! WOW! No commercials! Lotsa stations, including stand up comedy! I was hooked.",
+      "N": "Internal Digix5 processing is horrendous. You must use this camera at ISO 100 as much as possible.",
+      "O": "I have been an amateur photographer for many years. My favorite type of photography is \"nature\", especially birds."
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "71",
+  "status": "ok",
+  "seconds": 21.78,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "mixed",
+        "evidence": "Vysoce kvalitní konstrukce a vynikající optika, to vše za skvělou cenu."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "mixed",
+        "evidence": "Software nemusíte instalovat, i když si myslím, že software Logitech nabízí nějaké funkce pro přizpůsobení."
+      },
+      {
+        "aspect": "ergonomie",
+        "sentiment": "negative",
+        "evidence": "Ale s její ergonomií nejsem úplně spokojený; Stejně jako u mnoha jiných myší Logitech, včetně mé ceněné myši Pro Traveler, se vám ruka unaví asi po 15 minutách používání."
+      },
+      {
+        "aspect": "vzhled",
+        "sentiment": "mixed",
+        "evidence": "Myš Wheel Mouse je pěkná a stylová a ve Windows XP funguje čistě plug-and-play."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Hlavní přihrádka sotva pojme Digital Elph."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-71 (anonymizován).\nRecenze (4, nejnovější první, zkráceno na 2939 znaků):\n<recenze>\nNikon 50mm f/1.8D AF Nikkor Lens for Nikon Digital SLR Cameras:  Toto je pěkný, světelný 50mm objektiv, skvělý pro portréty. Vysoce kvalitní konstrukce a vynikající optika, to vše za skvělou cenu. Ale fotografové s digitálními zrcadlovkami by si měli být vědomi toho. Většina digitálních zrcadlovek Nikon má faktor ohniskové vzdálenosti, obvykle 1,5x, takže tento objektiv je v podstatě 75mm objektivem pro fotoaparáty jako D70 atd. Stále je dobrý pro portréty – ve skutečnosti malý teleobjektiv pomáhá při portrétní fotografii – ale pokud chcete zcela normální objektiv (45 mm-55 mm), není tohle ten pravý. Zkuste něco s vyznačenou ohniskovou vzdáleností 35 mm nebo tak nějak, abyste dosáhli efektivní ohniskové vzdálenosti v normálním rozsahu.\nLogitech 930495-0403 Corded Optical Wheelmouse:  Zaprvé, přiznávám, že jsem fanouškem myší od Microsoftu. Nejsem ale uzavřený a vlastním miniaturní myš Logitech Mouse Pro Traveler, kterou nosím s notebookem Fujitsu. Optickou modrou myš Wheel Mouse jsem dostal jako dárek od bývalého zaměstnavatele jako dárek v růžové barvě. Dobře, raději si tu práci udržím, ale co už, dárky zadarmo neodmítám. Myš Wheel Mouse je pěkná a stylová a ve Windows XP funguje čistě plug-and-play. Software nemusíte instalovat, i když si myslím, že software Logitech nabízí nějaké funkce pro přizpůsobení. Já si myši stejně nikdy nepřizpůsobuji; držím se základních funkcí na jedno kliknutí, jednu zkratku v nabídce a posouvání nahoru a dolů. Myš Wheel Mouse tedy funguje velmi dobře na jakémkoli povrchu; jen ji nezkoušejte na skle, protože odrazy nezachytí správně. Její chladivá modrá barva v kavárně Starbucks přitahuje pozornost. Ale s její ergonomií nejsem úplně spokojený; Stejně jako u mnoha jiných myší Logitech, včetně mé ceněné myši Pro Traveler, se vám ruka unaví asi po 15 minutách používání. Skutečná spotřeba se samozřejmě může lišit, ale pointa je, že myši od Microsoftu jsou stále pohodlnější, zejména pro lidi s velkýma rukama, jako jsem já.\nCisco-Linksys UTP510 Network Cable, Cat 5, 10 Feet:  O ethernetových kabelech asi není moc co říct. Jedná se o přímý ethernetový kabel pro připojení počítače k rozbočovači (např. kabelovému modemu nebo LAN routeru). Je pevný a myslím si, že mi bude sloužit roky.\nCanon PSC-100 Soft Compact Case for S100, SD110, S200 & S230:  Toto korejské pouzdro pro Digital Elph je zklamáním. Hlavní přihrádka sotva pojme Digital Elph. Pokaždé, když do pouzdra vložím fotoaparát, musím vynaložit velkou sílu, protože se bojím, že bych mu mohl ublížit (obava, která, přiznávám, není opodstatněná). Může to být velmi frustrující zážitek. Pouzdro také vypadá ošklivě a působí lacině. Přední přihrádka pojme baterii a CF kartu, ale neexistuje žádný snadný způsob, jak pouzdro nosit, kromě toho, že ho celé držíte v ruce. Ale v současné době (leden 2001) nemáte na výběr, pokud potřebujete pouzdro pro S100. Hanba Canonu, že do sady fotoaparátu Digital Elph pouzdro nepřidal.\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "mixed",
+        "evidence": "Vysoce kvalitní konstrukce a vynikající optika, to vše za skvělou cenu."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "mixed",
+        "evidence": "Software nemusíte instalovat, i když si myslím, že software Logitech nabízí nějaké funkce pro přizpůsobení."
+      },
+      {
+        "aspect": "ergonomie",
+        "sentiment": "negative",
+        "evidence": "Ale s její ergonomií nejsem úplně spokojený; Stejně jako u mnoha jiných myší Logitech, včetně mé ceněné myši Pro Traveler, se vám ruka unaví asi po 15 minutách používání."
+      },
+      {
+        "aspect": "vzhled",
+        "sentiment": "mixed",
+        "evidence": "Myš Wheel Mouse je pěkná a stylová a ve Windows XP funguje čistě plug-and-play."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Hlavní přihrádka sotva pojme Digital Elph."
+      }
+    ]
+  }
+}

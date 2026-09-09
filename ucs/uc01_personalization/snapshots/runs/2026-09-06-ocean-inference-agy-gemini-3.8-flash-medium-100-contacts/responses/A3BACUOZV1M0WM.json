@@ -1,0 +1,40 @@
+{
+  "contact_id": 341,
+  "reviewer_id": "A3BACUOZV1M0WM",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 76,
+  "reviews_used": 15,
+  "prompt_chars": 10082,
+  "status": "ok",
+  "seconds": 417.2,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.4,
+    "E": 2.95,
+    "A": 3.85,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "This camera will allow you to express your creativity in ways that you won't outgrow quickly.",
+      "C": "I have taken a couple of hundred shots with this lens at all focal lengths and through the full aperture range, and I have found no obvious flaws.",
+      "E": "Sitting indoors at my kitchen table and typing this review, my 60CX is tracking 8 satellites",
+      "A": "unfortunately, this is not an internal-focus lens (my own fault for misunderstanding the specs)",
+      "N": "This will be a minor inconvenience when I use a polarising filter."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.4,
+    "E": 2.95,
+    "N": 2.1,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "unfortunately, this is not an internal-focus lens (my own fault for misunderstanding the specs)",
+      "C": "I have taken a couple of hundred shots with this lens at all focal lengths and through the full aperture range, and I have found no obvious flaws.",
+      "E": "Sitting indoors at my kitchen table and typing this review, my 60CX is tracking 8 satellites",
+      "N": "This will be a minor inconvenience when I use a polarising filter.",
+      "O": "This camera will allow you to express your creativity in ways that you won't outgrow quickly."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "22",
+  "status": "ok",
+  "seconds": 11.79,
+  "error": "",
+  "parsed": {
+    "label": "verny-technologicky-nakupujici",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje především počítače, příslušenství a fotografickou techniku, celkem uskutečnil 143 nákupů a vrací se jako věrný zákazník. Hodnocení 4,7 ukazuje na spokojenost; zajímají jej bezdrátové myši, kabely, adaptéry, fotoaparáty i praktická zařízení, přičemž nakupuje ve smíšené cenové hladině.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "fototechnika",
+      "opakované nákupy",
+      "praktická zařízení"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-22 (anonymizován).\nNákupů: 143, průměrné hodnocení 4.7 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (61), Camera & Photo (29), Accessories & Supplies (18)\nTémata zájmu (klasické shlukování): computers / accessories / logitech / myš / bezdrátová; photo / camera / digitální / canon / pouzdro; accessories / computers / kabel / usb / adaptér\nUkázky recenzí (nejdelší, zkrácené):\n- RCA 22LB45RQD 22palcový kombinovaný LCD/DVD televizor s rozlišením Full 1080p: 22\" kombinovaný RCA HDTV s DVD dorazil ve skvělém stavu a jeho nastavení bylo tak snadné, že byl plně funkční během několika minut. Ratatouille (kombinace pro dva disky Blu-ray/DVD) se po velmi rychlém nastavení přehrával! Po vybalení z krabice: Podstavec se snadno instaluje (je poněkud volný a podd\n- Streamovací přehrávač Roku 2 XS 1080p (starý model): Nejdříve jsme si koupili dva původní Roku XDS a okamžitě jsme se do Roku zamilovali natolik, že jsme zrušili naši digitální kabelovou televizi a vrátili 3 DVR, čímž jsme ušetřili více než 100 dolarů měsíčně na účtu za kabelovou televizi! O dva roky později stále dosahujeme značných úspor oproti naše\n- Rand McNally Intelliroute TND 710 Truck GPS: Úplné prohlášení: Ačkoli vlastním několik akcií společnosti Garmin, kriticky hodnotím několik GPS jednotek pro velmi specifické profesionální aplikace, kde potřebuji spolehlivou a robustní GPS navigaci pro nákladní dopravu. Tato GPS navigace Rand McNally je srovnávána s Garminem DEZL, kterému jsem j\n- Panasonic VIERA TC-L47WT50 47palcový 3D Full HD IPS LED LCD televizor s rozlišením 1080p a obnovovací frekvencí 240 Hz (model 2012): Páni! Jsem prostě ohromen tímto super tenkým, VYSOCE ÚČINNÝM LED-LCD 3D HDTV. Má 240 Hz 24p pro velmi plynulé přehrávání rychlých sportovních akcí. Kvalita videa je naprosto pozoruhodná. Cloudové aplikace byly předinstalovány a připraveny k použití: Amazon Video on Demand (a PRIME!), Netflix, Hulu+,\n- Notebook Acer Aspire V5-531-4636 s 15,6\" HD displejem (černý): Posledních 8 let jsem cestoval *rozsáhle*, takže se na technologie na cestách dívám z jedinečné perspektivy - jako někdo, kdo si musí sbalit nalehko do bláznivých situací v USA, obvykle na poslední chvíli, na neznámou dobu, a přitom potřebuje přístup k moderním technologiím včetně plně funkčního a s\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "verny-technologicky-nakupujici",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje především počítače, příslušenství a fotografickou techniku, celkem uskutečnil 143 nákupů a vrací se jako věrný zákazník. Hodnocení 4,7 ukazuje na spokojenost; zajímají jej bezdrátové myši, kabely, adaptéry, fotoaparáty i praktická zařízení, přičemž nakupuje ve smíšené cenové hladině.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "fototechnika",
+      "opakované nákupy",
+      "praktická zařízení"
+    ],
+    "price_segment": "mixed"
+  }
+}

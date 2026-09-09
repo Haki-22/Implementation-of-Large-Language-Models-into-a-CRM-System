@@ -1,0 +1,40 @@
+{
+  "contact_id": 368,
+  "reviewer_id": "AU90FZYTYG0FT",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 34,
+  "reviews_used": 15,
+  "prompt_chars": 9732,
+  "status": "ok",
+  "seconds": 1211.86,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.9,
+    "E": 3.5,
+    "A": 2.6,
+    "N": 3.4,
+    "evidence_quotes": {
+      "O": "I don't usually write long reviews for sucky earphones, but the Trumpets are so aesthetically amazing that I feel like it deserves a more respectable review.",
+      "C": "Keep in mind the criteria I use. Sound is only one of the four.",
+      "E": "All the 1,2,3-star reviews. Are you kidding me? Theses are awesome.",
+      "A": "Before I go on with my hateful review, let me declare myself tech. savvy and able to search online and follow guides.",
+      "N": "They smell like death, poison, and cancer."
+    }
+  },
+  "raw": {
+    "A": 2.6,
+    "C": 3.9,
+    "E": 3.5,
+    "N": 3.4,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Before I go on with my hateful review, let me declare myself tech. savvy and able to search online and follow guides.",
+      "C": "Keep in mind the criteria I use. Sound is only one of the four.",
+      "E": "All the 1,2,3-star reviews. Are you kidding me? Theses are awesome.",
+      "N": "They smell like death, poison, and cancer.",
+      "O": "I don't usually write long reviews for sucky earphones, but the Trumpets are so aesthetically amazing that I feel like it deserves a more respectable review."
+    }
+  }
+}

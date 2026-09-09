@@ -1,0 +1,40 @@
+{
+  "contact_id": 338,
+  "reviewer_id": "AXU3VKZE848IY",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 75,
+  "reviews_used": 15,
+  "prompt_chars": 10097,
+  "status": "ok",
+  "seconds": 402.48,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.45,
+    "E": 3.1,
+    "A": 3.4,
+    "N": 2.9,
+    "evidence_quotes": {
+      "O": "For the measurement portion I used a signal generator and a sound level meter.",
+      "C": "I routinely mirror (backup entire drive vs just the data) on all the family computers.",
+      "E": "When I first set up the unit with my Touch and played a couple of tracks, my jaw dropped.",
+      "A": "Great for a family member or a friend who never backs up, but calls you when things go wrong.",
+      "N": "An exercise in frustration."
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.45,
+    "E": 3.1,
+    "N": 2.9,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "Great for a family member or a friend who never backs up, but calls you when things go wrong.",
+      "C": "I routinely mirror (backup entire drive vs just the data) on all the family computers.",
+      "E": "When I first set up the unit with my Touch and played a couple of tracks, my jaw dropped.",
+      "N": "An exercise in frustration.",
+      "O": "For the measurement portion I used a signal generator and a sound level meter."
+    }
+  }
+}

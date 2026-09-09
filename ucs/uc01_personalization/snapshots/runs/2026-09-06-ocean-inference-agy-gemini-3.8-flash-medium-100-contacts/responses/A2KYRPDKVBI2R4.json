@@ -1,0 +1,40 @@
+{
+  "contact_id": 118,
+  "reviewer_id": "A2KYRPDKVBI2R4",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 142,
+  "reviews_used": 15,
+  "prompt_chars": 8086,
+  "status": "ok",
+  "seconds": 68.91,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 3.45,
+    "E": 3.0,
+    "A": 4.1,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "it holds everything i need being a computer technician and technology guru.",
+      "C": "this is exactly what i was looking for, a comfortable bag to hold all my gadgets in a confined space yet easy to access.",
+      "E": "the shoulder strap can be a little rough but it works and it doesn't weigh to much me being such a weakling its a little bit heavy.",
+      "A": "glitching will be present as from what i've heard its primarily a hack and not a polished product but for me it works just fine.",
+      "N": "also the bell in it does rattle during transport and is quite loud and annoying but turns off after a second of it starting so not a problem"
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 3.45,
+    "E": 3,
+    "N": 2.3,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "glitching will be present as from what i've heard its primarily a hack and not a polished product but for me it works just fine.",
+      "C": "this is exactly what i was looking for, a comfortable bag to hold all my gadgets in a confined space yet easy to access.",
+      "E": "the shoulder strap can be a little rough but it works and it doesn't weigh to much me being such a weakling its a little bit heavy.",
+      "N": "also the bell in it does rattle during transport and is quite loud and annoying but turns off after a second of it starting so not a problem",
+      "O": "it holds everything i need being a computer technician and technology guru."
+    }
+  }
+}

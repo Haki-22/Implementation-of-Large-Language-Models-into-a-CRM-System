@@ -1,0 +1,40 @@
+{
+  "contact_id": 13,
+  "reviewer_id": "A6FIAB28IS79",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 367,
+  "reviews_used": 15,
+  "prompt_chars": 9930,
+  "status": "ok",
+  "seconds": 38.27,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.45,
+    "A": 3.85,
+    "N": 2.55,
+    "evidence_quotes": {
+      "O": "They're up to the task of distinguishing each of the instruments in a jazz rhythm",
+      "C": "be sure to test it frequently and thoroughly for the first couple of weeks.",
+      "E": "Based on my experience with the earlier model, I've recommended the KDL 40V4100 to friends and family.",
+      "A": "NIX customer support was so helpful that I decided to stay with the brand but to move up to this 8\" model.",
+      "N": "More aggravating is the jumpy picture on all of my commercial VHS tapes when I play them with the Sony."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.15,
+    "E": 3.45,
+    "N": 2.55,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "NIX customer support was so helpful that I decided to stay with the brand but to move up to this 8\" model.",
+      "C": "be sure to test it frequently and thoroughly for the first couple of weeks.",
+      "E": "Based on my experience with the earlier model, I've recommended the KDL 40V4100 to friends and family.",
+      "N": "More aggravating is the jumpy picture on all of my commercial VHS tapes when I play them with the Sony.",
+      "O": "They're up to the task of distinguishing each of the instruments in a jazz rhythm"
+    }
+  }
+}

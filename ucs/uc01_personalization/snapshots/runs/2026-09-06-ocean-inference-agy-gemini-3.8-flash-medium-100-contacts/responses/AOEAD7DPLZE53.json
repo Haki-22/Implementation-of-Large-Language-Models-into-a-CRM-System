@@ -1,0 +1,40 @@
+{
+  "contact_id": 117,
+  "reviewer_id": "AOEAD7DPLZE53",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 146,
+  "reviews_used": 15,
+  "prompt_chars": 10195,
+  "status": "ok",
+  "seconds": 66.65,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.65,
+    "E": 3.1,
+    "A": 3.5,
+    "N": 3.0,
+    "evidence_quotes": {
+      "O": "Since I'm an engineer, I just HAVE to open the case to see what's inside.",
+      "C": "I used two sets of benchmark programs. One is called 'Flash Memory Toolkit v2.0', which measures the random read/write speed of files between 1MB and 15MB.",
+      "E": "My advice is to stay away from BC-9009 for now, until the situation has been rectified.",
+      "A": "All rechargeable battery manufacturers love to boast about their product's current capacity (mAh). But there is a dirty little secret that they don't want you to hear",
+      "N": "The result I got was so appalling that I have to re-run the tests on two different computers to confirmed it"
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.65,
+    "E": 3.1,
+    "N": 3,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "All rechargeable battery manufacturers love to boast about their product's current capacity (mAh). But there is a dirty little secret that they don't want you to hear",
+      "C": "I used two sets of benchmark programs. One is called 'Flash Memory Toolkit v2.0', which measures the random read/write speed of files between 1MB and 15MB.",
+      "E": "My advice is to stay away from BC-9009 for now, until the situation has been rectified.",
+      "N": "The result I got was so appalling that I have to re-run the tests on two different computers to confirmed it",
+      "O": "Since I'm an engineer, I just HAVE to open the case to see what's inside."
+    }
+  }
+}

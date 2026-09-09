@@ -1,0 +1,40 @@
+{
+  "contact_id": 420,
+  "reviewer_id": "A1LAGS8H4A2DR7",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 60,
+  "reviews_used": 15,
+  "prompt_chars": 10033,
+  "status": "ok",
+  "seconds": 1459.62,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.15,
+    "E": 3.15,
+    "A": 3.45,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "Images are sharp, colors are perfect and bokeh usually very nice. There is a noticeable high quality to the images it produces.",
+      "C": "The batteries are the only issue but I have not had a problem. I bought 2 sets of eneloops and just keep them charged and ready.",
+      "E": "My wife got mad when she saw this because it isn't big enough to hold all our cameras, but I DON'T want to carry around all the cameras.",
+      "A": "Just to be clear: this is a good lens. The construction quality is high, it does provide more detail, if you look for it",
+      "N": "After much frustration, I discovered (EMC/Iomega sure didn't tell me) that the Retrospect Express HD software included in this package does not work well with a 64 bit system."
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 4.15,
+    "E": 3.15,
+    "N": 2.75,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Just to be clear: this is a good lens. The construction quality is high, it does provide more detail, if you look for it",
+      "C": "The batteries are the only issue but I have not had a problem. I bought 2 sets of eneloops and just keep them charged and ready.",
+      "E": "My wife got mad when she saw this because it isn't big enough to hold all our cameras, but I DON'T want to carry around all the cameras.",
+      "N": "After much frustration, I discovered (EMC/Iomega sure didn't tell me) that the Retrospect Express HD software included in this package does not work well with a 64 bit system.",
+      "O": "Images are sharp, colors are perfect and bokeh usually very nice. There is a noticeable high quality to the images it produces."
+    }
+  }
+}

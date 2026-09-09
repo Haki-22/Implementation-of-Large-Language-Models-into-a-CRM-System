@@ -1,0 +1,40 @@
+{
+  "contact_id": 28,
+  "reviewer_id": "ARXU3FESTWMJJ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 126,
+  "reviews_used": 15,
+  "prompt_chars": 10040,
+  "status": "ok",
+  "seconds": 80.65,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.95,
+    "E": 3.25,
+    "A": 3.2,
+    "N": 2.95,
+    "evidence_quotes": {
+      "O": "I'd been wanting to go digital with my photography hobby for a few years",
+      "C": "First, the internal strap to hold the laptop is WAY off to the side.",
+      "E": "I'll assume you are reading these reviews because you already know that the Palm OS beats CE any day.",
+      "A": "I can't recommend the Visor right now due to the horrible problems people are having with Handspring...maybe in another year, but not now.",
+      "N": "I cannot tolerate at all any type of in-ear headphone that is simply a plastic, hard ear bud, they are all far too large and uncomfortable"
+    }
+  },
+  "raw": {
+    "A": 3.2,
+    "C": 3.95,
+    "E": 3.25,
+    "N": 2.95,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I can't recommend the Visor right now due to the horrible problems people are having with Handspring...maybe in another year, but not now.",
+      "C": "First, the internal strap to hold the laptop is WAY off to the side.",
+      "E": "I'll assume you are reading these reviews because you already know that the Palm OS beats CE any day.",
+      "N": "I cannot tolerate at all any type of in-ear headphone that is simply a plastic, hard ear bud, they are all far too large and uncomfortable",
+      "O": "I'd been wanting to go digital with my photography hobby for a few years"
+    }
+  }
+}

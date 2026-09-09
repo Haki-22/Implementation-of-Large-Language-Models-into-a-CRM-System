@@ -1,0 +1,40 @@
+{
+  "contact_id": 133,
+  "reviewer_id": "A1URXSRV6WDHVY",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 122,
+  "reviews_used": 15,
+  "prompt_chars": 9924,
+  "status": "ok",
+  "seconds": 76.22,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.8,
+    "A": 4.05,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "always looking for a bigger, better, brighter picture with less artifacts (banding on solid color scenes, judder and flashlighting issues)",
+      "C": "After much comparison, and much online and in-store research I decided to plunk down my hard earned cash on this bad boy.",
+      "E": "I am VERY pleased with this LG ! I am writing this review to help you decide whether or not this TV is worth upgrading",
+      "A": "I purchased this unit for my 81 year old father who has taken to watching Xvid and MKV files from the internet, usually documentaries on WW2",
+      "N": "It has some issues but works well for my needs."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.15,
+    "E": 3.8,
+    "N": 2.1,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I purchased this unit for my 81 year old father who has taken to watching Xvid and MKV files from the internet, usually documentaries on WW2",
+      "C": "After much comparison, and much online and in-store research I decided to plunk down my hard earned cash on this bad boy.",
+      "E": "I am VERY pleased with this LG ! I am writing this review to help you decide whether or not this TV is worth upgrading",
+      "N": "It has some issues but works well for my needs.",
+      "O": "always looking for a bigger, better, brighter picture with less artifacts (banding on solid color scenes, judder and flashlighting issues)"
+    }
+  }
+}

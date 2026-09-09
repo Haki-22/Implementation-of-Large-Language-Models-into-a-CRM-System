@@ -1,0 +1,40 @@
+{
+  "contact_id": 404,
+  "reviewer_id": "APBDZ88BBTN4F",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 54,
+  "reviews_used": 15,
+  "prompt_chars": 9875,
+  "status": "ok",
+  "seconds": 1387.8,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.35,
+    "E": 3.25,
+    "A": 3.35,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "I am not a professional photographer; I am an amateur enthusiast photographer. So, weigh what I have to say against that information.",
+      "C": "Anyway, after a lot of research, and a lot of patience and careful planning, I was able to make a bit-copy of my existin",
+      "E": "I have used it to shoot high definition video of several events both indoors and outdoors, and it has performed admirably.",
+      "A": "First of all, I don't trust Seagate. I haven't since I had multiple drives of theirs fail on me causing me to lose data on 2 occasions",
+      "N": "The headphones themselves have me a little worried though. Because they fold up to fit in the case, I am afraid that down the line they may break."
+    }
+  },
+  "raw": {
+    "A": 3.35,
+    "C": 4.35,
+    "E": 3.25,
+    "N": 3.2,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "First of all, I don't trust Seagate. I haven't since I had multiple drives of theirs fail on me causing me to lose data on 2 occasions",
+      "C": "Anyway, after a lot of research, and a lot of patience and careful planning, I was able to make a bit-copy of my existin",
+      "E": "I have used it to shoot high definition video of several events both indoors and outdoors, and it has performed admirably.",
+      "N": "The headphones themselves have me a little worried though. Because they fold up to fit in the case, I am afraid that down the line they may break.",
+      "O": "I am not a professional photographer; I am an amateur enthusiast photographer. So, weigh what I have to say against that information."
+    }
+  }
+}

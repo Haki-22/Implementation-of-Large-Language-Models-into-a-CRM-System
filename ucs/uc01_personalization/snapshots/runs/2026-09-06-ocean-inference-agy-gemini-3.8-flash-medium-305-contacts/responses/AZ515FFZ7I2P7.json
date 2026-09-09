@@ -1,0 +1,40 @@
+{
+  "contact_id": 136,
+  "reviewer_id": "AZ515FFZ7I2P7",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 127,
+  "reviews_used": 15,
+  "prompt_chars": 10026,
+  "status": "ok",
+  "seconds": 503.33,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.15,
+    "E": 3.4,
+    "A": 3.65,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "I consider myself a technology enthusiast who has replaced multiple hard drives in multiple notebooks and desktops over the years.",
+      "C": "I've purchased five cases for my iPad 2 in an attempt to find the \"perfect\" case.",
+      "E": "Before you doubt me completely, hear me out.",
+      "A": "Many people have written wonderful reviews of the C-4040. I have to say that I agree with most of them",
+      "N": "I was a little concerned that these speakers might not put out enough sound, but my fears were quickly put to rest"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.15,
+    "E": 3.4,
+    "N": 2.45,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "Many people have written wonderful reviews of the C-4040. I have to say that I agree with most of them",
+      "C": "I've purchased five cases for my iPad 2 in an attempt to find the \"perfect\" case.",
+      "E": "Before you doubt me completely, hear me out.",
+      "N": "I was a little concerned that these speakers might not put out enough sound, but my fears were quickly put to rest",
+      "O": "I consider myself a technology enthusiast who has replaced multiple hard drives in multiple notebooks and desktops over the years."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 362,
+  "reviewer_id": "A2AWVROFGSZU4E",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 28,
+  "reviews_used": 15,
+  "prompt_chars": 9717,
+  "status": "ok",
+  "seconds": 1188.44,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.05,
+    "E": 3.65,
+    "A": 3.25,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I have been an audiophile for at least three decades. I care about good music sound.",
+      "C": "Now, let's turn to five particular subjects, those being the screen, the keyboard, form factors, Windows 8 and battery life.",
+      "E": "As pretty much everyone by now knows, I, being an extremely famous musician with many groupies, have unusually shaped external ear canals",
+      "A": "This fairly simple adapter works with iMacs, MacBooks and Macbook Pros. I don't think it works with VCRs or Hoover vacuums or toast.",
+      "N": "It's no 17-incher like the HP Gargantuantic I've gotten used to, but it's still big enough and crisp enough that I have no complaints"
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.05,
+    "E": 3.65,
+    "N": 2.3,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "This fairly simple adapter works with iMacs, MacBooks and Macbook Pros. I don't think it works with VCRs or Hoover vacuums or toast.",
+      "C": "Now, let's turn to five particular subjects, those being the screen, the keyboard, form factors, Windows 8 and battery life.",
+      "E": "As pretty much everyone by now knows, I, being an extremely famous musician with many groupies, have unusually shaped external ear canals",
+      "N": "It's no 17-incher like the HP Gargantuantic I've gotten used to, but it's still big enough and crisp enough that I have no complaints",
+      "O": "I have been an audiophile for at least three decades. I care about good music sound."
+    }
+  }
+}

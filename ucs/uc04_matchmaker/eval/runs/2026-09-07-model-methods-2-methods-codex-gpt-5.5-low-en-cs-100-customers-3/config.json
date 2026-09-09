@@ -1,0 +1,895 @@
+{
+  "run_dir": "2026-09-07-model-methods-2-methods-codex-gpt-5.5-low-en-cs-100-customers-3",
+  "date": "2026-09-07",
+  "methods": {
+    "rerank_als": {
+      "title": "Model re-ranks the ALS order",
+      "description": "whole history + the 101 sampled candidates in ALS order with their scores; the model may move a candidate only where the history supports it",
+      "family": "language model / re-ranking over collaborative filtering",
+      "ml_input": "ALS order and scores of the 101 sampled candidates",
+      "protocols": [
+        "sampled"
+      ],
+      "subset": "sample"
+    },
+    "rerank_als_with_profile": {
+      "title": "Model re-ranks the ALS order with the customer profile",
+      "description": "method 3 plus the profile from the CRM: Big Five estimate, lifecycle stage, interest topics, persona and aspects where present; the profile breaks ties only",
+      "family": "language model / re-ranking over collaborative filtering + profile",
+      "ml_input": "ALS order and scores of the 101 sampled candidates; the profile from the database",
+      "protocols": [
+        "sampled"
+      ],
+      "subset": "sample",
+      "extras": {
+        "profile_fields": {
+          "2": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "3": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "4": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "7": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "11": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "13": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "24": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "25": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "27": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "29": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "31": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "33": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "41": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "50": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "55": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "57": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "59": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "60": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "71": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "72": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "88": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "108": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "111": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "117": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "118": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "128": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "130": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "133": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "138": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "141": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "142": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "143": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "157": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "162": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "170": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "182": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "183": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "187": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "193": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "197": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "198": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "204": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "206": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "209": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "212": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "218": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "222": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "224": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "228": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "231": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "236": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "241": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "248": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "255": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "256": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "257": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "268": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "277": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "285": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "288": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "305": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "310": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "313": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "316": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "318": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "322": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "323": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "327": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "328": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "333": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "335": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "336": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "338": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "340": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "341": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "342": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "344": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "345": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "348": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "349": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "353": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "356": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "358": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "361": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "363": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "364": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "367": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "371": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "372": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "374": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "376": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "377": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "378": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "379": [
+            "aspects",
+            "lifecycle",
+            "ocean",
+            "persona",
+            "topics"
+          ],
+          "402": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "405": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "411": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "415": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "416": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ],
+          "424": [
+            "lifecycle",
+            "ocean",
+            "topics"
+          ]
+        },
+        "ocean_sources": {
+          "2": "inferred",
+          "3": "inferred",
+          "4": "inferred",
+          "7": "inferred",
+          "11": "inferred",
+          "13": "inferred",
+          "24": "inferred",
+          "25": "inferred",
+          "27": "inferred",
+          "29": "inferred",
+          "31": "inferred",
+          "33": "inferred",
+          "41": "inferred",
+          "50": "inferred",
+          "55": "inferred",
+          "57": "inferred",
+          "59": "inferred",
+          "60": "inferred",
+          "71": "inferred",
+          "72": "inferred",
+          "88": "inferred",
+          "108": "inferred",
+          "111": "inferred",
+          "117": "inferred",
+          "118": "inferred",
+          "128": "inferred",
+          "130": "inferred",
+          "133": "inferred",
+          "138": "inferred",
+          "141": "inferred",
+          "142": "inferred",
+          "143": "inferred",
+          "157": "inferred",
+          "162": "inferred",
+          "170": "inferred",
+          "182": "inferred",
+          "183": "inferred",
+          "187": "inferred",
+          "193": "inferred",
+          "197": "inferred",
+          "198": "inferred",
+          "204": "inferred",
+          "206": "inferred",
+          "209": "inferred",
+          "212": "inferred",
+          "218": "inferred",
+          "222": "inferred",
+          "224": "inferred",
+          "228": "inferred",
+          "231": "inferred",
+          "236": "inferred",
+          "241": "inferred",
+          "248": "inferred",
+          "255": "inferred",
+          "256": "inferred",
+          "257": "inferred",
+          "268": "inferred",
+          "277": "inferred",
+          "285": "inferred",
+          "288": "inferred",
+          "305": "inferred",
+          "310": "inferred",
+          "313": "inferred",
+          "316": "inferred",
+          "318": "inferred",
+          "322": "inferred",
+          "323": "inferred",
+          "327": "inferred",
+          "328": "inferred",
+          "333": "inferred",
+          "335": "inferred",
+          "336": "inferred",
+          "338": "inferred",
+          "340": "inferred",
+          "341": "inferred",
+          "342": "inferred",
+          "344": "inferred",
+          "345": "inferred",
+          "348": "inferred",
+          "349": "inferred",
+          "353": "inferred",
+          "356": "inferred",
+          "358": "inferred",
+          "361": "inferred",
+          "363": "inferred",
+          "364": "inferred",
+          "367": "inferred",
+          "371": "inferred",
+          "372": "inferred",
+          "374": "inferred",
+          "376": "inferred",
+          "377": "inferred",
+          "378": "inferred",
+          "379": "inferred",
+          "402": "inferred",
+          "405": "inferred",
+          "411": "inferred",
+          "415": "inferred",
+          "416": "inferred",
+          "424": "inferred"
+        }
+      }
+    }
+  },
+  "sample": {
+    "name": "model-arms-100",
+    "rule": "the arena's linked customers (at least two reviews) split by group; per group fill {\"A\": 60, \"B\": 20, \"C\": 20} slots: first the linked contacts of UC-01's pick reading-16 that belong to the group, in contact-id order, then a random draw without replacement from the group's remaining customers with numpy default_rng([42, group index]); ids sorted; one list for every model arm and for the OCEAN inference",
+    "seed": 42,
+    "customers": [
+      2,
+      3,
+      4,
+      7,
+      11,
+      13,
+      24,
+      25,
+      27,
+      29,
+      31,
+      33,
+      41,
+      50,
+      55,
+      57,
+      59,
+      60,
+      71,
+      72,
+      88,
+      108,
+      111,
+      117,
+      118,
+      128,
+      130,
+      133,
+      138,
+      141,
+      142,
+      143,
+      157,
+      162,
+      170,
+      182,
+      183,
+      187,
+      193,
+      197,
+      198,
+      204,
+      206,
+      209,
+      212,
+      218,
+      222,
+      224,
+      228,
+      231,
+      236,
+      241,
+      248,
+      255,
+      256,
+      257,
+      268,
+      277,
+      285,
+      288,
+      305,
+      310,
+      313,
+      316,
+      318,
+      322,
+      323,
+      327,
+      328,
+      333,
+      335,
+      336,
+      338,
+      340,
+      341,
+      342,
+      344,
+      345,
+      348,
+      349,
+      353,
+      356,
+      358,
+      361,
+      363,
+      364,
+      367,
+      371,
+      372,
+      374,
+      376,
+      377,
+      378,
+      379,
+      402,
+      405,
+      411,
+      415,
+      416,
+      424
+    ],
+    "limit": null
+  },
+  "limit": null,
+  "languages": [
+    "en",
+    "cs"
+  ],
+  "czech_branch": "Czech instruction and Czech product titles (16 067 of 18 213; English title otherwise); persona and aspects in the profile are Czech in both branches (D-UC04-D, design §8.1)",
+  "sampled_negatives": 100,
+  "seed": 42,
+  "candidate_shuffle": "numpy default_rng([seed, contact_id, 7]) per customer (method 1)",
+  "title_chars": 120,
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "concurrency": 4,
+  "reuse": "2026-09-07-model-methods-2-methods-codex-gpt-5.5-low-en-cs-100-customers-2",
+  "prompt_version": "1.0.2",
+  "prompts": {
+    "ranking_system": {
+      "en": "You are the recommender of a Czech online shop that sells electronics and accessories. You will read one customer's complete purchase history (oldest first; each line gives the date, the star rating the customer gave, and the product title) and a list of candidate products, each with a short id such as C017.\n\nTask: order ALL candidates from the most likely next purchase to the least likely, judged from the history alone. Read the history for the customer's interests, brands, price level and the direction of the most recent purchases; a candidate that continues the recent purchases ranks above one that only matches old ones. Never invent an id, never drop one, never repeat one.\n\nAnswer with JSON only, matching the schema {\"ranking\": [<every candidate id exactly once, most likely first>]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Candidates: C001 Kitchen scale; C002 Headphone stand; C003 3.5 mm to 6.3 mm adapter; C004 Dog leash. Answer: {\"ranking\": [\"C003\", \"C002\", \"C001\", \"C004\"]}",
+      "cs": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Dostaneš celou nákupní historii jednoho zákazníka (od nejstaršího nákupu; každý řádek nese datum, hodnocení hvězdičkami, které zákazník dal, a název produktu) a seznam kandidátních produktů, každý s krátkým identifikátorem, například C017.\n\nÚkol: seřaď VŠECHNY kandidáty od nejpravděpodobnějšího příštího nákupu po nejméně pravděpodobný, jen podle historie. Z historie vyčti zájmy zákazníka, značky, cenovou hladinu a směr posledních nákupů; kandidát, který navazuje na poslední nákupy, patří výš než ten, který odpovídá jen starým. Žádný identifikátor si nevymýšlej, žádný nevynechej, žádný neopakuj.\n\nOdpověz pouze JSON podle schématu {\"ranking\": [<každý identifikátor kandidáta právě jednou, nejpravděpodobnější první>]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Kandidáti: C001 Kuchyňská váha; C002 Stojan na sluchátka; C003 Redukce 3,5 mm na 6,3 mm jack; C004 Vodítko pro psa. Odpověď: {\"ranking\": [\"C003\", \"C002\", \"C001\", \"C004\"]}"
+    },
+    "als_order_addendum": {
+      "en": "\n\nThe candidates are listed in the order a collaborative-filtering model (ALS, trained on what other customers of the shop bought) ranked them, most likely first, each with its score. Keep that order wherever the history gives you no reason to change it; move a candidate only when the history supports the move.",
+      "cs": "\n\nKandidáti jsou uvedeni v pořadí, v jakém je seřadil model kolaborativního filtrování (ALS, naučený z toho, co kupovali ostatní zákazníci obchodu), nejpravděpodobnější první, každý se svým skóre. Toto pořadí zachovej všude, kde ti historie nedává důvod ho měnit; kandidáta přesuň jen tehdy, když to historie podporuje."
+    },
+    "profile_addendum": {
+      "en": "\n\nYou also receive the customer's profile: a Big Five personality estimate (five scores 1-5), the customer's stage in the shop's lifecycle, interest topics, and, when present, a short persona description and the product aspects the customer praises or criticises. Use the profile only to break ties between candidates the history does not separate; the history comes first.",
+      "cs": "\n\nDostaneš také profil zákazníka: odhad osobnosti Big Five (pět skóre 1–5), fázi životního cyklu zákazníka v obchodě, témata zájmu a, pokud jsou k dispozici, krátký popis persony a vlastnosti produktů, které zákazník chválí nebo kritizuje. Profil použij jen k rozhodnutí mezi kandidáty, které historie nerozliší; historie má přednost."
+    },
+    "describe_system": {
+      "en": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}",
+      "cs": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}"
+    },
+    "no_tools": {
+      "en": "\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+      "cs": "\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem."
+    }
+  },
+  "schemas": {
+    "ranking": {
+      "type": "object",
+      "properties": {
+        "ranking": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 101,
+          "items": {
+            "type": "string",
+            "pattern": "^C[0-9]{3}$"
+          }
+        }
+      },
+      "required": [
+        "ranking"
+      ],
+      "additionalProperties": false
+    },
+    "ranking_top200": {
+      "type": "object",
+      "properties": {
+        "ranking": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 200,
+          "items": {
+            "type": "string",
+            "pattern": "^C[0-9]{3}$"
+          }
+        }
+      },
+      "required": [
+        "ranking"
+      ],
+      "additionalProperties": false
+    },
+    "describe": {
+      "type": "object",
+      "properties": {
+        "next_purchases": {
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 3,
+          "items": {
+            "type": "string",
+            "maxLength": 200
+          }
+        }
+      },
+      "required": [
+        "next_purchases"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "database": {
+    "file": "substrate/snapshots/substrate.db",
+    "sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+    "customers": 425,
+    "groups": {
+      "A": 300,
+      "B": 50,
+      "C": 75
+    },
+    "catalogue_items": 18213,
+    "reviews_in_histories": 45526
+  },
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "implicit": "0.7.3",
+      "scipy": "1.14.1",
+      "scikit-learn": "1.8.0",
+      "lightgbm": "4.6.0",
+      "mlxtend": "0.24.0",
+      "rank_bm25": "0.2.2",
+      "sentence_transformers": "5.5.1",
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "simplemma": "1.1.2"
+    }
+  },
+  "total_seconds": 11.3
+}

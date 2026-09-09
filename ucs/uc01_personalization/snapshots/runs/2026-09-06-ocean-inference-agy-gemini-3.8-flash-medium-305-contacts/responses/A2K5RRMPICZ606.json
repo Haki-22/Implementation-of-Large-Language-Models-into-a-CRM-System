@@ -1,0 +1,40 @@
+{
+  "contact_id": 386,
+  "reviewer_id": "A2K5RRMPICZ606",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 37,
+  "reviews_used": 15,
+  "prompt_chars": 10142,
+  "status": "ok",
+  "seconds": 1304.82,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "drawing in Inkscape (if you can stand the small screen), it's more than adequate.",
+      "C": "In the course of my research, I found this identical unit was available direct from Lenovo's website",
+      "E": "shooting mainly the kids, family/friend gatherings, special events, and some home construction-type projects",
+      "A": "I bought this for my wife, who listens to a lot of podcasts and web streaming.",
+      "N": "it's already been dropped on the tile floor on day one, and is no worse for wear."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "I bought this for my wife, who listens to a lot of podcasts and web streaming.",
+      "C": "In the course of my research, I found this identical unit was available direct from Lenovo's website",
+      "E": "shooting mainly the kids, family/friend gatherings, special events, and some home construction-type projects",
+      "N": "it's already been dropped on the tile floor on day one, and is no worse for wear.",
+      "O": "drawing in Inkscape (if you can stand the small screen), it's more than adequate."
+    }
+  }
+}

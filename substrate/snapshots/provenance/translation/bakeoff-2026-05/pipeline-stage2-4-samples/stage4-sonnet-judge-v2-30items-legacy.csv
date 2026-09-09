@@ -1,0 +1,31 @@
+item_id,verdict,reason,suggested_fix
+rs::ADLVFFE4VBT8::B00006343P::1320364800,VALID,Překlad je idiomatický a přirozený. Struktura 'mít rád fialovou' je v češtině běžná.,
+rs::ADLVFFE4VBT8::B00002NDRF::1298419200,VALID,"Překlad 'Crisp, sticky labels' jako 'Jasné, lepící štítky' je věcně správný; 'jasné' místo 'ostré' je přijatelná nuance bez změny smyslu.",
+rt::ADLVFFE4VBT8::B00006343P::1320364800,VALID,"Celkový překlad zachovává význam, délkové jednotky (stopy→metry) jsou převedeny správně a klíčové technické termíny jsou přeloženy věrně.",
+rt::ADLVFFE4VBT8::B00002NDRF::1298419200,VALID,Překlad věrně zachovává obsah; 'priming' v uvozovkách signalizuje přizpůsobení a drobná gramatická neobratnost neměnní smysl.,
+rs::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,Překlad je přímý a srozumitelný; 'barevně sladěný kabel' je přijatelný český výraz v kontextu produktového popisku.,
+rt::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,Překlad zachovává technický obsah i idiomy; posun z 'Be aware' na 'Upozorňujeme' je přijatelná formální varianta.,
+rt::ADLVFFE4VBT8::B000067SGI::1298246400,VALID,"Text plyne přirozeně, idiomy jako 'ušetřit pár korun' a 'není si na co stěžovat' jsou správně použity. Drobné strnulosti jsou na hranici přijatelnosti.",
+rs::ADLVFFE4VBT8::B000067SGI::1298246400,VALID,'Tak akorát' je přirozené hovorové české spojení a celá věta zní idiomaticky.,
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,INVALID,"Úvodní věta překládá 'I ordered that Fellowes 99090' jako 'Objednal jsem si záruku Fellowes 99090' — slovo 'záruku' (warranty) je vloženo chybně; recenzent objednal výrobek, nikoli záruku.","Objednal jsem si Fellowes 99090, abych ochránil nový počítač a několik periferií, které se k němu připojují."
+rs::ADLVFFE4VBT8::B00006B8K2::1244160000,VALID,Stručný překlad je přirozený a idiomatický; 'Dobré za tu cenu' a 'prakticky žádná záruka' jsou přesné a plynné české výrazy.,
+rs::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,Překlad je přesný a idiomaticky správný; důraz 'THIS' je zachován jako 'TOHLE'.,
+rt::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,"Dlouhý text je přeložen idiomaticky a plynule, bez výrazných doslovných kalků; drobné formalismy ('V případě pochybností si proveďte další průzkum') jsou v technickém kontextu přijatelné.",
+rt::ADLVFFE4VBT8::B0000VP1WQ::1245628800,VALID,Překlad je věrný; výška 12 000 stop je správně převedena na ~3 600 m a technické parametry CF karet jsou zachovány.,
+rt::ADLVFFE4VBT8::B0001IXUDK::1246924800,INVALID,"Termín 'FUD' (definovaný v textu jako 'strach, nejistota, pochybnost') je na více místech nahrazen slovem 'nepříjemnosti', čímž se ztrácí specifický odborný pojem; 'FUD statement' je navíc přeloženo jako 'prohlášení o nesmyslech', což je obsahově odlišné.","Všechny výskyty 'FUD' ponechat jako 'FUD' (případně 'strach, nejistota a pochybnost' dle definice na začátku); 'prohlášení o nesmyslech' nahradit 'typické FUD tvrzení'; 'nepříjemnosti (FUD)' a 'nepříjemnost (FUD)' nahradit prostě 'FUD'."
+rs::ADLVFFE4VBT8::B0000VP1WQ::1245628800,VALID,"Krátký nadpis je přeložen přesně a přirozeně, vhodný pro použití v titulku recenze.",
+rs::ADLVFFE4VBT8::B0001IXUDK::1246924800,VALID,Překlad je přirozený a srozumitelný. Spojení 'perfektní příklad' i 'platí pro' jsou idiomatická česká vyjádření.,
+rs::ADLVFFE4VBT8::B00009V2W9::1255305600,VALID,"'Prostě úžasné' je přirozené a hovorové česky, odpovídá tónu originálu.",
+rs::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,Překlad je plynulý. 'Stále dobré i po 2 letech neustálého používání' je v češtině přirozené vyjádření.,
+rt::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,Překlad přesně zachovává obsah i tón recenze; klíčové charakteristiky myši jsou věrně přeloženy.,
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,INVALID,"Idiom 'On the heavy side' (poněkud těžká) je přeložen jako 'Těžká část', což v češtině znamená 'těžký díl nebo sekce' a mění vlastnost celého výrobku na označení jeho součásti.","Poněkud těžká – 1,47 kg."
+rt::ADLVFFE4VBT8::B00009V2W9::1255305600,INVALID,"Vlastnost 'Off-white' (béžovo-bílá barva drátu) je přeložena jako 's nízkou hmotností', čímž se atribut barvy zcela nahradí atributem hmotnosti; navíc '16 Gauge' v seznamu specifikací je přeloženo jako neúplné 'o průměru 16' bez jednotky.",'Off-white thick wire' přeložit jako 'Tlustý drát v krémové barvě'; '16 Gauge' v seznamu specifikací ponechat jako '16 AWG' nebo '16 Gauge'.
+rs::ADLVFFE4VBT8::B00020BJA8::1246665600,VALID,"Překlad zní přirozeně a idiomaticky, slovosled i hovorový tón odpovídají běžné češtině.",
+rs::ADLVFFE4VBT8::B000261N6M::1220745600,VALID,"Věta je přirozená a plynulá, výraz 'nízkorozlišovací' je sice odborný, ale v kontextu zcela srozumitelný.",
+rt::ADLVFFE4VBT8::B000261N6M::1220745600,VALID,Překlad věrně zachovává obsah a smysl recenze; gramatická neobratnost ve větě o věku televize nebrání porozumění.,
+rs::ADLVFFE4VBT8::B0002CPBUK::1229990400,VALID,"Překlad je stručný, přirozený a idiomaticky správný.",
+rt::ADLVFFE4VBT8::B0002CPBUK::1229990400,VALID,Překlad je věrný; technické termíny i hovorové výrazy ('frills' → 'vychytávky') jsou přeloženy správně.,
+rs::ADLVFFE4VBT8::B0002KKIUA::1297382400,VALID,Krátký nadpis je přeložen přímočaře a v kontextu hodnocení produktu zní přirozeně.,
+rs::ADLVFFE4VBT8::B0002L5R78::1229212800,VALID,"Řečnická otázka i důrazné 'NE' jsou přeloženy přirozeně, slovosled odpovídá české normě.",
+rt::ADLVFFE4VBT8::B0002L5R78::1229212800,INVALID,"Funkce 'Auto lip-sync' je přeložena jako 'Automatická synchronizace rtů a rtů' (nesmyslné zdvojení 'rtů') a řádek '8 channel LPCM/192 kHz/24-bit audio capability' je roztržen vloženou frází 'Podpora zvuku', čímž vzniká nesrozumitelný technický text.",'Auto lip-sync' přeložit jako 'Automatická synchronizace zvuku a obrazu (Auto lip-sync)'; '8 kanálový LPCM/192 Podpora zvuku kHz/24bit' opravit na '8kanálová podpora LPCM / 192 kHz / 24 bit'.
+rt::ADLVFFE4VBT8::B0002KKIUA::1297382400,VALID,"Překlad věrně zachovává obsah; objem 12 oz je správně převeden na ~350 ml a vzdálenost 3 palce na 7,5 cm.",

@@ -1,0 +1,40 @@
+{
+  "contact_id": 74,
+  "reviewer_id": "AT28RL25Q2OLK",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 173,
+  "reviews_used": 15,
+  "prompt_chars": 9919,
+  "status": "ok",
+  "seconds": 234.29,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.3,
+    "E": 3.45,
+    "A": 3.65,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "It calibrates your monitor color for accuracy (most monitors are not accurate) so in the post processing workflow, you are accurately processing your images for print.",
+      "C": "I conducted a great deal of research prior to purchase.",
+      "E": "Here is the real deal folks.",
+      "A": "My review and rating of the A37 is based on the camera within its own class as opposed to an unfair comparison to a Nikon D300s or D800",
+      "N": "Having been dissapointed in the many Ipad cases my family went through (3 Ipads all owned by girls), I was not expecting much"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.3,
+    "E": 3.45,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "My review and rating of the A37 is based on the camera within its own class as opposed to an unfair comparison to a Nikon D300s or D800",
+      "C": "I conducted a great deal of research prior to purchase.",
+      "E": "Here is the real deal folks.",
+      "N": "Having been dissapointed in the many Ipad cases my family went through (3 Ipads all owned by girls), I was not expecting much",
+      "O": "It calibrates your monitor color for accuracy (most monitors are not accurate) so in the post processing workflow, you are accurately processing your images for print."
+    }
+  }
+}

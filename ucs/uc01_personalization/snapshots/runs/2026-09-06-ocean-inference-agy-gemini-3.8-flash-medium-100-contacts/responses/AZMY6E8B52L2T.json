@@ -1,0 +1,40 @@
+{
+  "contact_id": 111,
+  "reviewer_id": "AZMY6E8B52L2T",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 161,
+  "reviews_used": 15,
+  "prompt_chars": 9397,
+  "status": "ok",
+  "seconds": 57.29,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.1,
+    "A": 3.95,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "When Dell redesigned the Inspiron 15R again, they made this machine look really sleek and beautiful.",
+      "C": "I double and even triple back up my information on different external drives.",
+      "E": "I have had these AKG K 430 headphones for over a month now and have literally taken them around the world.",
+      "A": "Hardly any sound leakage so your neighbor isn't bothered by your listening.",
+      "N": "I have to be the only person I know who is so afraid of hard drive (HD) failure"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.35,
+    "E": 3.1,
+    "N": 3.25,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Hardly any sound leakage so your neighbor isn't bothered by your listening.",
+      "C": "I double and even triple back up my information on different external drives.",
+      "E": "I have had these AKG K 430 headphones for over a month now and have literally taken them around the world.",
+      "N": "I have to be the only person I know who is so afraid of hard drive (HD) failure",
+      "O": "When Dell redesigned the Inspiron 15R again, they made this machine look really sleek and beautiful."
+    }
+  }
+}

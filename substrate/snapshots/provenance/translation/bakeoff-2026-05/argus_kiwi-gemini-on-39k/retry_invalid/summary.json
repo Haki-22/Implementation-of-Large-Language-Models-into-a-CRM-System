@@ -1,0 +1,10 @@
+{
+  "total_invalid_union": 155,
+  "gemini_invalid_in_scope": 151,
+  "opus_invalid_in_scope": 62,
+  "overlap_BOTH": 58,
+  "vertex_wall_seconds": 0.7,
+  "deterministic_identical": 122,
+  "deterministic_different": 33,
+  "deterministic_rate_percent": 78.71
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 242,
+  "reviewer_id": "A2JMJVNTBL7K7E",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9660,
+  "status": "ok",
+  "seconds": 903.24,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 3.65,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "So many people have reviewed the obvious, I am going to list some of the not-so-obvious.",
+      "C": "Side by side testing with the Dlink DIR655, they are both the same speed with all of the config being the same.",
+      "E": "Wow, what a wonderful experience it is.",
+      "A": "Not that it's in any way inferior or poor in quality, I just thought the aluminum cousin is much more durable.",
+      "N": "I was a little worried with the reviews posted (some good, some bad)"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 2.45,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Not that it's in any way inferior or poor in quality, I just thought the aluminum cousin is much more durable.",
+      "C": "Side by side testing with the Dlink DIR655, they are both the same speed with all of the config being the same.",
+      "E": "Wow, what a wonderful experience it is.",
+      "N": "I was a little worried with the reviews posted (some good, some bad)",
+      "O": "So many people have reviewed the obvious, I am going to list some of the not-so-obvious."
+    }
+  }
+}

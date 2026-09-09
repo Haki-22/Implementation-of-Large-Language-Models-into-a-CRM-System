@@ -1,0 +1,40 @@
+{
+  "contact_id": 11,
+  "reviewer_id": "A3OXHLG6DIBRW8",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 407,
+  "reviews_used": 15,
+  "prompt_chars": 9827,
+  "status": "ok",
+  "seconds": 43.78,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.4,
+    "E": 3.5,
+    "A": 4.05,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "This Sony HD Handycam has a lot of advanced features that makes this a real joy to use.",
+      "C": "Needed for standard wall mounting, but not included; Stud Finder, Drill, 7/32 Drill Bit, Hex Wrench Set, Socket Set or Adjustable Wrench, and a Philips Head Screwdriver",
+      "E": "We provide training at our customer's sites and often have to use their equipment",
+      "A": "We needed a \"no frills\" mouse for my mother to use and this fit the bill perfectly.",
+      "N": "Fortunately patience and dumb luck paid off and I was able to get them working."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.4,
+    "E": 3.5,
+    "N": 2.1,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "We needed a \"no frills\" mouse for my mother to use and this fit the bill perfectly.",
+      "C": "Needed for standard wall mounting, but not included; Stud Finder, Drill, 7/32 Drill Bit, Hex Wrench Set, Socket Set or Adjustable Wrench, and a Philips Head Screwdriver",
+      "E": "We provide training at our customer's sites and often have to use their equipment",
+      "N": "Fortunately patience and dumb luck paid off and I was able to get them working.",
+      "O": "This Sony HD Handycam has a lot of advanced features that makes this a real joy to use."
+    }
+  }
+}

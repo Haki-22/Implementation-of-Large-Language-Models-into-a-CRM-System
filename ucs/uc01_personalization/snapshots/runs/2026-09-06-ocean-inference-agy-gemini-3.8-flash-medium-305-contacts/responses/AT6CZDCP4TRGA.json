@@ -1,0 +1,40 @@
+{
+  "contact_id": 106,
+  "reviewer_id": "AT6CZDCP4TRGA",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 145,
+  "reviews_used": 15,
+  "prompt_chars": 9797,
+  "status": "ok",
+  "seconds": 378.99,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.75,
+    "A": 2.25,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "...after scouring several online audio/video discussion boards like AVS Forum, I chose this player for its acclaimed reliability, ease of use, and compatibility.",
+      "C": "Almost a year later and over 200 recorded DVDs later, I am happy to say that it has not disappointed me in the least.",
+      "E": "I recently tried out the Bose 15s on a long transatlantic flight because the guy next to me had a pair, and compared it",
+      "A": "...especially if some slimey and/or ignorant salesperson tells you that you MUST \"match\" the sub and speakers.",
+      "N": "BUT like all Bose products, sound quality is mediocre at best, and absolutely ATROCIOUS when compared to competitors' products in the same price range"
+    }
+  },
+  "raw": {
+    "A": 2.25,
+    "C": 4.15,
+    "E": 3.75,
+    "N": 3.15,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "...especially if some slimey and/or ignorant salesperson tells you that you MUST \"match\" the sub and speakers.",
+      "C": "Almost a year later and over 200 recorded DVDs later, I am happy to say that it has not disappointed me in the least.",
+      "E": "I recently tried out the Bose 15s on a long transatlantic flight because the guy next to me had a pair, and compared it",
+      "N": "BUT like all Bose products, sound quality is mediocre at best, and absolutely ATROCIOUS when compared to competitors' products in the same price range",
+      "O": "...after scouring several online audio/video discussion boards like AVS Forum, I chose this player for its acclaimed reliability, ease of use, and compatibility."
+    }
+  }
+}

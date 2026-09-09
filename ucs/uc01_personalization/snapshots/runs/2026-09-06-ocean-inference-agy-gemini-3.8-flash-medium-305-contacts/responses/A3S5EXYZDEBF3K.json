@@ -1,0 +1,40 @@
+{
+  "contact_id": 254,
+  "reviewer_id": "A3S5EXYZDEBF3K",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 8099,
+  "status": "ok",
+  "seconds": 945.4,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.5,
+    "A": 3.25,
+    "N": 2.95,
+    "evidence_quotes": {
+      "O": "It is part of an exploding category of bluetooth speakers that are a really great innovation.",
+      "C": "After lots of research, I bought this and kept it. Here is my long list of pros and cons:",
+      "E": "maybe I can get in the top reviews again... If you can't find it, comment here.",
+      "A": "I am an expert what it comes to gadgets and technology.",
+      "N": "I first bought the TomTom 330 XL, which was a disaster."
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.25,
+    "E": 3.5,
+    "N": 2.95,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I am an expert what it comes to gadgets and technology.",
+      "C": "After lots of research, I bought this and kept it. Here is my long list of pros and cons:",
+      "E": "maybe I can get in the top reviews again... If you can't find it, comment here.",
+      "N": "I first bought the TomTom 330 XL, which was a disaster.",
+      "O": "It is part of an exploding category of bluetooth speakers that are a really great innovation."
+    }
+  }
+}

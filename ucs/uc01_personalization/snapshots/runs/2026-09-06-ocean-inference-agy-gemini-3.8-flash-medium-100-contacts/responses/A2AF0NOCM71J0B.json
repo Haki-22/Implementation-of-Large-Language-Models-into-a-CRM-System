@@ -1,0 +1,40 @@
+{
+  "contact_id": 212,
+  "reviewer_id": "A2AF0NOCM71J0B",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 102,
+  "reviews_used": 15,
+  "prompt_chars": 10044,
+  "status": "ok",
+  "seconds": 161.03,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.35,
+    "A": 3.65,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "And while I was very impressed with the 3D, it's the other things that fascinated me even more than the 3D.",
+      "C": "This is just further proof that the Seagate hybrid disk that I received is indeed defective. Now I have enough evidence to return this defective part to Seagate.",
+      "E": "I use Skype a lot and have been using the Plantronics Audio 476 DSP headphones.",
+      "A": "There are several well written reviews that go into considerable detail already posted. So I thought that I would comment on the more negative reviews instead.",
+      "N": "After a lot of hassle, they gave a RMA to send it in for repair."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.35,
+    "E": 3.35,
+    "N": 2.4,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "There are several well written reviews that go into considerable detail already posted. So I thought that I would comment on the more negative reviews instead.",
+      "C": "This is just further proof that the Seagate hybrid disk that I received is indeed defective. Now I have enough evidence to return this defective part to Seagate.",
+      "E": "I use Skype a lot and have been using the Plantronics Audio 476 DSP headphones.",
+      "N": "After a lot of hassle, they gave a RMA to send it in for repair.",
+      "O": "And while I was very impressed with the 3D, it's the other things that fascinated me even more than the 3D."
+    }
+  }
+}

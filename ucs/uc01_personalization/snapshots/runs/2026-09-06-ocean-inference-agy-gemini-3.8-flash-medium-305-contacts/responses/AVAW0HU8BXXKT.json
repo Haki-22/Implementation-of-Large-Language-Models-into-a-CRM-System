@@ -1,0 +1,40 @@
+{
+  "contact_id": 366,
+  "reviewer_id": "AVAW0HU8BXXKT",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 33,
+  "reviews_used": 15,
+  "prompt_chars": 10097,
+  "status": "ok",
+  "seconds": 1205.01,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.4,
+    "E": 3.4,
+    "A": 3.35,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "Judging from the DxOMarks which measure the raw performance of the sensor, Pentax K-5, Nikon D7000 and Sony NEX-5N are still the best among the APS-C cameras",
+      "C": "Did a factory reset and started with making extremely minimal customization. But the problem persisted.",
+      "E": "If you are using Windows 7 and you're looking for a print server, just buy this one. Trust me. It will save you a lot of trouble.",
+      "A": "Others seem to have had better luck with this product, and you may too, but I can't recommend it.",
+      "N": "To me, it has been a waste of time. Crappy products lowers people's life quality."
+    }
+  },
+  "raw": {
+    "A": 3.35,
+    "C": 4.4,
+    "E": 3.4,
+    "N": 3.15,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "Others seem to have had better luck with this product, and you may too, but I can't recommend it.",
+      "C": "Did a factory reset and started with making extremely minimal customization. But the problem persisted.",
+      "E": "If you are using Windows 7 and you're looking for a print server, just buy this one. Trust me. It will save you a lot of trouble.",
+      "N": "To me, it has been a waste of time. Crappy products lowers people's life quality.",
+      "O": "Judging from the DxOMarks which measure the raw performance of the sensor, Pentax K-5, Nikon D7000 and Sony NEX-5N are still the best among the APS-C cameras"
+    }
+  }
+}

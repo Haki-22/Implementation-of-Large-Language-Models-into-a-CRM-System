@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "25",
+  "status": "ok",
+  "seconds": 12.77,
+  "error": "",
+  "parsed": {
+    "label": "verny_pocitacovy_a_fotograficky_zakaznik",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje především počítače a příslušenství, zejména myši, bezdrátová zařízení, kabely a adaptéry, méně často fotografickou techniku a pouzdra. Vrací se velmi často, hodnotí produkty převážně kladně a odlišuje se zájmem o snadné zapojení, praktické používání a zabezpečovací kamery.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "fototechnika",
+      "opakované nákupy",
+      "praktické použití"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-25 (anonymizován).\nNákupů: 132, průměrné hodnocení 4.4 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (72), Camera & Photo (21), Accessories & Supplies (15)\nTémata zájmu (klasické shlukování): computers / accessories / logitech / myš / bezdrátová; accessories / computers / kabel / usb / adaptér; photo / camera / digitální / canon / pouzdro\nUkázky recenzí (nejdelší, zkrácené):\n- Wilife DVS800I LukWerks Indoor Starter Kit: Pro domácí monitorovací systém je to poměrně rychlé a snadné nastavení. Systém poskytuje spolehlivé video bez potíží s mnoha kabely a dráty. Mám jednu kameru a systém používám na počítači s Windows Vista. Software se nainstaloval bez problémů a byl spuštěn do 15 minut. Správné umístění kamery a její\n- JBL 5.1kanálový systém prostorových reproduktorů pro kino s 10palcovým subwooferem SCS500.5: I když zdaleka nejsem audiofil, opravdu miluji dobré zvukové systémy. Můj obývací pokoj je vybaven 7.1 systémem. Ložnice má 5.1 systém. A sháněl jsem materiály pro kamaráda na 7.1 systém. Byl jsem nadšený z možnosti slyšet, jak budou tyto reproduktory znít. V první řadě mě překvapila velikost subwoo\n- B008HK3UCK: Když jsem si tento produkt vybíral, byl jsem nadšený, že mám pouzdro, které by poskytovalo zobrazení na výšku i na šířku. I když to technicky vzato dělá, pouzdro bylo VELKÝM zklamáním (viz obrázky pro názornost). 1. Pouzdro má pásek podobný suchému zipu, který drží pouzdro zavřené... bohužel je to a\n- Systém VueZone se 2 vnitřními kamerami pro detekci pohybu (SM2700): Jiní recenzenti poznamenali, jak snadné je to nastavit. Páni, měli pravdu. Už jsem nastavila svého netechnicky zaměřeného manžela, aby sledoval kamery pomocí jeho telefonu s Androidem (dobře, musela jsem mu to nainstalovat, ale teď to může používat sám). Nastavení kamery bylo snadné, připojení přijí\n- Brašna na digitální zrcadlovku Targus Digital TGC-SBM200 – střední: Jsem vlastně spokojený s tím, kolik vybavení se do této brašny vejde. (viz obrázky) Líbí se mi, že si sem můžu dát zrcadlovku a mám tam spoustu místa na objektiv a další příslušenství. Je to pěkná kompaktní alternativa k batohu, když nepotřebuji balit tolik vybavení. Polstrování je takové, že mám po\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "verny_pocitacovy_a_fotograficky_zakaznik",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje především počítače a příslušenství, zejména myši, bezdrátová zařízení, kabely a adaptéry, méně často fotografickou techniku a pouzdra. Vrací se velmi často, hodnotí produkty převážně kladně a odlišuje se zájmem o snadné zapojení, praktické používání a zabezpečovací kamery.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "fototechnika",
+      "opakované nákupy",
+      "praktické použití"
+    ],
+    "price_segment": "mixed"
+  }
+}

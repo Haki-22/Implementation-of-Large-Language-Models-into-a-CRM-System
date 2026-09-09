@@ -1,0 +1,40 @@
+{
+  "contact_id": 398,
+  "reviewer_id": "A244CRJ2QSVLZ4",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 43,
+  "reviews_used": 15,
+  "prompt_chars": 10485,
+  "status": "ok",
+  "seconds": 1350.03,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.15,
+    "E": 3.65,
+    "A": 4.1,
+    "N": 3.85,
+    "evidence_quotes": {
+      "O": "I am now a classic film buff; I especially love the Italian gialli that were mass produced in Italy during the mid-sixties to mid-seventies.",
+      "C": "Because I am the world's biggest accident-prone klutz, I make sure that all my handheld electronics are protected with cases.",
+      "E": "If you turn up the volume All the Way, you can create a party.",
+      "A": "It was a godsend; in fact, it made the holidays more special for me!",
+      "N": "However, I become extremely stressed trying to navigate through heavy traffic while glancing at a large map."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.15,
+    "E": 3.65,
+    "N": 3.85,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "It was a godsend; in fact, it made the holidays more special for me!",
+      "C": "Because I am the world's biggest accident-prone klutz, I make sure that all my handheld electronics are protected with cases.",
+      "E": "If you turn up the volume All the Way, you can create a party.",
+      "N": "However, I become extremely stressed trying to navigate through heavy traffic while glancing at a large map.",
+      "O": "I am now a classic film buff; I especially love the Italian gialli that were mass produced in Italy during the mid-sixties to mid-seventies."
+    }
+  }
+}

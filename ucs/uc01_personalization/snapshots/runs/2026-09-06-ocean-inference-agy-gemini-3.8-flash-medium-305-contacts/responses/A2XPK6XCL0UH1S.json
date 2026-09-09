@@ -1,0 +1,40 @@
+{
+  "contact_id": 393,
+  "reviewer_id": "A2XPK6XCL0UH1S",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 50,
+  "reviews_used": 15,
+  "prompt_chars": 10358,
+  "status": "ok",
+  "seconds": 1336.74,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.45,
+    "E": 3.35,
+    "A": 3.55,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "From the moment you unpack the Oppo BDP-83 Universal Blu-Ray player you realize that this is going to be a truly unique experience.",
+      "C": "I spent about 30 hours researching a replacement that would satisfy my goals of (a) compact size, (b) standard AA batteries, (c) full manual controls",
+      "E": "I've since purchased a Harmony 668 for another setup, and have recommended various Harmony remotes to my friends.",
+      "A": "However, several surprising configuration limitations keep me from giving it a full-on 5-star review.",
+      "N": "my trusty Olympus D40-Zoom died - luckily at the end of a vacation."
+    }
+  },
+  "raw": {
+    "A": 3.55,
+    "C": 4.45,
+    "E": 3.35,
+    "N": 2.35,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "However, several surprising configuration limitations keep me from giving it a full-on 5-star review.",
+      "C": "I spent about 30 hours researching a replacement that would satisfy my goals of (a) compact size, (b) standard AA batteries, (c) full manual controls",
+      "E": "I've since purchased a Harmony 668 for another setup, and have recommended various Harmony remotes to my friends.",
+      "N": "my trusty Olympus D40-Zoom died - luckily at the end of a vacation.",
+      "O": "From the moment you unpack the Oppo BDP-83 Universal Blu-Ray player you realize that this is going to be a truly unique experience."
+    }
+  }
+}

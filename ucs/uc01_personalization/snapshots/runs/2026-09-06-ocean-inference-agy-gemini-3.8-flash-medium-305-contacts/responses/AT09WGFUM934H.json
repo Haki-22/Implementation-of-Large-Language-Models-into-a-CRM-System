@@ -1,0 +1,40 @@
+{
+  "contact_id": 258,
+  "reviewer_id": "AT09WGFUM934H",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 6007,
+  "status": "ok",
+  "seconds": 953.48,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 3.95,
+    "E": 3.5,
+    "A": 3.9,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I'm learning to use arduino and these are helping. You can do all sorts of little experiments with them, sometimes with multiple ones at a time.",
+      "C": "Laying them out on my desk for organization was great.",
+      "E": "WOWOWOWOWOWOWOWOWOWOW!!!!!!!!!!!!!! I'm only upgrading from a GTX460 SC and this thing is of another world.",
+      "A": "luckily my seller has had the best customer service i've experienced on the web.",
+      "N": "Haven't gotten one to overclock past 2.0 stable even a little bit, despite all seller's claims, but i don't care since all my U1's do it just fine"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 3.95,
+    "E": 3.5,
+    "N": 2.15,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "luckily my seller has had the best customer service i've experienced on the web.",
+      "C": "Laying them out on my desk for organization was great.",
+      "E": "WOWOWOWOWOWOWOWOWOWOW!!!!!!!!!!!!!! I'm only upgrading from a GTX460 SC and this thing is of another world.",
+      "N": "Haven't gotten one to overclock past 2.0 stable even a little bit, despite all seller's claims, but i don't care since all my U1's do it just fine",
+      "O": "I'm learning to use arduino and these are helping. You can do all sorts of little experiments with them, sometimes with multiple ones at a time."
+    }
+  }
+}

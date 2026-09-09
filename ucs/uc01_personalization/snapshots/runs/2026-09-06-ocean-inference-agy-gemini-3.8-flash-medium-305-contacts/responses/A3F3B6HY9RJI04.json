@@ -1,0 +1,40 @@
+{
+  "contact_id": 192,
+  "reviewer_id": "A3F3B6HY9RJI04",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 106,
+  "reviews_used": 15,
+  "prompt_chars": 9181,
+  "status": "ok",
+  "seconds": 720.7,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 3.65,
+    "A": 3.75,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "What excited me the most was the concept of the wood and how they pointed out that all the best musical instruments are made of wood.",
+      "C": "I back up all of my data on this one drive so I have all of my data everywhere I go!!",
+      "E": "I have a friend who just picked up this player and we watched a movie on it and it looks fantastic!!!",
+      "A": "I do knock them out on occasion, but that is always my fault and not the ear-buds.",
+      "N": "When my Nitrus broke, it turned into an opportunity to get a Carbon."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.05,
+    "E": 3.65,
+    "N": 2.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I do knock them out on occasion, but that is always my fault and not the ear-buds.",
+      "C": "I back up all of my data on this one drive so I have all of my data everywhere I go!!",
+      "E": "I have a friend who just picked up this player and we watched a movie on it and it looks fantastic!!!",
+      "N": "When my Nitrus broke, it turned into an opportunity to get a Carbon.",
+      "O": "What excited me the most was the concept of the wood and how they pointed out that all the best musical instruments are made of wood."
+    }
+  }
+}

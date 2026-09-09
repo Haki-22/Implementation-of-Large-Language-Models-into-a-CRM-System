@@ -1,0 +1,40 @@
+{
+  "contact_id": 323,
+  "reviewer_id": "A23QII83UGZP5U",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 60,
+  "reviews_used": 15,
+  "prompt_chars": 9868,
+  "status": "ok",
+  "seconds": 328.76,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.4,
+    "E": 3.1,
+    "A": 3.6,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "There are many questions that I have such as what, if any, sacrifices were made to get such a low price, how does it work as a PC monitor",
+      "C": "As with the Acer and Asus, I've already gone through two AT305's just to make sure these issues were consistent.",
+      "E": "I currently have the Sennheiser PC360 headset that I've been gaming with for over a year.",
+      "A": "So I will be taking into consideration who this is marketed for as we go through this review.",
+      "N": "The sad part is that despite this annoying \"issue,\" it's still the best Tegra 3 tablet out there."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.4,
+    "E": 3.1,
+    "N": 2.4,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "So I will be taking into consideration who this is marketed for as we go through this review.",
+      "C": "As with the Acer and Asus, I've already gone through two AT305's just to make sure these issues were consistent.",
+      "E": "I currently have the Sennheiser PC360 headset that I've been gaming with for over a year.",
+      "N": "The sad part is that despite this annoying \"issue,\" it's still the best Tegra 3 tablet out there.",
+      "O": "There are many questions that I have such as what, if any, sacrifices were made to get such a low price, how does it work as a PC monitor"
+    }
+  }
+}

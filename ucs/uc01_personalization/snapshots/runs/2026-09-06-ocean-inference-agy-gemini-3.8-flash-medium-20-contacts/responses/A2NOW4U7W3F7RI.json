@@ -1,0 +1,40 @@
+{
+  "contact_id": 33,
+  "reviewer_id": "A2NOW4U7W3F7RI",
+  "group": "A",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 241,
+  "reviews_used": 15,
+  "prompt_chars": 9557,
+  "status": "ok",
+  "seconds": 92.42,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.1,
+    "E": 3.8,
+    "A": 3.8,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "What a stunner resolution! You will be surely blown away. This has to be the best tablet of 2014 with Android 4.4 and a gorgeous resolution.",
+      "C": "Windows had lot of crap in it and I uninstalled one by one.",
+      "E": "If you have any questions, do ask in the forum and I will respond within a day.",
+      "A": "I liked the Tab 8 so much, I purchased 2 for myself and my family.",
+      "N": "I really wish this had a better resolution. Hence only 4 stars for pixels per density for this tablet."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.1,
+    "E": 3.8,
+    "N": 2.1,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I liked the Tab 8 so much, I purchased 2 for myself and my family.",
+      "C": "Windows had lot of crap in it and I uninstalled one by one.",
+      "E": "If you have any questions, do ask in the forum and I will respond within a day.",
+      "N": "I really wish this had a better resolution. Hence only 4 stars for pixels per density for this tablet.",
+      "O": "What a stunner resolution! You will be surely blown away. This has to be the best tablet of 2014 with Android 4.4 and a gorgeous resolution."
+    }
+  }
+}

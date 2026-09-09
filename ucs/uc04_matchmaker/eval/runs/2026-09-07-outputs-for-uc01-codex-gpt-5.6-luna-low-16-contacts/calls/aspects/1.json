@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "1",
+  "status": "ok",
+  "seconds": 11.78,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "mixed",
+        "evidence": "S celkovou kvalitou obrazu a zvuku jsem byl spokojen."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Videokamera se snadno používá v tom smyslu, že můžete natáčet docela dobrá videa, aniž byste se museli prohrabávat četnými dostupnými možnostmi"
+      },
+      {
+        "aspect": "Přenosnost",
+        "sentiment": "positive",
+        "evidence": "Co ale obraz a zvuk ve videu neukazují, i v porovnání Blasteru a Bose je Roar menší a lehčí, což je dobře, protože jeho zvuk je plnější a hlasitější."
+      },
+      {
+        "aspect": "Cena",
+        "sentiment": "positive",
+        "evidence": "V době psaní tohoto textu se zdá, že se Blaster prodává za lepší cenu."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Kromě integrace s Apple se systém dobře spáruje s většinou, ale ne se všemi zařízeními s podporou Bluetooth"
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-1 (anonymizován).\nRecenze (431, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nCanon VIXIA mini X: Vynikající za specifických okolností Chtěl jsem si tuhle malou videokameru zamilovat a ona se k tomu docela blížila, ale jak už to tak skoro bývá, nic na tomto světě není dokonalé a v závislosti na tom, čeho si člověk nejvíce cení, si může vybrat, co je pro něj „mini X“ nebo... ne. Proměnné v tomto případě jsou: velikost, snadné použití, funkce, cena, všestrannost, spolehlivost, ergonomie, abychom jmenovali alespoň některé, a samozřejmě jakákoli „rovnováha“ bude zahrnovat nevyhnutelné kompromisy. Jak název napovídá, „mini X“ je malá, což je pro mě dobrá věc. Snadno můžu natáčet videa, když ji držím v jedné ruce, a její tvar a možnost do určité míry orientovat obrazovku usnadňují natáčení, pokud nejsem venku za jasného slunečného dne, kdy by bylo obtížné sledovat obrazovku a jakékoli parametry a stavové zprávy, které se na ní mohou zobrazovat. Funkce stabilizace obrazu dělá držení „mini X“ v ruce praktickým. Kvalita obrazu je kompromisem zahrnujícím množství úložiště, které si můžete dovolit na SD kartě (není součástí balení). Můžete si vybrat cokoli od „lepší než HD“ nebo 17 Mb/s až po kvalitu „YouTube“ nebo nižší. Zajímavé a docela užitečné je, že kamera dokáže vytvářet kopie vysoce kvalitního videa v nižší kvalitě a ukládat je na paměťovou kartu, a to poměrně rychle, což vám ušetří čas a starosti se spouštěním jiného softwaru v počítači. S celkovou kvalitou obrazu a zvuku jsem byl spokojen. Videokamera se snadno používá v tom smyslu, že můžete natáčet docela dobrá videa, aniž byste se museli prohrabávat četnými dostupnými možnostmi, ale existují omezení, z nichž nejviditelnější je absence zoomu. Můžete přepínat mezi „normálním“ úhlem a širokoúhlým záběrem „rybí oko“, ale nic mezi tím není. Samozřejmě existují možnosti, včetně funkce makra, a i mírný zoom by z něj udělal žádanější a užitečnější produkt. S „mini X“ jsem obecně spokojen a řekl bych, že splňuje a dokonce překračuje očekávání od produktu v této cenové relaci. Měl by odvést skvělou práci, zejména při natáčení uvnitř s „mini X“ připevněným ke stativu, a venku by měl být opět docela dobrý, pokud ho máte možnost umístit na jedno pevné místo. P.S. - mimochodem, na Amazonu jsem zveřejnil 2 videa natočená s „mini X“. Kvalita byla snížena na asi 3 Mb/s, ale to by vám mělo dát představu o tom, co z něj můžete získat z hlediska obrazu a zvuku. URL adresy nemohu vkládat do těla recenze, ale zveřejním je jako komentář k této recenzi.\nSharp HE DK-KP85P Audio Slim Micro System: Dobrý nepřenosný, stolní Malý systém od Sharpu přichází s tolika funkcemi a možnostmi, že v něm pravděpodobně najdete „něco“, co ho udělá užitečným. Je trochu „velký“, ale jeho velikost má něco dobrého, konkrétně reproduktory, které jsou dostatečně daleko, aby vytvořily pěkné stereo oddělení. Kvalita zvuku je průměrná, trochu chybí basy a ostré tóny nejsou tak ostré, jak bych si přál. Co se týče funkcí, cokoli si vzpomenete, to máte. Zvlášť pokud jste uživatel iPodu/Padu/Telefonu. Kromě integrace s Apple se systém dobře spáruje s většinou, ale ne se všemi zařízeními s podporou Bluetooth, přehrává AM/FM rádio a AM a FM antény jsou vyžadovány a jsou součástí dodávky a v případě potřeby přehrává CD, ale podle některých zde uvedených recenzí to není příliš spolehlivé. Celkově je to dobrá volba, pokud hledáte konzervativně vypadající malé stereo, které není přenosné, ale funguje dobře s některými mobilními zařízeními, zejména s Apple, a nevadí vám cena.\nNOVINKA! Creative Sound Blaster Roar: Přenosný bezdrátový Bluetooth reproduktor s technologií NFC a aptX/AAC. 5 měničů, vestavěný subwoofer, neuvěřitelně výkonný. Úžasná cena 149,99 $!: Creative Blaster Roar vs. Bose Soundlink III Nejnovější model Blasteru mi byl zaslán „k recenzi“. Samozřejmě nikdy nenaznačili, že by na oplátku dostal pozitivní recenzi. Smyslem přiloženého nedokonalého videa (omlouvám se, museli jsme odjet na dovolenou, takže jsem si mohl dovolit jen jeden záběr) by, doufám, mělo pomoci zájemcům rozhodnout se, který z předních přenosných reproduktorů s „velkým zvukem“ by preferovali, přičemž „konkurence“ by byl Bose SoundLink Bluetooth Speaker III. Za sebe, ačkoli jsou oba „dobré“, zvuk Blasteru mi přišel mnohem organičtější, abych tak řekl. Je hlasitější a silnější i na této nahrávce, pořízené s vypnutým vylepšením „řevu“. Doufám, že první část videa uklidní obvinění vznesené nějakým profesionálním recenzentem, že basy Roaru jsou slabé. Nejsou. Ale nebudu k tomu nic říkat. Prostě si poslechněte a rozhodněte se. Co ale obraz a zvuk ve videu neukazují, i v porovnání Blasteru a Bose je Roar menší a lehčí, což je dobře, protože jeho zvuk je plnější a hlasitější. Také se ve srovnání s Bose ve stojaté poloze položí naplocho, takže je Blaster stabilnější. V době psaní tohoto textu se zdá, že se Blaster prodává za lepší cenu. Má také spoustu funkcí a některé z nich mi budou určitě chybět: - Dlouhá výdrž baterie: podle specifikací by měla vydržet asi 8 hodin. - Nabíjí se buď vlastním řešením, nebo pomalu z počítače přes USB port. - Bluetooth: samozřejmě. Video se přehrávalo přes Bluetooth spárování s Chromebookem, na kterém se přehrávala Pandora. Podporuje různé režimy párování, včetně jednoho, který umožňuje DVA telefony. - Podpora telefonů, což není žádné překvapení, většina funkcí je implementována klepnutím na jedno tlačítko. - NFC (Near Field Communication): pokud váš telefon tuto funkci podporuje, můžete z telefonu přehrávat hudbu pouhým umístěním do blízkosti zařízení Blaster. - Hlasový záznamník: ano, to dělá. Vestavěný mikrofon zachytí váš hlas a nahraje ho na kartu MicroSD. - Přehrávání z karty MicroSD: umožňuje náhodné přehrávání (můj oblíbený) nebo sekvenční přehrávání s možností přeskočit na další skladbu nebo složku/album. - Panický alarm: nevím, koho by kdy napadlo stisknout tlačítko panické poplachu na Blasteru, místo aby v panické situaci křičel „Pomoc“, ale... no... je to tam. - Režim nabíjení: věřte nebo ne, Blaster můžete použít k nabíjení telefonu přes USB port. Jak jsem řekl, mám podezření, že jsem možná přehlédl jednu nebo dvě funkce, ale nakonec se u externího reproduktoru skutečně počítá s kvalitou zvuku, přenosností, snadnou obsluhou a cenou a ve všech výše uvedených bodech je Blasterův Roar vynikající. Samozřejmě jsem zapomněl zmínit tlačítko Roar. Používáte ho, když chcete rozšířit zvuk tak, aby „zaplnil místnost“. Funguje a zdá se, že zvuk skutečně šíří po celém okolí. P.S. Moje recenze zmiňuje přiložené video. Přikládám jeden, ale z mých zkušeností s Amazonem jim někdy trvá zveřejnění video části den nebo dva, takže se prosím podívejte později, pokud tam video není, když tohle čtete.\nBezdrátový přenosný Bluetooth reproduktor a hlasitý odposlech MIPOW BOOMIN, černý: Vypadá skvěle, snadno se ovládá a zní dobře (ne moc dobře) Od prodejce jsem dostal zařízení „k recenzi“, ale samozřejmě jsem neslíbil „dobrou“ recenzi, protože to nikdy nedělám. BOOMIN je ten typ reproduktoru, který se nebudete stydět „nosit“ na veřejnosti a který zároveň produkuje slušný zvuk. Podporuje Bluetooth 4.0 a bez problémů jsem ho mohl snadno spárovat s různými tablety, notebooky, Chromebooky a telefony. Po spárování s telefonem funguje jako „handsfree“ a umožňuje přijmout/zavěsit hovor, odmítnout hovor nebo ho přidržet, a dokonce i hlasové vytáčení. Podporuje párování se 2 telefony, což je dobré. Jednoduchá ovládací tlačítka jsou dostatečně velká, aby se snadno našla, a snadno se „hmatají“, takže jsou užitečná, pokud potřebujete ovládat reproduktor v době, kdy máte oči upřené na něco jiného, například při řízení. Jak jsem již zmínil, zvuk je „dobrý“, ale ne tak docela „skvělý“. Jak už to u malých reproduktorů bývá, basy jsou v nejlepším případě „nejlepší“ a zařízení, které jsem dostal, se zdá být trochu potížné s vysokými tóny. Ve středním rozsahu je stále velmi dobré a celkově zní slušně. BOOMIN je krásně zabalený s přiloženým nabíjecím kabelem USB. Manuál (jednostránková brožura) nabízí podrobný návod krok za krokem, který zahrnuje nastavení i ovl\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "mixed",
+        "evidence": "S celkovou kvalitou obrazu a zvuku jsem byl spokojen."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Videokamera se snadno používá v tom smyslu, že můžete natáčet docela dobrá videa, aniž byste se museli prohrabávat četnými dostupnými možnostmi"
+      },
+      {
+        "aspect": "Přenosnost",
+        "sentiment": "positive",
+        "evidence": "Co ale obraz a zvuk ve videu neukazují, i v porovnání Blasteru a Bose je Roar menší a lehčí, což je dobře, protože jeho zvuk je plnější a hlasitější."
+      },
+      {
+        "aspect": "Cena",
+        "sentiment": "positive",
+        "evidence": "V době psaní tohoto textu se zdá, že se Blaster prodává za lepší cenu."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Kromě integrace s Apple se systém dobře spáruje s většinou, ale ne se všemi zařízeními s podporou Bluetooth"
+      }
+    ]
+  }
+}

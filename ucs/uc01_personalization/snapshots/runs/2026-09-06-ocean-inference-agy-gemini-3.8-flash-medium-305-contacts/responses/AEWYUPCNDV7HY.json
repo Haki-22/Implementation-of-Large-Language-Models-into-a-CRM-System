@@ -1,0 +1,40 @@
+{
+  "contact_id": 18,
+  "reviewer_id": "AEWYUPCNDV7HY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 147,
+  "reviews_used": 15,
+  "prompt_chars": 9623,
+  "status": "ok",
+  "seconds": 58.58,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.15,
+    "E": 3.55,
+    "A": 4.05,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "These speakers are great for low to mid volume listening and classical music.",
+      "C": "I am able to turn off Internet access in my house at midnight, and turn it back on at 6:30 am.",
+      "E": "Most of our family photos are vacations pictures from theme parks and beaches, so this worked out perfectly.",
+      "A": "I purchased this as a gift for my mother-in-law and am in the process of filling an SD card for right now.",
+      "N": "I always hated having the important landmarks cut out of the pictures in the past."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.15,
+    "E": 3.55,
+    "N": 2.35,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I purchased this as a gift for my mother-in-law and am in the process of filling an SD card for right now.",
+      "C": "I am able to turn off Internet access in my house at midnight, and turn it back on at 6:30 am.",
+      "E": "Most of our family photos are vacations pictures from theme parks and beaches, so this worked out perfectly.",
+      "N": "I always hated having the important landmarks cut out of the pictures in the past.",
+      "O": "These speakers are great for low to mid volume listening and classical music."
+    }
+  }
+}

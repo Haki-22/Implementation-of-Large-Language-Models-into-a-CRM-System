@@ -1,0 +1,40 @@
+{
+  "contact_id": 59,
+  "reviewer_id": "A1EXGL6L0QQ0M5",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16",
+  "reviews_total": 183,
+  "reviews_used": 15,
+  "prompt_chars": 9494,
+  "status": "ok",
+  "seconds": 23.81,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.05,
+    "E": 3.45,
+    "A": 3.55,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "This flexibility does appeal to my needs as a tinkerer, as even an unlocked Android tablet can't do what a PC can.",
+      "C": "upon examining it's features and limitations, I opted for the Apple solution.",
+      "E": "If that describes you, go ahead and pull the trigger, if not let's discuss this more.",
+      "A": "For crying out loud it's an autofocus walk around lens, so distance scales are relics for few people to use",
+      "N": "That aside (and that's more of a case/default cooler issue) the layout is OK given it's ITX footprint."
+    }
+  },
+  "raw": {
+    "A": 3.55,
+    "C": 4.05,
+    "E": 3.45,
+    "N": 2.25,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "For crying out loud it's an autofocus walk around lens, so distance scales are relics for few people to use",
+      "C": "upon examining it's features and limitations, I opted for the Apple solution.",
+      "E": "If that describes you, go ahead and pull the trigger, if not let's discuss this more.",
+      "N": "That aside (and that's more of a case/default cooler issue) the layout is OK given it's ITX footprint.",
+      "O": "This flexibility does appeal to my needs as a tinkerer, as even an unlocked Android tablet can't do what a PC can."
+    }
+  }
+}

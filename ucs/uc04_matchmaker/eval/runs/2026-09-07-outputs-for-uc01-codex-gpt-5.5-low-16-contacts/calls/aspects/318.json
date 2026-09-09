@@ -1,0 +1,60 @@
+{
+  "kind": "aspects",
+  "key": "318",
+  "status": "ok",
+  "seconds": 14.31,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "ovládání",
+        "sentiment": "mixed",
+        "evidence": "Sony HT-CT150 se snadno nastavuje a jeho dálkový ovladač dokáže ovládat i televizi a Blu-ray přehrávač."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "negative",
+        "evidence": "Další skličující úkol: vypnutí počítače!"
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "positive",
+        "evidence": "I na 4 roky starých počítačích poskytuje Windows 8 více než chvályhodný výkon."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "64bitový operační systém poběží rychleji, ale může mít problémy s některými 32bitovými aplikacemi."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-318 (anonymizován).\nRecenze (78, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nB0094NY3R0: Tak sbohem, tlačítko Start, budeš nám chybět! Na rozdíl od většiny verzí operačních systémů (OS) od Microsoftu jsem se nenechal chytit nabídku beta testovat Windows 8. Proč? Měl jsem prostě příliš mnoho práce, abych se s tímto úkolem vypořádal. Ale ušetřil jsem čas a nainstaloval jsem nejnovější verzi od Microsoftu na dva počítače. Jedním z nich je Dell Latitude E6500 se 4 GB RAM, procesorem Intel Core 2 Duo a 15,4\" prémiovým WXGA LED displejem. Na tomto počítači jsem nainstaloval operační systém Windows 7 na příliš malém 20GB oddílu. Druhým počítačem je Dell Inspiron 580s s dvoujádrovým procesorem Intel Pentium G6950, 4 GB dvoukanálové paměti DDR3 RAM a 500GB pevným diskem s frekvencí 7200 ot./min. Tento tenký počítač jsem propojil s 22\" širokoúhlým displejem ViewSonic VX2250vm-LED. Stejně jako Windows 7 před ním, i Windows 8 poběží na 1 GB RAM (32bitová verze) nebo 2 GB RAM (64bitová verze). Společnost Microsoft doporučuje 16 GB místa na pevném disku (32bitová verze) a 20 GB místa na pevném disku pro (64bitovou) verzi operačního systému, ale upřímně řečeno, minimum se ukáže jako nedostatečné. Jak jsem uvedl výše, nainstaloval jsem 64bitovou verzi Windows 8 na 20GB oddíl a necelý týden poté mi došel prostor na disku. I po smazání některých souborů se mi podařilo uvolnit pouze 1,0 GB, takže... 32bitová vs. 64bitová verze Windows 8 je k dispozici v 32bitové i 64bitové verzi. 64bitová verze operačního systému zvládne více než 4 GB RAM, zatímco 32bitová verze zvládne pouze 4 GB a méně. 64bitový operační systém poběží rychleji, ale může mít problémy s některými 32bitovými aplikacemi. Pokud máte velké množství starších 32bitových aplikací, pak je pro vás 32bitová verze Windows 8 pravděpodobně to pravé. Pro spuštění 64bitové verze operačního systému budete samozřejmě potřebovat 64bitový procesor. První dojmy Společnost Microsoft navrhla systém Windows 8 s ohledem na funkční model dotykové obrazovky; pokud vlastníte nebo jste vlastnili Windows Phone 7 nebo 8, již znáte koncept vícebarevných dlaždic místo tradičních ikon. Dotkněte se – nebo klikněte – dlaždice a program nebo funkce se otevře. Funkce se mi líbila na Windows Phone 7, ještě více na mém novém Windows Phone 8, ale na ploše Windows 8 bez dotykové obrazovky může být navigace poměrně náročná, což je ještě více ztíženo absencí tradičního tlačítka Start systému Windows. Ano, je pryč, a to nejen zde, ale i ve Windows 2012 Server. Pryč je také panel úloh na dlaždicovém displeji Windows 8, ale lze se vrátit na tradiční plochu; tlačítko Start už tolik ne. Naštěstí Windows 8 hojně využívá klávesové zkratky, které se soustředí na dnes již známou klávesu Windows v levé dolní řadě většiny klávesnic. Kombinace kláves Windows + R vyvolá příkaz „Spustit“. Většina těchto klávesových zkratek je k dispozici i ve Windows 7, ale protože mnoho z toho, na co jsme si ve Windows zvykli, nyní chybí – nebo je těžké se k tomu dostat – klávesové zkratky nabývají nového významu. Další skličující úkol: vypnutí počítače! Protože tlačítko Start bylo nyní vyhnáno do země špatných nápadů, jediný způsob, jak vypnout počítač s Windows 8, je trojitý stisk; to znamená stisknout klávesy Ctrl-Alt-Del a poté kliknout na kruh v pravém dolním rohu obrazovky. Zobrazí se vám nabídka s možností výběru, z nichž jedna vám umožní počítač vypnout. Říká se, že Microsoft chtěl ztížit vypnutí počítače (což se mu podařilo), aby minimalizoval dobu spouštění, a místo toho dal přednost tomu, aby neinformovaná veřejnost nechala počítač přejít do úsporného režimu, čímž se zkrátila doba čekání na spuštění počítače. Cože? Hej, Windows 8 jsem nenavrhoval, jen jsem ho recenzoval! Jakmile jsem si zvykl na to, jak OS teď funguje, mohl jsem si ho užít víc. Stejně jako u chytrého telefonu jsou aplikace v systému, takže existuje dlaždice „Obchod“, kde si můžete prohlížet, nakupovat (nebo se přihlásit k odběru) a stahovat aplikace z obchodu Microsoft Store. Jakmile je aplikace zakoupena (některé jsou zdarma), vytvoří se na displeji dlaždice; stačí se jí dotknout nebo na ni kliknout, abyste ji mohli použít. Ještě jsem si moc aplikací nekoupil, ale k odběru několika jsem se přihlásil a jejich funkce je neznámá. Jakmile je aplikace spuštěna, zabere celou obrazovku, ale kliknutím na tlačítko Windows se vrátíte na domovskou obrazovku. Jinými slovy, zvykněte si na zcela nový způsob propojení s Windows. Funguje to? Ano i ne. Pokud vám vyhovuje, jak funguje Windows 7 – což je docela stabilní a skvělý operační systém – pak možná ještě nejste připraveni na Windows 8. Pokud jste však závislí na svém smartphonu a máte rádi omezený prostor pro hraní, pak se s Windows 8 budete cítit jako doma. Co se týče výkonu, mezi Windows 7 a Windows 8 není žádný rozdíl, který by stálo za zmínku. I na 4 roky starých počítačích poskytuje Windows 8 více než chvályhodný výkon. Firemní uživatelé se však nemusí hlásit; tento operační systém není navržen tak, aby byl navržen pro vás, změny v operačním systému jsou podle mého názoru příliš radikální na to, aby je firemní uživatelé s poněkud monolitní a konzervativní základnou uživatelů, kteří nedělají nic jiného, než se radují z chybějícího tlačítka Start, které byli všichni vycvičeni uctívat, široce přijali. Závěr Podle mého názoru neexistuje žádný přesvědčivý důvod k upgradu nebo přechodu na Windows 8. Windows 7 zůstává životaschopným, stabilním a dobře fungujícím operačním systémem, který je použitelný pro jednotlivce i firmy; „Windows 8“ už tolik ne. Windows 8 se radikálně liší od toho, co bylo před ním. Není tolik radikální, aby se to nedalo časem naučit a přijmout, ale natolik drastické, aby to firmy musely aplikovat. Ti, kteří si pořídí počítač s Windows 8, budou spokojeni s výkonem a nepochybně, stejně jako já, časem i s operačním systémem celkově. Ale stále mi chybí tlačítko Start!\n3D soundbar Sony HT-CT150 (výrobce ukončil výrobu): Tak akorát pro mé skromné potřeby Nedávno jsme se nastěhovali do nového domu a ten měl vyhrazený obývací pokoj. Během stavby domu jsem krátce zvažoval instalaci prostorového zvuku, ale ukázalo se, že je příliš drahý. A kromě toho má obývací pokoj skromné rozměry; pouhých 3,7 m x 6,3 m, takže bylo zapotřebí mnohem méně propracované nastavení. Začal jsem se tedy poohlížet po barovém systému prostorového zvuku pro domácí kino za rozumnou cenu. Chtěl jsem ale také A/V receiver a prostor byl/je omezený, takže jsem se rozhodl hledat univerzální řešení. Prozkoumal jsem systémy od značek Sony, Panasonic, Bose, Polk Audio a nakonec jsem se rozhodl, že kombinace A/V receiveru a soundbaru Sony HT-CT150 3D Soundbar Theater System je přesně to, co potřebuji. Produkt 411 Sony HT-CT150 3D Soundbar Theater System je cenově dostupný systém domácího kina, ke kterému lze připojit (3) HDMI zařízení pro reprodukci zvuku a videa. Sony HT-CT150 funguje jako HDMI opakovač s průchozím a zpětným audio kanálem, takže k odesílání/příjmu zvuku a videa z připojeného zařízení je potřeba pouze jeden HDMI kabel. (3) HDMI vstupy Sony HT-CT150 byly vše, co jsem potřeboval k připojení mého Samsung HDTV, Sony Blu-Ray / internetového streamovacího přehrávače a zařízení AT&T Uverse. Jednotka nabízí výstupní audio výkon až 75 W do 3 kanálů + 75W subwoofer (frekvenční odezva 180-240 kHz do 4 ohmů, s 1% celkovým harmonickým zkreslením (THD)). Sony HT-CT150 se skládá ze dvou jednotek; 10,7 kg subwoofer, kde jsou všechny HDMI konektory, a 0,9 kg vážící a 84 cm dlouhý soundbar. Soundbar se k subwooferu připojuje jediným 3metrovým kabelem. První dojmy Sony HT-CT150 se snadno nastavuje a jeho dálkový ovladač dokáže ovládat i televizi a Blu-ray přehrávač. Čtyři jednoduchá připojení a byl jsem hotový. Přepínání mezi zařízeními je s dodávaným, poněkud rušným dálkovým ovladačem jednoduché a snadné, ale nakonec jsem ho odložil a pořídil si univerzální dálkový ovladač Logitech Harmony. Změny nastavení na Sony HT-CT150 mohou být problematické; i když je na přední straně jednotky malý displej, je nutné sedět téměř před ním, abyste si ho mohli přečíst.\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "ovládání",
+        "sentiment": "mixed",
+        "evidence": "Sony HT-CT150 se snadno nastavuje a jeho dálkový ovladač dokáže ovládat i televizi a Blu-ray přehrávač."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "negative",
+        "evidence": "Další skličující úkol: vypnutí počítače!"
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "positive",
+        "evidence": "I na 4 roky starých počítačích poskytuje Windows 8 více než chvályhodný výkon."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "64bitový operační systém poběží rychleji, ale může mít problémy s některými 32bitovými aplikacemi."
+      }
+    ]
+  }
+}

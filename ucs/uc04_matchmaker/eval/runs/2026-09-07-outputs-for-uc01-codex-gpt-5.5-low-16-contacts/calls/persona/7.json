@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "7",
+  "status": "ok",
+  "seconds": 8.55,
+  "error": "",
+  "parsed": {
+    "label": "verny_nakupci_pocitacove_infrastruktury",
+    "narrative_cs": "Zákazník dlouhodobě a velmi často nakupuje hlavně počítačové příslušenství, kabely, adaptéry, úložiště a síťové prvky, s velmi vysokým průměrným hodnocením. Kombinuje drobné doplňky s nákladnějšími zařízeními typu NAS či disků a odlišuje se podrobnými aktualizovanými recenzemi po delším používání.",
+    "tags": [
+      "počítačové_příslušenství",
+      "kabely_a_adaptéry",
+      "úložiště_a_nas",
+      "dlouhodobá_loajalita",
+      "podrobné_recenze"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-7 (anonymizován).\nNákupů: 200, průměrné hodnocení 4.7 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (138), Accessories & Supplies (28), Camera & Photo (22)\nTémata zájmu (klasické shlukování): accessories / computers / kabel / usb / adaptér; accessories / hdmi / supplies / computers / kabel; accessories / computers / notebook / napájecí / kabel\nUkázky recenzí (nejdelší, zkrácené):\n- Buffalo LinkStation 421e bezdiskový box, vysoce výkonný RAID NAS, osobní cloudové úložiště a mediální server (LS421DE): Aktualizace: 17. února 2014Toto je *důležitá aktualizace*, takže je hned na začátku. Další aktualizace po původní recenzi. Právě jsem aktualizoval svůj LinkStation 420 2TB na firmware verze 1.31. Tento firmware přidává nové funkce od verze 1.21 vydané loni v létě. Zde je několik vylepšení s poznámka\n- WD My Cloud EX4 Diskless: Vysoce výkonný NAS, maximální spolehlivost, osobní cloudové úložiště (WDBWWD0000NBK-NESN): Původní recenze je níže, ale podívejte se na aktualizaci na konci... V poslední době jsem používal a instaloval několik NAS serverů, takže jsem byl nadšený, co Western Digital nabízí se svým „expertním“ EX4. Byl jsem ohromen i zklamán zároveň. Je dobře vyrobený, má pěkné uživatelské rozhraní, ale je\n- Seagate Momentus XT 750 GB 7200 ot./min SATA 6 Gb/s 32 MB mezipaměti 2,5palcový hybridní SSD disk ST750LX003: Původní recenze je níže. Negativní zkušenost s první zárukou se podělila i s ostatními, jak bylo uvedeno v komentářích. Důležité je však přečíst si aktualizace na konci, které vysvětlují současné 5hvězdičkové hodnocení. Můj konečný výsledek byl pozitivní. Doufám, že recenze s aktualizacemi bude užit\n- ACTIONTEC 500 Mbps Powerline Ethernet Adapter and 4-Port Hub Kit (PWR514K01): Aktualizace, 21. ledna 2014. Poté, co jsem s těmito adaptéry měl v domácí kanceláři velké štěstí, jsem nainstaloval další pár pro klienta. Jejich situace spočívala v umístění jednotek co nejdále od sebe v jejich domácí kanceláři – lineární vzdálenost asi 18 metrů a snadno přes 30 metrů, což umožňova\n- Seagate Laptop Thin SSHD 500GB Hard Drive ST500LM000 6Gb/s 64 MB Cache: Původní recenze je níže. Nejdůležitější částí jsou aktualizace na konci vysvětlující současné 5hvězdičkové hodnocení. Můj konečný výsledek se stal pozitivním a trvalo to několik měsíců. To zdůrazňuje, jak moc záleží na záruce, protože někdy se něco pokazí. O své negativní zkušenosti se zárukou se po\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "verny_nakupci_pocitacove_infrastruktury",
+    "narrative_cs": "Zákazník dlouhodobě a velmi často nakupuje hlavně počítačové příslušenství, kabely, adaptéry, úložiště a síťové prvky, s velmi vysokým průměrným hodnocením. Kombinuje drobné doplňky s nákladnějšími zařízeními typu NAS či disků a odlišuje se podrobnými aktualizovanými recenzemi po delším používání.",
+    "tags": [
+      "počítačové_příslušenství",
+      "kabely_a_adaptéry",
+      "úložiště_a_nas",
+      "dlouhodobá_loajalita",
+      "podrobné_recenze"
+    ],
+    "price_segment": "mixed"
+  }
+}

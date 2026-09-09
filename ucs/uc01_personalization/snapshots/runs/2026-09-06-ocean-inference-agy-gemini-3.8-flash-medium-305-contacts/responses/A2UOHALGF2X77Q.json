@@ -1,0 +1,40 @@
+{
+  "contact_id": 42,
+  "reviewer_id": "A2UOHALGF2X77Q",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 211,
+  "reviews_used": 15,
+  "prompt_chars": 9355,
+  "status": "ok",
+  "seconds": 121.58,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.3,
+    "E": 3.15,
+    "A": 3.2,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "I'm a long time world band radio user, and Amateur Radio Operator.",
+      "C": "I already have too many radios, but decided to buy the TECSUN PL600 on a whim.",
+      "E": "The Super Bowl is gonna look fabulous on my $40,000 HDTV.",
+      "A": "Seriously? In this time and age, who is buying a 24\" 1080p HD monitor and hooking it up with a VGA cable?",
+      "N": "I had the WRT54G2 up and running within 10 minutes. No problems. No drama."
+    }
+  },
+  "raw": {
+    "A": 3.2,
+    "C": 3.3,
+    "E": 3.15,
+    "N": 2.75,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Seriously? In this time and age, who is buying a 24\" 1080p HD monitor and hooking it up with a VGA cable?",
+      "C": "I already have too many radios, but decided to buy the TECSUN PL600 on a whim.",
+      "E": "The Super Bowl is gonna look fabulous on my $40,000 HDTV.",
+      "N": "I had the WRT54G2 up and running within 10 minutes. No problems. No drama.",
+      "O": "I'm a long time world band radio user, and Amateur Radio Operator."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 383,
+  "reviewer_id": "A11D1KHM7DVOQK",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 56,
+  "reviews_used": 15,
+  "prompt_chars": 9822,
+  "status": "ok",
+  "seconds": 1279.23,
+  "error": "",
+  "profile": {
+    "O": 3.85,
+    "C": 3.1,
+    "E": 3.7,
+    "A": 2.8,
+    "N": 3.45,
+    "evidence_quotes": {
+      "O": "Not expecting anything stellar or amazing--and I won't even start comparing these to my audiophile quality cans.",
+      "C": "I kinda had to replace the Earhugger headphones because...ok, I'll say it, I stepped on them.",
+      "E": "Okay, headphones are a pain in the a$$! Trust me, you need to go through thousands to find the right ones. Let's get on with the review!",
+      "A": "Since most of the reviews on these have been positive, might as well drop my very quick, negative review into the mix.",
+      "N": "Only in five months the player kept freezing and I'm ending up reinstalling the firmware every three weeks."
+    }
+  },
+  "raw": {
+    "A": 2.8,
+    "C": 3.1,
+    "E": 3.7,
+    "N": 3.45,
+    "O": 3.85,
+    "evidence_quotes": {
+      "A": "Since most of the reviews on these have been positive, might as well drop my very quick, negative review into the mix.",
+      "C": "I kinda had to replace the Earhugger headphones because...ok, I'll say it, I stepped on them.",
+      "E": "Okay, headphones are a pain in the a$$! Trust me, you need to go through thousands to find the right ones. Let's get on with the review!",
+      "N": "Only in five months the player kept freezing and I'm ending up reinstalling the firmware every three weeks.",
+      "O": "Not expecting anything stellar or amazing--and I won't even start comparing these to my audiophile quality cans."
+    }
+  }
+}

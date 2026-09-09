@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "5",
+  "status": "ok",
+  "seconds": 9.3,
+  "error": "",
+  "parsed": {
+    "label": "verny_technicky_zakaznik",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje především počítače, příslušenství a přenosná zařízení včetně produktů Apple, Samsung a navigací. Vrací se velmi často, hodnotí převážně kladně a podle recenzí vyhledává spíše střední až vyšší cenovou hladinu s důrazem na funkce a praktické použití.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "přenosná_zařízení",
+      "apple_a_samsung",
+      "navigace"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-5 (anonymizován).\nNákupů: 228, průměrné hodnocení 4.5 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (125), Accessories & Supplies (34), Portable Audio & Video (31)\nTémata zájmu (klasické shlukování): ipad / pouzdro / computers / accessories / apple; supplies / accessories / sluchátka / výrobce / ukončil; accessories / galaxy / samsung / ipad / iphone\nUkázky recenzí (nejdelší, zkrácené):\n- Garmin nüvi 295W Přenosný GPS navigátor s 3,5palcovým širokoúhlým displejem a Wi-Fi: Garmin nuvi 295W je nuvifone, ale bez telefonu, takže k němu funguje stejné příslušenství. Má GPS, mapy a navigaci, spoustu informací o zajímavých místech města od bankomatů po parkovací garáže, plus Wi-Fi pro prohlížení webu a e-mail, stejně jako hudbu a widgety. Používám ho hlavně při procházkách \n- MP3 přehrávač Philips GoGear Ariaz 8 GB (stříbrný): Na fotografiích na Amazonu vypadá Philips Ariaz mnohem baculatější, než ve skutečnosti je. Ve skutečnosti je asi 5 cm široký, 9,7 cm vysoký a 14,7 cm tlustý, s obrazovkou o rozměrech 4,1 cm x 4,1 cm, což je úhlopříčka 6,1 cm. V ruce se dobře drží a snadno se vejde do kapsy. Kartáčovaný modrostříbrný\n- Přenosný bezdrátový externí disk Patriot Gauntlet 320GB (PCGTW320S): Patriot Gauntlet je v podstatě přenosný pevný disk s dobíjecí baterií, který vytváří bezdrátovou síť. Usnadňuje ukládání a sdílení souborů (včetně zvuku a videa) a připojení k internetu s více zařízeními, jako jsou notebooky, přenosná zařízení Apple, Kindle Fire a další tablety a telefony s Androide\n- Voděodolná turistická GPS navigace Magellan eXplorist 710: eXplorist 710 GPS nabízí spoustu funkcí a někomu, kdo je všechny nezná, trvá docela dlouho, než pochopí vše, co dokáže. Přiložené demo video vlastně demo není, jen reklama. Stručný návod k obsluze není moc užitečný kromě úplných základů. 51stránkový PDF manuál, který si můžete stáhnout z Magellanu, \n- LG Electronics 55LA6900 55palcové plátno Cinema 3D 1080p 120Hz LED-LCD HDTV s chytrou televizí a čtyřmi páry 3D brýlí (model 2013): Tato 55palcová LED televize LG Electronics (model 55LA6900) potřebuje k umístění velkou místnost, protože preferovaná pozorovací vzdálenost je 2,1 až 4,5 metru. Je také trochu velká na to, aby se dala používat jako počítačový monitor bez sezení ve stejné vzdálenosti. Včetně stojanu má zhruba 122 cm \nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "verny_technicky_zakaznik",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje především počítače, příslušenství a přenosná zařízení včetně produktů Apple, Samsung a navigací. Vrací se velmi často, hodnotí převážně kladně a podle recenzí vyhledává spíše střední až vyšší cenovou hladinu s důrazem na funkce a praktické použití.",
+    "tags": [
+      "počítače",
+      "příslušenství",
+      "přenosná_zařízení",
+      "apple_a_samsung",
+      "navigace"
+    ],
+    "price_segment": "mixed"
+  }
+}

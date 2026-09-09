@@ -1,0 +1,40 @@
+{
+  "contact_id": 356,
+  "reviewer_id": "A1S88XU6PWCTUD",
+  "group": "C",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 27,
+  "reviews_used": 15,
+  "prompt_chars": 9742,
+  "status": "ok",
+  "seconds": 478.08,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.35,
+    "E": 3.15,
+    "A": 3.6,
+    "N": 3.05,
+    "evidence_quotes": {
+      "O": "Preferred Genres: Trip-Hop, jazz, hip-hop, pop, most electronic, etc. Essentially any music with punchy bass, clean vocals, or music without a strong focus on highs.",
+      "C": "This review is written from the perspective of the Ad900 stock, no external amp or DAC to give readers an idea of what to expect",
+      "E": "I wanted to thank Tony at SoundMagic for the chance to review these wonderful IEMs!",
+      "A": "if there's any clarification needed I will gladly fix things up.",
+      "N": "I went over to Head-Fi and expressed anger about the situation there"
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.35,
+    "E": 3.15,
+    "N": 3.05,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "if there's any clarification needed I will gladly fix things up.",
+      "C": "This review is written from the perspective of the Ad900 stock, no external amp or DAC to give readers an idea of what to expect",
+      "E": "I wanted to thank Tony at SoundMagic for the chance to review these wonderful IEMs!",
+      "N": "I went over to Head-Fi and expressed anger about the situation there",
+      "O": "Preferred Genres: Trip-Hop, jazz, hip-hop, pop, most electronic, etc. Essentially any music with punchy bass, clean vocals, or music without a strong focus on highs."
+    }
+  }
+}

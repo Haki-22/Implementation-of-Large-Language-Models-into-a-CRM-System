@@ -1,0 +1,40 @@
+{
+  "contact_id": 199,
+  "reviewer_id": "A15T9G38F589KM",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 9895,
+  "status": "ok",
+  "seconds": 743.64,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.35,
+    "E": 3.35,
+    "A": 3.85,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "Then, you get to learn how the Linux environment works, read the forums on how to speed things up or fix things",
+      "C": "I, like most folks, like to test things out to see if they work before I invest much time in installation.",
+      "E": "This is essential for me because my employees, who will not have the instruction manual available, will also be using the machine.",
+      "A": "But my road to satisfaction had a bump I can help you avoid.",
+      "N": "I am enduring a home remodel and bought my first APC UPS (an ES 550VA) to protect against tripped breakers and electrical interference"
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.35,
+    "E": 3.35,
+    "N": 2.15,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "But my road to satisfaction had a bump I can help you avoid.",
+      "C": "I, like most folks, like to test things out to see if they work before I invest much time in installation.",
+      "E": "This is essential for me because my employees, who will not have the instruction manual available, will also be using the machine.",
+      "N": "I am enduring a home remodel and bought my first APC UPS (an ES 550VA) to protect against tripped breakers and electrical interference",
+      "O": "Then, you get to learn how the Linux environment works, read the forums on how to speed things up or fix things"
+    }
+  }
+}

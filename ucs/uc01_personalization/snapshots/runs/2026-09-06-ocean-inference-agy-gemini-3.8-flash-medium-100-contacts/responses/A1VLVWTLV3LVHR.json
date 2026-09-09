@@ -1,0 +1,40 @@
+{
+  "contact_id": 334,
+  "reviewer_id": "A1VLVWTLV3LVHR",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 55,
+  "reviews_used": 15,
+  "prompt_chars": 9750,
+  "status": "ok",
+  "seconds": 381.98,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.05,
+    "E": 3.75,
+    "A": 3.9,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "Ok, I was intrigued by this unique idea, speakers that do NOT connect to the audio output jack on your computer",
+      "C": "I almost bought it right there at the Apple Store, but resolved to sleep on it first and check out what other people were saying about it.",
+      "E": "I like to think, while writing one, that I am actually talking to someone, telling them about the product in question.",
+      "A": "I have had a long and happy relationship with every HP product I have used and reviewed over the last decade.",
+      "N": "So it saddens me when, after testing the HP Photosmart 435 digital camera, it came time to write this review."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.05,
+    "E": 3.75,
+    "N": 2.25,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I have had a long and happy relationship with every HP product I have used and reviewed over the last decade.",
+      "C": "I almost bought it right there at the Apple Store, but resolved to sleep on it first and check out what other people were saying about it.",
+      "E": "I like to think, while writing one, that I am actually talking to someone, telling them about the product in question.",
+      "N": "So it saddens me when, after testing the HP Photosmart 435 digital camera, it came time to write this review.",
+      "O": "Ok, I was intrigued by this unique idea, speakers that do NOT connect to the audio output jack on your computer"
+    }
+  }
+}

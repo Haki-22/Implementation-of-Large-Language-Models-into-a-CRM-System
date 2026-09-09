@@ -1,0 +1,40 @@
+{
+  "contact_id": 190,
+  "reviewer_id": "A2DG63DN704LOI",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 106,
+  "reviews_used": 15,
+  "prompt_chars": 8989,
+  "status": "ok",
+  "seconds": 707.37,
+  "error": "",
+  "profile": {
+    "O": 4.4,
+    "C": 4.05,
+    "E": 3.8,
+    "A": 4.1,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "Once you get to a certain point in your career (or expensive hobby), you start to look for ways to trigger more creativity",
+      "C": "This allows me to be more precise when I write with it. Because I am a teacher and use this to write notes",
+      "E": "It takes some time to master it, but after the learning curve you will be a HERO PHOTOGRAPHER.",
+      "A": "If this sounds like you, then let me help you right now.",
+      "N": "It had so many glaring flaws that I returned it after a week of use."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.05,
+    "E": 3.8,
+    "N": 2.45,
+    "O": 4.4,
+    "evidence_quotes": {
+      "A": "If this sounds like you, then let me help you right now.",
+      "C": "This allows me to be more precise when I write with it. Because I am a teacher and use this to write notes",
+      "E": "It takes some time to master it, but after the learning curve you will be a HERO PHOTOGRAPHER.",
+      "N": "It had so many glaring flaws that I returned it after a week of use.",
+      "O": "Once you get to a certain point in your career (or expensive hobby), you start to look for ways to trigger more creativity"
+    }
+  }
+}

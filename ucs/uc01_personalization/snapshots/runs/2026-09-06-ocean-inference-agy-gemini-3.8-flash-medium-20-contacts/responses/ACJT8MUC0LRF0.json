@@ -1,0 +1,40 @@
+{
+  "contact_id": 27,
+  "reviewer_id": "ACJT8MUC0LRF0",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 126,
+  "reviews_used": 15,
+  "prompt_chars": 10519,
+  "status": "ok",
+  "seconds": 73.69,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.4,
+    "E": 3.35,
+    "A": 4.15,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "The versatility amazes me and I definitely have a long way to go before I master this software to my satisfaction.",
+      "C": "Any time I purchase something I'll be carrying media or expensive camera gear in I do my \"faucet test.\" I put this case under a small, steady stream of water.",
+      "E": "We'd be talking and all of a sudden we'd get *the* announcement, a computerized announcement that could be rather annoying at times.",
+      "A": "If you are this type of person, this review is specifically geared toward you. I'm going to lay out in plain and simple terms just what you are looking at",
+      "N": "If you’ve ever had to deal with an insurance agency to settle a claim, it’s best to be prepared."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.4,
+    "E": 3.35,
+    "N": 2.5,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "If you are this type of person, this review is specifically geared toward you. I'm going to lay out in plain and simple terms just what you are looking at",
+      "C": "Any time I purchase something I'll be carrying media or expensive camera gear in I do my \"faucet test.\" I put this case under a small, steady stream of water.",
+      "E": "We'd be talking and all of a sudden we'd get *the* announcement, a computerized announcement that could be rather annoying at times.",
+      "N": "If you’ve ever had to deal with an insurance agency to settle a claim, it’s best to be prepared.",
+      "O": "The versatility amazes me and I definitely have a long way to go before I master this software to my satisfaction."
+    }
+  }
+}

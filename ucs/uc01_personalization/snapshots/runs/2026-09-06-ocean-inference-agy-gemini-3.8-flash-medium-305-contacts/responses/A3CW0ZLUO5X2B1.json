@@ -1,0 +1,40 @@
+{
+  "contact_id": 86,
+  "reviewer_id": "A3CW0ZLUO5X2B1",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 198,
+  "reviews_used": 15,
+  "prompt_chars": 10078,
+  "status": "ok",
+  "seconds": 295.64,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.5,
+    "E": 3.1,
+    "A": 3.65,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "As an enthusiastic early adopter of digital photography, there were simply some aspects of SLR photography that I missed",
+      "C": "Three year update: still works fine; part of my daily data back-up plan.Two year update: still running strong.",
+      "E": "After completing a basement renovation, we were ready for a big screen to watch New Years and January football games.",
+      "A": "This was purchased for my mom, who is well into her 70s, and has been selling on Ebay for a few years.",
+      "N": "Had a small issue with the integrated wireless connecting to my WEP-protected network. I changed the encryption at the router to WPA-PSK, and it it's worked fine."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.5,
+    "E": 3.1,
+    "N": 2.4,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "This was purchased for my mom, who is well into her 70s, and has been selling on Ebay for a few years.",
+      "C": "Three year update: still works fine; part of my daily data back-up plan.Two year update: still running strong.",
+      "E": "After completing a basement renovation, we were ready for a big screen to watch New Years and January football games.",
+      "N": "Had a small issue with the integrated wireless connecting to my WEP-protected network. I changed the encryption at the router to WPA-PSK, and it it's worked fine.",
+      "O": "As an enthusiastic early adopter of digital photography, there were simply some aspects of SLR photography that I missed"
+    }
+  }
+}

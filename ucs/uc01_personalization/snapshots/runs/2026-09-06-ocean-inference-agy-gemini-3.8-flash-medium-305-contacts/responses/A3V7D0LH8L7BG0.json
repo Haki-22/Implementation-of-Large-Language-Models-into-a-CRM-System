@@ -1,0 +1,40 @@
+{
+  "contact_id": 73,
+  "reviewer_id": "A3V7D0LH8L7BG0",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 175,
+  "reviews_used": 15,
+  "prompt_chars": 9462,
+  "status": "ok",
+  "seconds": 234.95,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.45,
+    "A": 2.95,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "This laptop is simply gorgeous. Everything about it spells workmanship, from the shiny, galssy top cover to the bright and clear screen and chiclet keyboard.",
+      "C": "One hick up: it lost the route (I had to reprogram it) after I deliberately made several turns.",
+      "E": "In my opinion, Canon makes the best cameras in the market. However, none of the compacts has come even close to my expectations.",
+      "A": "The rest of it sucks. Especially no Netflix viewer. This should keep a bunch of potential buyers away.",
+      "N": "I am so disappointed with the HK GPS-300's GPS performance becuase I like it so much."
+    }
+  },
+  "raw": {
+    "A": 2.95,
+    "C": 4.1,
+    "E": 3.45,
+    "N": 3.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "The rest of it sucks. Especially no Netflix viewer. This should keep a bunch of potential buyers away.",
+      "C": "One hick up: it lost the route (I had to reprogram it) after I deliberately made several turns.",
+      "E": "In my opinion, Canon makes the best cameras in the market. However, none of the compacts has come even close to my expectations.",
+      "N": "I am so disappointed with the HK GPS-300's GPS performance becuase I like it so much.",
+      "O": "This laptop is simply gorgeous. Everything about it spells workmanship, from the shiny, galssy top cover to the bright and clear screen and chiclet keyboard."
+    }
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/model-catalog/model-catalog/data/catalog.schema.json",
+  "title": "Local coding CLI model catalog",
+  "description": "Generated catalog of model ids, aliases, defaults, and tier menus accepted by local coding CLIs.",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "generated_at",
+    "sources",
+    "providers"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "description": "Catalog schema version."
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC timestamp when this catalog was generated."
+    },
+    "sources": {
+      "type": "object",
+      "description": "Audit trail for every source used by the updater."
+    },
+    "providers": {
+      "type": "object",
+      "description": "Provider/CLI-specific model catalogs. Only providers whose CLI is installed on the generating machine are present.",
+      "minProperties": 1,
+      "additionalProperties": {
+        "$ref": "#/$defs/provider"
+      }
+    }
+  },
+  "$defs": {
+    "provider": {
+      "type": "object",
+      "required": [
+        "cli",
+        "binary",
+        "default_model",
+        "default_tier",
+        "tier_options",
+        "models"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "cli": {
+          "type": "string",
+          "description": "CLI/provider key used by loader helpers."
+        },
+        "binary": {
+          "type": "string",
+          "description": "Expected executable name for the local CLI."
+        },
+        "default_model": {
+          "type": "string",
+          "description": "Default model or alias for this CLI."
+        },
+        "default_tier": {
+          "type": "string",
+          "description": "Default reasoning tier, or an empty string for CLIs without tiers."
+        },
+        "tier_options": {
+          "type": "array",
+          "description": "Union of supported reasoning tiers exposed by this CLI.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "model_string_format": {
+          "type": "string",
+          "description": "Optional combined model/tier format used by consumers such as Codex UIs."
+        },
+        "aliases": {
+          "type": "object",
+          "description": "Provider-level aliases mapped to model ids or other aliases.",
+          "additionalProperties": {
+            "type": "string"
+          }
+        },
+        "models": {
+          "type": "array",
+          "description": "Models and alias rows accepted by the CLI.",
+          "items": {
+            "$ref": "#/$defs/model"
+          },
+          "minItems": 1
+        },
+        "dispatch": {
+          "type": "object",
+          "description": "How to hand work to this CLI from the wrappers (curated in overlay.toml): whether the CLI reads files from the working directory, the prompt-argument limit, and free-text notes.",
+          "properties": {
+            "reads_workspace": {
+              "type": "boolean",
+              "description": "The CLI can open files in the working directory itself; pass paths, not contents."
+            },
+            "prompt_arg_limit_bytes": {
+              "type": "integer",
+              "description": "Above this size the wrapper pipes the prompt through stdin instead of an argument."
+            },
+            "notes": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        }
+      }
+    },
+    "model": {
+      "type": "object",
+      "required": [
+        "id",
+        "display_name",
+        "aliases",
+        "tiers",
+        "default_tier",
+        "visible",
+        "deprecated",
+        "source",
+        "fetched_at"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Canonical model id or explicit CLI variant id."
+        },
+        "display_name": {
+          "type": "string",
+          "description": "Human-readable model name."
+        },
+        "aliases": {
+          "type": "array",
+          "description": "Accepted aliases that resolve to this model id.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tiers": {
+          "type": "array",
+          "description": "Reasoning tiers accepted for this model.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "default_tier": {
+          "type": "string",
+          "description": "Default reasoning tier for this model, or empty string when none exists."
+        },
+        "context_window": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Context window in tokens when known."
+        },
+        "output_tokens": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Maximum output tokens when known."
+        },
+        "knowledge": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Knowledge cutoff when upstream reports it."
+        },
+        "release_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Model release date when known."
+        },
+        "last_updated": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Upstream metadata last-updated date when known."
+        },
+        "pricing": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "description": "Pricing metadata copied from upstream when available."
+        },
+        "modalities": {
+          "type": [
+            "object",
+            "null"
+          ],
+          "description": "Input/output modality metadata when known."
+        },
+        "visible": {
+          "type": "boolean",
+          "description": "Whether this row is part of the user-facing CLI menu."
+        },
+        "deprecated": {
+          "type": "boolean",
+          "description": "Whether upstream marks the model as deprecated."
+        },
+        "migration": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Replacement model id when a local CLI reports a migration."
+        },
+        "source": {
+          "type": "string",
+          "description": "Primary source that produced this row."
+        },
+        "fetched_at": {
+          "type": "string",
+          "description": "Timestamp attached to the row's primary source."
+        }
+      }
+    }
+  }
+}

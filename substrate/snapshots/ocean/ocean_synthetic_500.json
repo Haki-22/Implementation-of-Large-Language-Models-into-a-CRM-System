@@ -1,0 +1,5467 @@
+{
+  "_schema": {
+    "version": "1.0",
+    "kind": "ocean_synthetic_full"
+  },
+  "source": "BFI-2 population norms (Soto & John 2017) with CRMArena DGP modulation (±0.15 effective shift)",
+  "total": 500,
+  "with_ocean": 326,
+  "rows": [
+    {
+      "contact_id": 1,
+      "reviewer_id": "ADLVFFE4VBT8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.73,
+        "C": 4.1,
+        "E": 3.04,
+        "A": 2.72,
+        "N": 3.12
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 2,
+      "reviewer_id": "A22CW0ZHY3NJH8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.54,
+        "C": 3.36,
+        "E": 3.61,
+        "A": 4.9,
+        "N": 3.74
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 3,
+      "reviewer_id": "A23GFTVIETX7DS",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.65,
+        "C": 3.09,
+        "E": 1.58,
+        "A": 5.0,
+        "N": 2.2
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 4,
+      "reviewer_id": "A3AYSYSLHU26U9",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.19,
+        "C": 4.16,
+        "E": 3.91,
+        "A": 3.79,
+        "N": 1.26
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 5,
+      "reviewer_id": "A1UQBFCERIP7VJ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.6,
+        "C": 4.28,
+        "E": 3.96,
+        "A": 5.0,
+        "N": 3.31
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 6,
+      "reviewer_id": "A12DQZKRKTNF5E",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.44,
+        "C": 3.5,
+        "E": 4.9,
+        "A": 3.44,
+        "N": 3.11
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 7,
+      "reviewer_id": "A31N0XY2UTB25C",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.93,
+        "C": 3.65,
+        "E": 2.77,
+        "A": 4.47,
+        "N": 2.69
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 8,
+      "reviewer_id": "A1EVV74UQYVKRY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.6,
+        "C": 3.57,
+        "E": 3.74,
+        "A": 4.32,
+        "N": 2.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 9,
+      "reviewer_id": "AQIJ3ZEEVCIKU",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 10,
+      "reviewer_id": "A1BT6TL7UCIC5Y",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.11,
+        "C": 4.43,
+        "E": 3.04,
+        "A": 3.44,
+        "N": 4.08
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 11,
+      "reviewer_id": "A3OXHLG6DIBRW8",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 12,
+      "reviewer_id": "ABDR6IJ93HFIO",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 13,
+      "reviewer_id": "A6FIAB28IS79",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.76,
+        "C": 3.73,
+        "E": 3.41,
+        "A": 3.22,
+        "N": 3.59
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 14,
+      "reviewer_id": "A6VPK7X53QNAQ",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 15,
+      "reviewer_id": "A680RUE1FDO8B",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.27,
+        "C": 3.72,
+        "E": 2.45,
+        "A": 4.9,
+        "N": 3.48
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 16,
+      "reviewer_id": "A1ODOGXEYECQQ8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.69,
+        "C": 3.58,
+        "E": 3.17,
+        "A": 4.49,
+        "N": 2.4
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 17,
+      "reviewer_id": "A1F7YU6O5RU432",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.49,
+        "C": 4.38,
+        "E": 3.99,
+        "A": 3.89,
+        "N": 1.9
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 18,
+      "reviewer_id": "AEWYUPCNDV7HY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.25,
+        "C": 5.0,
+        "E": 3.8,
+        "A": 2.84,
+        "N": 1.97
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 19,
+      "reviewer_id": "A36K2N527TXXJN",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.1,
+        "C": 3.91,
+        "E": 2.31,
+        "A": 3.99,
+        "N": 2.2
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 20,
+      "reviewer_id": "AWPODHOB4GFWL",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.62,
+        "C": 4.02,
+        "E": 3.78,
+        "A": 3.95,
+        "N": 3.3
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 21,
+      "reviewer_id": "A3EXWV8FNSSFL6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.29,
+        "C": 4.5,
+        "E": 2.74,
+        "A": 3.91,
+        "N": 2.44
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 22,
+      "reviewer_id": "A3TAS1AG6FMBQW",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 23,
+      "reviewer_id": "ALDAF4VVLFRHP",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 24,
+      "reviewer_id": "A18S2VGUH9SCV5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.81,
+        "C": 3.69,
+        "E": 2.84,
+        "A": 4.63,
+        "N": 2.57
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 25,
+      "reviewer_id": "A376OJHLE6SU9Q",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 5.0,
+        "C": 3.91,
+        "E": 3.38,
+        "A": 4.1,
+        "N": 3.07
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 26,
+      "reviewer_id": "A5KMMY627T3W",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.16,
+        "C": 3.35,
+        "E": 3.89,
+        "A": 3.8,
+        "N": 2.16
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 27,
+      "reviewer_id": "ACJT8MUC0LRF0",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.73,
+        "C": 3.12,
+        "E": 4.21,
+        "A": 4.57,
+        "N": 1.23
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 28,
+      "reviewer_id": "ARXU3FESTWMJJ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.82,
+        "C": 4.04,
+        "E": 2.88,
+        "A": 3.21,
+        "N": 2.4
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 29,
+      "reviewer_id": "A3LGT6UZL99IW1",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.69,
+        "C": 3.98,
+        "E": 3.43,
+        "A": 2.87,
+        "N": 3.03
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 30,
+      "reviewer_id": "A3S3R88HA0HZG3",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.41,
+        "C": 4.34,
+        "E": 3.55,
+        "A": 3.67,
+        "N": 3.4
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 31,
+      "reviewer_id": "A1IU7S4HCK1XK0",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.37,
+        "C": 2.91,
+        "E": 3.12,
+        "A": 3.48,
+        "N": 3.37
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 32,
+      "reviewer_id": "A38RMU1Y5TDP9",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.04,
+        "C": 4.52,
+        "E": 3.15,
+        "A": 3.91,
+        "N": 3.32
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 33,
+      "reviewer_id": "A2NOW4U7W3F7RI",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.68,
+        "C": 3.98,
+        "E": 3.58,
+        "A": 3.21,
+        "N": 3.0
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 34,
+      "reviewer_id": "A2BYV7S1QP2YIG",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 35,
+      "reviewer_id": "A1P0JSFW184ZXJ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.3,
+        "C": 1.9,
+        "E": 2.77,
+        "A": 2.79,
+        "N": 1.65
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 36,
+      "reviewer_id": "A17BUUBOU0598B",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.02,
+        "C": 3.11,
+        "E": 2.88,
+        "A": 4.01,
+        "N": 1.84
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 37,
+      "reviewer_id": "A2AY4YUOX2N1BQ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.54,
+        "C": 2.96,
+        "E": 5.0,
+        "A": 3.51,
+        "N": 2.03
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 38,
+      "reviewer_id": "A2XRMQA6PJ5ZJ8",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 39,
+      "reviewer_id": "AGVWTYW0ULXHT",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.3,
+        "C": 3.45,
+        "E": 4.15,
+        "A": 2.85,
+        "N": 2.54
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 40,
+      "reviewer_id": "A2B7BUH8834Y6M",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.78,
+        "C": 3.08,
+        "E": 4.23,
+        "A": 3.26,
+        "N": 1.94
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 41,
+      "reviewer_id": "A20OBCQWBKCGZT",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 42,
+      "reviewer_id": "A2UOHALGF2X77Q",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 43,
+      "reviewer_id": "A353U0L2HAMSHV",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 44,
+      "reviewer_id": "AEJAGHLC675A7",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.0,
+        "C": 3.69,
+        "E": 2.96,
+        "A": 3.59,
+        "N": 2.67
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 45,
+      "reviewer_id": "A2ZY49IDE6TY5I",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.61,
+        "C": 4.14,
+        "E": 3.77,
+        "A": 3.87,
+        "N": 2.08
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 46,
+      "reviewer_id": "A1T1YSCDW0PD25",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 47,
+      "reviewer_id": "A1F9Z42CFF9IAY",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 48,
+      "reviewer_id": "A2503LT8PZIHAD",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.01,
+        "C": 4.09,
+        "E": 3.94,
+        "A": 3.84,
+        "N": 2.95
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 49,
+      "reviewer_id": "A2LW5AL0KQ9P1M",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.23,
+        "C": 4.28,
+        "E": 3.73,
+        "A": 3.54,
+        "N": 3.04
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 50,
+      "reviewer_id": "A1CMD08Z49PGKQ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.23,
+        "C": 2.9,
+        "E": 4.02,
+        "A": 3.15,
+        "N": 3.03
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 51,
+      "reviewer_id": "A2BMZRO0H7TFCS",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.07,
+        "C": 4.41,
+        "E": 3.0,
+        "A": 4.25,
+        "N": 1.44
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 52,
+      "reviewer_id": "A17V9XL4CWTQ6G",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.72,
+        "C": 2.07,
+        "E": 2.8,
+        "A": 3.5,
+        "N": 3.88
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 53,
+      "reviewer_id": "A2D1LPEUCTNT8X",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.37,
+        "C": 4.3,
+        "E": 3.4,
+        "A": 4.44,
+        "N": 2.63
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 54,
+      "reviewer_id": "A2OBDNQ5ZYU1L8",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 55,
+      "reviewer_id": "A11I1I9QLMAM1A",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 56,
+      "reviewer_id": "A2WC9NFLG57W4H",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.8,
+        "C": 3.65,
+        "E": 3.95,
+        "A": 3.35,
+        "N": 3.51
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 57,
+      "reviewer_id": "A1R377IPZOKLMM",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.82,
+        "C": 4.23,
+        "E": 3.26,
+        "A": 3.42,
+        "N": 2.63
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 58,
+      "reviewer_id": "A11KZ906QD08C5",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 59,
+      "reviewer_id": "A1EXGL6L0QQ0M5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.67,
+        "C": 3.95,
+        "E": 2.0,
+        "A": 4.69,
+        "N": 2.78
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 60,
+      "reviewer_id": "A2OWR5G2OAQF7C",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 61,
+      "reviewer_id": "A1E1LEVQ9VQNK",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.35,
+        "C": 3.01,
+        "E": 3.96,
+        "A": 4.2,
+        "N": 3.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 62,
+      "reviewer_id": "ARX7Z3NI6O0F7",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.44,
+        "C": 3.23,
+        "E": 4.24,
+        "A": 4.28,
+        "N": 3.25
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 63,
+      "reviewer_id": "A37IRE9GZ0CZ7I",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.19,
+        "C": 2.83,
+        "E": 2.88,
+        "A": 3.96,
+        "N": 1.89
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 64,
+      "reviewer_id": "A22I55P15NSAOX",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.43,
+        "C": 4.66,
+        "E": 2.02,
+        "A": 4.92,
+        "N": 4.07
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 65,
+      "reviewer_id": "A2WLNSZ9U0T1S3",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 66,
+      "reviewer_id": "A11OTLEDSW8ZXD",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.88,
+        "C": 2.97,
+        "E": 2.67,
+        "A": 3.44,
+        "N": 1.57
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 67,
+      "reviewer_id": "A1EH2S92FHWZRP",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.57,
+        "C": 3.98,
+        "E": 2.93,
+        "A": 3.83,
+        "N": 2.16
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 68,
+      "reviewer_id": "A250AXLRBVYKB4",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.34,
+        "C": 3.87,
+        "E": 2.56,
+        "A": 4.82,
+        "N": 2.35
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 69,
+      "reviewer_id": "A1GBT4UN2RW7XY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.35,
+        "C": 3.63,
+        "E": 3.86,
+        "A": 4.2,
+        "N": 2.24
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 70,
+      "reviewer_id": "A2WW57XX2UVLM6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 5.0,
+        "C": 2.94,
+        "E": 2.61,
+        "A": 4.35,
+        "N": 1.8
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 71,
+      "reviewer_id": "A5JLAU2ARJ0BO",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.43,
+        "C": 3.03,
+        "E": 3.15,
+        "A": 3.29,
+        "N": 1.95
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 72,
+      "reviewer_id": "ARBKYIVNYWK3C",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.33,
+        "C": 4.67,
+        "E": 4.68,
+        "A": 4.03,
+        "N": 2.79
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 73,
+      "reviewer_id": "A3V7D0LH8L7BG0",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 74,
+      "reviewer_id": "AT28RL25Q2OLK",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 75,
+      "reviewer_id": "A25C2M3QF9G7OQ",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 76,
+      "reviewer_id": "A3A4ZAIBQWKOZS",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 77,
+      "reviewer_id": "A3PD8JD9L4WEII",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.24,
+        "C": 3.62,
+        "E": 3.79,
+        "A": 3.79,
+        "N": 3.6
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 78,
+      "reviewer_id": "A4WEZJOIZIV4U",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.11,
+        "C": 3.54,
+        "E": 2.61,
+        "A": 3.86,
+        "N": 2.85
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 79,
+      "reviewer_id": "ABQWMANK4AR63",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.7,
+        "C": 3.83,
+        "E": 2.63,
+        "A": 3.93,
+        "N": 3.18
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 80,
+      "reviewer_id": "AVPNQUVZWMDSX",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 5.0,
+        "C": 3.65,
+        "E": 3.76,
+        "A": 3.97,
+        "N": 2.5
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 81,
+      "reviewer_id": "A1F1A0QQP2XVH5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.91,
+        "C": 2.12,
+        "E": 2.72,
+        "A": 2.73,
+        "N": 2.38
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 82,
+      "reviewer_id": "A3T7V207KRDE2O",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.98,
+        "C": 4.37,
+        "E": 3.27,
+        "A": 2.82,
+        "N": 2.21
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 83,
+      "reviewer_id": "A3U41ZL33SS92P",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 84,
+      "reviewer_id": "A1J75JJ0Q2OEJN",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 85,
+      "reviewer_id": "A18HE80910BTZI",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.04,
+        "C": 3.53,
+        "E": 3.45,
+        "A": 2.96,
+        "N": 3.07
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 86,
+      "reviewer_id": "A3CW0ZLUO5X2B1",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.42,
+        "C": 3.95,
+        "E": 2.69,
+        "A": 3.69,
+        "N": 2.41
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 87,
+      "reviewer_id": "A3R4794K2RVU1S",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.85,
+        "C": 3.0,
+        "E": 3.19,
+        "A": 3.99,
+        "N": 2.76
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 88,
+      "reviewer_id": "A1VQHH85U7PX0",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 89,
+      "reviewer_id": "A1X1CEGHTHMBL1",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 90,
+      "reviewer_id": "A2BLFCOPSMBOZ9",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.36,
+        "C": 2.8,
+        "E": 2.75,
+        "A": 3.51,
+        "N": 1.93
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 91,
+      "reviewer_id": "A2NYK9KWFMJV4Y",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.2,
+        "C": 4.11,
+        "E": 4.37,
+        "A": 3.36,
+        "N": 1.49
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 92,
+      "reviewer_id": "A1ZU55TM45Y2R8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.38,
+        "C": 2.94,
+        "E": 3.92,
+        "A": 3.41,
+        "N": 1.74
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 93,
+      "reviewer_id": "A20DZX38KRBIT8",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 94,
+      "reviewer_id": "A19W47CXJJP1MI",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.6,
+        "C": 2.85,
+        "E": 2.39,
+        "A": 3.55,
+        "N": 2.98
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 95,
+      "reviewer_id": "A3J8A5L5AF5TX9",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.03,
+        "C": 2.82,
+        "E": 3.55,
+        "A": 2.25,
+        "N": 2.43
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 96,
+      "reviewer_id": "A3NEAETOSXDBOM",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 97,
+      "reviewer_id": "AN81JUYW2SL24",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 1.78,
+        "C": 4.35,
+        "E": 3.44,
+        "A": 3.43,
+        "N": 3.25
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 98,
+      "reviewer_id": "A3NHUQ33CFH3VM",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.86,
+        "C": 2.86,
+        "E": 2.25,
+        "A": 4.08,
+        "N": 3.18
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 99,
+      "reviewer_id": "A3CG93783LP0FO",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.29,
+        "C": 3.68,
+        "E": 3.08,
+        "A": 4.65,
+        "N": 3.92
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 100,
+      "reviewer_id": "A3OA4DV4L81N1D",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.66,
+        "C": 2.73,
+        "E": 2.19,
+        "A": 3.67,
+        "N": 2.0
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 101,
+      "reviewer_id": "A203OCQQ12MAVT",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 5.0,
+        "C": 5.0,
+        "E": 3.93,
+        "A": 4.49,
+        "N": 4.01
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 102,
+      "reviewer_id": "A3FEGTOLCWXSV4",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.8,
+        "C": 2.64,
+        "E": 2.54,
+        "A": 3.51,
+        "N": 4.71
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 103,
+      "reviewer_id": "A231WM2Z2JL0U3",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.93,
+        "C": 3.32,
+        "E": 3.53,
+        "A": 3.81,
+        "N": 2.83
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 104,
+      "reviewer_id": "A2WB7LZ595CR50",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.02,
+        "C": 4.13,
+        "E": 3.09,
+        "A": 3.86,
+        "N": 4.67
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 105,
+      "reviewer_id": "AYB4ELCS5AM8P",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.78,
+        "C": 3.52,
+        "E": 2.21,
+        "A": 3.74,
+        "N": 4.34
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 106,
+      "reviewer_id": "AT6CZDCP4TRGA",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.32,
+        "C": 3.57,
+        "E": 2.65,
+        "A": 4.38,
+        "N": 3.21
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 107,
+      "reviewer_id": "A2NB2E5DXE319Z",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.66,
+        "C": 3.63,
+        "E": 3.74,
+        "A": 5.0,
+        "N": 2.89
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 108,
+      "reviewer_id": "A38KK0SZYEH5UD",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.21,
+        "C": 3.48,
+        "E": 2.25,
+        "A": 2.93,
+        "N": 2.81
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 109,
+      "reviewer_id": "A1YEPFLLH42OU1",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.04,
+        "C": 3.64,
+        "E": 1.27,
+        "A": 3.46,
+        "N": 3.03
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 110,
+      "reviewer_id": "A32O5FZH994CNY",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 111,
+      "reviewer_id": "AZMY6E8B52L2T",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.4,
+        "C": 4.32,
+        "E": 2.91,
+        "A": 3.73,
+        "N": 1.93
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 112,
+      "reviewer_id": "AONUCJBC85BL",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.77,
+        "C": 3.85,
+        "E": 2.65,
+        "A": 4.47,
+        "N": 2.57
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 113,
+      "reviewer_id": "A3QNQQKJTL76H0",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.11,
+        "C": 2.63,
+        "E": 4.56,
+        "A": 4.13,
+        "N": 2.44
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 114,
+      "reviewer_id": "A1NGFGBX2VCQS8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.1,
+        "C": 3.56,
+        "E": 2.0,
+        "A": 2.87,
+        "N": 2.58
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 115,
+      "reviewer_id": "A34BZM6S9L7QI4",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.0,
+        "C": 3.92,
+        "E": 1.2,
+        "A": 3.47,
+        "N": 2.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 116,
+      "reviewer_id": "AIJQU979J6UFY",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 117,
+      "reviewer_id": "AOEAD7DPLZE53",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 118,
+      "reviewer_id": "A2KYRPDKVBI2R4",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.53,
+        "C": 2.61,
+        "E": 3.04,
+        "A": 3.17,
+        "N": 2.73
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 119,
+      "reviewer_id": "A225G2TFM76GYX",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.27,
+        "C": 4.33,
+        "E": 3.42,
+        "A": 3.63,
+        "N": 4.37
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 120,
+      "reviewer_id": "A6VXZ1EEPRTLV",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.47,
+        "C": 3.65,
+        "E": 3.58,
+        "A": 2.83,
+        "N": 2.56
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 121,
+      "reviewer_id": "A1RL1OTV8IJMVD",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.6,
+        "C": 4.15,
+        "E": 2.54,
+        "A": 3.94,
+        "N": 2.79
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 122,
+      "reviewer_id": "A1RPTVW5VEOSI",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.23,
+        "C": 3.96,
+        "E": 4.01,
+        "A": 2.99,
+        "N": 3.72
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 123,
+      "reviewer_id": "A2KOV8XWZOZ0FQ",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 124,
+      "reviewer_id": "ABIVKBMSIPEDY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.89,
+        "C": 4.1,
+        "E": 2.32,
+        "A": 3.41,
+        "N": 3.24
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 125,
+      "reviewer_id": "A28UMA3GW9L124",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 126,
+      "reviewer_id": "AOMEH9W6LHC4S",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.62,
+        "C": 3.22,
+        "E": 3.52,
+        "A": 4.43,
+        "N": 2.87
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 127,
+      "reviewer_id": "ATS2855497V0I",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.9,
+        "C": 4.35,
+        "E": 2.61,
+        "A": 2.57,
+        "N": 2.78
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 128,
+      "reviewer_id": "A3R1WFO4KIUQXZ",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 129,
+      "reviewer_id": "A1EKSETIBS9ETQ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.0,
+        "C": 4.69,
+        "E": 2.93,
+        "A": 3.72,
+        "N": 3.16
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 130,
+      "reviewer_id": "A20DDH4NT6Q1E8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.57,
+        "C": 2.95,
+        "E": 2.89,
+        "A": 5.0,
+        "N": 1.15
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 131,
+      "reviewer_id": "A2QRXQPHDMFCQV",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.6,
+        "C": 3.41,
+        "E": 3.23,
+        "A": 3.76,
+        "N": 2.54
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 132,
+      "reviewer_id": "A17HMM1M7T9PJ1",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 133,
+      "reviewer_id": "A1URXSRV6WDHVY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.14,
+        "C": 4.15,
+        "E": 3.23,
+        "A": 3.53,
+        "N": 2.93
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 134,
+      "reviewer_id": "A30X750M8V1XXW",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 135,
+      "reviewer_id": "ANW6EGY12V5XS",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 136,
+      "reviewer_id": "AZ515FFZ7I2P7",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 137,
+      "reviewer_id": "A2ARDVMUGDFED6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.28,
+        "C": 3.66,
+        "E": 4.41,
+        "A": 3.52,
+        "N": 3.66
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 138,
+      "reviewer_id": "A2PSD2R9A1CXG7",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.83,
+        "C": 3.48,
+        "E": 2.85,
+        "A": 3.81,
+        "N": 2.28
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 139,
+      "reviewer_id": "AGOH8N902URMW",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 140,
+      "reviewer_id": "A33YZNZIRA3H97",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.91,
+        "C": 3.11,
+        "E": 5.0,
+        "A": 3.37,
+        "N": 2.44
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 141,
+      "reviewer_id": "AOEDWQLH2WKKW",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.82,
+        "C": 3.16,
+        "E": 2.39,
+        "A": 3.64,
+        "N": 1.31
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 142,
+      "reviewer_id": "A1N5FSCYN4796F",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.35,
+        "C": 3.39,
+        "E": 2.7,
+        "A": 3.21,
+        "N": 1.43
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 143,
+      "reviewer_id": "A3W4D8XOGLWUN5",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 144,
+      "reviewer_id": "A3DWO5RJDA430F",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.73,
+        "C": 3.4,
+        "E": 3.73,
+        "A": 3.86,
+        "N": 3.13
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 145,
+      "reviewer_id": "A149RNR5RH19YY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.67,
+        "C": 3.66,
+        "E": 3.76,
+        "A": 3.3,
+        "N": 2.96
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 146,
+      "reviewer_id": "A24HWYHR28JJ7A",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.46,
+        "C": 3.83,
+        "E": 3.35,
+        "A": 3.35,
+        "N": 1.64
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 147,
+      "reviewer_id": "AEL6CQNQXONBX",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.23,
+        "C": 2.85,
+        "E": 3.24,
+        "A": 2.88,
+        "N": 2.76
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 148,
+      "reviewer_id": "A10Y058K7B96C6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.43,
+        "C": 3.04,
+        "E": 2.22,
+        "A": 4.7,
+        "N": 3.3
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 149,
+      "reviewer_id": "A3T4OHEAHOJ700",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 150,
+      "reviewer_id": "A15QYHQH80W30L",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 151,
+      "reviewer_id": "A2W9GX82SLKROQ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.47,
+        "C": 3.8,
+        "E": 4.41,
+        "A": 3.55,
+        "N": 4.13
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 152,
+      "reviewer_id": "ABVYGB2TKBO8F",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.49,
+        "C": 2.74,
+        "E": 1.98,
+        "A": 3.15,
+        "N": 2.77
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 153,
+      "reviewer_id": "A1TQZUSOU22E9M",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.17,
+        "C": 3.79,
+        "E": 4.03,
+        "A": 4.31,
+        "N": 1.79
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 154,
+      "reviewer_id": "AY6A8KPYCE6B0",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.82,
+        "C": 4.14,
+        "E": 4.43,
+        "A": 2.72,
+        "N": 2.01
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 155,
+      "reviewer_id": "A33HIV8RXRDM88",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.68,
+        "C": 3.17,
+        "E": 2.39,
+        "A": 2.69,
+        "N": 2.81
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 156,
+      "reviewer_id": "A100WO06OQR8BQ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.64,
+        "C": 3.45,
+        "E": 3.15,
+        "A": 3.01,
+        "N": 2.71
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 157,
+      "reviewer_id": "A18FLOC8YQY0P8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.6,
+        "C": 4.63,
+        "E": 3.77,
+        "A": 4.22,
+        "N": 3.25
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 158,
+      "reviewer_id": "A1W415JP5WEAJK",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.24,
+        "C": 3.33,
+        "E": 1.28,
+        "A": 2.88,
+        "N": 3.53
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 159,
+      "reviewer_id": "A2HRHF83I3NDGT",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 160,
+      "reviewer_id": "A3Q4TYJVAM4IRM",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.27,
+        "C": 1.88,
+        "E": 4.15,
+        "A": 2.82,
+        "N": 1.75
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 161,
+      "reviewer_id": "A10ZFE6YE0UHW8",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.37,
+        "C": 3.45,
+        "E": 2.7,
+        "A": 3.69,
+        "N": 3.64
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 162,
+      "reviewer_id": "A2HMF8ZR67BNZS",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.87,
+        "C": 3.1,
+        "E": 2.86,
+        "A": 4.3,
+        "N": 4.17
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 163,
+      "reviewer_id": "A36A1ZYZH8568P",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.95,
+        "C": 3.11,
+        "E": 4.25,
+        "A": 3.77,
+        "N": 3.86
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 164,
+      "reviewer_id": "A3EZEP0FX5BC1P",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 165,
+      "reviewer_id": "A3284KYDZ00BZA",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 166,
+      "reviewer_id": "A1B4MIXYVIKMU2",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.4,
+        "C": 3.99,
+        "E": 2.74,
+        "A": 4.62,
+        "N": 2.58
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 167,
+      "reviewer_id": "AI8EMB0HUC6Z5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.83,
+        "C": 4.62,
+        "E": 3.64,
+        "A": 1.6,
+        "N": 2.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 168,
+      "reviewer_id": "A1MZL91Z44RN06",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.66,
+        "C": 2.03,
+        "E": 2.29,
+        "A": 4.26,
+        "N": 1.14
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 169,
+      "reviewer_id": "A2J8T58Z4X15IO",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.6,
+        "C": 4.6,
+        "E": 2.83,
+        "A": 3.5,
+        "N": 2.48
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 170,
+      "reviewer_id": "A2V5M5EJPOD2IU",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 171,
+      "reviewer_id": "A3QJU4FEN8PQSZ",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 172,
+      "reviewer_id": "A30XZK10EZN9V4",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 173,
+      "reviewer_id": "A3R19YKNL641X3",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.43,
+        "C": 3.16,
+        "E": 4.06,
+        "A": 3.3,
+        "N": 2.27
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 174,
+      "reviewer_id": "A9Y5O2R4D6EH5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.58,
+        "C": 3.45,
+        "E": 2.75,
+        "A": 3.96,
+        "N": 4.42
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 175,
+      "reviewer_id": "A213J54E63SYOP",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.92,
+        "C": 5.0,
+        "E": 4.06,
+        "A": 4.01,
+        "N": 3.75
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 176,
+      "reviewer_id": "A3N4VTNFPMTHEF",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.43,
+        "C": 4.11,
+        "E": 2.69,
+        "A": 4.36,
+        "N": 2.01
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 177,
+      "reviewer_id": "A1V4VVBQBFXRHC",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 178,
+      "reviewer_id": "A2UWPPU5GZLMQZ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.54,
+        "C": 4.14,
+        "E": 3.41,
+        "A": 4.18,
+        "N": 3.43
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 179,
+      "reviewer_id": "A1ZCSSCAGBCD49",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.14,
+        "C": 4.68,
+        "E": 1.84,
+        "A": 4.44,
+        "N": 3.24
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 180,
+      "reviewer_id": "A1MRPX3RM48T2I",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.35,
+        "C": 3.29,
+        "E": 3.05,
+        "A": 3.49,
+        "N": 3.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 181,
+      "reviewer_id": "A23NSKTMSPPBTR",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.97,
+        "C": 4.53,
+        "E": 3.54,
+        "A": 2.86,
+        "N": 1.16
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 182,
+      "reviewer_id": "A1VTCSCH8FFC76",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.34,
+        "C": 4.31,
+        "E": 2.8,
+        "A": 3.89,
+        "N": 3.13
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 183,
+      "reviewer_id": "A3IY316DRNF5F2",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.75,
+        "C": 3.4,
+        "E": 3.71,
+        "A": 3.39,
+        "N": 1.53
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 184,
+      "reviewer_id": "A3LWC833HQIG7J",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.85,
+        "C": 4.16,
+        "E": 3.57,
+        "A": 4.57,
+        "N": 2.58
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 185,
+      "reviewer_id": "AR74YY08IP2WE",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.56,
+        "C": 4.51,
+        "E": 3.72,
+        "A": 3.79,
+        "N": 2.17
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 186,
+      "reviewer_id": "A1L64KDYO5BOJA",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.92,
+        "C": 2.82,
+        "E": 4.18,
+        "A": 3.02,
+        "N": 2.99
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 187,
+      "reviewer_id": "A1SB9BNNGKNX2Z",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.95,
+        "C": 2.77,
+        "E": 4.26,
+        "A": 2.68,
+        "N": 1.61
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 188,
+      "reviewer_id": "A25UZ7MA72SMKM",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.33,
+        "C": 3.72,
+        "E": 2.69,
+        "A": 4.16,
+        "N": 3.43
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 189,
+      "reviewer_id": "ASCBJEPXTOU0V",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.28,
+        "C": 3.7,
+        "E": 2.5,
+        "A": 2.36,
+        "N": 3.22
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 190,
+      "reviewer_id": "A2DG63DN704LOI",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 191,
+      "reviewer_id": "A2SKEQT0WTB954",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.67,
+        "C": 3.18,
+        "E": 2.36,
+        "A": 2.33,
+        "N": 2.06
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 192,
+      "reviewer_id": "A3F3B6HY9RJI04",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 193,
+      "reviewer_id": "A10PEXB6XAQ5XF",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 194,
+      "reviewer_id": "A19UTUEBWKIZFT",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.1,
+        "C": 3.96,
+        "E": 1.78,
+        "A": 4.2,
+        "N": 3.56
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 195,
+      "reviewer_id": "A34C9AFFZOI45T",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.22,
+        "C": 3.42,
+        "E": 3.63,
+        "A": 4.29,
+        "N": 2.31
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 196,
+      "reviewer_id": "A3FPSY1M6G7XIB",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.16,
+        "C": 3.5,
+        "E": 4.06,
+        "A": 3.98,
+        "N": 3.11
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 197,
+      "reviewer_id": "AX7317G153T8W",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 198,
+      "reviewer_id": "A2S26YGSVXBCFL",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 199,
+      "reviewer_id": "A15T9G38F589KM",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 200,
+      "reviewer_id": "A3L9E0YI7C5G0W",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 201,
+      "reviewer_id": "A19XMHRB3G4DIR",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.43,
+        "C": 3.82,
+        "E": 4.26,
+        "A": 3.33,
+        "N": 3.8
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 202,
+      "reviewer_id": "A34UVV757IKPVB",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 203,
+      "reviewer_id": "A3REK3OFONWB1Q",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.58,
+        "C": 2.99,
+        "E": 3.54,
+        "A": 3.61,
+        "N": 3.79
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 204,
+      "reviewer_id": "A3BVN2QBNPBHCR",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.72,
+        "C": 3.82,
+        "E": 3.32,
+        "A": 3.2,
+        "N": 2.93
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 205,
+      "reviewer_id": "A1VHCO8RQFIGQJ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.49,
+        "C": 3.63,
+        "E": 4.1,
+        "A": 3.31,
+        "N": 2.48
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 206,
+      "reviewer_id": "A3FOSLM5G1BO63",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.3,
+        "C": 3.64,
+        "E": 3.2,
+        "A": 4.17,
+        "N": 3.17
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 207,
+      "reviewer_id": "A27QXQQOLAMRRR",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.64,
+        "C": 2.91,
+        "E": 3.77,
+        "A": 3.9,
+        "N": 2.96
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 208,
+      "reviewer_id": "A1U5NWJOYH2QQH",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 209,
+      "reviewer_id": "A3D0UM4ZD2CMAW",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.45,
+        "C": 3.64,
+        "E": 4.31,
+        "A": 4.98,
+        "N": 4.24
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 210,
+      "reviewer_id": "A3HR0ZZOFKQ97N",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.5,
+        "C": 4.23,
+        "E": 3.42,
+        "A": 3.31,
+        "N": 3.01
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 211,
+      "reviewer_id": "A100UD67AHFODS",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 212,
+      "reviewer_id": "A2AF0NOCM71J0B",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 213,
+      "reviewer_id": "A2IFGGXG3YV3Y6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.11,
+        "C": 3.39,
+        "E": 2.4,
+        "A": 4.33,
+        "N": 2.28
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 214,
+      "reviewer_id": "A38NHXL5257E3B",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.36,
+        "C": 3.87,
+        "E": 4.52,
+        "A": 4.17,
+        "N": 3.19
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 215,
+      "reviewer_id": "A25FL6VLD7S23S",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.01,
+        "C": 3.84,
+        "E": 2.03,
+        "A": 3.4,
+        "N": 2.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 216,
+      "reviewer_id": "A2JP9E1H0SF392",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.61,
+        "C": 4.07,
+        "E": 3.3,
+        "A": 2.69,
+        "N": 3.16
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 217,
+      "reviewer_id": "A3MFORLOKIOEQY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.59,
+        "C": 3.55,
+        "E": 2.12,
+        "A": 3.88,
+        "N": 4.2
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 218,
+      "reviewer_id": "A3EZFFPVS34AMO",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 219,
+      "reviewer_id": "AGXMC3ITWZASE",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.68,
+        "C": 2.27,
+        "E": 3.33,
+        "A": 4.08,
+        "N": 2.75
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 220,
+      "reviewer_id": "A197T2N6RU7K56",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.54,
+        "C": 3.1,
+        "E": 3.31,
+        "A": 5.0,
+        "N": 2.0
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 221,
+      "reviewer_id": "A2SH6A32BE6NEV",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.33,
+        "C": 3.56,
+        "E": 3.06,
+        "A": 3.36,
+        "N": 3.63
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 222,
+      "reviewer_id": "AGGAQLXPVGM5D",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.21,
+        "C": 4.07,
+        "E": 4.02,
+        "A": 4.59,
+        "N": 3.36
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 223,
+      "reviewer_id": "AAA0TUKS5VBSA",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.14,
+        "C": 3.92,
+        "E": 3.65,
+        "A": 3.12,
+        "N": 1.39
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 224,
+      "reviewer_id": "A2I357I10ZY7CI",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.42,
+        "C": 4.77,
+        "E": 3.8,
+        "A": 3.9,
+        "N": 4.78
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 225,
+      "reviewer_id": "A4D5B7Q8A7PA6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.87,
+        "C": 3.9,
+        "E": 2.89,
+        "A": 2.53,
+        "N": 2.98
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 226,
+      "reviewer_id": "AZAC8O310IK4E",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.38,
+        "C": 3.02,
+        "E": 4.26,
+        "A": 3.19,
+        "N": 2.96
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 227,
+      "reviewer_id": "A37CEYB95LK6R6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.75,
+        "C": 4.09,
+        "E": 2.76,
+        "A": 4.6,
+        "N": 3.18
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 228,
+      "reviewer_id": "A3VI2VETB90ZG5",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 229,
+      "reviewer_id": "AWNJAY0M5UI70",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 230,
+      "reviewer_id": "A16QODENBJVUI1",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.51,
+        "C": 3.84,
+        "E": 2.49,
+        "A": 3.73,
+        "N": 2.7
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 231,
+      "reviewer_id": "A1C5WS021EL3WO",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.44,
+        "C": 2.91,
+        "E": 2.8,
+        "A": 2.92,
+        "N": 3.72
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 232,
+      "reviewer_id": "A1CPRP3VFJRS1R",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.38,
+        "C": 4.44,
+        "E": 4.02,
+        "A": 3.47,
+        "N": 2.22
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 233,
+      "reviewer_id": "A2PZXXPGLXXKZU",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 5.0,
+        "C": 3.06,
+        "E": 2.86,
+        "A": 3.99,
+        "N": 1.56
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 234,
+      "reviewer_id": "A1WXG10FJ353K0",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 235,
+      "reviewer_id": "A1QVFHPY8418HC",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.89,
+        "C": 3.79,
+        "E": 3.48,
+        "A": 4.15,
+        "N": 2.09
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 236,
+      "reviewer_id": "A2F7CSE6KT7NI4",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.8,
+        "C": 4.26,
+        "E": 1.77,
+        "A": 3.69,
+        "N": 2.96
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 237,
+      "reviewer_id": "A2LB4FLRZG6CUV",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.78,
+        "C": 3.27,
+        "E": 2.68,
+        "A": 3.44,
+        "N": 2.6
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 238,
+      "reviewer_id": "AVFJ327UXPXLF",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.58,
+        "C": 3.59,
+        "E": 1.84,
+        "A": 3.43,
+        "N": 2.44
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 239,
+      "reviewer_id": "A2JE071UW97J2A",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 240,
+      "reviewer_id": "A3DOPYDOS49I3T",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.64,
+        "C": 2.75,
+        "E": 3.15,
+        "A": 4.5,
+        "N": 2.97
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 241,
+      "reviewer_id": "AHQRU3MRORIWQ",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.48,
+        "C": 3.95,
+        "E": 3.21,
+        "A": 3.49,
+        "N": 3.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 242,
+      "reviewer_id": "A2JMJVNTBL7K7E",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.53,
+        "C": 4.08,
+        "E": 2.89,
+        "A": 2.91,
+        "N": 1.74
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 243,
+      "reviewer_id": "A1JUBRIZMO0RJV",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.77,
+        "C": 4.07,
+        "E": 3.1,
+        "A": 3.44,
+        "N": 2.88
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 244,
+      "reviewer_id": "AR3EVUQF0AC7R",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 245,
+      "reviewer_id": "A22S7D0LP8GRDH",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.11,
+        "C": 3.52,
+        "E": 4.19,
+        "A": 3.04,
+        "N": 2.9
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 246,
+      "reviewer_id": "A370XYLIZCSK1Y",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 247,
+      "reviewer_id": "A7QMQBGJ2TCQG",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 248,
+      "reviewer_id": "A11T807LX2EF00",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.24,
+        "C": 4.46,
+        "E": 3.18,
+        "A": 2.72,
+        "N": 3.2
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 249,
+      "reviewer_id": "A23ONMGKEWDG4M",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.33,
+        "C": 3.86,
+        "E": 2.81,
+        "A": 5.0,
+        "N": 2.27
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 250,
+      "reviewer_id": "A1G650TTTHEAL5",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 251,
+      "reviewer_id": "A2QI2NTDTMK2FV",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 5.0,
+        "C": 4.0,
+        "E": 3.36,
+        "A": 4.54,
+        "N": 2.86
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 252,
+      "reviewer_id": "A2R6RA8FRBS608",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.74,
+        "C": 4.04,
+        "E": 2.02,
+        "A": 3.78,
+        "N": 2.77
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 253,
+      "reviewer_id": "A2FRKEXDXDN1KI",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 254,
+      "reviewer_id": "A3S5EXYZDEBF3K",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 255,
+      "reviewer_id": "AAQ9NJ480N9W5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.53,
+        "C": 3.08,
+        "E": 1.28,
+        "A": 2.81,
+        "N": 1.82
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 256,
+      "reviewer_id": "A2XCCN239AR1XK",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.62,
+        "C": 3.21,
+        "E": 2.67,
+        "A": 4.69,
+        "N": 3.15
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 257,
+      "reviewer_id": "AMVXR3NPL0GWX",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 258,
+      "reviewer_id": "AT09WGFUM934H",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 259,
+      "reviewer_id": "A14JBDSWKPKTZA",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 260,
+      "reviewer_id": "A1JZFGZEZVWQPY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.62,
+        "C": 3.94,
+        "E": 2.3,
+        "A": 5.0,
+        "N": 3.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 261,
+      "reviewer_id": "A1QNYLBG73QRNF",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.41,
+        "C": 2.98,
+        "E": 1.36,
+        "A": 3.29,
+        "N": 1.56
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 262,
+      "reviewer_id": "A27H0T39U3FZB5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.52,
+        "C": 2.79,
+        "E": 2.42,
+        "A": 4.09,
+        "N": 3.72
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 263,
+      "reviewer_id": "A1Z16630QMH8Q6",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.91,
+        "C": 4.19,
+        "E": 2.7,
+        "A": 3.02,
+        "N": 3.01
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 264,
+      "reviewer_id": "A3L1VJMHFWONCB",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 265,
+      "reviewer_id": "A84FLVDK2R5JF",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 1.79,
+        "C": 3.84,
+        "E": 3.47,
+        "A": 2.63,
+        "N": 2.98
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 266,
+      "reviewer_id": "ASJSX783R5HTZ",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 267,
+      "reviewer_id": "A1QOK9LU90ACF7",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.91,
+        "C": 3.54,
+        "E": 3.21,
+        "A": 4.23,
+        "N": 2.07
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 268,
+      "reviewer_id": "A3V0YR50F1XSKP",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.12,
+        "C": 3.75,
+        "E": 3.6,
+        "A": 3.63,
+        "N": 4.1
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 269,
+      "reviewer_id": "A1U5IJHJK84S54",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.08,
+        "C": 2.91,
+        "E": 2.6,
+        "A": 3.07,
+        "N": 4.06
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 270,
+      "reviewer_id": "AFNG8O2DXRCUV",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.89,
+        "C": 1.96,
+        "E": 2.32,
+        "A": 4.13,
+        "N": 3.58
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 271,
+      "reviewer_id": "A19X4BF861LQST",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.87,
+        "C": 4.32,
+        "E": 3.83,
+        "A": 4.18,
+        "N": 4.15
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 272,
+      "reviewer_id": "A22MANL4US4RMY",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.51,
+        "C": 3.37,
+        "E": 1.91,
+        "A": 3.49,
+        "N": 2.65
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 273,
+      "reviewer_id": "A3H4S6YO9VNGDZ",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 274,
+      "reviewer_id": "A259MPG6SOL02P",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.8,
+        "C": 3.87,
+        "E": 2.08,
+        "A": 3.35,
+        "N": 3.16
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 275,
+      "reviewer_id": "AG35JCCQWDRCS",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.58,
+        "C": 3.29,
+        "E": 3.18,
+        "A": 3.89,
+        "N": 2.31
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 276,
+      "reviewer_id": "A2OKRGHIYTBQ6P",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.0,
+        "C": 3.12,
+        "E": 3.39,
+        "A": 3.24,
+        "N": 2.38
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 277,
+      "reviewer_id": "A36IHC0K68NS2",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.26,
+        "C": 3.74,
+        "E": 3.57,
+        "A": 3.31,
+        "N": 4.02
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 278,
+      "reviewer_id": "A1V3TRGWOMA8LC",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 279,
+      "reviewer_id": "A27M75LRSJ788H",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 280,
+      "reviewer_id": "A2V1J3JT5OOZFO",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 281,
+      "reviewer_id": "A54S9CIUV5VNB",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 282,
+      "reviewer_id": "ADOR3TR7GDF68",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 283,
+      "reviewer_id": "AKT8TGIT6VVZ5",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.67,
+        "C": 4.43,
+        "E": 3.27,
+        "A": 3.38,
+        "N": 1.82
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 284,
+      "reviewer_id": "AMS2CPERWN7JV",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 285,
+      "reviewer_id": "A1ILWPH1GHUXE2",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 5.0,
+        "C": 3.34,
+        "E": 1.99,
+        "A": 4.7,
+        "N": 2.36
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 286,
+      "reviewer_id": "A195EZSQDW3E21",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.73,
+        "C": 2.67,
+        "E": 2.99,
+        "A": 3.74,
+        "N": 2.93
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 287,
+      "reviewer_id": "A1O229NVVDJUX2",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.81,
+        "C": 3.73,
+        "E": 2.26,
+        "A": 3.33,
+        "N": 3.74
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 288,
+      "reviewer_id": "A26KXNN6H1IL0I",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.02,
+        "C": 3.55,
+        "E": 3.19,
+        "A": 3.75,
+        "N": 3.42
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 289,
+      "reviewer_id": "A1OMXVXXP07F05",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.2,
+        "C": 4.19,
+        "E": 3.21,
+        "A": 3.81,
+        "N": 3.82
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 290,
+      "reviewer_id": "A2LCE1D0TW2XY0",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 291,
+      "reviewer_id": "A27ADCSD15F3GL",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 292,
+      "reviewer_id": "A38NELQT98S4H8",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 293,
+      "reviewer_id": "A3HPCRD9RX351S",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 2.46,
+        "C": 2.92,
+        "E": 2.62,
+        "A": 3.1,
+        "N": 3.02
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 294,
+      "reviewer_id": "A3IOQ7NVVLAUEE",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 295,
+      "reviewer_id": "A2BX8DDQGCCG2J",
+      "amazon_group": "A",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 296,
+      "reviewer_id": "A3V5F050GVZ56Q",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.76,
+        "C": 4.7,
+        "E": 4.66,
+        "A": 3.82,
+        "N": 3.22
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 297,
+      "reviewer_id": "A506HOOCVL8GW",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.22,
+        "C": 3.39,
+        "E": 3.67,
+        "A": 3.57,
+        "N": 2.4
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 298,
+      "reviewer_id": "A8CKH8XB33XGN",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.13,
+        "C": 3.1,
+        "E": 3.77,
+        "A": 2.96,
+        "N": 3.42
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 299,
+      "reviewer_id": "A3977M5S0GIG5H",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 4.51,
+        "C": 3.51,
+        "E": 2.42,
+        "A": 4.2,
+        "N": 2.58
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 300,
+      "reviewer_id": "A1KKE6VX8VPWZK",
+      "amazon_group": "A",
+      "ocean": {
+        "O": 3.11,
+        "C": 3.64,
+        "E": 2.67,
+        "A": 3.89,
+        "N": 3.44
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 301,
+      "reviewer_id": "A23ZNGL704AW7O",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.77,
+        "C": 3.49,
+        "E": 3.49,
+        "A": 3.63,
+        "N": 2.35
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 302,
+      "reviewer_id": "AUITG1DJ3QUGK",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 303,
+      "reviewer_id": "A3223W5IROMYTY",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.03,
+        "C": 3.5,
+        "E": 1.0,
+        "A": 3.2,
+        "N": 3.14
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 304,
+      "reviewer_id": "A3SL0HA6422W4M",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.54,
+        "C": 2.92,
+        "E": 3.98,
+        "A": 3.86,
+        "N": 3.91
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 305,
+      "reviewer_id": "A1QQA7Y92L4F9R",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.87,
+        "C": 3.86,
+        "E": 2.06,
+        "A": 4.47,
+        "N": 2.85
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 306,
+      "reviewer_id": "A2TCHXH4SIN2OF",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.2,
+        "C": 2.73,
+        "E": 3.09,
+        "A": 3.3,
+        "N": 2.95
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 307,
+      "reviewer_id": "A3GVXKCTFN3YDN",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.03,
+        "C": 3.43,
+        "E": 3.55,
+        "A": 4.31,
+        "N": 2.63
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 308,
+      "reviewer_id": "A1VFX417XDNWIU",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.29,
+        "C": 3.17,
+        "E": 2.98,
+        "A": 3.28,
+        "N": 3.09
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 309,
+      "reviewer_id": "A1BJOHHLG0D965",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.55,
+        "C": 4.1,
+        "E": 2.3,
+        "A": 4.46,
+        "N": 3.17
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 310,
+      "reviewer_id": "AYNAH993VDECT",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.63,
+        "C": 2.98,
+        "E": 3.54,
+        "A": 3.4,
+        "N": 3.06
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 311,
+      "reviewer_id": "AMUP8DYE7EAN2",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.04,
+        "C": 3.86,
+        "E": 3.68,
+        "A": 3.75,
+        "N": 1.5
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 312,
+      "reviewer_id": "ACHTDPEQYSEQL",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.82,
+        "C": 4.2,
+        "E": 1.46,
+        "A": 3.42,
+        "N": 2.18
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 313,
+      "reviewer_id": "A20VG5W98SX99L",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 314,
+      "reviewer_id": "A2VW4FYZILSXF2",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.5,
+        "C": 2.23,
+        "E": 4.27,
+        "A": 3.02,
+        "N": 2.81
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 315,
+      "reviewer_id": "A2RU4U1JZ3DMP5",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 316,
+      "reviewer_id": "A25QJBK33C4O0R",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.66,
+        "C": 4.41,
+        "E": 2.14,
+        "A": 3.88,
+        "N": 3.24
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 317,
+      "reviewer_id": "A1NB945QH1SSJ9",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.24,
+        "C": 2.03,
+        "E": 3.96,
+        "A": 4.37,
+        "N": 2.53
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 318,
+      "reviewer_id": "A3QMJMTLJC34QC",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.55,
+        "C": 2.21,
+        "E": 3.55,
+        "A": 2.88,
+        "N": 2.89
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 319,
+      "reviewer_id": "A35Q0RBM3YNQNF",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.5,
+        "C": 3.8,
+        "E": 3.17,
+        "A": 2.85,
+        "N": 3.38
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 320,
+      "reviewer_id": "A7FDGFK0KN7QG",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 2.7,
+        "C": 2.15,
+        "E": 1.96,
+        "A": 3.22,
+        "N": 2.27
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 321,
+      "reviewer_id": "AVBLGXSWRN666",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.62,
+        "C": 3.9,
+        "E": 4.12,
+        "A": 4.24,
+        "N": 2.38
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 322,
+      "reviewer_id": "A3JUHP1E3WUHEA",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.17,
+        "C": 2.4,
+        "E": 2.93,
+        "A": 3.21,
+        "N": 1.76
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 323,
+      "reviewer_id": "A23QII83UGZP5U",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 324,
+      "reviewer_id": "A2Y3WWPUKIJ59I",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.1,
+        "C": 3.23,
+        "E": 3.93,
+        "A": 4.42,
+        "N": 2.31
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 325,
+      "reviewer_id": "AU5U16YWAIYZP",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.39,
+        "C": 3.79,
+        "E": 3.54,
+        "A": 4.53,
+        "N": 3.49
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 326,
+      "reviewer_id": "A34VRVI4CSI5RQ",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.81,
+        "C": 3.96,
+        "E": 3.77,
+        "A": 3.82,
+        "N": 2.86
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 327,
+      "reviewer_id": "AHPV4F8IVSC39",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.33,
+        "C": 3.15,
+        "E": 5.0,
+        "A": 2.73,
+        "N": 2.69
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 328,
+      "reviewer_id": "A4U27URFECK1U",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 2.64,
+        "C": 3.45,
+        "E": 2.9,
+        "A": 3.17,
+        "N": 2.94
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 329,
+      "reviewer_id": "AUCIFMWP3DU8R",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 330,
+      "reviewer_id": "A2KHG3JOFXQ4CE",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.85,
+        "C": 3.84,
+        "E": 4.56,
+        "A": 3.42,
+        "N": 2.62
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 331,
+      "reviewer_id": "AI0BCEWRE04G0",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.77,
+        "C": 4.17,
+        "E": 2.86,
+        "A": 4.32,
+        "N": 3.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 332,
+      "reviewer_id": "A1ZM846Y7AUYD",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 333,
+      "reviewer_id": "A2DKQQIZ793AV5",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 4.82,
+        "C": 2.34,
+        "E": 3.11,
+        "A": 3.74,
+        "N": 4.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 334,
+      "reviewer_id": "A1VLVWTLV3LVHR",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 335,
+      "reviewer_id": "A2WPL6Y08K6ZQH",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.63,
+        "C": 3.72,
+        "E": 3.93,
+        "A": 4.29,
+        "N": 4.03
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 336,
+      "reviewer_id": "AENLD33KQ6MJ4",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 337,
+      "reviewer_id": "A33775AIB1A664",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.31,
+        "C": 3.55,
+        "E": 1.57,
+        "A": 3.11,
+        "N": 2.58
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 338,
+      "reviewer_id": "AXU3VKZE848IY",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 339,
+      "reviewer_id": "A3CP1WGNTOSKDA",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.44,
+        "C": 3.48,
+        "E": 3.79,
+        "A": 3.91,
+        "N": 3.29
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 340,
+      "reviewer_id": "A3D7BGK0P5QY0X",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.91,
+        "C": 4.15,
+        "E": 1.83,
+        "A": 4.06,
+        "N": 4.88
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 341,
+      "reviewer_id": "A3BACUOZV1M0WM",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 2.67,
+        "C": 3.95,
+        "E": 3.66,
+        "A": 4.5,
+        "N": 3.32
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 342,
+      "reviewer_id": "A34CSXOGVYF94S",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.69,
+        "C": 4.95,
+        "E": 3.21,
+        "A": 3.95,
+        "N": 2.68
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 343,
+      "reviewer_id": "AAK6SOEJY30YG",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.76,
+        "C": 4.52,
+        "E": 3.4,
+        "A": 3.74,
+        "N": 2.49
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 344,
+      "reviewer_id": "AIBRTGBN07D6A",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.8,
+        "C": 3.45,
+        "E": 3.54,
+        "A": 2.43,
+        "N": 3.62
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 345,
+      "reviewer_id": "A1WUQF5HWBAQJU",
+      "amazon_group": "B",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 346,
+      "reviewer_id": "A2L0F2T1DLTNT8",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.1,
+        "C": 4.16,
+        "E": 2.29,
+        "A": 4.17,
+        "N": 2.39
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 347,
+      "reviewer_id": "A2I18AO597DSDI",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 2.74,
+        "C": 3.68,
+        "E": 3.86,
+        "A": 3.85,
+        "N": 2.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 348,
+      "reviewer_id": "A2LXX47A0KMJVX",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.62,
+        "C": 3.91,
+        "E": 3.34,
+        "A": 3.63,
+        "N": 2.86
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 349,
+      "reviewer_id": "A2VODABWSVHV8E",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.02,
+        "C": 3.03,
+        "E": 3.54,
+        "A": 4.24,
+        "N": 3.11
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 350,
+      "reviewer_id": "A2W9I628I6SE1U",
+      "amazon_group": "B",
+      "ocean": {
+        "O": 3.93,
+        "C": 3.55,
+        "E": 2.43,
+        "A": 5.0,
+        "N": 2.87
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 351,
+      "reviewer_id": "A27DDHWHE540I5",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 2.25,
+        "C": 3.25,
+        "E": 1.0,
+        "A": 1.67,
+        "N": 2.82
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 352,
+      "reviewer_id": "A2K767PO8Y3944",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.47,
+        "C": 4.56,
+        "E": 1.1,
+        "A": 3.17,
+        "N": 2.92
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 353,
+      "reviewer_id": "A4H4KYSM2KQ85",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.37,
+        "C": 3.9,
+        "E": 3.87,
+        "A": 4.76,
+        "N": 1.22
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 354,
+      "reviewer_id": "A2TZYC3TD9RIGQ",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.86,
+        "C": 3.83,
+        "E": 3.99,
+        "A": 3.59,
+        "N": 2.11
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 355,
+      "reviewer_id": "APQQK1V695AUE",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.9,
+        "C": 3.79,
+        "E": 3.78,
+        "A": 4.99,
+        "N": 3.65
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 356,
+      "reviewer_id": "A1S88XU6PWCTUD",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 357,
+      "reviewer_id": "ABUWUTWYZ8V1R",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.17,
+        "C": 4.6,
+        "E": 4.03,
+        "A": 3.67,
+        "N": 2.41
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 358,
+      "reviewer_id": "A1J5IDFDIXRAQU",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.12,
+        "C": 4.91,
+        "E": 2.6,
+        "A": 4.03,
+        "N": 3.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 359,
+      "reviewer_id": "A2I60HCAVEF3RC",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.31,
+        "C": 3.16,
+        "E": 3.67,
+        "A": 2.77,
+        "N": 2.84
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 360,
+      "reviewer_id": "AX9FIZX89LNFQ",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 361,
+      "reviewer_id": "A1F50KG7O9A0JD",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 362,
+      "reviewer_id": "A2AWVROFGSZU4E",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 363,
+      "reviewer_id": "A1CWE28BRV6JP0",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.71,
+        "C": 2.93,
+        "E": 3.14,
+        "A": 4.0,
+        "N": 2.17
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 364,
+      "reviewer_id": "A37QUQPYFMR9Y9",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.68,
+        "C": 3.57,
+        "E": 4.28,
+        "A": 3.89,
+        "N": 2.84
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 365,
+      "reviewer_id": "A2F0E69BAX0T0T",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.09,
+        "C": 3.56,
+        "E": 3.83,
+        "A": 4.43,
+        "N": 1.8
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 366,
+      "reviewer_id": "AVAW0HU8BXXKT",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.83,
+        "C": 3.71,
+        "E": 2.17,
+        "A": 3.72,
+        "N": 2.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 367,
+      "reviewer_id": "A1GPGBHBI6T2HJ",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 368,
+      "reviewer_id": "AU90FZYTYG0FT",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 5.0,
+        "C": 3.6,
+        "E": 3.53,
+        "A": 2.84,
+        "N": 3.17
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 369,
+      "reviewer_id": "A1RGK6Q5WUZUBA",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.68,
+        "C": 3.8,
+        "E": 3.07,
+        "A": 4.3,
+        "N": 3.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 370,
+      "reviewer_id": "A1JE04PMENX23K",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.2,
+        "C": 4.48,
+        "E": 3.32,
+        "A": 4.28,
+        "N": 2.75
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 371,
+      "reviewer_id": "ALYU98KL3VUGF",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.11,
+        "C": 3.39,
+        "E": 2.16,
+        "A": 4.01,
+        "N": 2.54
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 372,
+      "reviewer_id": "A108XABRHAA9E7",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.12,
+        "C": 3.3,
+        "E": 3.4,
+        "A": 4.39,
+        "N": 2.2
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 373,
+      "reviewer_id": "A2LEIANN1UZTHP",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 3.94,
+        "C": 2.92,
+        "E": 3.67,
+        "A": 4.0,
+        "N": 4.31
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 374,
+      "reviewer_id": "A294SHLWPSG1BP",
+      "amazon_group": "C",
+      "ocean": {
+        "O": 4.17,
+        "C": 3.45,
+        "E": 4.05,
+        "A": 3.75,
+        "N": 2.6
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 375,
+      "reviewer_id": "AT2J7H5TRZM8Z",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 376,
+      "reviewer_id": "A18U9BQQQ0U8F5",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 377,
+      "reviewer_id": "A268EEWUXYCA8Q",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 378,
+      "reviewer_id": "A20WS8TZ5840ND",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 379,
+      "reviewer_id": "A1OZA52DFY3SHD",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 380,
+      "reviewer_id": "A1E3OB6QMBKRYZ",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 381,
+      "reviewer_id": "A3NXJDNTQK2YJL",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 382,
+      "reviewer_id": "A21Q9JVG4SII51",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 383,
+      "reviewer_id": "A11D1KHM7DVOQK",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 384,
+      "reviewer_id": "ASFP250F22MDZ",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 385,
+      "reviewer_id": "A2M14CFAMF8J7I",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 386,
+      "reviewer_id": "A2K5RRMPICZ606",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 387,
+      "reviewer_id": "A2HXE29CU1I24Y",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 388,
+      "reviewer_id": "A3MU9G6YWKTGTA",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 389,
+      "reviewer_id": "A2NVQZ4Y7Y0J1R",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 390,
+      "reviewer_id": "A3VBXQKRM7A4JR",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 391,
+      "reviewer_id": "A3NGOG8Z78AZSD",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 392,
+      "reviewer_id": "A303SNZ4AR7TDQ",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 393,
+      "reviewer_id": "A2XPK6XCL0UH1S",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 394,
+      "reviewer_id": "A2ROZACRW31PC2",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 395,
+      "reviewer_id": "A3AG5QAT8L0I3R",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 396,
+      "reviewer_id": "A30C8WHQ2CYFO4",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 397,
+      "reviewer_id": "A24J2Y1O22JYZX",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 398,
+      "reviewer_id": "A244CRJ2QSVLZ4",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 399,
+      "reviewer_id": "A2RGWCT6K2C3EZ",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 400,
+      "reviewer_id": "A2QNS95WGN35G9",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 401,
+      "reviewer_id": "A3D5B2CBFNJB0K",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 402,
+      "reviewer_id": "A2X8KN82L07RSK",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 403,
+      "reviewer_id": "AD73VMNYB8XVX",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 404,
+      "reviewer_id": "APBDZ88BBTN4F",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 405,
+      "reviewer_id": "A1D27BCSYV7VWH",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 406,
+      "reviewer_id": "A2N75ADJSRW0AH",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 407,
+      "reviewer_id": "ADPKRJ2BSFJ0I",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 408,
+      "reviewer_id": "A2Q2A6JKY95RTP",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 409,
+      "reviewer_id": "A3A8BQ0NVIUCRM",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 410,
+      "reviewer_id": "ASR7145BJLFIW",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 411,
+      "reviewer_id": "A3MQAQT8C6D1I7",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 412,
+      "reviewer_id": "A2AC6GQ24S45GA",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 413,
+      "reviewer_id": "A1ATVMMJZP3Q4X",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 414,
+      "reviewer_id": "A2SPV96SGOEO2",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 415,
+      "reviewer_id": "A1H0D7635GEEJ1",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 416,
+      "reviewer_id": "AC1YLEFC9AN5X",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 417,
+      "reviewer_id": "A3LDPF5FMB782Z",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 418,
+      "reviewer_id": "A11FX8HL2ANK6T",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 419,
+      "reviewer_id": "AEGQWVR6KWBV",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 420,
+      "reviewer_id": "A1LAGS8H4A2DR7",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 421,
+      "reviewer_id": "A23R3EOZ837242",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 422,
+      "reviewer_id": "AO2EURP2Y4JZM",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 423,
+      "reviewer_id": "A1J5HIF41ENSMZ",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 424,
+      "reviewer_id": "AHNHLGKIZ2N3B",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 425,
+      "reviewer_id": "A12B7ZMXFI6IXY",
+      "amazon_group": "C",
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 426,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 427,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 428,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.1,
+        "C": 3.26,
+        "E": 4.81,
+        "A": 3.24,
+        "N": 1.67
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 429,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 2.84,
+        "C": 3.01,
+        "E": 3.3,
+        "A": 4.05,
+        "N": 2.21
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 430,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.65,
+        "C": 3.04,
+        "E": 2.73,
+        "A": 2.64,
+        "N": 1.67
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 431,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 432,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 5.0,
+        "C": 3.51,
+        "E": 3.75,
+        "A": 3.06,
+        "N": 3.38
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 433,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 2.86,
+        "C": 4.14,
+        "E": 3.24,
+        "A": 2.9,
+        "N": 1.51
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 434,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 435,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 2.75,
+        "C": 2.94,
+        "E": 3.33,
+        "A": 3.77,
+        "N": 2.79
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 436,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 437,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 438,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.2,
+        "C": 3.32,
+        "E": 3.18,
+        "A": 4.0,
+        "N": 2.25
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 439,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 440,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.9,
+        "C": 5.0,
+        "E": 4.55,
+        "A": 3.91,
+        "N": 3.21
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 441,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 442,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 443,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.55,
+        "C": 4.01,
+        "E": 3.36,
+        "A": 2.75,
+        "N": 3.35
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 444,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.86,
+        "C": 2.53,
+        "E": 4.45,
+        "A": 3.13,
+        "N": 1.72
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 445,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.31,
+        "C": 3.58,
+        "E": 5.0,
+        "A": 1.78,
+        "N": 3.36
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 446,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.26,
+        "C": 3.55,
+        "E": 2.34,
+        "A": 2.66,
+        "N": 3.35
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 447,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.19,
+        "C": 3.67,
+        "E": 4.3,
+        "A": 4.0,
+        "N": 3.72
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 448,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.32,
+        "C": 4.75,
+        "E": 2.78,
+        "A": 4.32,
+        "N": 2.33
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 449,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.22,
+        "C": 4.32,
+        "E": 4.43,
+        "A": 2.93,
+        "N": 1.24
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 450,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.79,
+        "C": 4.09,
+        "E": 3.28,
+        "A": 3.14,
+        "N": 1.57
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 451,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 452,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.09,
+        "C": 2.92,
+        "E": 3.61,
+        "A": 2.73,
+        "N": 3.32
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 453,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.57,
+        "C": 4.16,
+        "E": 1.65,
+        "A": 3.22,
+        "N": 1.5
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 454,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.06,
+        "C": 5.0,
+        "E": 1.97,
+        "A": 3.74,
+        "N": 1.03
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 455,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.49,
+        "C": 4.49,
+        "E": 4.74,
+        "A": 3.64,
+        "N": 2.83
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 456,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.41,
+        "C": 2.47,
+        "E": 4.43,
+        "A": 3.4,
+        "N": 2.29
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 457,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.56,
+        "C": 4.34,
+        "E": 3.49,
+        "A": 3.19,
+        "N": 2.28
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 458,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.45,
+        "C": 3.96,
+        "E": 4.77,
+        "A": 3.09,
+        "N": 3.41
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 459,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 460,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 461,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.73,
+        "C": 4.06,
+        "E": 3.06,
+        "A": 4.66,
+        "N": 2.2
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 462,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.73,
+        "C": 3.29,
+        "E": 3.7,
+        "A": 3.65,
+        "N": 2.61
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 463,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 2.5,
+        "C": 3.45,
+        "E": 3.49,
+        "A": 3.7,
+        "N": 3.83
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 464,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.39,
+        "C": 3.1,
+        "E": 3.17,
+        "A": 3.02,
+        "N": 2.02
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 465,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.74,
+        "C": 3.7,
+        "E": 3.47,
+        "A": 4.29,
+        "N": 3.57
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 466,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.3,
+        "C": 4.04,
+        "E": 2.35,
+        "A": 4.81,
+        "N": 2.58
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 467,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 468,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.46,
+        "C": 3.75,
+        "E": 2.1,
+        "A": 4.02,
+        "N": 2.78
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 469,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 470,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.36,
+        "C": 3.93,
+        "E": 4.13,
+        "A": 4.88,
+        "N": 3.01
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 471,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.43,
+        "C": 3.61,
+        "E": 3.07,
+        "A": 2.41,
+        "N": 3.49
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 472,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 473,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.81,
+        "C": 3.13,
+        "E": 3.17,
+        "A": 3.68,
+        "N": 2.14
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 474,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.79,
+        "C": 3.47,
+        "E": 2.6,
+        "A": 4.07,
+        "N": 2.63
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 475,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 476,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.43,
+        "C": 2.8,
+        "E": 3.24,
+        "A": 3.18,
+        "N": 2.99
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 477,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.43,
+        "C": 3.43,
+        "E": 3.13,
+        "A": 4.06,
+        "N": 2.47
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 478,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.94,
+        "C": 3.11,
+        "E": 2.48,
+        "A": 4.41,
+        "N": 3.13
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 479,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.69,
+        "C": 3.74,
+        "E": 3.16,
+        "A": 4.11,
+        "N": 2.09
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 480,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 481,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 482,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.87,
+        "C": 4.52,
+        "E": 2.64,
+        "A": 3.75,
+        "N": 3.66
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 483,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.43,
+        "C": 4.06,
+        "E": 3.44,
+        "A": 3.46,
+        "N": 3.42
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 484,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.07,
+        "C": 4.36,
+        "E": 3.0,
+        "A": 3.25,
+        "N": 2.88
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 485,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 486,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 2.71,
+        "C": 1.97,
+        "E": 2.24,
+        "A": 4.25,
+        "N": 2.53
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 487,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.49,
+        "C": 3.27,
+        "E": 3.91,
+        "A": 4.22,
+        "N": 2.51
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 488,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.84,
+        "C": 3.89,
+        "E": 4.89,
+        "A": 2.09,
+        "N": 3.05
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 489,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.54,
+        "C": 3.81,
+        "E": 3.59,
+        "A": 3.73,
+        "N": 4.34
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 490,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": null,
+      "source": "none-by-design"
+    },
+    {
+      "contact_id": 491,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.43,
+        "C": 4.39,
+        "E": 3.11,
+        "A": 4.77,
+        "N": 2.77
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 492,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.47,
+        "C": 5.0,
+        "E": 3.56,
+        "A": 3.39,
+        "N": 2.75
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 493,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.44,
+        "C": 3.7,
+        "E": 2.91,
+        "A": 3.06,
+        "N": 2.97
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 494,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.36,
+        "C": 4.9,
+        "E": 3.13,
+        "A": 4.2,
+        "N": 2.21
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 495,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.56,
+        "C": 3.8,
+        "E": 3.49,
+        "A": 3.78,
+        "N": 1.45
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 496,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.0,
+        "C": 4.13,
+        "E": 3.85,
+        "A": 4.39,
+        "N": 2.63
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 497,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 4.89,
+        "C": 2.06,
+        "E": 2.01,
+        "A": 4.72,
+        "N": 2.39
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 498,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 3.48,
+        "C": 4.44,
+        "E": 2.7,
+        "A": 3.09,
+        "N": 3.35
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 499,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 2.89,
+        "C": 4.03,
+        "E": 1.99,
+        "A": 3.99,
+        "N": 2.6
+      },
+      "source": "synth-bfi2-norms"
+    },
+    {
+      "contact_id": 500,
+      "reviewer_id": null,
+      "amazon_group": null,
+      "ocean": {
+        "O": 2.39,
+        "C": 3.33,
+        "E": 2.3,
+        "A": 3.33,
+        "N": 2.54
+      },
+      "source": "synth-bfi2-norms"
+    }
+  ]
+}

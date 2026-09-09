@@ -1,0 +1,40 @@
+{
+  "contact_id": 282,
+  "reviewer_id": "ADOR3TR7GDF68",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 92,
+  "reviews_used": 15,
+  "prompt_chars": 6626,
+  "status": "ok",
+  "seconds": 1050.0,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 3.9,
+    "E": 4.15,
+    "A": 3.0,
+    "N": 2.95,
+    "evidence_quotes": {
+      "O": "I keep it on my phone all the time because I'm into photography and can take up to 100 pictures a day.",
+      "C": "I repair PC's, reformat and know my homework.",
+      "E": "WOW! I am an entertainer and a sound professional.",
+      "A": "Personally I am smart enough to know that this ad is a little misleading.",
+      "N": "Ugh, I hate having to sent it back."
+    }
+  },
+  "raw": {
+    "A": 3,
+    "C": 3.9,
+    "E": 4.15,
+    "N": 2.95,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Personally I am smart enough to know that this ad is a little misleading.",
+      "C": "I repair PC's, reformat and know my homework.",
+      "E": "WOW! I am an entertainer and a sound professional.",
+      "N": "Ugh, I hate having to sent it back.",
+      "O": "I keep it on my phone all the time because I'm into photography and can take up to 100 pictures a day."
+    }
+  }
+}

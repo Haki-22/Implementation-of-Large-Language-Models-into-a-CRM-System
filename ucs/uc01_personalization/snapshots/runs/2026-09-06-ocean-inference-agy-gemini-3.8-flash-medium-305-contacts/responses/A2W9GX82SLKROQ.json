@@ -1,0 +1,40 @@
+{
+  "contact_id": 151,
+  "reviewer_id": "A2W9GX82SLKROQ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 122,
+  "reviews_used": 15,
+  "prompt_chars": 9935,
+  "status": "ok",
+  "seconds": 554.47,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 2.95,
+    "A": 4.1,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I got one of these to play around with when it was first available. It's an interesting little device.",
+      "C": "it took me more than 4 hours to get everything working (and another 1.5 hours to write this review).",
+      "E": "and you can let any number of friends view the camera - they don't need to own a camera.",
+      "A": "If you take the few minutes to read this review, however, you will have the instructions you need to set it up in under 15 minutes.",
+      "N": "I was disappointed at the lack of longevity, but thought I'd give Sansa another try."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 2.95,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "If you take the few minutes to read this review, however, you will have the instructions you need to set it up in under 15 minutes.",
+      "C": "it took me more than 4 hours to get everything working (and another 1.5 hours to write this review).",
+      "E": "and you can let any number of friends view the camera - they don't need to own a camera.",
+      "N": "I was disappointed at the lack of longevity, but thought I'd give Sansa another try.",
+      "O": "I got one of these to play around with when it was first available. It's an interesting little device."
+    }
+  }
+}

@@ -1,0 +1,1302 @@
+{
+  "holdout-043": {
+    "message_id": "holdout-043",
+    "generated_text": "Vážená paní Nováková,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu. Akce startuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Nováková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-042": {
+    "message_id": "holdout-042",
+    "generated_text": "Vážený pane Blažku,\n\nnabízíme Vám možnost přejít z běžného účtu na prémiový věrnostní program se slevou 30 % na první objednávku. Akce platí do 30. 6. 2026.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Blažku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-092": {
+    "message_id": "holdout-092",
+    "generated_text": "Milá Evo,\n\nobracíme se na tebe s nabídkou. Jako náš věrný zákazník máš nárok na slevu.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-010": {
+    "message_id": "holdout-010",
+    "generated_text": "Vážený pane Blažku,\n\nnabízíme Vám možnost přejít z běžného účtu na prémiový věrnostní program se slevou 30 % na první objednávku. Akce platí do 30. 6. 2026.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Blažku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-066": {
+    "message_id": "holdout-066",
+    "generated_text": "Dobrý den pane Blažku,\n\nMáme pro Vás nabídku slev.\n\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Blažku"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-051": {
+    "message_id": "holdout-051",
+    "generated_text": "Vážený pane Nováku,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu, který odstartuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-002": {
+    "message_id": "holdout-002",
+    "generated_text": "Vážený pane Horáku,\n\nrádi bychom Vás informovali o nové kolekci elektroniky dostupné v našem e-shopu. Naše zákaznická linka Vám ráda poradí s výběrem. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-071": {
+    "message_id": "holdout-071",
+    "generated_text": "Vážený pane Nováku,\n\ndovolujeme si tě pozvat na náš sezónní výprodej. Přijď, bude to skvělé!\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-016": {
+    "message_id": "holdout-016",
+    "generated_text": "Vážená paní Marková,\n\nrádi bychom Vás informovali o nové sezónní kolekci. Naše nabídka je sestavena podle nejnovějších trendů. Neváhejte si prohlédnout náš e-shop.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-079": {
+    "message_id": "holdout-079",
+    "generated_text": "Vážená paní Marková,\n\ngratulujeme ti k dosažení zlatého věrnostního statusu! Máš nyní nárok na dopravu zdarma.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-074": {
+    "message_id": "holdout-074",
+    "generated_text": "Vážený pane Horáku,\n\nposílám ti informace o naší nové kolekci. Ozvi se mi, pokud máš zájem.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-011": {
+    "message_id": "holdout-011",
+    "generated_text": "Vážený pane Nováku,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu, který odstartuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-056": {
+    "message_id": "holdout-056",
+    "generated_text": "Vážená paní Nováková,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu. Akce startuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Nováková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-057": {
+    "message_id": "holdout-057",
+    "generated_text": "Vážená paní Horáková,\n\nobracíme se na Vás v souvislosti s Vaší nedávnou objednávkou. Rádi bychom Vám nabídli prodlouženou záruku na zakoupené zboží.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-073": {
+    "message_id": "holdout-073",
+    "generated_text": "Ahoj Lucie,\n\nrádi bychom Vám nabídli slevu na další nákup. Neváhejte se přihlásit.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Lucie",
+      "last_name": "Procházková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Lucie"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-046": {
+    "message_id": "holdout-046",
+    "generated_text": "Vážená paní Marková,\n\nrádi bychom Vás informovali o nové sezónní kolekci. Naše nabídka je sestavena podle nejnovějších trendů. Neváhejte si prohlédnout náš e-shop.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-049": {
+    "message_id": "holdout-049",
+    "generated_text": "Ahoj Lucie,\n\nmáme pro tebe zajímavou nabídku. Přechod na věrnostní program Plus je teď dostupný za výhodných podmínek. Ozvi se nám!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Lucie",
+      "last_name": "Procházková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Lucie"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-093": {
+    "message_id": "holdout-093",
+    "generated_text": "Vážená paní Nováku,\n\nbyl jste zařazen do našeho věrnostního programu. Přijď a přiveď přátele.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-077": {
+    "message_id": "holdout-077",
+    "generated_text": "Vážený pane Blažku,\n\nmáme pro tebe speciální slevu na další objednávku. Kdy by ti vyhovoval termín doručení?\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Blažku"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-038": {
+    "message_id": "holdout-038",
+    "generated_text": "Vážený pane Nováku,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu, který odstartuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-031": {
+    "message_id": "holdout-031",
+    "generated_text": "Dobrý den,\n\ndovolujeme si Vás informovat o aktuální nabídce slev v našem e-shopu. Rádi Vám poskytneme veškeré informace. Kontaktujte nás na níže uvedeném e-mailu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martin",
+      "last_name": "Schmidt",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Dobrý den,"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-022": {
+    "message_id": "holdout-022",
+    "generated_text": "Vážená paní Vlčková,\n\nděkujeme za Váš zájem o náš věrnostní program. Přikládáme podrobné informace o výhodách členství a možnostech splátkového nákupu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martina",
+      "last_name": "Vlčková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Vlčková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-033": {
+    "message_id": "holdout-033",
+    "generated_text": "Vážený pane Jano,\n\nmáme pro Vás nabídku slev v našem e-shopu. Kontaktujte nás pro více informací.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Malý",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Jano"
+    },
+    "subtype": "valid",
+    "is_borderline": true
+  },
+  "holdout-097": {
+    "message_id": "holdout-097",
+    "generated_text": "Ahoj Ondřeji,\n\njako naše věrná zákaznice máte nárok na slevu. Neváhejte nás kontaktovat.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Ondřeji"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-081": {
+    "message_id": "holdout-081",
+    "generated_text": "Vážená paní Horáková,\n\nvěříme, že jste byl spokojen s naší poslední objednávkou. Prohlédněte si naši novou kolekci.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-050": {
+    "message_id": "holdout-050",
+    "generated_text": "Ahoj Radku,\n\nděkujeme za tvou nedávnou objednávku. Sledovací číslo zásilky najdeš v příloze. Dej vědět, jestli máš zájem o doplňky k zakoupenému zboží.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Radek",
+      "last_name": "Černý",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Radku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-084": {
+    "message_id": "holdout-084",
+    "generated_text": "Vážená paní Dvořáková,\n\njako náš věrný zákazník máte nárok na exkluzivní slevu. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Dvořáková"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-027": {
+    "message_id": "holdout-027",
+    "generated_text": "Ahoj Radku,\n\nděkujeme za tvou nedávnou objednávku. Sledovací číslo zásilky najdeš v příloze. Dej vědět, jestli máš zájem o doplňky k zakoupenému zboží.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Radek",
+      "last_name": "Černý",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Radku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-088": {
+    "message_id": "holdout-088",
+    "generated_text": "Vážený pane Blažku,\n\njste naší loajální zákaznicí a rádi bychom Vám nabídli slevu. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Blažku"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-034": {
+    "message_id": "holdout-034",
+    "generated_text": "Vážený pane Petrově,\n\ndovolujeme si Vás pozvat na náš sezónní výprodej. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ivan",
+      "last_name": "Petrov",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Petrově"
+    },
+    "subtype": "valid",
+    "is_borderline": true
+  },
+  "holdout-009": {
+    "message_id": "holdout-009",
+    "generated_text": "Vážený pane Králu,\n\nobracíme se na Vás s nabídkou obnovy věrnostního členství. Jako člen získáte přístup k exkluzivním slevám a přednostní dopravě zdarma.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martin",
+      "last_name": "Král",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Králu"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-048": {
+    "message_id": "holdout-048",
+    "generated_text": "Ahoj Honzo,\n\nchceme tě pozvat na náš víkendový výprodej. Bude to skvělá příležitost ulovit oblíbené značky za super ceny. Mrkni na e-shop!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Honza",
+      "last_name": "Novotný",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Honzo"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-060": {
+    "message_id": "holdout-060",
+    "generated_text": "Vážená paní Vlčková,\n\nděkujeme za Váš zájem o náš věrnostní program. Přikládáme podrobné informace o výhodách členství a možnostech splátkového nákupu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martina",
+      "last_name": "Vlčková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Vlčková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-064": {
+    "message_id": "holdout-064",
+    "generated_text": "Milý Tomáši,\n\nrádi bychom Vás informovali o nové kolekci elektroniky. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-075": {
+    "message_id": "holdout-075",
+    "generated_text": "Ahoj Radku,\n\nobracíme se na Vás s nabídkou slev. Neváhejte nás kontaktovat.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Radek",
+      "last_name": "Černý",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Radku"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-045": {
+    "message_id": "holdout-045",
+    "generated_text": "Vážená paní Dvořáková,\n\nmáme pro Vás speciální nabídku přechodu na věrnostní program Plus. Budeme rádi, pokud nás kontaktujete pro více informací.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Dvořáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-099": {
+    "message_id": "holdout-099",
+    "generated_text": "Vážený pane Vlčková,\n\nposílám ti informace o naší nové kolekci. Ozvi se mi, pokud máš zájem.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martina",
+      "last_name": "Vlčková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Vlčková"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-053": {
+    "message_id": "holdout-053",
+    "generated_text": "Vážený pane Procházko,\n\nděkujeme za Vaši nedávnou objednávku. V příloze naleznete fakturu a sledovací číslo zásilky. Rádi bychom Vám nabídli doplňkové příslušenství.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Petr",
+      "last_name": "Procházka",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Procházko"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-086": {
+    "message_id": "holdout-086",
+    "generated_text": "Ahoj Radku,\n\njsem ráda, že ses ozval. Pošleme ti podrobnosti o naší nabídce.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Radek",
+      "last_name": "Černý",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Radku"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-013": {
+    "message_id": "holdout-013",
+    "generated_text": "Vážená paní Nováková,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu. Akce startuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Nováková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-037": {
+    "message_id": "holdout-037",
+    "generated_text": "Vážená paní inženýrko,\n\ndovolujeme si Vás informovat o nabídce našeho e-shopu. Rádi Vám poskytneme veškeré podrobnosti.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Petra",
+      "last_name": "Benešová",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní inženýrko"
+    },
+    "subtype": "valid",
+    "is_borderline": true
+  },
+  "holdout-024": {
+    "message_id": "holdout-024",
+    "generated_text": "Vážená paní Horáková,\n\nobracíme se na Vás v souvislosti s Vaší nedávnou objednávkou. Rádi bychom Vám nabídli prodlouženou záruku na zakoupené zboží.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-040": {
+    "message_id": "holdout-040",
+    "generated_text": "Vážený pane Procházko,\n\nděkujeme za Vaši nedávnou objednávku. V příloze naleznete fakturu a sledovací číslo zásilky. Rádi bychom Vám nabídli doplňkové příslušenství.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Petr",
+      "last_name": "Procházka",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Procházko"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-041": {
+    "message_id": "holdout-041",
+    "generated_text": "Vážený pane Králu,\n\nobracíme se na Vás s nabídkou obnovy věrnostního členství. Jako člen získáte přístup k exkluzivním slevám a přednostní dopravě zdarma.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martin",
+      "last_name": "Král",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Králu"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-019": {
+    "message_id": "holdout-019",
+    "generated_text": "Vážená paní Horáková,\n\nobracíme se na Vás v souvislosti s Vaší nedávnou objednávkou. Rádi bychom Vám nabídli prodlouženou záruku na zakoupené zboží.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-067": {
+    "message_id": "holdout-067",
+    "generated_text": "Vážená kolegyně Dvořáková,\n\nrádi bychom Vás pozvali na náš výprodej. Nakupte prosím se slevou.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Dvořáková"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-062": {
+    "message_id": "holdout-062",
+    "generated_text": "Dobrý den,\n\ndovolujeme si Vás pozvat na náš výprodej. Nakupte prosím se slevou do 31. 8.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-061": {
+    "message_id": "holdout-061",
+    "generated_text": "Dobrý den pane Nováku,\n\ndovolujeme si Vás pozvat na náš sezónní výprodej. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-008": {
+    "message_id": "holdout-008",
+    "generated_text": "Vážený pane Procházko,\n\nděkujeme za Vaši nedávnou objednávku. V příloze naleznete fakturu a sledovací číslo zásilky. Rádi bychom Vám nabídli doplňkové příslušenství.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Petr",
+      "last_name": "Procházka",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Procházko"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-035": {
+    "message_id": "holdout-035",
+    "generated_text": "Vážený pane doktore,\n\nrádi bychom Vám nabídli prémiový věrnostní program. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jakub",
+      "last_name": "Kopecký",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane doktore"
+    },
+    "subtype": "valid",
+    "is_borderline": true
+  },
+  "holdout-100": {
+    "message_id": "holdout-100",
+    "generated_text": "Dobrý den Radku,\n\njako naše věrná zákaznice jste ideální adresátkou této nabídky. Neváhejte si prohlédnout náš e-shop.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Radek",
+      "last_name": "Černý",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Černý"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-047": {
+    "message_id": "holdout-047",
+    "generated_text": "Vážená paní Vlčková,\n\nděkujeme za Váš zájem o náš věrnostní program. Přikládáme podrobné informace o výhodách členství a možnostech splátkového nákupu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martina",
+      "last_name": "Vlčková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Vlčková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-003": {
+    "message_id": "holdout-003",
+    "generated_text": "Vážený pane Procházko,\n\nděkujeme za Vaši nedávnou objednávku. V příloze naleznete fakturu a sledovací číslo zásilky. Rádi bychom Vám nabídli doplňkové příslušenství.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Petr",
+      "last_name": "Procházka",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Procházko"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-052": {
+    "message_id": "holdout-052",
+    "generated_text": "Vážený pane Horáku,\n\nrádi bychom Vás informovali o nové kolekci elektroniky dostupné v našem e-shopu. Naše zákaznická linka Vám ráda poradí s výběrem. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-017": {
+    "message_id": "holdout-017",
+    "generated_text": "Vážená paní Vlčková,\n\nděkujeme za Váš zájem o náš věrnostní program. Přikládáme podrobné informace o výhodách členství a možnostech splátkového nákupu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martina",
+      "last_name": "Vlčková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Vlčková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-039": {
+    "message_id": "holdout-039",
+    "generated_text": "Vážený pane Horáku,\n\nrádi bychom Vás informovali o nové kolekci elektroniky dostupné v našem e-shopu. Naše zákaznická linka Vám ráda poradí s výběrem. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-059": {
+    "message_id": "holdout-059",
+    "generated_text": "Vážená paní Marková,\n\nrádi bychom Vás informovali o nové sezónní kolekci. Naše nabídka je sestavena podle nejnovějších trendů. Neváhejte si prohlédnout náš e-shop.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-069": {
+    "message_id": "holdout-069",
+    "generated_text": "Milý kliente,\n\ndovolujeme si Vás pozvat na náš sezónní výprodej. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-023": {
+    "message_id": "holdout-023",
+    "generated_text": "Vážená paní Nováková,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu. Akce startuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Nováková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-063": {
+    "message_id": "holdout-063",
+    "generated_text": "Ahoj Honzo,\n\nmáme pro tebe novinky. Mrkni na náš e-shop!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novotný",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Jene"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-025": {
+    "message_id": "holdout-025",
+    "generated_text": "Ahoj Honzo,\n\nchceme tě pozvat na náš víkendový výprodej. Bude to skvělá příležitost ulovit oblíbené značky za super ceny. Mrkni na e-shop!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Honza",
+      "last_name": "Novotný",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Honzo"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-006": {
+    "message_id": "holdout-006",
+    "generated_text": "Vážený pane Nováku,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu, který odstartuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-007": {
+    "message_id": "holdout-007",
+    "generated_text": "Vážený pane Horáku,\n\nrádi bychom Vás informovali o nové kolekci elektroniky dostupné v našem e-shopu. Naše zákaznická linka Vám ráda poradí s výběrem. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-068": {
+    "message_id": "holdout-068",
+    "generated_text": "Ahoj Petro,\n\nmáme pro tebe skvělou nabídku. Ozvi se nám!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Petr",
+      "last_name": "Procházka",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Petře"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-083": {
+    "message_id": "holdout-083",
+    "generated_text": "Ahoj Lucie,\n\njsem rád, že ses rozhodl využít naši slevu. Těším se na tvůj další nákup!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Lucie",
+      "last_name": "Procházková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Lucie"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-020": {
+    "message_id": "holdout-020",
+    "generated_text": "Vážená paní Dvořáková,\n\nmáme pro Vás speciální nabídku přechodu na věrnostní program Plus. Budeme rádi, pokud nás kontaktujete pro více informací.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Dvořáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-080": {
+    "message_id": "holdout-080",
+    "generated_text": "Ahoj Ondřeji,\n\ndovolujeme si Vás informovat o nadcházejícím výprodeji. Vaše návštěva e-shopu by nás velmi potěšila.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Kratochvíl",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Ondřeji"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-044": {
+    "message_id": "holdout-044",
+    "generated_text": "Vážená paní Horáková,\n\nobracíme se na Vás v souvislosti s Vaší nedávnou objednávkou. Rádi bychom Vám nabídli prodlouženou záruku na zakoupené zboží.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-091": {
+    "message_id": "holdout-091",
+    "generated_text": "Dobrý den,\n\ndovolujeme si tě pozvat na náš sezónní výprodej. Přijď, bude to skvělé! Byl jsi naším nejvěrnějším zákazníkem.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-021": {
+    "message_id": "holdout-021",
+    "generated_text": "Vážená paní Marková,\n\nrádi bychom Vás informovali o nové sezónní kolekci. Naše nabídka je sestavena podle nejnovějších trendů. Neváhejte si prohlédnout náš e-shop.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-001": {
+    "message_id": "holdout-001",
+    "generated_text": "Vážený pane Nováku,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu, který odstartuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-096": {
+    "message_id": "holdout-096",
+    "generated_text": "Vážený pane Horáková,\n\ndovolujeme si tě informovat o nových produktech. Přihlaš se k odběru novinek.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-058": {
+    "message_id": "holdout-058",
+    "generated_text": "Vážená paní Dvořáková,\n\nmáme pro Vás speciální nabídku přechodu na věrnostní program Plus. Budeme rádi, pokud nás kontaktujete pro více informací.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Dvořáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-094": {
+    "message_id": "holdout-094",
+    "generated_text": "Ahoj Lenka,\n\nrádi bychom Vás pozvali na náš výprodej. Jako náš věrný zákazník víte, že se vyplatí nakoupit včas.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Lenko"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-054": {
+    "message_id": "holdout-054",
+    "generated_text": "Vážený pane Králu,\n\nobracíme se na Vás s nabídkou obnovy věrnostního členství. Jako člen získáte přístup k exkluzivním slevám a přednostní dopravě zdarma.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martin",
+      "last_name": "Král",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Králu"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-090": {
+    "message_id": "holdout-090",
+    "generated_text": "Vážená paní Vlčková,\n\njako náš věrný zákazník máte přístup k exkluzivním slevám. Využijte všechny výhody členství.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martina",
+      "last_name": "Vlčková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Vlčková"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-026": {
+    "message_id": "holdout-026",
+    "generated_text": "Ahoj Lucie,\n\nmáme pro tebe zajímavou nabídku. Přechod na věrnostní program Plus je teď dostupný za výhodných podmínek. Ozvi se nám!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Lucie",
+      "last_name": "Procházková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Lucie"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-072": {
+    "message_id": "holdout-072",
+    "generated_text": "Vážená paní Horáková,\n\nobracíme se na tebe s nabídkou věrnostního programu. Přihlaš se do 30. 6. 2026.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-085": {
+    "message_id": "holdout-085",
+    "generated_text": "Vážený pane Horáku,\n\njako naše věrná zákaznice máte nárok na slevu. Prohlédněte si naši novou kolekci.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-078": {
+    "message_id": "holdout-078",
+    "generated_text": "Ahoj Jano,\n\nrádi bychom Vás pozvali na náš sezónní výprodej. Věříme, že Vás nabídka zaujme.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Jano"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-065": {
+    "message_id": "holdout-065",
+    "generated_text": "Vážená paní Malá,\n\nnabízíme Vám přechod na věrnostní program Plus. Kontaktujte nás pro více informací.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lucie",
+      "last_name": "Malá",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Malou"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-030": {
+    "message_id": "holdout-030",
+    "generated_text": "Ahoj Radku,\n\nděkujeme za tvou nedávnou objednávku. Sledovací číslo zásilky najdeš v příloze. Dej vědět, jestli máš zájem o doplňky k zakoupenému zboží.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Radek",
+      "last_name": "Černý",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Radku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-028": {
+    "message_id": "holdout-028",
+    "generated_text": "Ahoj Honzo,\n\nchceme tě pozvat na náš víkendový výprodej. Bude to skvělá příležitost ulovit oblíbené značky za super ceny. Mrkni na e-shop!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Honza",
+      "last_name": "Novotný",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Honzo"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-089": {
+    "message_id": "holdout-089",
+    "generated_text": "Ahoj Jano,\n\ngratulujeme -- byl jsi zařazen do věrnostního programu! Těšíme se na tebe.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Jano"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-098": {
+    "message_id": "holdout-098",
+    "generated_text": "Milý pane Nováková,\n\nchceme tě informovat o zajímavé nabídce. Byl si naší nejvěrnější zákaznicí v uplynulém roce.\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Jano"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-005": {
+    "message_id": "holdout-005",
+    "generated_text": "Vážený pane Blažku,\n\nnabízíme Vám možnost přejít z běžného účtu na prémiový věrnostní program se slevou 30 % na první objednávku. Akce platí do 30. 6. 2026.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Blažku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-055": {
+    "message_id": "holdout-055",
+    "generated_text": "Vážený pane Blažku,\n\nnabízíme Vám možnost přejít z běžného účtu na prémiový věrnostní program se slevou 30 % na první objednávku. Akce platí do 30. 6. 2026.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Ondřej",
+      "last_name": "Blažek",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Blažku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-076": {
+    "message_id": "holdout-076",
+    "generated_text": "Vážená paní Dvořáková,\n\nchceme tě informovat o nových produktech. Přihlaš se k odběru novinek.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Dvořáková"
+    },
+    "subtype": "invalid_tv",
+    "is_borderline": false
+  },
+  "holdout-012": {
+    "message_id": "holdout-012",
+    "generated_text": "Vážený pane Horáku,\n\nrádi bychom Vás informovali o nové kolekci elektroniky dostupné v našem e-shopu. Naše zákaznická linka Vám ráda poradí s výběrem. Neváhejte nás kontaktovat.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Tomáš",
+      "last_name": "Horák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Horáku"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-070": {
+    "message_id": "holdout-070",
+    "generated_text": "Zdravím Vás,\n\nrádi bychom Vás informovali o nových produktech. Kontaktujte nás.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martina",
+      "last_name": "Vlčková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Vlčková"
+    },
+    "subtype": "invalid_vocative",
+    "is_borderline": false
+  },
+  "holdout-087": {
+    "message_id": "holdout-087",
+    "generated_text": "Vážená paní Marková,\n\nbyl jste zařazen do našeho věrnostního programu. Těšíme se na Vaše další nákupy.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  },
+  "holdout-014": {
+    "message_id": "holdout-014",
+    "generated_text": "Vážená paní Horáková,\n\nobracíme se na Vás v souvislosti s Vaší nedávnou objednávkou. Rádi bychom Vám nabídli prodlouženou záruku na zakoupené zboží.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Eva",
+      "last_name": "Horáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Horáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-018": {
+    "message_id": "holdout-018",
+    "generated_text": "Vážená paní Nováková,\n\ndovolujeme si Vás pozvat na podzimní výprodej v našem e-shopu. Akce startuje 15. 9. 2026. Těšíme se na Vaši návštěvu.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jana",
+      "last_name": "Nováková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Nováková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-029": {
+    "message_id": "holdout-029",
+    "generated_text": "Ahoj Lucie,\n\nmáme pro tebe zajímavou nabídku. Přechod na věrnostní program Plus je teď dostupný za výhodných podmínek. Ozvi se nám!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Lucie",
+      "last_name": "Procházková",
+      "gender": "f",
+      "formal": false,
+      "name_vocative": "Ahoj Lucie"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-032": {
+    "message_id": "holdout-032",
+    "generated_text": "Dobrý den,\n\nobracíme se na Vás s pozvánkou na náš sezónní výprodej. Akce je otevřena všem registrovaným zákazníkům. Nakupte se slevou do 31. 8. 2026.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Fatima",
+      "last_name": "Alves",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Dobrý den,"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-036": {
+    "message_id": "holdout-036",
+    "generated_text": "Ahoj Martine,\n\nchceme ti dát vědět o novém výprodeji. Bylo by super, kdyby ses k nám zase podíval!\n\nTvůj zákaznický tým",
+    "contact_data": {
+      "first_name": "Martin",
+      "last_name": "Kovář",
+      "gender": "m",
+      "formal": false,
+      "name_vocative": "Ahoj Martine"
+    },
+    "subtype": "valid",
+    "is_borderline": true
+  },
+  "holdout-095": {
+    "message_id": "holdout-095",
+    "generated_text": "Zdravím,\n\ngratulujeme ti k dosažení zlatého věrnostního statusu! Byl jste naším nejvěrnějším zákazníkem.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Kateřina",
+      "last_name": "Marková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Marková"
+    },
+    "subtype": "invalid_combined",
+    "is_borderline": false
+  },
+  "holdout-004": {
+    "message_id": "holdout-004",
+    "generated_text": "Vážený pane Králu,\n\nobracíme se na Vás s nabídkou obnovy věrnostního členství. Jako člen získáte přístup k exkluzivním slevám a přednostní dopravě zdarma.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Martin",
+      "last_name": "Král",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Králu"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-015": {
+    "message_id": "holdout-015",
+    "generated_text": "Vážená paní Dvořáková,\n\nmáme pro Vás speciální nabídku přechodu na věrnostní program Plus. Budeme rádi, pokud nás kontaktujete pro více informací.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Lenka",
+      "last_name": "Dvořáková",
+      "gender": "f",
+      "formal": true,
+      "name_vocative": "Vážená paní Dvořáková"
+    },
+    "subtype": "valid",
+    "is_borderline": false
+  },
+  "holdout-082": {
+    "message_id": "holdout-082",
+    "generated_text": "Vážený pane Nováku,\n\ndoufáme, že jste byla spokojena s naší nabídkou. Kontaktujte nás pro více informací.\n\nS pozdravem,\nVáš zákaznický tým",
+    "contact_data": {
+      "first_name": "Jan",
+      "last_name": "Novák",
+      "gender": "m",
+      "formal": true,
+      "name_vocative": "Vážený pane Nováku"
+    },
+    "subtype": "invalid_gender",
+    "is_borderline": false
+  }
+}

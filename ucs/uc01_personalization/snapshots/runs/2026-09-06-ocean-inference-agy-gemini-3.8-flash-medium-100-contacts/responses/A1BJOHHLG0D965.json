@@ -1,0 +1,40 @@
+{
+  "contact_id": 309,
+  "reviewer_id": "A1BJOHHLG0D965",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 69,
+  "reviews_used": 15,
+  "prompt_chars": 10349,
+  "status": "ok",
+  "seconds": 278.2,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.75,
+    "A": 3.6,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "For a few years now, I've been learning how to improve and upgrade my desktop systems via the ever-favored trial-by-fire method.",
+      "C": "*Further Update*It's been nearly three years since I originally wrote my review, and these are still going strong in my home.",
+      "E": "The sound that comes from this headset blows me away! It truly DOES make you feel like you're actually there!",
+      "A": "Not being a proper, studied Audiophile myself, I'm not going to throw terminology at you, because I'd probably sound like an idiot",
+      "N": "*sigh*. I should've known what to expect when I ordered a webcam at this price that is billed as a \"night vision\" camera"
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.35,
+    "E": 3.75,
+    "N": 2.8,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Not being a proper, studied Audiophile myself, I'm not going to throw terminology at you, because I'd probably sound like an idiot",
+      "C": "*Further Update*It's been nearly three years since I originally wrote my review, and these are still going strong in my home.",
+      "E": "The sound that comes from this headset blows me away! It truly DOES make you feel like you're actually there!",
+      "N": "*sigh*. I should've known what to expect when I ordered a webcam at this price that is billed as a \"night vision\" camera",
+      "O": "For a few years now, I've been learning how to improve and upgrade my desktop systems via the ever-favored trial-by-fire method."
+    }
+  }
+}

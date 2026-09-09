@@ -1,0 +1,40 @@
+{
+  "contact_id": 399,
+  "reviewer_id": "A2RGWCT6K2C3EZ",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 43,
+  "reviews_used": 15,
+  "prompt_chars": 9903,
+  "status": "ok",
+  "seconds": 1355.05,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 3.95,
+    "E": 3.45,
+    "A": 3.65,
+    "N": 2.65,
+    "evidence_quotes": {
+      "O": "This lens has gorgeous bokeh!! just as i'd hoped.",
+      "C": "Have tested with SB700, 800, 910 speedlights on Nikon D300s, D7000, D4 bodies.",
+      "E": "When I first heard the announcement of this new lens from Tamron, I was more excited than I have been for a while over new glass!",
+      "A": "Well, i have to say--and i hate to say it--but i'm disappointed. Maybe because i read so many glowing reviews, i was expecting too much.",
+      "N": "This is one audio product that really frustrates me! On one hand, there are so many things about it that i absolutely love"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 3.95,
+    "E": 3.45,
+    "N": 2.65,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Well, i have to say--and i hate to say it--but i'm disappointed. Maybe because i read so many glowing reviews, i was expecting too much.",
+      "C": "Have tested with SB700, 800, 910 speedlights on Nikon D300s, D7000, D4 bodies.",
+      "E": "When I first heard the announcement of this new lens from Tamron, I was more excited than I have been for a while over new glass!",
+      "N": "This is one audio product that really frustrates me! On one hand, there are so many things about it that i absolutely love",
+      "O": "This lens has gorgeous bokeh!! just as i'd hoped."
+    }
+  }
+}

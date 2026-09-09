@@ -1,0 +1,40 @@
+{
+  "contact_id": 83,
+  "reviewer_id": "A3U41ZL33SS92P",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 169,
+  "reviews_used": 15,
+  "prompt_chars": 9819,
+  "status": "ok",
+  "seconds": 279.95,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.4,
+    "E": 3.1,
+    "A": 2.8,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "being able to dig in to the new features on a 2009 model camera has been a real treat.",
+      "C": "For reference, I tested both receivers using the same speakers in the same room with the same audio sources.",
+      "E": "I'm not going to lie. I've been a huge Timbuk2 fan for years. If you're already familiar with their products, don't bother reading this.",
+      "A": "Why do you hate your customers, Canon?",
+      "N": "The FM tuner is simply dismal with the included antenna, and I thought \"If they can't get FM radio right, this must be junk.\""
+    }
+  },
+  "raw": {
+    "A": 2.8,
+    "C": 4.4,
+    "E": 3.1,
+    "N": 3.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Why do you hate your customers, Canon?",
+      "C": "For reference, I tested both receivers using the same speakers in the same room with the same audio sources.",
+      "E": "I'm not going to lie. I've been a huge Timbuk2 fan for years. If you're already familiar with their products, don't bother reading this.",
+      "N": "The FM tuner is simply dismal with the included antenna, and I thought \"If they can't get FM radio right, this must be junk.\"",
+      "O": "being able to dig in to the new features on a 2009 model camera has been a real treat."
+    }
+  }
+}

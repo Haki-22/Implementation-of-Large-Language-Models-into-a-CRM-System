@@ -1,0 +1,40 @@
+{
+  "contact_id": 129,
+  "reviewer_id": "A1EKSETIBS9ETQ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 124,
+  "reviews_used": 15,
+  "prompt_chars": 9322,
+  "status": "ok",
+  "seconds": 474.84,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.95,
+    "E": 3.35,
+    "A": 2.9,
+    "N": 3.6,
+    "evidence_quotes": {
+      "O": "The quality top surface materials have what look like some vinyl and silver spray on to resemble the old Hollywood's film record/tape.",
+      "C": "I usually get around 350-400 shots depending on if I do movie mode and live view, both which drain the battery more.",
+      "E": "I shoot indoor without flash a lot. (bar, events, etc) So I need larger sensor and prime lens.",
+      "A": "You can get a 3100 battery for 26 bucks here or MSRP of 40, thanks for sticking to the D7000 user.",
+      "N": "I am furious how many Sony's CDRs I have replaced. They are the absolute worst product out there."
+    }
+  },
+  "raw": {
+    "A": 2.9,
+    "C": 3.95,
+    "E": 3.35,
+    "N": 3.6,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "You can get a 3100 battery for 26 bucks here or MSRP of 40, thanks for sticking to the D7000 user.",
+      "C": "I usually get around 350-400 shots depending on if I do movie mode and live view, both which drain the battery more.",
+      "E": "I shoot indoor without flash a lot. (bar, events, etc) So I need larger sensor and prime lens.",
+      "N": "I am furious how many Sony's CDRs I have replaced. They are the absolute worst product out there.",
+      "O": "The quality top surface materials have what look like some vinyl and silver spray on to resemble the old Hollywood's film record/tape."
+    }
+  }
+}

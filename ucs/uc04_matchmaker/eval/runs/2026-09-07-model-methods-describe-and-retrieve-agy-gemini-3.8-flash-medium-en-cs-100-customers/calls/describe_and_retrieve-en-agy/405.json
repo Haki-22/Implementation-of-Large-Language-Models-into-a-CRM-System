@@ -1,0 +1,34 @@
+{
+  "contact_id": 405,
+  "status": "ok",
+  "seconds": 21.9,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-2-methods-agy-gemini-3.8-flash-medium-en-cs-100-customers",
+  "parsed": {
+    "next_purchases": [
+      "60W Adjustable Temperature Soldering Iron Kit with Stand",
+      "Joe Knows Electronics 1/4W 86 Value 860 Piece Resistor Kit",
+      "Monoprice Cat6 RJ45 Gigabit Ethernet Patch Cable (14 Feet)"
+    ]
+  },
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "agy",
+  "model": "gemini-3.8-flash",
+  "tier": "medium",
+  "provider_cli_version": "1.1.27",
+  "prompt_version": "1.0.2",
+  "database_sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+  "prompt": "Customer C-405 (anonymised). Product titles in English.\nPurchase history (43 purchases, oldest first):\n- 2010-12-04 ★5 Generic Standard Red LED Wall/ AC/ Home Charger for Garmin Nuvi 1490T\n- 2010-12-04 ★5 Gun Metal Durable 5.2-Inch Protective GPS Carrying Case with Removable Carbineer and SumacLife TM Wisdom\n- 2010-12-04 ★4 Garmin nuvi 1490LMT 5-Inch Bluetooth Portable GPS Navigator with Lifetime Map & Traffic Updates (Discontinued by Manufac\n- 2010-12-10 ★5 Infinity Primus PC350 3 Way Dual 5.25 Center (Sold Individually)\n- 2011-01-30 ★4 WD Elements 500 GB USB 2.0 Desktop External Hard Drive\n- 2011-04-07 ★5 Panasonic DMP-BDT210 Integrated-Wi-Fi 3D Blu-ray DVD Player\n- 2011-04-16 ★5 Comfort Formation Air Cell Padded Camera Bag Shoulder Strap\n- 2011-12-28 ★1 Peerless HDS100 HD Wireless Multimedia Center - Black (Discontinued by Manufacturer)\n- 2012-01-04 ★5 brite-View Air SyncHD (BV-2322) Uncompressed 1080p Video/ Audio Wireless Transmission Kit\n- 2012-01-05 ★5 Monster MP AV600 Power Protector\n- 2012-01-05 ★4 HP 2310e 23-inch diagonal WLED backlit LCD Monitor\n- 2012-01-30 ★3 GTMax High Speed GOLD-PLATED HDMI Cable Supports 4096×2160p Resolution (50 Feet, Black/Red)\n- 2012-01-30 ★4 Sewell Direct SW-8876 Ibis - 2x1 or 1x2 HDMI Bi-Directional Switch with HDCP Passthrough\n- 2012-02-12 ★5 Ceton InfiniTV 4 PCIe - 4-channel Internal Cable TV Tuner Card for CableCARD\n- 2012-03-15 ★2 Seagate FreeAgent GoFlex Desk 1 TB USB 3.0 External Hard Drive STAC1000103\n- 2012-12-25 ★4 U32 Shadow™ 240GB External USB 3.0 Portable Solid State Hard Drive SSD\n- 2012-12-30 ★5 EVGA GeForce GTX 660Ti SUPERCLOCKED 2048MB GDDR5 DVI-I, DVI-D, HDMI, DP, SLI Graphics Card (02G-P4-3662-KR) Graphics Car\n- 2013-01-20 ★5 StarTech.com SuperSpeed USB 3.0 to SATA Hard Drive Docking Station for 2.5/3.5 HDD\n- 2013-01-21 ★1 IO Crest 3.5-Inch IDE/SATA HDD Storage Box SY-ACC35013 (Gray)\n- 2013-01-25 ★5 StarTech.com 4 Port SuperSpeed USB 3.0 PCI Express Card with SATA Power PEXUSB3S4\n- 2013-08-27 ★5 ORICO PHB35-5 5-Bay Hard Drive Carrying Case , Hard Disk Drive Protection Box (5 Bay 3.5\" HDD Carrying Case)\n- 2013-09-28 ★5 Monoprice Component & S/PDIF Digital Audio to HDMI Converter\n- 2013-09-28 ★5 DigitalsOnDemand 14-Item Accessory Bundle for New Samsung Galaxy Tab 2 (10.1-Inch, Wi-Fi)\n- 2013-09-28 ★4 100 Pcs 20mm x 20mm x 4mm Self Adhesive Cable Tie Mount Base Holders Black\n- 2013-10-05 ★5 Infinity Primus P143 Two-way 4-Inch Bookshelf/Satellite Speaker (Black, Each)\n- 2013-10-18 ★3 Panasonic VIERA TC-P60ZT60 60-Inch 600 Hz 1080p 3D Smart Plasma TV (Discontinued by Manufacturer)\n- 2013-10-23 ★5 Tripp Lite B122-000 HDMI Signal Booster Extender Repeater, 24Hz, HDMI\n- 2013-10-23 ★1 Ivation Compact Wireless Remote Control Extender Kit - Includes a Transmitter and Receiver - Simple two minute installat\n- 2013-10-25 ★5 Mediabridge ULTRA Series HDMI Cable (6 Feet) - High-Speed Supports Ethernet, 3D and Audio Return [Newest Standard]\n- 2013-10-28 ★4 PTC 15 m / 49 ft USB2.0 Active repeater / extension M/F cable - Supports High speed 480 Mbps data rate.\n- 2013-10-29 ★4 APC J25B 8-Outlet J-Type Power Conditioner with Battery Backup\n- 2013-11-23 ★5 Samsung PN51F8500 51-Inch 1080p 600Hz 3D Smart Plasma HDTV\n- 2013-12-22 ★5 Samsung Electronics 840 EVO-Series 120GB 2.5-Inch SATA III Single Unit Version Internal Solid State Drive MZ-7TE120BW\n- 2014-01-04 ★5 APC Essential SurgeArrest, 7 outlet\n- 2014-01-04 ★2 Sabrent USB2.0 to SATA Converter with Power (SATA-C35U)\n- 2014-01-18 ★5 F Type 75 Ohm Terminator - 10 Pack\n- 2014-01-18 ★3 Vivitar VPT1250 50-Inch Tripod (Black/Silver)\n- 2014-01-18 ★4 Monoprice Marker Cable Tie 4 inch 18LBS, 100pcs/Pack - White\n- 2014-01-18 ★2 PCT 4-Port RF Signal Amplifer With Active Return\n- 2014-02-06 ★1 Canon PowerShot A1400 16.0 MP Digital Camera with 5x Digital Image Stabilized Zoom 28mm Wide-Angle Lens and 720p HD Vide\n- 2014-03-09 ★5 Plugable USB 3.0 to 10/100/1000 Gigabit Ethernet LAN Network Adapter\n- 2014-03-09 ★2 Panasonic DMPBDT330 4K Upscaling 3D Wi-Fi Blu-Ray Player\n- 2014-03-22 ★5 Joe Knows Electronics 33 Value 645 Piece Capacitor Kit\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "60W Adjustable Temperature Soldering Iron Kit with Stand",
+      "Joe Knows Electronics 1/4W 86 Value 860 Piece Resistor Kit",
+      "Monoprice Cat6 RJ45 Gigabit Ethernet Patch Cable (14 Feet)"
+    ]
+  },
+  "held_out": "B001E1Y5O6"
+}

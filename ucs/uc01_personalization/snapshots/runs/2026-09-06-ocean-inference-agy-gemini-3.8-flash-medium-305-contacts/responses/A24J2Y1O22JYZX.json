@@ -1,0 +1,40 @@
+{
+  "contact_id": 397,
+  "reviewer_id": "A24J2Y1O22JYZX",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 52,
+  "reviews_used": 15,
+  "prompt_chars": 9814,
+  "status": "ok",
+  "seconds": 1349.75,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.3,
+    "E": 3.5,
+    "A": 3.65,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "a highly customizable assortment of tweakable parameters for audio and video hobbyists.",
+      "C": "8 seconds to boot, 11 seconds to load a DVD and an almost unbelievable 18 seconds to load a BD-Java Blu-ray title",
+      "E": "I cover a fair amount of electronics trade shows such as CES and CEDIA for my home theater site",
+      "A": "first check with your cable company to make sure they have done all they can to get a high quality cable",
+      "N": "the \"PC Streaming\" feature is frustratingly hard to use and unreliable to the point that I finally gave up trying to get it to work."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.3,
+    "E": 3.5,
+    "N": 2.35,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "first check with your cable company to make sure they have done all they can to get a high quality cable",
+      "C": "8 seconds to boot, 11 seconds to load a DVD and an almost unbelievable 18 seconds to load a BD-Java Blu-ray title",
+      "E": "I cover a fair amount of electronics trade shows such as CES and CEDIA for my home theater site",
+      "N": "the \"PC Streaming\" feature is frustratingly hard to use and unreliable to the point that I finally gave up trying to get it to work.",
+      "O": "a highly customizable assortment of tweakable parameters for audio and video hobbyists."
+    }
+  }
+}

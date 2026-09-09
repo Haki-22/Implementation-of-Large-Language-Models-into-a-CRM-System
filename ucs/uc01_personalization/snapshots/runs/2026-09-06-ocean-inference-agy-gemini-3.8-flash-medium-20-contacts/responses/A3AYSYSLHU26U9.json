@@ -1,0 +1,40 @@
+{
+  "contact_id": 4,
+  "reviewer_id": "A3AYSYSLHU26U9",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 231,
+  "reviews_used": 15,
+  "prompt_chars": 9536,
+  "status": "ok",
+  "seconds": 31.48,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.25,
+    "E": 3.7,
+    "A": 3.9,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "I tested this using a wide range of music types and found the following:",
+      "C": "With that in mind, I want to be able to backup my payroll files and employee folders in case of a system crash.",
+      "E": "Jabra I stand up and give you a standing ovation for the Jabra Freeway Speakerphone.",
+      "A": "sadly had to give it up to my dear husband who refused to use a headset.",
+      "N": "it just so happened I did not receive a \"keeper\"."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.25,
+    "E": 3.7,
+    "N": 2.5,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "sadly had to give it up to my dear husband who refused to use a headset.",
+      "C": "With that in mind, I want to be able to backup my payroll files and employee folders in case of a system crash.",
+      "E": "Jabra I stand up and give you a standing ovation for the Jabra Freeway Speakerphone.",
+      "N": "it just so happened I did not receive a \"keeper\".",
+      "O": "I tested this using a wide range of music types and found the following:"
+    }
+  }
+}

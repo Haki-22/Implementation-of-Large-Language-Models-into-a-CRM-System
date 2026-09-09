@@ -1,0 +1,60 @@
+{
+  "kind": "aspects",
+  "key": "46",
+  "status": "ok",
+  "seconds": 18.13,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "Skvělá kvalita zvuku a funguje tak, jak je inzerováno, ale není to Bluetooth přijímač"
+      },
+      {
+        "aspect": "Přenosnost",
+        "sentiment": "positive",
+        "evidence": "Je poměrně malé a lehké a nemá vestavěnou dobíjecí baterii."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Nevýhodou je, že je trochu složitější odpojit se od běžné WiFi sítě a připojit se k WiFi síti zařízení"
+      },
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "mixed",
+        "evidence": "Bohužel, když jsem otevřel horní část, čtečka karet se začala rozpadat v místě, kde se setkává horní a spodní plastový díl pouzdra."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-46 (anonymizován).\nRecenze (204, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\n[Apple Certified] NOOT® MFI 1.8M/6ft 8-Pin Lightning Cable (6 Feet) iOS7.1.2 + Charger Adapter Designed and Made to Sync - Extended Long Length USB Type A to Data Sync Cable Cord for iPhone 5S / 5C / 5, iPad Air / Mini / Mini2 / iPad 4th Generation (Retina Display), iPod Touch 5th Generation, iPod 5th Generation, and iPod Nano 7th Generation [2 Years Warranty - Apple Offical Licensed Brand]: Funguje skvěle, úzký konec zástrčky by měl fungovat s většinou/všechny pouzdry S tímto kabelem jsem neměl žádné problémy, dle obalu je „výrobcem certifikován pro splnění výkonnostních standardů společnosti Apple“. Funguje skvěle s mým iPadem mini s iOS 7.1.2. Výhodou tohoto kabelu jsou úzké konce, které by měly dobře fungovat i při použití pouzder, která by jinak mohla blokovat zástrčku. Jiné kabely, které jsem vyzkoušel, mají větší objem/šířku, což by mohlo bránit v připojení. Dvouletá záruka je také dalším příjemným plusem. Další kabely Lightning, které jsem vyzkoušel a které doporučuji:* 7palcový kabel: krátký USB kabel dCables MFi Certified* 3 stopový kabel: [certifikováno Apple MFi] kabel Anker Lightning na USB 3 stopy / 0,9 m* 6 stopový kabel: [certifikováno Apple MFI] AYL 8pinový kabel Lightning na USB (6 stop / 1,8 metru)* 9,8 stop (3 metry): [certifikováno Apple] Elka 8pinový kabel Lightning na USB (10 stop / 3 metry) Pokud se s tímto kabelem vyskytnou nějaké problémy, aktualizuji tuto recenzi.POZNÁMKA: Byl mi zaslán bezplatný vzorek produktu k recenzi.\nPřenosný dobíjecí bezdrátový Bluetooth reproduktor Joyiqi na kolo, cyklistický reproduktor s MP3 přehrávačem a micro SD kartou a AUX vstupy, se 4 vyměnitelnými barevnými skiny a držákem na kolo, pro chytrý telefon a tablet: Toto je pěkný specializovaný Bluetooth pro aplikace jako je cyklistika Toto je pěkné specializované Bluetooth zařízení pro aplikace, jako je cyklistika. Můžete ho také připevnit k jiným věcem, jako jsou židle, stromy, tyče, stojany atd.Výhody:* Dobrý zvuk a hlasitost vzhledem k velikosti* 3,5mm vstupní jack (s krátkým kabelem v balení)* Slot pro kartu microSD (a může sloužit jako čtečka karet)* Vícebarevné obaly a montážní popruhy na výběr (červená (nainstalováno), černá, modrá a zelená)* Pěkné hlasové pokyny (například „Bluetooth povoleno“ a „připojeno“)Nevýhody:* Anglický návod byl vytištěn velmi malým písmem a nebyl v dobré kvalitě (a proto se špatně četl)* Není voděodolný - mohl by to být problém při jízdě na kole nebo používání pro venkovní aktivity* Ovládání hlasitosti by mohlo být lepší (někdy se zdá pomalé a/nebo nereaguje)* Chybí mikrofonDalší* Očekával jsem micro USB port pro nabíjení, ale toto zařízení používá mini USB portCelkově dobré zařízení, ale za nevýhody ubírám 1 hvězdičku.POZNÁMKA: Byl mi zaslán bezplatný vzorek produktu k recenzi.\nLogitech 982-000072 UE 4000 Headphones - Black (Discontinued by Manufacturer): Pěkná sluchátka Za cenu, kterou jsem zaplatil (mnohem méně než doporučená maloobchodní cena), a za kvalitu těchto sluchátek musím dát těmto sluchátkům 5 hvězdiček. Velmi pěkně zabalené s kvalitním sametovým cestovním pouzdrem. Ovládání hlasitosti na kabelu a vestavěný mikrofon jsou opravdu příjemným bonusem... a stejně tak i přiložený rozbočovač sluchátek, takže dva lidé mohou snadno poslouchat (sdílet) jeden zdroj. Jedinou nevýhodou za tuto cenu by pravděpodobně bylo, kdyby se vám nelíbilo, jak vám jdou přes uši.\nSabrent USB 3.0 SuperSpeed 3 slot Memory Card Reader with Card Storage Box for Windows, Mac and Linux - Supports SD , SDHC , MMC / MicroSD / CF, and more (CR-CCU3): Dobrá přenosná a kompaktní čtečka karet Toto je velmi pěkná, lehká a snadno přenosná čtečka karet s rychlostí USB 3.0. Moc se mi líbí, že po odklopení horní části se do ní vejde jedna karta od každé: CF karta, SD/MMC karta a microSD karta. Má také krátký USB kabel, který lze pohodlně uložit do spodní části pouzdra. Bohužel, když jsem otevřel horní část, čtečka karet se začala rozpadat v místě, kde se setkává horní a spodní plastový díl pouzdra. Možná jsem dostal \"vadu\", ale odečítám 2 hvězdičky za potenciálně nedostatečnou kvalitu zpracování. Naštěstí se mi to podařilo opravit pomocí cementu na plast, který jsem už měl. AKTUALIZACE 2014-07-07: Sabrent mi poslal další kus a tento neměl výše uvedený problém, takže zvyšuji své hodnocení na 5 hvězdiček, a to vzhledem k tomu, že první kus byl jen vadný (to se čas od času stává). Pokud dostanete vadný kus, Sabrent by ho měl vyměnit. POZNÁMKA: Dostal jsem bezplatný vzorek produktu k recenzi.\nSabrent Wifi Audio Receiver (Supports DLNA and AirPlay) for Home Stereo, Portable Speakers (WF-RADU): Skvělá kvalita zvuku a funguje tak, jak je inzerováno, ale není to Bluetooth přijímač Toto je zajímavé zařízení v tom, že funguje jako Bluetooth přijímač pro přehrávání zvuku, ale místo toho používá WiFi, DLNA a AirPlay. Napájíte ho přes USB zdroj napájení (jako je powerbanka, USB port počítače nebo USB nabíječka) a vytvoří bezdrátovou WiFi síť, ke které pak připojíte své zařízení. Poté do něj můžete odesílat zvuk přes DLNA nebo AirPlay. Je poměrně malé a lehké a nemá vestavěnou dobíjecí baterii. Napájecí kabel USB na zařízení je jen něco málo přes 3 palce a když není zapojen do napájení, lze kabel nechat zapojený do portu na samotném přijímači, což je praktické pro skladování a když se nepoužívá. Velkou „výhodou“ je, že kvalita je lepší, protože není komprimovaná jako Bluetooth. Zní skvěle s mými profesionálními sluchátky Sony (stejný konektor, do kterého zapojuji sluchátka, je také 3,5mm linkový výstup). Nevýhodou je, že je trochu složitější odpojit se od běžné WiFi sítě a připojit se k WiFi síti zařízení (což chvíli trvalo, než se na mém iPadu mini objevilo)... a když to uděláte, ztratíte WiFi připojení k internetu (ale viz AKTUALIZACE níže), takže nebudete moci streamovat z internetu, pokud se na to spoléháte pouze na WiFi. Takže zařízení splňuje své požadavky a kvalita je působivá, stejně jako velikost a přenosnost zařízení. Pokud vám WiFi připojení funguje dobře, myslím, že budete se zařízením docela spokojeni. Pokud nepotřebujete nejlepší kvalitu zvuku, možná byste byli vhodnější s jednodušším Bluetooth přijímačem (doporučil bych ten s aptX). Mimochodem, na zařízení jsou dvě malé LED diody - modrá s označením „Audio“ a červená s označením „WiFi“. AKTUALIZACE 2014-07-09: Zjistil jsem, že toto zařízení můžete připojit k internetu připojením k jeho vlastní WiFi síti a poté pomocí prohlížeče přejděte na IP adresu na spodní straně zařízení (moje byla 192.168.168.1) a připojte se k bezdrátové síti. Po připojení k WiFi síti Sabrentu budete mít přístup k internetu. AirPlay bohužel zřejmě nefunguje na WiFi síti připojené k internetu - stále se musíte připojit k vlastní WiFi síti Sabrentu... ale přijímač si síť pamatuje, pokud jej odpojíte a znovu zapojíte. POZNÁMKA: Byl mi zaslán bezplatný vzorek produktu k recenzi.\nPřenosný 4portový USB 2.0 Hub Sabrent (kabel 9,5\") pro Ultra Book, MacBook Air, tablet s Windows 8 (HB-MCRM): Skvělý na to, co to je - velmi přenosný USB 2.0 hub Skvělý hub na přenášení, pokud nepotřebujete USB 3.0, postačí vám 4portový hub. Byl jsem ohromen tím, jak je tento hub malý a lehký. Je jednoduchý a prostě funguje. Je to jen základní hub, nemá ani žádné LED diody. Protože nemá externí napájecí konektor, nebudete chtít zapojovat spoustu zařízení s vysokým příkonem... ale pro zařízení s nízkým příkonem USB, jako jsou myši a klávesnice, funguje skvěle. Toto zařízení bych doporučil, když je přenosnost prioritou, USB 3.0 není potřeba a nebudete zapojovat zařízení s „vysokým příkonem“. POZNÁMKA: Byl mi zaslán bezplatný vzorek produktu k recenzi.\nNabíjecí adaptér Sabrent USB Turbo pro Apple iPhone, iPad, Android a další zařízení [Simuluje 1A nabíječku na napájeném USB portu] (HB-SFST): Promění jakýkoli USB port v nabíjecí port Skvělé zařízení... tohle dělá 2 hlavní věci:* Z libovolného (můžou existovat NĚKTERÉ výjimky) USB portu udělá nabíjecí port pro nabíjení telefonu nebo tabletu, i když to dříve nefungovalo* Zabraňuje synchronizaci dat s p\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zvuku",
+        "sentiment": "positive",
+        "evidence": "Skvělá kvalita zvuku a funguje tak, jak je inzerováno, ale není to Bluetooth přijímač"
+      },
+      {
+        "aspect": "Přenosnost",
+        "sentiment": "positive",
+        "evidence": "Je poměrně malé a lehké a nemá vestavěnou dobíjecí baterii."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Nevýhodou je, že je trochu složitější odpojit se od běžné WiFi sítě a připojit se k WiFi síti zařízení"
+      },
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "mixed",
+        "evidence": "Bohužel, když jsem otevřel horní část, čtečka karet se začala rozpadat v místě, kde se setkává horní a spodní plastový díl pouzdra."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 236,
+  "reviewer_id": "A2F7CSE6KT7NI4",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9870,
+  "status": "ok",
+  "seconds": 193.91,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.15,
+    "A": 3.8,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "I have been waiting a long time for these ValleyView (aka Bay Trail-D) motherboards to come out.",
+      "C": "Finally, I ran SeaTools, booted from a DOS CD, and it failed",
+      "E": "Both my media PCs use this keyboard and so do the media PCs I've built for others.",
+      "A": "I purchased the Flip as early Christmas present for my wife.. My goal was to get something we could take videos of the kids with",
+      "N": "Knock on wood, but after many, many year of building system for myself and customers, this is my first DOA. I know they happen but I was still surprised."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.35,
+    "E": 3.15,
+    "N": 2.4,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I purchased the Flip as early Christmas present for my wife.. My goal was to get something we could take videos of the kids with",
+      "C": "Finally, I ran SeaTools, booted from a DOS CD, and it failed",
+      "E": "Both my media PCs use this keyboard and so do the media PCs I've built for others.",
+      "N": "Knock on wood, but after many, many year of building system for myself and customers, this is my first DOA. I know they happen but I was still surprised.",
+      "O": "I have been waiting a long time for these ValleyView (aka Bay Trail-D) motherboards to come out."
+    }
+  }
+}

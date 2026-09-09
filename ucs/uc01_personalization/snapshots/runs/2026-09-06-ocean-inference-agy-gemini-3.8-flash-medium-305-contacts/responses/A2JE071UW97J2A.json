@@ -1,0 +1,40 @@
+{
+  "contact_id": 239,
+  "reviewer_id": "A2JE071UW97J2A",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9791,
+  "status": "ok",
+  "seconds": 882.14,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.25,
+    "A": 4.05,
+    "N": 2.65,
+    "evidence_quotes": {
+      "O": "When I have the opportunity, I take photos through glass, such as at an aquarium or through the window of an observation tower.",
+      "C": "I used this hood when taking 1500 photos with my Canon 55-250 lens and there was no sign that it affected the photo in any way.",
+      "E": "I bought this lens specifically because I had an opportunity to attend my first boxing event and needed a fast, low-light lens.",
+      "A": "I have just erased a review very critical of the batteries because of new information that indicates it may have been unfair.",
+      "N": "Today I was trying to photgraph a waterfall and was frustrated by a shadow in the center because sun not exactly as I would have liked."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.25,
+    "E": 3.25,
+    "N": 2.65,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I have just erased a review very critical of the batteries because of new information that indicates it may have been unfair.",
+      "C": "I used this hood when taking 1500 photos with my Canon 55-250 lens and there was no sign that it affected the photo in any way.",
+      "E": "I bought this lens specifically because I had an opportunity to attend my first boxing event and needed a fast, low-light lens.",
+      "N": "Today I was trying to photgraph a waterfall and was frustrated by a shadow in the center because sun not exactly as I would have liked.",
+      "O": "When I have the opportunity, I take photos through glass, such as at an aquarium or through the window of an observation tower."
+    }
+  }
+}

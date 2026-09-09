@@ -1,0 +1,40 @@
+{
+  "contact_id": 271,
+  "reviewer_id": "A19X4BF861LQST",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 87,
+  "reviews_used": 15,
+  "prompt_chars": 9120,
+  "status": "ok",
+  "seconds": 1013.18,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 2.85,
+    "A": 3.05,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "I did tremendous amounts of research to figure out if it was actually worth upgrading from my D40, then ordered it the day it became available on Amazon.",
+      "C": "The first thing I checked when I got it was to see if the keys \"stuck\" if they were pressed at a slight angle.",
+      "E": "Since this machine is primarily used for web surfing, gaming, and photo editing, this CPU simply runs circles around anything I throw at it.",
+      "A": "Dynamic ratios are like digital zoom to me; a selling point to the ignorant.",
+      "N": "Needless to say, I'm not entirely thrilled with this buttonless system, even when it's working as it should."
+    }
+  },
+  "raw": {
+    "A": 3.05,
+    "C": 4.2,
+    "E": 2.85,
+    "N": 3.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Dynamic ratios are like digital zoom to me; a selling point to the ignorant.",
+      "C": "The first thing I checked when I got it was to see if the keys \"stuck\" if they were pressed at a slight angle.",
+      "E": "Since this machine is primarily used for web surfing, gaming, and photo editing, this CPU simply runs circles around anything I throw at it.",
+      "N": "Needless to say, I'm not entirely thrilled with this buttonless system, even when it's working as it should.",
+      "O": "I did tremendous amounts of research to figure out if it was actually worth upgrading from my D40, then ordered it the day it became available on Amazon."
+    }
+  }
+}

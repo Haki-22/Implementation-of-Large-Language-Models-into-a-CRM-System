@@ -1,0 +1,40 @@
+{
+  "contact_id": 241,
+  "reviewer_id": "AHQRU3MRORIWQ",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 98,
+  "reviews_used": 15,
+  "prompt_chars": 9200,
+  "status": "ok",
+  "seconds": 187.75,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.35,
+    "E": 3.65,
+    "A": 4.05,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I have tried them with various kinds of music on various equalization setting and they produce good bass while keeping the highs clear and sharp.",
+      "C": "The set up went fine -- follow the instructions, just don't plug and pray...After set up, the device works well",
+      "E": "The first movie I watched on it was 'How to Train Your Dragon' and it was incredible...Then, I put in 'Sherlock Homles' and it was friggin awesome!",
+      "A": "I got a system so my wife could listen to the TV while watching in bed and not have the sound disturb others.",
+      "N": "the internet connection seems daunting at first, but it can be accomplished without driving you crazy."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.35,
+    "E": 3.65,
+    "N": 2.1,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "I got a system so my wife could listen to the TV while watching in bed and not have the sound disturb others.",
+      "C": "The set up went fine -- follow the instructions, just don't plug and pray...After set up, the device works well",
+      "E": "The first movie I watched on it was 'How to Train Your Dragon' and it was incredible...Then, I put in 'Sherlock Homles' and it was friggin awesome!",
+      "N": "the internet connection seems daunting at first, but it can be accomplished without driving you crazy.",
+      "O": "I have tried them with various kinds of music on various equalization setting and they produce good bass while keeping the highs clear and sharp."
+    }
+  }
+}

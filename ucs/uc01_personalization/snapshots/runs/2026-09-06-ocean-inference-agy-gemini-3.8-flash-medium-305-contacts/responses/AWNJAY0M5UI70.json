@@ -1,0 +1,40 @@
+{
+  "contact_id": 229,
+  "reviewer_id": "AWNJAY0M5UI70",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 3494,
+  "status": "ok",
+  "seconds": 845.91,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.1,
+    "E": 3.85,
+    "A": 4.15,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "we use it with both Linux CentOS 5.8 64bit (with EXT3) and Windows 7, 8 and server 2008 64bit (ntfs)",
+      "C": "we need to make sure we don't damage MotherBoard or computer parts while we work on electronics",
+      "E": "So far I bought about 10 of these... either as gifts or recommended to friends and/or coworker...",
+      "A": "I got this TV for my sister last Thanksgiving, she really liked it",
+      "N": "I'm disappointed with this, photos are completely for a different item, so disappointed!"
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.1,
+    "E": 3.85,
+    "N": 2.6,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "I got this TV for my sister last Thanksgiving, she really liked it",
+      "C": "we need to make sure we don't damage MotherBoard or computer parts while we work on electronics",
+      "E": "So far I bought about 10 of these... either as gifts or recommended to friends and/or coworker...",
+      "N": "I'm disappointed with this, photos are completely for a different item, so disappointed!",
+      "O": "we use it with both Linux CentOS 5.8 64bit (with EXT3) and Windows 7, 8 and server 2008 64bit (ntfs)"
+    }
+  }
+}

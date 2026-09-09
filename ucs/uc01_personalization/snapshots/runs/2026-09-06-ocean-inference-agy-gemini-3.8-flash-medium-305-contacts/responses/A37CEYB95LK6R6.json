@@ -1,0 +1,40 @@
+{
+  "contact_id": 227,
+  "reviewer_id": "A37CEYB95LK6R6",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 8570,
+  "status": "ok",
+  "seconds": 845.76,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I take fantastic photos and have blown them with great results.",
+      "C": "If this card holds up it is the best value out of the last 6 different brand cards I have tested over the last week.",
+      "E": "I love this lens! For me its the best walk around lens I have ever had.",
+      "A": "I will round to 5 to counter act the 3 reviews that are not applicable to the quality of the TV.",
+      "N": "Now normally no big deal but for 2 days this never happened"
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I will round to 5 to counter act the 3 reviews that are not applicable to the quality of the TV.",
+      "C": "If this card holds up it is the best value out of the last 6 different brand cards I have tested over the last week.",
+      "E": "I love this lens! For me its the best walk around lens I have ever had.",
+      "N": "Now normally no big deal but for 2 days this never happened",
+      "O": "I take fantastic photos and have blown them with great results."
+    }
+  }
+}

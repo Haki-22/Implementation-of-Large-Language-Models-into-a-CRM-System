@@ -1,0 +1,40 @@
+{
+  "contact_id": 201,
+  "reviewer_id": "A19XMHRB3G4DIR",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 9092,
+  "status": "ok",
+  "seconds": 741.09,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 3.95,
+    "E": 3.1,
+    "A": 3.6,
+    "N": 3.0,
+    "evidence_quotes": {
+      "O": "Since macro photography has always been a major interest for me and I'm wanting to get the biggest \"bang for the buck\"",
+      "C": "After doing some research, the Tamron 90 mm f/2.8 with Macro had some impressive reviews esp for other camera brands.",
+      "E": "I'm the person behind the camera at all the parties and occassionally get the exceptional shot worthy of a few \"oooh and ahhhs\".",
+      "A": "There was a problem with the stand which originally took some time to sort through but they made it right.",
+      "N": "some feel much more secure than others and at times, we have hesitated to take long hikes or leave the camp site for extended periods of time."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 3.95,
+    "E": 3.1,
+    "N": 3,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "There was a problem with the stand which originally took some time to sort through but they made it right.",
+      "C": "After doing some research, the Tamron 90 mm f/2.8 with Macro had some impressive reviews esp for other camera brands.",
+      "E": "I'm the person behind the camera at all the parties and occassionally get the exceptional shot worthy of a few \"oooh and ahhhs\".",
+      "N": "some feel much more secure than others and at times, we have hesitated to take long hikes or leave the camp site for extended periods of time.",
+      "O": "Since macro photography has always been a major interest for me and I'm wanting to get the biggest \"bang for the buck\""
+    }
+  }
+}

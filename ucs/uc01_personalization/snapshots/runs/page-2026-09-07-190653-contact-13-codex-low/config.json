@@ -1,0 +1,115 @@
+{
+  "run_id": "page-2026-09-07-190653-contact-13-codex-low",
+  "created": "2026-09-07T17:07:55+00:00",
+  "pick": "uc01-personalization-20-level",
+  "contacts": [
+    13
+  ],
+  "briefs": [
+    1,
+    10,
+    26
+  ],
+  "briefs_by_level": {
+    "0": [
+      1,
+      26,
+      10
+    ],
+    "1": [
+      1,
+      26,
+      10
+    ],
+    "2": [
+      1,
+      26,
+      10
+    ],
+    "3a": [
+      1
+    ],
+    "3b": [
+      26
+    ],
+    "3c": [
+      26
+    ],
+    "3d": [
+      1
+    ],
+    "3": [
+      1,
+      26,
+      10
+    ],
+    "4": [
+      26
+    ],
+    "5": [
+      1,
+      26,
+      10
+    ],
+    "6a": [
+      26
+    ],
+    "6b": [
+      26
+    ],
+    "6c": [
+      10
+    ],
+    "6d": [
+      26
+    ],
+    "6": [
+      1,
+      26,
+      10
+    ]
+  },
+  "levels": [
+    "0",
+    "1",
+    "2",
+    "3a",
+    "3b",
+    "3c",
+    "3d",
+    "3",
+    "4",
+    "5",
+    "6a",
+    "6b",
+    "6c",
+    "6d",
+    "6"
+  ],
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "requested": {
+    "model": "gpt-5.6-luna",
+    "tier": "low"
+  },
+  "judges": [
+    "rules"
+  ],
+  "prompt_version": "2.4.1",
+  "llm_calls": {
+    "enabled": true,
+    "source": "env"
+  },
+  "database": {
+    "path": "substrate/snapshots/substrate.db",
+    "sha256": "70dd24d85a120d14dc1315131efffa5420522652a5cbc6206e20e7e7d3b2cd82"
+  },
+  "reuse": [
+    "2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all"
+  ],
+  "reused": 0,
+  "concurrency": 4,
+  "seconds": 61.5,
+  "messages": 27
+}

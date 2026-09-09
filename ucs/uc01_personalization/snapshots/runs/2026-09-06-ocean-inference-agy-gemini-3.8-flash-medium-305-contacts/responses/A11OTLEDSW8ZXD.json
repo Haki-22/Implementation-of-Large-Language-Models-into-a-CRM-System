@@ -1,0 +1,40 @@
+{
+  "contact_id": 66,
+  "reviewer_id": "A11OTLEDSW8ZXD",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 85,
+  "reviews_used": 15,
+  "prompt_chars": 9722,
+  "status": "ok",
+  "seconds": 209.81,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.3,
+    "A": 3.65,
+    "N": 2.9,
+    "evidence_quotes": {
+      "O": "I had been wanting to try Nikon to have an educated review of Canon's biggest rival, Nikon.",
+      "C": "I clocked the download of 350 photos at just under 2:50 minutes which was faster than the Transcend.",
+      "E": "I bought this for my Canon because I take my cameras with me hiking, walking through cities and for everyday photo shoots.",
+      "A": "Oh, I hate writing this review as I so want to like this little recorder.",
+      "N": "But one thing does annoy me and it's the short life of its battery. I needed three batteries while walking around Chicago yesterday taking 600 photos. This is unacceptable!"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.25,
+    "E": 3.3,
+    "N": 2.9,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Oh, I hate writing this review as I so want to like this little recorder.",
+      "C": "I clocked the download of 350 photos at just under 2:50 minutes which was faster than the Transcend.",
+      "E": "I bought this for my Canon because I take my cameras with me hiking, walking through cities and for everyday photo shoots.",
+      "N": "But one thing does annoy me and it's the short life of its battery. I needed three batteries while walking around Chicago yesterday taking 600 photos. This is unacceptable!",
+      "O": "I had been wanting to try Nikon to have an educated review of Canon's biggest rival, Nikon."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 379,
+  "reviewer_id": "A1OZA52DFY3SHD",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 45,
+  "reviews_used": 15,
+  "prompt_chars": 9931,
+  "status": "ok",
+  "seconds": 1264.71,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.45,
+    "E": 2.7,
+    "A": 3.8,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "The Garmin nuvi 295W is loaded with all kinds of interesting features.",
+      "C": "I will point out the differences in the GA7900 below so you can compare and contrast the two units while you're shopping.",
+      "E": "it's vital to have a pair of headphones to drown out the chatter and the ever-so-annoying cubemate speaker phone conference call.",
+      "A": "The Seagate FA Replica 500GB Multi-PC backup system is the perfect system for non-techie types, or for folks who like to \"set it and forget it.\"",
+      "N": "The Lorex LW2201 Weatherproof Ultra Wireless Surveillance System works as well as advertised. I only have a few minor gripes about the system."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.45,
+    "E": 2.7,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "The Seagate FA Replica 500GB Multi-PC backup system is the perfect system for non-techie types, or for folks who like to \"set it and forget it.\"",
+      "C": "I will point out the differences in the GA7900 below so you can compare and contrast the two units while you're shopping.",
+      "E": "it's vital to have a pair of headphones to drown out the chatter and the ever-so-annoying cubemate speaker phone conference call.",
+      "N": "The Lorex LW2201 Weatherproof Ultra Wireless Surveillance System works as well as advertised. I only have a few minor gripes about the system.",
+      "O": "The Garmin nuvi 295W is loaded with all kinds of interesting features."
+    }
+  }
+}

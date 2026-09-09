@@ -1,0 +1,40 @@
+{
+  "contact_id": 286,
+  "reviewer_id": "A195EZSQDW3E21",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 9434,
+  "status": "ok",
+  "seconds": 1068.41,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.3,
+    "A": 3.2,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "The included 18-55 zoom feels mechanically solid for a kit lens, and it's also fairly sharp corner to corner. There's very little geometric distortion or chromatic aberration.",
+      "C": "A card slot accepts a Sony memory stick which can be used either to extend shooting time or as a backup to the internal memory.",
+      "E": "This little device serves many uses, from secretly recording live conversations to recording the fun at a party.",
+      "A": "This is misleading and deceptive advertising, and Samsung should remove any reference to \"optical zoom\" from this camcorder, especially since it's printed on the front of the camcorder.",
+      "N": "I have to keep reminding myself this camera is only 200 dollars. The video quality it produces is well beyond what I expected in a 200 dollar camcorder."
+    }
+  },
+  "raw": {
+    "A": 3.2,
+    "C": 4.25,
+    "E": 3.3,
+    "N": 2.6,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "This is misleading and deceptive advertising, and Samsung should remove any reference to \"optical zoom\" from this camcorder, especially since it's printed on the front of the camcorder.",
+      "C": "A card slot accepts a Sony memory stick which can be used either to extend shooting time or as a backup to the internal memory.",
+      "E": "This little device serves many uses, from secretly recording live conversations to recording the fun at a party.",
+      "N": "I have to keep reminding myself this camera is only 200 dollars. The video quality it produces is well beyond what I expected in a 200 dollar camcorder.",
+      "O": "The included 18-55 zoom feels mechanically solid for a kit lens, and it's also fairly sharp corner to corner. There's very little geometric distortion or chromatic aberration."
+    }
+  }
+}

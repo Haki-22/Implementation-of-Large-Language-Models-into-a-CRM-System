@@ -1,0 +1,40 @@
+{
+  "contact_id": 244,
+  "reviewer_id": "AR3EVUQF0AC7R",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 97,
+  "reviews_used": 15,
+  "prompt_chars": 9300,
+  "status": "ok",
+  "seconds": 897.87,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.9,
+    "E": 3.1,
+    "A": 3.85,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "I like to compare this finish to a beautiful grand piano with its deep black with a touch of glossiness; this pair resembles the same feel.",
+      "C": "Prior to proceeding cloning, I partitioned this new SSD in DiskUtility so my Mac could recognize it.",
+      "E": "I have been using this card on my D800 for about a month shooting sporting events and video",
+      "A": "It was nice to see him getting interested in this kind of activity, and I was glad that he had fun building it by himself.",
+      "N": "That was very annoying and a waste of electricity."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 3.9,
+    "E": 3.1,
+    "N": 2.45,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "It was nice to see him getting interested in this kind of activity, and I was glad that he had fun building it by himself.",
+      "C": "Prior to proceeding cloning, I partitioned this new SSD in DiskUtility so my Mac could recognize it.",
+      "E": "I have been using this card on my D800 for about a month shooting sporting events and video",
+      "N": "That was very annoying and a waste of electricity.",
+      "O": "I like to compare this finish to a beautiful grand piano with its deep black with a touch of glossiness; this pair resembles the same feel."
+    }
+  }
+}

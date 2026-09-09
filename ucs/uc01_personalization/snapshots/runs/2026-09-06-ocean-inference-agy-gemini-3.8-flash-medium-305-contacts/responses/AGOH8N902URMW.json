@@ -1,0 +1,40 @@
+{
+  "contact_id": 139,
+  "reviewer_id": "AGOH8N902URMW",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 119,
+  "reviews_used": 15,
+  "prompt_chars": 8579,
+  "status": "ok",
+  "seconds": 517.16,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.15,
+    "E": 3.3,
+    "A": 2.75,
+    "N": 3.05,
+    "evidence_quotes": {
+      "O": "All have looked strange but the D300 the rendition is saturated and stunning - even the skin tones are pleasing.",
+      "C": "I put in my Shure V15xMR in the arm tracking at 1g. Perfect tracking - super low rumble and no hum at all",
+      "E": "The camera is beautifully made and is a joy to use.",
+      "A": "I gave it a 1 star because Nikon did not do their best buy took shortcuts.",
+      "N": "They have no solution nor is it addressed in their forums - hard to believe."
+    }
+  },
+  "raw": {
+    "A": 2.75,
+    "C": 4.15,
+    "E": 3.3,
+    "N": 3.05,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "I gave it a 1 star because Nikon did not do their best buy took shortcuts.",
+      "C": "I put in my Shure V15xMR in the arm tracking at 1g. Perfect tracking - super low rumble and no hum at all",
+      "E": "The camera is beautifully made and is a joy to use.",
+      "N": "They have no solution nor is it addressed in their forums - hard to believe.",
+      "O": "All have looked strange but the D300 the rendition is saturated and stunning - even the skin tones are pleasing."
+    }
+  }
+}

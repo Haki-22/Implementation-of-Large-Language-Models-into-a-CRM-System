@@ -1,0 +1,40 @@
+{
+  "contact_id": 204,
+  "reviewer_id": "A3BVN2QBNPBHCR",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 103,
+  "reviews_used": 15,
+  "prompt_chars": 9975,
+  "status": "ok",
+  "seconds": 149.35,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.45,
+    "E": 3.7,
+    "A": 3.85,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "So when I want to make my photos uniquely different I play with the dozens of different macros that Corel has.",
+      "C": "I have shot over 1,300 virtual tours. I have tried numerous panoramic heads, including Bogen, Kaiden, and custom fabricated models.",
+      "E": "I like to do inversions during my workouts and I jump around a lot.",
+      "A": "I've also owned and gave away another 2 externals drives and 4 internal drives.",
+      "N": "Everyone can repair a bad history, but I can't seem to forget Seagate's reputation."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.45,
+    "E": 3.7,
+    "N": 2.35,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I've also owned and gave away another 2 externals drives and 4 internal drives.",
+      "C": "I have shot over 1,300 virtual tours. I have tried numerous panoramic heads, including Bogen, Kaiden, and custom fabricated models.",
+      "E": "I like to do inversions during my workouts and I jump around a lot.",
+      "N": "Everyone can repair a bad history, but I can't seem to forget Seagate's reputation.",
+      "O": "So when I want to make my photos uniquely different I play with the dozens of different macros that Corel has."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 31,
+  "reviewer_id": "A1IU7S4HCK1XK0",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 122,
+  "reviews_used": 15,
+  "prompt_chars": 9944,
+  "status": "ok",
+  "seconds": 91.28,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.65,
+    "A": 3.95,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "Normally, I do film photography and if I want digital pictures, I scan in the negative.",
+      "C": "Important to me, the Zire 72 has Palm's suite of information management applications and the ability to edit Word- and Excel-compatible files and synchronize with Microsoft Outlook",
+      "E": "cute things your dog is doing or pictures of your friends sleeping off a deep drunk after a party. Loads of fun, many possibilities.",
+      "A": "We ordered a SILVER Fuze but one of us wanted black, instead. Well, PRESTO-CHANGE-O, he now HAS black!",
+      "N": "We live in an area that does get some severe weather--it's not Oklahoma, but one morning early, I was awoken by the distinctive sound of a tornado"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.2,
+    "E": 3.65,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "We ordered a SILVER Fuze but one of us wanted black, instead. Well, PRESTO-CHANGE-O, he now HAS black!",
+      "C": "Important to me, the Zire 72 has Palm's suite of information management applications and the ability to edit Word- and Excel-compatible files and synchronize with Microsoft Outlook",
+      "E": "cute things your dog is doing or pictures of your friends sleeping off a deep drunk after a party. Loads of fun, many possibilities.",
+      "N": "We live in an area that does get some severe weather--it's not Oklahoma, but one morning early, I was awoken by the distinctive sound of a tornado",
+      "O": "Normally, I do film photography and if I want digital pictures, I scan in the negative."
+    }
+  }
+}

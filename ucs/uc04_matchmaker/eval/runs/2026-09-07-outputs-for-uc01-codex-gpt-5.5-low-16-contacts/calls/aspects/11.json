@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "11",
+  "status": "ok",
+  "seconds": 11.42,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "snadnost nastavení",
+        "sentiment": "positive",
+        "evidence": "Instalace byla velmi jednoduchá, stačí vyjmout anténu z routeru, připojit dodaný kabel k routeru a k tomuto zařízení, připojit anténu a zapojit napájení."
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "positive",
+        "evidence": "Wi-Fi; Konfigurace byla snadná a výkon vynikající; Aplikace; Jelikož se jedná o zařízení se systémem Android, vyžaduje to používání aplikací, kterých je dostatek a snadno se instalují; HDMI; Vynikající rozlišení obrazovky a čistota obrazu přes HDMI připojení; Nevýhody - Dálkový ovladač; Navigace pom"
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Je velmi dobře použitelný pro běžné použití a je nepravděpodobné, že bych je v dohledné době vyměnil, protože se jedná o cenově dostupné řešení."
+      },
+      {
+        "aspect": "ochrana",
+        "sentiment": "positive",
+        "evidence": "Toto pouzdro Incipio Hive Response Standing Case pro Kindle Fire HDX 7\" dobře padne a poskytuje slušnou ochranu pro Kindle."
+      },
+      {
+        "aspect": "ovládání",
+        "sentiment": "mixed",
+        "evidence": "Dálkový ovladač; Navigace pomocí dodaného dálkového ovladače byla trochu těžkopádná, proto jsem připojil malou bezdrátovou klávesnici/myš, což výrazně zlepšilo zážitek."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-11 (anonymizován).\nRecenze (407, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nReproduktor pro obousměrné rádio Pofung BF-S112: Dobrá celková kvalita - Doporučeno Tyto originální univerzální ruční reproduktory s mikrofonem BAOFENG UV-5R pro dvoupásmové rádio jsou docela slušné kvality a fungují dle očekávání. Pořídil jsem si je pro použití s našimi rádii BAOFENG UV-5R a jsem s celkovým výkonem celkově spokojený. Mikrofon je docela dobrý, ale reproduktor je trochu slabý. Je velmi dobře použitelný pro běžné použití a je nepravděpodobné, že bych je v dohledné době vyměnil, protože se jedná o cenově dostupné řešení. Doporučuji!CFH\n2W 2,4 GHz Wifi bezdrátový širokopásmový zesilovač, zesilovač Wifi, extender Wifi, opakovač Wifi, zesilovač signálu, snadná instalace, bez nutnosti softwaru: Funguje dobře i ve starším domě - vřele doporučuji! Tento 2W 2,4GHz bezdrátový širokopásmový zesilovač Wi-Fi výrazně zlepšil dosah WiFi signálu po připojení k mému staršímu routeru Linksys. Bydlíme ve starším viktoriánském domě, který má WiFi signál špatně, protože nefungoval dobře až do 2. a 3. patra. Kompenzovali jsme to používáním síťových adaptérů „PowerLine“, ale pokud je to možné, opravdu preferujeme WiFi. Instalace byla velmi jednoduchá, stačí vyjmout anténu z routeru, připojit dodaný kabel k routeru a k tomuto zařízení, připojit anténu a zapojit napájení. Nyní máme silnou WiFi, kde jsme ji dříve nemohli mít. Chtěl jsem si pořídit druhou jednotku pro použití v našem obchodě, ale všiml jsem si, že router (dodaný kabelovou společností) nemá externí anténu, takže nám toto zařízení s tím nepomohlo. Celkově se jedná o velmi užitečný WiFi zesilovač, který funguje mnohem lépe než možnosti, které jsme v minulosti vyzkoušeli! Vřele doporučuji! Poznámka: Jednotka poskytnuta k recenzi.\nDBPOWER MX dvoujádrový Android 4.2, 1920x1080P HD video model, chytrý set-top box, Android TV box, XBMC mini PC, Wifi (WiFi 802.11b/g/n)/3D, s 8GB SD kartou + dálkové ovládání + HDMI kabel + AV kabel: Vynikající zábavní zařízení - vřele doporučuji Tento „DBPOWER MX Dual Core Android 4.2, 1920x1080P HD Video Model, Smart Set-top Box, Android TV“ vdechuje nový život starším HDTV! Jsme mezi prvními, kdo si osvojí spoustu technologií, a proto nám někdy uniknou pokročilé funkce, které jsou přidávány později, jako jsou chytré funkce integrované do HDTV (jako jsou vestavěné hry a streamování Netflixu). Naštěstí existují zařízení jako Roku a herní konzole, které lze přidat, nebo zařízení typu „vše v jednom“, jako je tento Android PC. Zde jsou mé postřehy: Klady - Nastavení; Po vybalení jednotky jsme jej měli připravený během několika minut; Wi-Fi; Konfigurace byla snadná a výkon vynikající; Aplikace; Jelikož se jedná o zařízení se systémem Android, vyžaduje to používání aplikací, kterých je dostatek a snadno se instalují; HDMI; Vynikající rozlišení obrazovky a čistota obrazu přes HDMI připojení; Nevýhody - Dálkový ovladač; Navigace pomocí dodaného dálkového ovladače byla trochu těžkopádná, proto jsem připojil malou bezdrátovou klávesnici/myš, což výrazně zlepšilo zážitek. Celkově se jedná o velmi funkčně bohaté zařízení, které přináší streamování filmů a hraní her na můj starší HDTV. Také se mi líbí, že je to velmi malá jednotka, která v mé „zábavní“ zóně nezabírá mnoho místa! Vřele doporučuji, zejména po přidání bezdrátové klávesnice/myši. CFH Poznámka: Jednotka je poskytnuta k recenzi.\nChromebook Acer C720 (11,6 palce, 2 GB): Skvělé pro prohlížení webu a aplikace - vřele doporučuji Tento „Acer C720 Chromebook“ je prakticky ideální pro surfování po webu a nenáročné hraní her. Zvažovali jsme pořízení netbooku do obchodu a koupili bychom si ho dříve, kdybychom věděli, jak dobrý je pro úkoly, které nevyžadují plný výkon počítače! Zde jsou mé postřehy: Klady -+ Cena; zlomek ceny běžného netbooku nebo notebooku+ Výkon; solidní bezdrátové připojení k internetu přes mou Wi-Fi, procesor běží dostatečně rychle, takže jsem si nevšiml žádných zpoždění+ Aplikace; Google Store má všechny aplikace, které jsem hledal pro úkoly, které potřebuji (většinou zdarma)+ Výdrž baterie; více než 5 hodin nepřetržitého používání+ Obrazovka; velmi dobré rozlišení+ Fotoaparát; vestavěná „webová kamera“ je kvalitní a snadno se používáNevýhody-- Klávesnice; nestandardní PC, ale docela použitelnéRůzné-* Zahrnuje přístup k Disku Google pro online ukládání dokumentůKoncept Chromebooku přesouvá většinu úkolů na web, takže samotné zařízení nemusí být tak výkonné. Pokud tedy máte v místě, kde jej budete používat, dobré připojení k internetu, je to velmi dobrá volba pro nenáročné použití s počítačem!Vřele doporučuji!CFH\nB00DQZRQPI: Vhodné pro mladší uživatele – doporučeno Toto pouzdro Incipio Hive Response Standing pro zcela nový Kindle Fire HD dobře padne a poskytuje slušnou ochranu pro Kindle. Je to dobrý kryt, pokud váš Kindle používají menší děti. Zde jsou mé postřehy: Klady -+ Dobře padne + Slušná ochrana + Dobrý stojan + Vypadá dobřeZápory -- Kryje tlačítka (ale stále je lze snadno použít)Celkově je to dobrá volba pro každodenní používání.Doporučuji!CFH\nB00DQZPCTA: Slušná ochrana - Doporučeno Toto pouzdro Incipio Hive Response Standing Case pro Kindle Fire HDX 7\" dobře padne a poskytuje slušnou ochranu pro Kindle. Zde jsou mé postřehy: Klady -+ Dobře padne + Slušná ochrana + Dobrý stojan + Vypadá dobře Zápory -- Kryje tlačítka (ale stále je lze snadno použít) Celkově je to dobrá volba pro každodenní použití. Doporučuji!CFH\nQ-See QT5716-8E3-1 16kanálový 960H DVR s 8 kamerami s vysokým rozlišením 700TVL/960H a předinstalovaným 1TB pevným diskem (černý): Nejlepší ve své třídě - Vřele doporučeno Aktualizace 07.04.2014 - Museli jsme policii poskytnout videozáznam z našeho systému, když byl zákazník obviněn z prodeje kradeného majetku. Funkce vyhledávání a exportu byla mnohem lepší než u starších systémů, které jsme používali dříve, a byli jsme schopni požadované záběry uložit přímo na USB flash disk, abychom je mohli předat vyšetřovateli. Původní recenze: Tento 16kanálový bezpečnostní dohledový systém Q-See funguje dobře pro mé potřeby a je o krok napřed oproti ostatním systémům, které jsme v minulosti nainstalovali. Již vlastníme Defender, Zmodo a dva další systémy Q-See, které jsme používali k monitorování naší malé firmy, takže bylo snadné vyměnit hlavní DVR jednotku a kamery a provést porovnání. Ostatní systémy mají zhruba stejné specifikace a funkce, ale tento má kvalitnější kamery a mnohem snadněji se konfiguruje. Naše použití - Vlastníme starou, ale velmi velkou budovu pro firmu mé ženy a potřebovali jsme způsob, jak monitorovat šest východů, maloobchodní prodejnu a školicí prostory ve 2. patře. Obsah balení:* Hlavní řídicí jednotka - jedná se o poměrně malou jednotku (menší než většina DVD přehrávačů)* 8 kamer - tyto jsou také poměrně malé, mají dobrou fyzickou kvalitu a zahrnují montážní materiál* USB myš - připojuje se k řídicí jednotce* Dálkové ovládání - umožňuje přístup ke všem funkcím nabídky (baterie jsou součástí balení)* Potřebné kabely - 4x 100' video/napájecí kabely a 4x 60' video/napájecí kabely* Napájecí zdroje* Varovné samolepky na okna* CD se softwarem (nemusel jsem použít)Vlastnosti:+ Průvodce nastavením; Toto je velké zlepšení oproti všem ostatním systémům, které jsme používali+ DVR; ovládací prvky jsou přístupné na přední straně jednotky a podporuje 16 kamer (pouze 8 je součástí balení)+ Kamery; Kvalitní obraz s IR přisvícením pro noční vidění + Uživatelsky konfigurovatelné možnosti; Zóny soukromí (zatemněné oblasti na displeji), Zóny pohybu (oblasti, kde pohyb spustí alarm) + Přístup k síti; Lze sledovat pomocí počítače + Upozornění na alarm; Zvukové upozornění a možnost odesílání e-mailů (což funguje velmi dobře) + Možnosti zobrazení; Zahrnuje připojení VGA monitoru, video výstup a HDMI výstup (kabel je součástí balení) pro sledování televize + Dálkové ovládání; Usnadňuje rychlý přístup k funkcím + Vzdálený přístup pro uživatele; Lze sledovat na dálku na PC/MAC, iPhonu a Androidu (nastavení bylo velmi snadné díky pokynům na obrazovce a QR kódu) Výhody: + Nastavení; Základní konfigurace\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "snadnost nastavení",
+        "sentiment": "positive",
+        "evidence": "Instalace byla velmi jednoduchá, stačí vyjmout anténu z routeru, připojit dodaný kabel k routeru a k tomuto zařízení, připojit anténu a zapojit napájení."
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "positive",
+        "evidence": "Wi-Fi; Konfigurace byla snadná a výkon vynikající; Aplikace; Jelikož se jedná o zařízení se systémem Android, vyžaduje to používání aplikací, kterých je dostatek a snadno se instalují; HDMI; Vynikající rozlišení obrazovky a čistota obrazu přes HDMI připojení; Nevýhody - Dálkový ovladač; Navigace pom"
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Je velmi dobře použitelný pro běžné použití a je nepravděpodobné, že bych je v dohledné době vyměnil, protože se jedná o cenově dostupné řešení."
+      },
+      {
+        "aspect": "ochrana",
+        "sentiment": "positive",
+        "evidence": "Toto pouzdro Incipio Hive Response Standing Case pro Kindle Fire HDX 7\" dobře padne a poskytuje slušnou ochranu pro Kindle."
+      },
+      {
+        "aspect": "ovládání",
+        "sentiment": "mixed",
+        "evidence": "Dálkový ovladač; Navigace pomocí dodaného dálkového ovladače byla trochu těžkopádná, proto jsem připojil malou bezdrátovou klávesnici/myš, což výrazně zlepšilo zážitek."
+      }
+    ]
+  }
+}

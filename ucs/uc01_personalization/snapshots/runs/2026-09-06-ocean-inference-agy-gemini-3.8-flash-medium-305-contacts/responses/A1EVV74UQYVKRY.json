@@ -1,0 +1,40 @@
+{
+  "contact_id": 8,
+  "reviewer_id": "A1EVV74UQYVKRY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 182,
+  "reviews_used": 15,
+  "prompt_chars": 9867,
+  "status": "ok",
+  "seconds": 16.55,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.1,
+    "E": 3.35,
+    "A": 4.05,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "I have been a self-employed graphic designer since 1996.",
+      "C": "Even though Windows will find and install the drivers automatically, I would recommend using the installation disk as there are additional features beyond the device drivers.",
+      "E": "My daughter has an iPod Touch 4th generation and had a blast going through everything and playing around.",
+      "A": "I have to say that you can't expect everything to be in top quality condition. Some of it is mediocre. But everything is pretty good.",
+      "N": "I'm dropping this down to three stars from my original four stars because of some glitches that seem to be cropping up."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.1,
+    "E": 3.35,
+    "N": 2.2,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I have to say that you can't expect everything to be in top quality condition. Some of it is mediocre. But everything is pretty good.",
+      "C": "Even though Windows will find and install the drivers automatically, I would recommend using the installation disk as there are additional features beyond the device drivers.",
+      "E": "My daughter has an iPod Touch 4th generation and had a blast going through everything and playing around.",
+      "N": "I'm dropping this down to three stars from my original four stars because of some glitches that seem to be cropping up.",
+      "O": "I have been a self-employed graphic designer since 1996."
+    }
+  }
+}

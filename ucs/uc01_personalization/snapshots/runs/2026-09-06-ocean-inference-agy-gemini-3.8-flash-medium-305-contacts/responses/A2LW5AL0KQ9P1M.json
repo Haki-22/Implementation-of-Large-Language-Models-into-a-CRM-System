@@ -1,0 +1,40 @@
+{
+  "contact_id": 49,
+  "reviewer_id": "A2LW5AL0KQ9P1M",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 99,
+  "reviews_used": 15,
+  "prompt_chars": 9823,
+  "status": "ok",
+  "seconds": 150.74,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.05,
+    "E": 3.7,
+    "A": 3.75,
+    "N": 3.45,
+    "evidence_quotes": {
+      "O": "I enjoy a wide diversity of music, so I experimented. From Metallica to Mozart, the sound is clear, crisp, and rich.",
+      "C": "Likewise, all the photos, lesson plans, and Power-Point presentations that were cluttering my computer are now on my Passport.",
+      "E": "Let's talk music! These earbuds are heaven! The fit is exquisite!! And, the range is phenomenal.",
+      "A": "What follows are the pros and cons of the JBL On Stage IV. I hope they help you in your decision-making process.",
+      "N": "the transition to TomTom was stressful, challenging, and ultimately unsuccessful. For me, the load-time was a little scary."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.05,
+    "E": 3.7,
+    "N": 3.45,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "What follows are the pros and cons of the JBL On Stage IV. I hope they help you in your decision-making process.",
+      "C": "Likewise, all the photos, lesson plans, and Power-Point presentations that were cluttering my computer are now on my Passport.",
+      "E": "Let's talk music! These earbuds are heaven! The fit is exquisite!! And, the range is phenomenal.",
+      "N": "the transition to TomTom was stressful, challenging, and ultimately unsuccessful. For me, the load-time was a little scary.",
+      "O": "I enjoy a wide diversity of music, so I experimented. From Metallica to Mozart, the sound is clear, crisp, and rich."
+    }
+  }
+}

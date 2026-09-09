@@ -1,0 +1,9 @@
+kind,lang,text,form,cl100k_base_standalone,cl100k_base_in_sentence,cl100k_base_split,o200k_base_standalone,o200k_base_in_sentence,o200k_base_split
+word,en,customer,nominative sg.,1,1,customer,1,1,customer
+word,en,customers,nominative pl.,1,1,customers,1,1,customers
+word,cs,zákazník,nominative sg.,5,5,z|ák|az|ní|k,4,2,z|ák|az|ník
+word,cs,zákazníka,genitive/accusative sg.,5,5,z|ák|az|ní|ka,5,3,z|ák|az|ní|ka
+word,cs,zákazníkovi,dative/locative sg.,6,6,z|ák|az|ní|k|ovi,5,3,z|ák|az|ník|ovi
+word,cs,zákazníkům,dative pl.,7,7,z|ák|az|ní|k|ů|m,5,3,z|ák|az|ník|ům
+sentence,en,"Dear customer, thank you for your order.",7 words,9,9,fertility 1.29,9,9,fertility 1.29
+sentence,cs,"Vážený zákazníku, děkujeme Vám za Vaši objednávku.",7 words,29,29,fertility 4.14,19,19,fertility 2.71

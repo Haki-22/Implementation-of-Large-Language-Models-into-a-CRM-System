@@ -1,0 +1,17 @@
+contact_id,tier,gender,formal,skipped,responsiveness,ocean,mirrored,run
+1,linked,m,True,,0.5472,"{""O"": 4.2, ""C"": 4.25, ""E"": 3.45, ""A"": 3.8, ""N"": 2.1}","{""O"": 1.8, ""C"": 1.75, ""E"": 2.55, ""A"": 2.2, ""N"": 3.9}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+11,linked,m,True,,0.52,"{""O"": 4.1, ""C"": 4.4, ""E"": 3.5, ""A"": 4.05, ""N"": 2.1}","{""O"": 1.9, ""C"": 1.6, ""E"": 2.5, ""A"": 1.95, ""N"": 3.9}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+13,linked,m,True,,0.4468,"{""O"": 4.25, ""C"": 4.15, ""E"": 3.45, ""A"": 3.85, ""N"": 2.55}","{""O"": 1.75, ""C"": 1.85, ""E"": 2.55, ""A"": 2.15, ""N"": 3.45}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+426,prospect,m,True,ocean,,,,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+2,linked,f,True,,0.5349,"{""O"": 4.1, ""C"": 4.25, ""E"": 3.35, ""A"": 3.9, ""N"": 2.3}","{""O"": 1.9, ""C"": 1.75, ""E"": 2.65, ""A"": 2.1, ""N"": 3.7}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+3,linked,f,True,,0.6349,"{""O"": 4.15, ""C"": 4.05, ""E"": 3.45, ""A"": 3.9, ""N"": 2.3}","{""O"": 1.85, ""C"": 1.95, ""E"": 2.55, ""A"": 2.1, ""N"": 3.7}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+5,linked,f,True,,0.6538,"{""O"": 4.6, ""C"": 4.5, ""E"": 3.1, ""A"": 3.9, ""N"": 2.1}","{""O"": 1.4, ""C"": 1.5, ""E"": 2.9, ""A"": 2.1, ""N"": 3.9}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+428,prospect,f,True,"frequent_words,style_excerpt,purchases,reviews,frequent_words,style_excerpt,purchases,reviews",,,,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+38,linked,m,False,,0.3929,"{""O"": 4.2, ""C"": 4.15, ""E"": 3.5, ""A"": 3.85, ""N"": 2.15}","{""O"": 1.8, ""C"": 1.85, ""E"": 2.5, ""A"": 2.15, ""N"": 3.85}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+44,linked,m,False,,0.5769,"{""O"": 4.25, ""C"": 4.45, ""E"": 3.4, ""A"": 4.1, ""N"": 2.15}","{""O"": 1.75, ""C"": 1.55, ""E"": 2.6, ""A"": 1.9, ""N"": 3.85}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+46,linked,m,False,,0.4386,"{""O"": 4.15, ""C"": 4.1, ""E"": 3.4, ""A"": 3.4, ""N"": 3.15}","{""O"": 1.85, ""C"": 1.9, ""E"": 2.6, ""A"": 2.6, ""N"": 2.85}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+431,prospect,m,False,ocean,,,,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+4,linked,f,False,,0.2615,"{""O"": 4.05, ""C"": 4.25, ""E"": 3.7, ""A"": 3.9, ""N"": 2.5}","{""O"": 1.95, ""C"": 1.75, ""E"": 2.3, ""A"": 2.1, ""N"": 3.5}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+22,linked,f,False,,0.5741,"{""O"": 4.15, ""C"": 4.4, ""E"": 3.9, ""A"": 3.95, ""N"": 2.3}","{""O"": 1.85, ""C"": 1.6, ""E"": 2.1, ""A"": 2.05, ""N"": 3.7}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+25,linked,f,False,,0.4918,"{""O"": 4.05, ""C"": 4.2, ""E"": 3.4, ""A"": 3.95, ""N"": 2.05}","{""O"": 1.95, ""C"": 1.8, ""E"": 2.6, ""A"": 2.05, ""N"": 3.95}",2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness
+427,prospect,f,False,ocean,,,,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-faithfulness

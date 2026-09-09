@@ -1,0 +1,31 @@
+{
+  "corpus_id": "uc02-corpus-v2-mock-backup",
+  "generated_at": "2026-09-05T18:27:49",
+  "n": 100,
+  "seed": 42,
+  "renderer": "mock",
+  "provider": null,
+  "model": null,
+  "tier": null,
+  "contacts_available": 450,
+  "db": "substrate/snapshots/substrate.db",
+  "types": [
+    "PERSON",
+    "EMAIL",
+    "PHONE",
+    "ADDRESS",
+    "DATE",
+    "BBAN",
+    "IBAN_CZ",
+    "ORG",
+    "ICO",
+    "DIC",
+    "RC"
+  ],
+  "gold_spans": 345,
+  "flagged_messages": [],
+  "corpus_file": "uc02-pii-corpus-mock.json",
+  "gold_file": "uc02-pii-gold-mock.jsonl",
+  "corpus_sha256": "9623cfec8a5d175f1222ce5d45d5bbcfe4411d1555a7e2eabb24d6f70d92e769",
+  "gold_sha256": "5bf635fb798d85602d6ccef26f1f4d15334a26528c2b221cf52336c40a613ee3"
+}

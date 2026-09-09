@@ -1,0 +1,40 @@
+{
+  "contact_id": 289,
+  "reviewer_id": "A1OMXVXXP07F05",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 8885,
+  "status": "ok",
+  "seconds": 1089.64,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 3.9,
+    "E": 3.65,
+    "A": 3.7,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "On David Beagles classic guitar solo \"Joy\", it was as if he was in the room with me, I could hear every pick and pluck of every string.",
+      "C": "I was about to give up when I was directed to a firmware update for my DVD drive. Once I flashed the drive, not a single bad disk has been wasted!",
+      "E": "I piped it into my receiver and hit the power button and bingo! it found my network over it's installed handy dandy wireless network adapter (G).",
+      "A": "Must've just gotten a bad one...: My experience with this player was not very positive.",
+      "N": "However, if I decide to go upstairs then I have issues with the walls, interference etc. But I knew that was going to happen"
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 3.9,
+    "E": 3.65,
+    "N": 2.45,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Must've just gotten a bad one...: My experience with this player was not very positive.",
+      "C": "I was about to give up when I was directed to a firmware update for my DVD drive. Once I flashed the drive, not a single bad disk has been wasted!",
+      "E": "I piped it into my receiver and hit the power button and bingo! it found my network over it's installed handy dandy wireless network adapter (G).",
+      "N": "However, if I decide to go upstairs then I have issues with the walls, interference etc. But I knew that was going to happen",
+      "O": "On David Beagles classic guitar solo \"Joy\", it was as if he was in the room with me, I could hear every pick and pluck of every string."
+    }
+  }
+}

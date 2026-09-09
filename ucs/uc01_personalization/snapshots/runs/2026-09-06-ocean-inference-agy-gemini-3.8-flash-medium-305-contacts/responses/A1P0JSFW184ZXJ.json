@@ -1,0 +1,40 @@
+{
+  "contact_id": 35,
+  "reviewer_id": "A1P0JSFW184ZXJ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 116,
+  "reviews_used": 15,
+  "prompt_chars": 9709,
+  "status": "ok",
+  "seconds": 89.43,
+  "error": "",
+  "profile": {
+    "O": 4.0,
+    "C": 4.05,
+    "E": 3.65,
+    "A": 3.95,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "once I started my research I grew further and further away from the coveted Touch. In this review, I will try to compare the two",
+      "C": "I have tested it quite thoroughly and compared it with it's much more expensive counterpart and I have good news.",
+      "E": "Being gamers, our puny 15 inch \"box\" monitors just weren't cutting it anymore and we decided to spoil each other.",
+      "A": "Our peripherals are almost entirely from Logitech and they have never let us down. This headset is no exception.",
+      "N": "It was so horribly annoying that I had to replace it. This was after only a few months of moderate use with a laptop."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.05,
+    "E": 3.65,
+    "N": 2.75,
+    "O": 4,
+    "evidence_quotes": {
+      "A": "Our peripherals are almost entirely from Logitech and they have never let us down. This headset is no exception.",
+      "C": "I have tested it quite thoroughly and compared it with it's much more expensive counterpart and I have good news.",
+      "E": "Being gamers, our puny 15 inch \"box\" monitors just weren't cutting it anymore and we decided to spoil each other.",
+      "N": "It was so horribly annoying that I had to replace it. This was after only a few months of moderate use with a laptop.",
+      "O": "once I started my research I grew further and further away from the coveted Touch. In this review, I will try to compare the two"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 108,
+  "reviewer_id": "A38KK0SZYEH5UD",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 161,
+  "reviews_used": 15,
+  "prompt_chars": 9790,
+  "status": "ok",
+  "seconds": 59.38,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.5,
+    "A": 3.8,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "armed with a few flashes and some simple clamps, I can get creative off-camera lighting nearly anywhere",
+      "C": "after considerable research, I chose the Canon HF-S200. It seemed to have the right mix of features, size, price and quality",
+      "E": "I figured this would let me watch movies on a regular TV when I travel, as well as doing the occasional presentation for large groups.",
+      "A": "I purchased the Sony Alpha NEX 5 as a gift for someone with lots of artistic ability, but who is intimidated by the typical DSLR.",
+      "N": "I owned the very good Sony DSC-W350 (which I liked very much), but I managed to leave it in a rental car."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.15,
+    "E": 3.5,
+    "N": 2.1,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I purchased the Sony Alpha NEX 5 as a gift for someone with lots of artistic ability, but who is intimidated by the typical DSLR.",
+      "C": "after considerable research, I chose the Canon HF-S200. It seemed to have the right mix of features, size, price and quality",
+      "E": "I figured this would let me watch movies on a regular TV when I travel, as well as doing the occasional presentation for large groups.",
+      "N": "I owned the very good Sony DSC-W350 (which I liked very much), but I managed to leave it in a rental car.",
+      "O": "armed with a few flashes and some simple clamps, I can get creative off-camera lighting nearly anywhere"
+    }
+  }
+}

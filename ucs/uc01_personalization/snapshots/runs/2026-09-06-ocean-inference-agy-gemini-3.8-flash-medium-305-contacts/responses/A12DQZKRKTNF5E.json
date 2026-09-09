@@ -1,0 +1,40 @@
+{
+  "contact_id": 6,
+  "reviewer_id": "A12DQZKRKTNF5E",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 216,
+  "reviews_used": 15,
+  "prompt_chars": 10204,
+  "status": "ok",
+  "seconds": 17.73,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.45,
+    "E": 3.5,
+    "A": 4.15,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I've owned several laptops and would be considered an intermediate to advanced computer user. I've built my own desktops, tweaked a few laptops",
+      "C": "I purchased this laptop directly from Dell based upon Consumer Report's November 2009 article recommendations where the Dell Inspiron 1545 was rated a 'Best Buy'",
+      "E": "First let me say I own a Roku and LOVE it! NetFlix and Roku are a marriage made in heaven as far as I'm concerned",
+      "A": "I purchased this PC for my Mom for under four hundred. At that price, it's an excellent deal for those who have basic needs",
+      "N": "Frankly, the downfall in this configuration is the 4GB of memory, but this can be remedied, as can the lack of Bluetooth."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.45,
+    "E": 3.5,
+    "N": 2.15,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "I purchased this PC for my Mom for under four hundred. At that price, it's an excellent deal for those who have basic needs",
+      "C": "I purchased this laptop directly from Dell based upon Consumer Report's November 2009 article recommendations where the Dell Inspiron 1545 was rated a 'Best Buy'",
+      "E": "First let me say I own a Roku and LOVE it! NetFlix and Roku are a marriage made in heaven as far as I'm concerned",
+      "N": "Frankly, the downfall in this configuration is the 4GB of memory, but this can be remedied, as can the lack of Bluetooth.",
+      "O": "I've owned several laptops and would be considered an intermediate to advanced computer user. I've built my own desktops, tweaked a few laptops"
+    }
+  }
+}

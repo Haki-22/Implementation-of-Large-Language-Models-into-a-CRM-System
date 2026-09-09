@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "13",
+  "status": "ok",
+  "seconds": 14.64,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "negative",
+        "evidence": "pouzdro pro HD7\" neposkytuje nic, co by se blížilo bezpečnému uchycení pro HDX7\"."
+      },
+      {
+        "aspect": "Výdrž baterie",
+        "sentiment": "positive",
+        "evidence": "Teď můžu stroj používat 8 hodin nebo déle bez nabíjení."
+      },
+      {
+        "aspect": "Přenosnost",
+        "sentiment": "positive",
+        "evidence": "bez těchto mimořádně praktických, lehkých a elegantních strojů (tak tenkých a lehkých, že je vždycky těžko najdu v tašce přes rameno) by to bylo mnohem horší."
+      },
+      {
+        "aspect": "Poměr ceny a kvality",
+        "sentiment": "positive",
+        "evidence": "To je nejlepší cena, jakou za tento fotoaparát pravděpodobně uvidíte, a rozhodně „nejvíce Elph za ty peníze“."
+      },
+      {
+        "aspect": "Praktičnost",
+        "sentiment": "mixed",
+        "evidence": "pouzdro je skutečně tak dobře navržené, že bych byl v pokušení vyměnit svůj Fire HDX7\" za Fire HD7\""
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-13 (anonymizován).\nRecenze (367, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nB00GA562HO: Krásné pouzdro; špatná velikost pro Fire HDX7\" Pokud mi výrobce Incipio může poslat pouzdro, které skutečně pasuje na inzerovaný Kindle Fire HDX7\", mohl bych se snadno nechat přesvědčit, abych si zvýšil hodnocení na 4, možná i 5 hvězdiček. Ale z těch dvou „špatných“ pouzder, které jsem obdržel se dvěma samostatnými zásilkami, se můžu jen snažit upoutat pozornost nakupujících na Amazonu, kteří se chystají udělat stejnou chybu. Problém je v tom, že se zdá, že Incipio se snaží, aby jejich pouzdro pro Kindle Fire HD7\" sloužilo stejně dobře i pro Fire HDX7\". Kindle HDX7\" je ale o 0,2 palce menší na délku a na šířku (tj. tloušťku) o 0,07 palce. Tyto rozměrové rozdíly se mohou zdát zanedbatelné, možná tak malé, že Incipio předpokládá, že tablet, který je v současné době „formově přizpůsoben“ pro Fire HD7\", bude stejně dobře sloužit i pro HDX7\" (aniž by zákazník věděl). Zaprvé, pouzdro pro HD7\" neposkytuje nic, co by se blížilo bezpečnému uchycení pro HDX7\". Za druhé, kupující si rozdílu rozhodně všimne, zvláště když jeho volně padnoucí tablet HDX7\" jednoduše vypadne z pouzdra nesprávné velikosti a rozbije se o betonový chodník. Druhé pouzdro Incipo dorazilo dnes – ale se stejným balením a identifikací jako první („Tek-nical Hard Shell Case with Kickstand for the All-New Kindle Fire HD 7“). A navzdory pouzdru vyrobenému na zakázku s nezaměnitelným označením HD 7\" na přední straně obalu, nálepka s čárovým kódem na zadní straně tvrdého plastového obalu v obou případech nesla NESPRÁVNOU identifikaci pouzdra uvnitř balení („Incipio Kindle Fire HDX Tek-nical Case“). Rozdíl mezi vytištěným popisem na přední straně obalu a popisem na zadní straně je tak nepatrný (první vynechává důležité „X“; druhý ho obsahuje), že bych snadno uvěřil, že Incipio si tohoto rozdílu nevšímalo stejně jako spotřebitel – ve skutečnosti je rozdíl nezaměnitelný pouze tehdy, když se majitel tabletu pokusí vložit svůj Fire HDX do pouzdra Incipio HD. Dostalo se Incipio skutečně k výrobě tvarově padnoucího pouzdra pro Fire HDX 7? Moje zkušenosti naznačují, že se nevyplatí riskovat a zjišťovat to. Abychom shrnuli důležité statistiky: HD7\" = délka 7,5\"; HDX7\" = 7,3\"; tloušťka HD7\" = 0,42\"; tloušťka HDX7\" 0,35\" tloušťka. Nebo pro úplné srovnání mezi Fire HD7\" a dražším a výkonnějším HDX7\" sjeďte na následující stránce asi o 20 % dolů, kde najdete srovnání dvou tabletů Amazon Fire HD s dvěma tablety Fire HDX: http://www.amazon.com/Kindle-Fire-HDX-Display-Wi-Fi/dp/B00BWYQ9YE/ref=sr_1_1?s=electronics&ie;=UTF8&qid;=1405137887&sr;=1-1&keywords;=fire+hdx+tablets Moje hodnocení jednou hvězdičkou je výhradně upoutat pozornost neopatrného zákazníka Amazonu (a doufejme i výrobce). Nemá to žádný význam pro skutečnou „kvalitu“ toho, co by mohlo být nejchytřejším a nejvhodnějším pouzdrem pro tablety, které Amazon nabízí – pro „správný tablet“ (pouzdro je skutečně tak dobře navržené, že bych byl v pokušení vyměnit svůj Fire HDX7\" za Fire HD7\", kdyby 30denní lhůta pro vrácení zboží Amazonu nevypršela před pár týdny). Zapomeňte na tuto myšlenku ve prospěch rozumnější alternativy: pouzdro „onWay“ HDX7\", které stojí 7-8 dolarů, zůstává „skvělou koupí“ pro každého, kdo si přeje pouzdro, které je mimořádně praktické a odolné a zároveň nabízí úplnou ochranu a přístup ke všem důležitým ovládacím prvkům. http://www.amazon.com/gp/product/B00I11O3FS/ref=oh_details_o00_s00_i00?ie=UTF8&psc;=1 Je pravda, že hodnocení jednou hvězdičkou může být zavádějící, ale v případě tohoto pouzdra si dávám pozor. pouzdro: „Pokud pouzdro nesedí, dvakrát zklamaný majitel Kindle HDX 7“ se nemůže dopustit naprosté nespravedlnosti.“\nNotebook Apple MacBook Air MD711LL/A 11,6 palců (STARÁ VERZE): Spoiler Když Apple v roce 2008 uvedl na trh první Mac Air, počítač (a společnost) se setkal s rozsáhlou kritikou, posměchem a zesměšňováním – cože! Počítač bez optické (CD) mechaniky? Stroj byl všeobecně prohlášen za poraženého a předpovědi o jeho zániku byly doprovázeny předpověďmi o jeho zániku. Když rok 2009 nepřinesl žádné pokračování prvního Airu, víceméně se předpokládalo, že Air je pryč s větrem. Pak ale Apple překvapil všechny, včetně odborníků, nejen tím, že v roce 2010 vydal novou edici Macu Air, ale k původní 13palcové obrazovce přidal i 11palcový model. Oba stroje si u uživatelů získaly oblibu, získaly vysoká doporučení od Consumer Reports a nakonec vedly k postupnému vyřazování notebooků s optickými mechanikami, které Airy nahradily. Není žádným tajemstvím, že prodej počítačů propadá tabletům a mobilním zařízením a že Apple v roce 2013 ztratil hodně ze svého lesku. Ale bez těchto mimořádně praktických, lehkých a elegantních strojů (tak tenkých a lehkých, že je vždycky těžko najdu v tašce přes rameno) by to bylo mnohem horší. Koupil jsem si model z roku 2008 a hned jsem si pořídil první 11\" model (udělal jsem cokoli, abych si ulehčil). Pochybuji, že bych se někdy vrátil k těžšímu stroji. 11\" Air se ukázal jako spolehlivý pracant, rychlý a praktický ve všech ohledech (jak se říká, nejlepší fotoaparát je ten, který máte s sebou). Pokud jsou fotografie a tisk občas trochu malé (a mé oči nemládnou), stačí kliknutí na velké „A“ v liště nabídek k zvětšení a vyjasnění obrázku. Hlavním vylepšením modelu 2013 oproti mému modelu 2010 je podsvícená klávesnice (návrat ke klávesnici původního Airu 2008), dvojnásobná paměť oproti základnímu modelu a především baterie s dlouhou výdrží (která se rozhodně vyplatí). Mám tendenci používat obrazovky dostatečně jasné a na jedno nabití jsem nevydržel déle než 2 hodiny. Teď můžu stroj používat 8 hodin nebo déle bez nabíjení. Stroj z roku 2013 jsem koupil po polovině cyklu (upgrade by měl vyjít v červnu nebo červenci), protože cena byla správná (slevy Applu na repasované modely se obvykle vyplatí), a prostě nechápu, jak by Apple mohl stroj vylepšit. (Kdyby to udělal, pravděpodobně bych ho nechtěl.)\nUniverzální montážní sada TotalMount pro APPLE TV: Jak ušetřit patnáct dolarů Celkově vzato, TotalMount stojí jen 50 centů z plastu (maximálně). Na tento koncept většina lidí ani nepomyslela, a za to si platíte. Takže tady to je. Pokud připevníte malý Apple TV box do pravého horního zadního rohu televizoru, mezifrekvence (IF) z dálkového ovladače, když jím namíříte tímto směrem, se odrazí od zadní stěny a zaregistruje se na Apple TV boxu, je to tak jednoduché. Následující přístup vám nejen ušetří patnáct dolarů, ale pravděpodobně se ukáže jako efektivnější. V případě mého 40\" televizoru Sony Bravia se žádná ze 3 přiložených plastových spon (horizontální, vertikální, kruhová) nevešla do topných otvorů mého televizoru. Tak jsem rozstřihl kus lepicí pásky Scotch (3M) Command napůl (oboustranná extra lepící, polopermanentní - i když suchý zip by měl být stejně účinný), jeden kus nalepil na zadní stranu televizoru, druhý na Apple box - a tím to skončilo. Později - když se signál z dálkového ovladače ukázal být sporadicky účinný, posunul jsem Apple TV box o palec výš na římsu šikmo stoupající k širokému rámečku televizoru (to je na televizorech před 5 lety patrnější než na dnešních ultratenkých modelech) . Takže teď na mě Apple TV box vykukuje z pravého horního rohu a láká mě k střele z kopce na jeho viditelný povrch - žádný úder z boku nebyl nutný. Každý úder byl přímým zásahem.\nDigitální fotoaparát Canon PowerShot ELPH 330 s rozlišením 12,1 MP, 10násobným optickým zoomem, stabilizací obrazu a 3palcovým LCD displejem (černý): Pravděpodobně nejlepší poměr ceny a kvality v Canonu (ne-li nejlepší Elph) [Momentálně vidím, že Amazon prodává tento fotoaparát ve stříbrné barvě (není to totéž co „Prime“) za 120 dolarů. To je nejlepší cena, jakou za tento fotoaparát pravděpodobně uvidíte, a rozhodně „nejvíce Elph za ty peníze“.] Poté, co jsem si na Amazonu koupil pár Canon Elphů, mě teď na titulní straně vítá řada atraktivních nových „koupí“ Elphů, i když s oběma Elphy (SD780, Elph300), které momentálně vlastním, jsem naprosto spokojený. Hlavním důvodem pro přechod na 330 je: 1. Wi-Fi připojení (iPhone vás může rychle \n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "negative",
+        "evidence": "pouzdro pro HD7\" neposkytuje nic, co by se blížilo bezpečnému uchycení pro HDX7\"."
+      },
+      {
+        "aspect": "Výdrž baterie",
+        "sentiment": "positive",
+        "evidence": "Teď můžu stroj používat 8 hodin nebo déle bez nabíjení."
+      },
+      {
+        "aspect": "Přenosnost",
+        "sentiment": "positive",
+        "evidence": "bez těchto mimořádně praktických, lehkých a elegantních strojů (tak tenkých a lehkých, že je vždycky těžko najdu v tašce přes rameno) by to bylo mnohem horší."
+      },
+      {
+        "aspect": "Poměr ceny a kvality",
+        "sentiment": "positive",
+        "evidence": "To je nejlepší cena, jakou za tento fotoaparát pravděpodobně uvidíte, a rozhodně „nejvíce Elph za ty peníze“."
+      },
+      {
+        "aspect": "Praktičnost",
+        "sentiment": "mixed",
+        "evidence": "pouzdro je skutečně tak dobře navržené, že bych byl v pokušení vyměnit svůj Fire HDX7\" za Fire HD7\""
+      }
+    ]
+  }
+}

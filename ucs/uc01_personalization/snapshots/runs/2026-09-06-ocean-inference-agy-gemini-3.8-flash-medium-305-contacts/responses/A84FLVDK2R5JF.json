@@ -1,0 +1,40 @@
+{
+  "contact_id": 265,
+  "reviewer_id": "A84FLVDK2R5JF",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 8029,
+  "status": "ok",
+  "seconds": 984.42,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 3.85,
+    "E": 3.25,
+    "A": 3.7,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "However, being an audiophile, the headphone jack just doesn't cut it for me.",
+      "C": "Now if you have multiple Apple products you can charge them all while you sleep, and keep an eye on important calls, and emails.",
+      "E": "This inexpensive solution provides a great interface, allowing you to connect to those that are far away",
+      "A": "While logitech normal creates good products the logitech harmony ir extender sadly is not one of them.",
+      "N": "Unless you have great patience you will end up either throwing it in anger or returning it to Amazon."
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 3.85,
+    "E": 3.25,
+    "N": 3.15,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "While logitech normal creates good products the logitech harmony ir extender sadly is not one of them.",
+      "C": "Now if you have multiple Apple products you can charge them all while you sleep, and keep an eye on important calls, and emails.",
+      "E": "This inexpensive solution provides a great interface, allowing you to connect to those that are far away",
+      "N": "Unless you have great patience you will end up either throwing it in anger or returning it to Amazon.",
+      "O": "However, being an audiophile, the headphone jack just doesn't cut it for me."
+    }
+  }
+}

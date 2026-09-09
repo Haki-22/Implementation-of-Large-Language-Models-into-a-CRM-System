@@ -1,0 +1,40 @@
+{
+  "contact_id": 240,
+  "reviewer_id": "A3DOPYDOS49I3T",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 98,
+  "reviews_used": 15,
+  "prompt_chars": 9213,
+  "status": "ok",
+  "seconds": 891.48,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 3.55,
+    "A": 3.95,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "I could have purchased an hd box but I turned my powerpc g5 (Last Revision) into a media center instead.",
+      "C": "Pair this up with an excellent app for your ipad and you'll be so much productive. You will be more faster and accurate when doing different tasks.",
+      "E": "Makes taking family portraits easier. It was either having someone taking the picture and them not being on the picture or using the timer.",
+      "A": "This camera is a little smaller than some dslr's and it is easier on her hands.",
+      "N": "I forgot mine in the hotel one time and I did not want to pay over $50 for the sony one. This saved me money"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.05,
+    "E": 3.55,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "This camera is a little smaller than some dslr's and it is easier on her hands.",
+      "C": "Pair this up with an excellent app for your ipad and you'll be so much productive. You will be more faster and accurate when doing different tasks.",
+      "E": "Makes taking family portraits easier. It was either having someone taking the picture and them not being on the picture or using the timer.",
+      "N": "I forgot mine in the hotel one time and I did not want to pay over $50 for the sony one. This saved me money",
+      "O": "I could have purchased an hd box but I turned my powerpc g5 (Last Revision) into a media center instead."
+    }
+  }
+}

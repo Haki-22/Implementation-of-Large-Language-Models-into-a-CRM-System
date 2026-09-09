@@ -1,0 +1,40 @@
+{
+  "contact_id": 88,
+  "reviewer_id": "A1VQHH85U7PX0",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 189,
+  "reviews_used": 15,
+  "prompt_chars": 9832,
+  "status": "ok",
+  "seconds": 43.99,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.6,
+    "E": 3.25,
+    "A": 3.65,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "This Käsemann filter works as claimed; it increases color saturation and reduces (and in some cases completely eliminates) reflection.This filter is a marvel of engineering.",
+      "C": "The trick to a bubble free installation is prepping your Kindle to ensure that it is ABSOLUTELY free of dust.",
+      "E": "which I strongly advise you to steer clear of.",
+      "A": "do not be misled! If you need a memory card reader that takes miniSD or microSD cards you can either:",
+      "N": "all screen protectors will potentially leave some bubbles behind no matter what. You will not find a screen protector that doesn't."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.6,
+    "E": 3.25,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "do not be misled! If you need a memory card reader that takes miniSD or microSD cards you can either:",
+      "C": "The trick to a bubble free installation is prepping your Kindle to ensure that it is ABSOLUTELY free of dust.",
+      "E": "which I strongly advise you to steer clear of.",
+      "N": "all screen protectors will potentially leave some bubbles behind no matter what. You will not find a screen protector that doesn't.",
+      "O": "This Käsemann filter works as claimed; it increases color saturation and reduces (and in some cases completely eliminates) reflection.This filter is a marvel of engineering."
+    }
+  }
+}

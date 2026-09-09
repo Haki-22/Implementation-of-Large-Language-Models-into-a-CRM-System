@@ -1,0 +1,40 @@
+{
+  "contact_id": 328,
+  "reviewer_id": "A4U27URFECK1U",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 57,
+  "reviews_used": 15,
+  "prompt_chars": 10193,
+  "status": "ok",
+  "seconds": 355.89,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.3,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "The Panasonic RP-HC200 Noise Cancelling headphones are a pretty stylish pair of closed cup retro looking phones with oval capsules, rather than round ones making them refreshingly unique.",
+      "C": "There is a place for everything in this case, organized to the tee.",
+      "E": "They also come in a bunch of fun colors, how cool is that?",
+      "A": "Amazon is fairly new to the computer accessory market, but not to providing quality products and good service.",
+      "N": "If you don't have 4K UHD yet, don't worry, the DMPBDT330 will still play HD and SD formats."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.35,
+    "E": 3.3,
+    "N": 2.3,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Amazon is fairly new to the computer accessory market, but not to providing quality products and good service.",
+      "C": "There is a place for everything in this case, organized to the tee.",
+      "E": "They also come in a bunch of fun colors, how cool is that?",
+      "N": "If you don't have 4K UHD yet, don't worry, the DMPBDT330 will still play HD and SD formats.",
+      "O": "The Panasonic RP-HC200 Noise Cancelling headphones are a pretty stylish pair of closed cup retro looking phones with oval capsules, rather than round ones making them refreshingly unique."
+    }
+  }
+}

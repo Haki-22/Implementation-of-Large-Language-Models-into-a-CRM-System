@@ -1,0 +1,40 @@
+{
+  "contact_id": 335,
+  "reviewer_id": "A2WPL6Y08K6ZQH",
+  "group": "B",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 70,
+  "reviews_used": 15,
+  "prompt_chars": 9971,
+  "status": "ok",
+  "seconds": 383.97,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.1,
+    "E": 3.65,
+    "A": 3.85,
+    "N": 2.55,
+    "evidence_quotes": {
+      "O": "The camera is a pleasing retro-design. This means that at first glance, the camera appears to be something out of the 60's for film.",
+      "C": "1. What's in the box: Your receive the camera, a battery, USB connector, Manual and CD, lanyard for the camera and a charger with an American plug.",
+      "E": "I would mostly take the Ipod to the gym, hiking, biking, running, or on trips or other \"high risk\" adventures",
+      "A": "I have previously purchased and reviewed numerous Belkin items, which are typically excellent. This one is a quality product which has a huge flaw",
+      "N": "there is nothing more frustrating than arriving at a layover airport and needing a charge, only to find no available outlet"
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.1,
+    "E": 3.65,
+    "N": 2.55,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I have previously purchased and reviewed numerous Belkin items, which are typically excellent. This one is a quality product which has a huge flaw",
+      "C": "1. What's in the box: Your receive the camera, a battery, USB connector, Manual and CD, lanyard for the camera and a charger with an American plug.",
+      "E": "I would mostly take the Ipod to the gym, hiking, biking, running, or on trips or other \"high risk\" adventures",
+      "N": "there is nothing more frustrating than arriving at a layover airport and needing a charge, only to find no available outlet",
+      "O": "The camera is a pleasing retro-design. This means that at first glance, the camera appears to be something out of the 60's for film."
+    }
+  }
+}

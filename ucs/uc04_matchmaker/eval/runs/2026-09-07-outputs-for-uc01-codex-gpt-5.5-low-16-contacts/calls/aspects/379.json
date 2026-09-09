@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "379",
+  "status": "ok",
+  "seconds": 17.69,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Zvuková rovnováha je skvělá s pěknými čistými výškami a lepšími než očekávanými basy z aktivního, ale malého subwooferu."
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Celkově si myslím, že tento soundbar LG představuje skvělou hodnotu z hlediska kvality a ceny."
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Kvalita provedení tohoto zařízení je solidní."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Připojil jsem tento NBN36 k televizím LG a Samsung a dálkový ovladač dokázal ovládat oba televizory pomocí minimalistických tlačítek vstupu."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "mixed",
+        "evidence": "Je to snadné, ale očekával bych, že komponenty jednoduchého soundbaru budou po vybalení připraveny k použití."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-379 (anonymizován).\nRecenze (45, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nLG Electronics NBN36 280W 37.4 Inch Sound Bar with Wireless Subwoofer and Bluetooth: Spousta peněz za ty peníze Soundbar LG NBN36 2.1 si ve srovnání s konkurencí vede dobře. NBN36 je dodáván v obrovské krabici s velkým množstvím prázdného kartonového prostoru pro podivně tvarovaný pár soundbaru a subwooferu. Na obalu se mi líbilo, že je v něm uvedeno, abyste si krabici uschovali pro budoucí přepravu, a je zde i schéma, které ukazuje, jak se obří polystyrenové a kartonové díly do krabice vkládají zpět. Pro tento účel jsem si schoval nespočet krabic od elektroniky a když se stěhuji, nepamatuji si přesně, jak se ty unikátní polystyrenové díly do krabice perfektně vejdou. Chvála LG za přidání této drobné informace navíc. Co se týče samotného soundbaru, kvalita mě překvapila. Používal jsem 36 až 42palcové soundbary od Samsungu a Sony a tento LG se jim vyrovnává. Zadní strana lišty má 3,5mm stereo vstupní jack a dva optické vstupy. Na přední straně je skrytý USB port, LED displej a několik dotykových tlačítek. Vzhled soundbaru se příliš neliší od standardního vzhledu v oboru, ale zařízení je poněkud elegantní a neurazí žádného stylového zákazníka. Subwoofer má také jednoduchý, ale efektivní design, ale ten můj nebyl s soundbarem automaticky spárován po vybalení. Musel jsem ručně synchronizovat soundbar a basový reproduktor ve třech krocích. Je to snadné, ale očekával bych, že komponenty jednoduchého soundbaru budou po vybalení připraveny k použití. Co se týče výkonu, je překvapivě dobrý. Používal jsem optické vstupy ke sledování kabelové televize a pak jsem přepnul na Titanfall. Kabelová televize byla solidní, ale Titanfall zněl velmi dobře, zvláště když jsem poslouchal dunivé, čisté basy při běhání v titanovém stroji na obrazovce. Synchronizoval jsem telefon přes Bluetooth a dosáhl slušného zvuku ve vzdálenosti 1,8-3,6 metru od soundbaru. Zvuková rovnováha je skvělá s pěknými čistými výškami a lepšími než očekávanými basy z aktivního, ale malého subwooferu. Zvuk není tak dobrý jako u mého 7.1 Onkyo systému... ale no tak, je to soundbar. NBN36 zní stejně dobře jako Samsungy a Sony, které jsem vyzkoušel (i když ne o trochu lépe). Existuje několik přednastavených nastavení zvuku, jako například Hra, Noc, 3D a Clear Voice, ale ty nemění zvuk natolik, aby vás ohromily. Přesto se mi líbil hluk, který z tohohle zařízení vycházel. Další rychlé tipy... LED displej se mi zpočátku zdál příliš jasný, ale po měsíci používání mi začal lípkat. Co je opravdu fajn, je automatické nastavení napájení. Zapnul jsem Xbox a do 3 sekund se soundbar automaticky zapnul a začal fungovat. U mého Samsungu musím řešit alespoň 12sekundové zpoždění. Podobně se NBN35 vypnul asi 10 sekund po vypnutí Xboxu. To je funkce, která skutečně funguje a dělá život skvělým. Jako poslední bonus, pokud máte úplně novou televizi LG, je zde funkce synchronizace zvuku, která vytváří bezdrátové (předpokládám, že přes Bluetooth) spojení mezi soundbarem a televizí. Neměl jsem kompatibilní televizi LG, abych tuto funkci otestoval, ale umožňuje vám posílat signály pro zvýšení a snížení hlasitosti do televize a nechat televizi odeslat bezdrátový signál do soundbaru, aby se zvuk odpovídajícím způsobem posouval nahoru nebo dolů. Dálkový ovladač dodávaný se zařízením není nic zvláštního, ale svůj účel splní. Připojil jsem tento NBN36 k televizím LG a Samsung a dálkový ovladač dokázal ovládat oba televizory pomocí minimalistických tlačítek vstupu. Celkově si myslím, že tento soundbar LG představuje skvělou hodnotu z hlediska kvality a ceny. Moje jediná drobná výtka je, že zde není žádný HDMI průchod a chybí port HDMI ARC. Tyto funkce by měly být do roku 2014 celkem standardní, ale LG se rozhodlo je nezahrnout. Přesto si myslím, že za typickou cenu na Amazonu získáváte dobrý soundbar. A pokud máte televizi LG s již zabudovanou funkcí Sound Sync, myslím, že se jedná o skvělou koupi.\nProjektor Epson V11H475220 PowerLite Home Cinema 707 Gold Edition 720p 2700 lumenů HDMI (bílý): Dobrá základní funkcionalita s zavádějícím názvem Tento projektor Epson V11H475220 PowerLite Home Cinema 707 Gold Edition bude dobře fungovat jako přenosné centrum zábavy, ale název je trochu zavádějící, protože bych tento přístroj nepovažoval za optimální jako „zlaté domácí kino“. Kvalita provedení tohoto zařízení je solidní. Vnější plášť je dostatečně odolný a tlačítka mi nepřipadala příliš volná. Jelikož se jedná o projektor, je důležité, aby měl přístroj určitou odolnost, abyste ho mohli hodit do krabice nebo tašky a přenést na nové místo. Myslím, že tento přístroj to docela dobře zvládne. Cena tohoto přístroje je relativně přijatelná, ale spotřebitelé si musí uvědomit, co kupují. Všechny projektory potřebují velmi tmavou místnost, aby si mohly užít skutečný dynamický kontrastní rozsah, a tento Epson není výjimkou. Používal jsem ho u promítací plochy a na otevřeném pruhu sádrokartonu. V obou případech jsem byl schopen v noci, když byly místnosti tmavé, sledovat přijatelnou úroveň kontrastu a jasu. Během slunečného odpoledne v místnosti s několika okny, ale? Je obtížné vidět věci. Někteří lidé si toho možná nevšimnou nebo jim to nevadí, protože chtějí prostě obrovský 80\" obraz. Ale s tímto zařízením je těžké ocenit dobrou video produkci. I cenově dostupný LCD televizor s podsvícením vám poskytne lepší úroveň kontrastu než tento Epson. Tento Epson má také rozlišení pouze 720p, nikoli plné HD 1080p. Navíc má pouze jeden HDMI vstup. Takže pokud chcete tento projektor nastavit jako ústřední bod „zlaté edice domácího kina“, budete mít značné omezení. Projektor má vestavěný reproduktor, který funguje dostatečně dobře v nouzi, když ho v noci přenášíte venku u venkovního ohně, ale není tak skvělý, když si chcete užít dobrý film. Myslím si, že tento projektor funguje skvěle pro nastavení dočasného vizuálního zobrazení v náhodné místnosti, kdykoli ho potřebujete, a velmi dobře funguje pro přednášky v PowerPointu nebo dokonce pro mini prezentace, které promítnete na zeď v obývacím pokoji během svátečního večírku. Celkově je tento Epson mezi ostatními projektory v této cenové relaci velmi konkurenceschopný a bude fungovat pro mnoho lidí, kteří vědí, že projektor potřebují. oproti ploché televizi. Pokud víte, že potřebujete 80\" projekci obrazu v tmavých koutech domu a souhlasíte s kompromisy v oblasti kontrastu a jasu, V11H475220 vás nezklame. Jen bych si přál, aby se mu neříkalo zavádějící Gold Edition Home Cinema... pro skutečné domácí kino je to spíše Bronze Edition.\nBezdrátová kombinovaná myš Logitech MK270 s klávesnicí a myší: Použitelná a cenově dostupná bezdrátová kombinace Logitech Wireless MK270 je jednoduchá bezdrátová klávesnice a myš, která nabízí jednoduchou produktivitu za extrémně dostupnou cenu. Abychom vám pomohli s orientací, v žádném případě se nejedná o nejlepší kombinaci klávesnice a myši od Logitechu (já používám Logitech Wireless Wave Combo Mk550 With Keyboard and Laser Mouse (920-002555) pro svou 8hodinovou kancelářskou práci denně). Pokud však hledáte bezdrátové řešení klávesnice a myši, které splní svůj účel, MK270 naprosto funguje. Malý nanopřijímač se vejde do jakéhokoli USB portu a nezabírá žádné místo, takže do USB slotů vedle něj můžete stále zapojit objemné flash disky. Klávesnice i myš mají snadno dostupná tlačítka napájení, která vám umožňují je na konci dne vypnout a šetřit tak baterii. Klávesy na klávesnici se s každým stisknutím pohybují dostatečně dlouho, což zajišťuje dobrou přesnost, a vydávají příjemné klikavé zvuky. V horní části klávesnice je několik vyhrazených tlačítek pro ovládání mediálních funkcí a spouštění e-mailů, ale na této klávesnici se toho moc navíc neděje. Minimalistická myš je vyrobena ze stejné látky jako klávesnice. Prostě plní svůj účel. Přesnost myši je dostatečná pro prohlížení webu a typickou kancelářskou práci, nicméně se nejedná o laserovou myš. Takže pokud chcete pixelově dokonalý pohyb pro videohry nebo Photoshop, budete chtít něco s trochu lepším sledováním. MK270 také postrádá ves\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Zvuková rovnováha je skvělá s pěknými čistými výškami a lepšími než očekávanými basy z aktivního, ale malého subwooferu."
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Celkově si myslím, že tento soundbar LG představuje skvělou hodnotu z hlediska kvality a ceny."
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Kvalita provedení tohoto zařízení je solidní."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Připojil jsem tento NBN36 k televizím LG a Samsung a dálkový ovladač dokázal ovládat oba televizory pomocí minimalistických tlačítek vstupu."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "mixed",
+        "evidence": "Je to snadné, ale očekával bych, že komponenty jednoduchého soundbaru budou po vybalení připraveny k použití."
+      }
+    ]
+  }
+}

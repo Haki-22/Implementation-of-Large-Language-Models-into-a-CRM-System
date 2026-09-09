@@ -1,0 +1,40 @@
+{
+  "contact_id": 401,
+  "reviewer_id": "A3D5B2CBFNJB0K",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 53,
+  "reviews_used": 15,
+  "prompt_chars": 9092,
+  "status": "ok",
+  "seconds": 1369.66,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.25,
+    "A": 3.95,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I tested the power saving features using my Kill-a-Watt. Under no load, this switch was pulling .01 Amps (less than 1 watt).",
+      "C": "I will post this same review in the other new models, so the comparisons will be more comprehensive than if I were to individualize more.",
+      "E": "I have used it (the Dell) every day at work for 3 years now and I LOVE it.",
+      "A": "saying that it can't change lenses or that it is big and clunky is not fair.",
+      "N": "I found it to be ever so slightly off-level, so don't put too much trust in it--just use it as a guideline"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.35,
+    "E": 3.25,
+    "N": 2.25,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "saying that it can't change lenses or that it is big and clunky is not fair.",
+      "C": "I will post this same review in the other new models, so the comparisons will be more comprehensive than if I were to individualize more.",
+      "E": "I have used it (the Dell) every day at work for 3 years now and I LOVE it.",
+      "N": "I found it to be ever so slightly off-level, so don't put too much trust in it--just use it as a guideline",
+      "O": "I tested the power saving features using my Kill-a-Watt. Under no load, this switch was pulling .01 Amps (less than 1 watt)."
+    }
+  }
+}

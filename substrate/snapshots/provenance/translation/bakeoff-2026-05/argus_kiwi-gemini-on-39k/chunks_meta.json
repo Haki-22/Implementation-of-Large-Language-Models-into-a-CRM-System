@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_idx": 0,
+    "items_in_chunk": 1646,
+    "input_chars": 599665,
+    "verdicts_total_returned": 16,
+    "invalid_count": 16,
+    "wall_seconds": 175.8,
+    "error": null
+  },
+  {
+    "chunk_idx": 1,
+    "items_in_chunk": 2435,
+    "input_chars": 599713,
+    "verdicts_total_returned": 71,
+    "invalid_count": 71,
+    "wall_seconds": 204.1,
+    "error": null
+  },
+  {
+    "chunk_idx": 2,
+    "items_in_chunk": 2426,
+    "input_chars": 599935,
+    "verdicts_total_returned": 20,
+    "invalid_count": 20,
+    "wall_seconds": 420.3,
+    "error": null
+  },
+  {
+    "chunk_idx": 3,
+    "items_in_chunk": 2448,
+    "input_chars": 599993,
+    "verdicts_total_returned": 33,
+    "invalid_count": 33,
+    "wall_seconds": 181.3,
+    "error": null
+  },
+  {
+    "chunk_idx": 4,
+    "items_in_chunk": 2420,
+    "input_chars": 599900,
+    "verdicts_total_returned": 36,
+    "invalid_count": 36,
+    "wall_seconds": 148.7,
+    "error": null
+  },
+  {
+    "chunk_idx": 5,
+    "items_in_chunk": 2371,
+    "input_chars": 599892,
+    "verdicts_total_returned": 35,
+    "invalid_count": 35,
+    "wall_seconds": 333.8,
+    "error": null
+  },
+  {
+    "chunk_idx": 6,
+    "items_in_chunk": 2427,
+    "input_chars": 599801,
+    "verdicts_total_returned": 36,
+    "invalid_count": 36,
+    "wall_seconds": 232.8,
+    "error": null
+  },
+  {
+    "chunk_idx": 7,
+    "items_in_chunk": 117,
+    "input_chars": 30195,
+    "verdicts_total_returned": 17,
+    "invalid_count": 17,
+    "wall_seconds": 132.6,
+    "error": null
+  }
+]

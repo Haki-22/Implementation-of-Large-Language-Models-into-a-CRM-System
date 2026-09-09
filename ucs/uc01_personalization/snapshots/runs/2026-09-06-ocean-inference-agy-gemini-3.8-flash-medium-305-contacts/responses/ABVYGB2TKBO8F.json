@@ -1,0 +1,40 @@
+{
+  "contact_id": 152,
+  "reviewer_id": "ABVYGB2TKBO8F",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 122,
+  "reviews_used": 15,
+  "prompt_chars": 9250,
+  "status": "ok",
+  "seconds": 566.23,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.65,
+    "A": 3.95,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "Second I really like the translucent mirror technology and all it brings to the party.",
+      "C": "It just arrived today and I've been going over it with a critical eye.",
+      "E": "We are having a lot of fun with the XP60. We take it on the boat, to the beach, in the spa, and the local city pool.",
+      "A": "I have a few negative comments in this review but I'm still happy with my purchase.",
+      "N": "I'm a little miffed at Sony for the poor A55 reliability but I do think it isn't common."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.35,
+    "E": 3.65,
+    "N": 2.1,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I have a few negative comments in this review but I'm still happy with my purchase.",
+      "C": "It just arrived today and I've been going over it with a critical eye.",
+      "E": "We are having a lot of fun with the XP60. We take it on the boat, to the beach, in the spa, and the local city pool.",
+      "N": "I'm a little miffed at Sony for the poor A55 reliability but I do think it isn't common.",
+      "O": "Second I really like the translucent mirror technology and all it brings to the party."
+    }
+  }
+}

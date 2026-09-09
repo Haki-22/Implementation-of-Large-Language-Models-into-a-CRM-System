@@ -1,0 +1,40 @@
+{
+  "contact_id": 21,
+  "reviewer_id": "A3EXWV8FNSSFL6",
+  "group": "A",
+  "sources": "previous",
+  "reviews_total": 250,
+  "reviews_used": 15,
+  "prompt_chars": 9683,
+  "status": "ok",
+  "seconds": 60.38,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.1,
+    "E": 3.65,
+    "A": 3.8,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "Who would know that V-Moda would package Jimi Hendrix in the box and he would visit my house.",
+      "C": "I purchased these Verbatim blanks to back up some irreplacable video files",
+      "E": "I am a road warrior and for the past ten years I have searched for a decent portable speaker",
+      "A": "They got a ton of play by my son who loved the design.",
+      "N": "It's a small thing, but you should be aware that it is heavy."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.1,
+    "E": 3.65,
+    "N": 2.2,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "They got a ton of play by my son who loved the design.",
+      "C": "I purchased these Verbatim blanks to back up some irreplacable video files",
+      "E": "I am a road warrior and for the past ten years I have searched for a decent portable speaker",
+      "N": "It's a small thing, but you should be aware that it is heavy.",
+      "O": "Who would know that V-Moda would package Jimi Hendrix in the box and he would visit my house."
+    }
+  }
+}

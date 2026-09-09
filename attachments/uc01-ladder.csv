@@ -1,0 +1,16 @@
+level,name,name_cs,uses_model,requested,generated,skipped,errors,reused,rules_accepted,rules_rate,rules_failures,rules_unchecked,lsm_mean,overlap_mean,chars_mean,run
+0,generic,obecný brief,0,60,60,0,0,0,9,0.15,REGISTER_MISMATCH=27;VOCATIVE_MISMATCH=48,register=6;vocative=12,0.526,0.0073,258.7,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+1,merge,mail merge,0,60,60,0,0,0,60,1.0,,register=6;vocative=12,0.528,0.0073,272.1,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+2,morphology,morfologie,1,60,60,0,0,6,60,1.0,,register=6;vocative=12,0.5277,0.0073,274.7,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+3a,linguistic,vlastní slova,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.6278,0.0438,337.6,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+3b,purchases,nákupy,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.4245,0.0,121.4,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+3c,reviews,recenze,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.4156,0.0,119.8,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+3d,role,role,1,20,7,13,0,1,7,1.0,,,0.6228,0.0,347.3,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+3,behaviour,chování,1,60,48,12,0,6,48,1.0,,register=6;vocative=12,0.5128,0.0458,262.8,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+4,aspects,aspekty,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.4607,0.0187,133.8,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+5,psychographic,profil OCEAN,1,60,48,12,0,6,48,1.0,,register=6;vocative=12,0.5032,0.0427,241.0,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+6a,recommendations,doporučení,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.52,0.0719,200.9,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+6b,topics,témata,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.4526,0.0031,131.9,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+6c,lifecycle,fáze vztahu,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.4762,0.05,278.0,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+6d,pricing,cena,1,20,16,4,0,2,16,1.0,,register=2;vocative=4,0.4417,0.0875,315.8,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all
+6,hyper,hyperpersonalizace,1,60,48,12,0,6,48,1.0,,register=6;vocative=12,0.5041,0.0854,273.6,2026-09-07-uc01-personalization-20-level-codex-gpt-5.6-terra-low-all

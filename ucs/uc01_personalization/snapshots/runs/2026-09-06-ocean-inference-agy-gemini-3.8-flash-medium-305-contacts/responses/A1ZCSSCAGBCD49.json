@@ -1,0 +1,40 @@
+{
+  "contact_id": 179,
+  "reviewer_id": "A1ZCSSCAGBCD49",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 112,
+  "reviews_used": 15,
+  "prompt_chars": 9587,
+  "status": "ok",
+  "seconds": 675.24,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.05,
+    "E": 3.4,
+    "A": 2.7,
+    "N": 3.5,
+    "evidence_quotes": {
+      "O": "When I saw the opportunity to try out a modern turntable with USB connectivity, I jumped at the chance.",
+      "C": "Since getting this Internet radio I have spent about 6 weeks trying to trouble shoot what is essentially a failed device.",
+      "E": "I'm downrating this product BEFORE I actually use it to hopefully catch your attention BEFORE you buy it!",
+      "A": "They just have to make you feel like a fool for buying an Apple product. Thanks Steverino!",
+      "N": "That said, I became very frustrated with the lack of support I was actually getting."
+    }
+  },
+  "raw": {
+    "A": 2.7,
+    "C": 4.05,
+    "E": 3.4,
+    "N": 3.5,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "They just have to make you feel like a fool for buying an Apple product. Thanks Steverino!",
+      "C": "Since getting this Internet radio I have spent about 6 weeks trying to trouble shoot what is essentially a failed device.",
+      "E": "I'm downrating this product BEFORE I actually use it to hopefully catch your attention BEFORE you buy it!",
+      "N": "That said, I became very frustrated with the lack of support I was actually getting.",
+      "O": "When I saw the opportunity to try out a modern turntable with USB connectivity, I jumped at the chance."
+    }
+  }
+}

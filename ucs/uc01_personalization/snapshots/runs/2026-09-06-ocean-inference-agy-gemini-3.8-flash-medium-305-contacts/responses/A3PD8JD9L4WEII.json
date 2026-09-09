@@ -1,0 +1,40 @@
+{
+  "contact_id": 77,
+  "reviewer_id": "A3PD8JD9L4WEII",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 204,
+  "reviews_used": 15,
+  "prompt_chars": 9912,
+  "status": "ok",
+  "seconds": 240.29,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.4,
+    "A": 3.65,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "This is a very unusual and interesting design which is one of the things that first attracted me.",
+      "C": "I tested this speaker with several different devices to be sure it was getting a fair shake.",
+      "E": "This cool little gadget does what it claims and does it very well.",
+      "A": "Please save your hard earned money and look elsewhere for \"magic.\"",
+      "N": "I got it to work but it took some playing around."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.25,
+    "E": 3.4,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Please save your hard earned money and look elsewhere for \"magic.\"",
+      "C": "I tested this speaker with several different devices to be sure it was getting a fair shake.",
+      "E": "This cool little gadget does what it claims and does it very well.",
+      "N": "I got it to work but it took some playing around.",
+      "O": "This is a very unusual and interesting design which is one of the things that first attracted me."
+    }
+  }
+}

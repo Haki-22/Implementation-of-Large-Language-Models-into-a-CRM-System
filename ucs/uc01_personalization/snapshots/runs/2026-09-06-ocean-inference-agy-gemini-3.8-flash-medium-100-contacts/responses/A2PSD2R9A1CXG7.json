@@ -1,0 +1,40 @@
+{
+  "contact_id": 138,
+  "reviewer_id": "A2PSD2R9A1CXG7",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 120,
+  "reviews_used": 15,
+  "prompt_chars": 10046,
+  "status": "ok",
+  "seconds": 81.09,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.45,
+    "A": 3.85,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "As a photo-hobbyist that enjoys photographing my travel experiences my first camera support purchase was theBogen 3231 professional monopod",
+      "C": "When I bought my 8.2 mp Canon 20D, I decided it was time to get a second CF card so the research started.",
+      "E": "Then I signed up with Team In Training to compete in my first half marathon. I trained with a large group of runners with varying experience levels",
+      "A": "She assured me my concerns were unwarranted and urged me to make the purchase.",
+      "N": "I ran into several issues in the process, but learned how to overcome them."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.2,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "She assured me my concerns were unwarranted and urged me to make the purchase.",
+      "C": "When I bought my 8.2 mp Canon 20D, I decided it was time to get a second CF card so the research started.",
+      "E": "Then I signed up with Team In Training to compete in my first half marathon. I trained with a large group of runners with varying experience levels",
+      "N": "I ran into several issues in the process, but learned how to overcome them.",
+      "O": "As a photo-hobbyist that enjoys photographing my travel experiences my first camera support purchase was theBogen 3231 professional monopod"
+    }
+  }
+}

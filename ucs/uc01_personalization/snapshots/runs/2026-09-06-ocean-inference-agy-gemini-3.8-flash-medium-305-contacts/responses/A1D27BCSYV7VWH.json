@@ -1,0 +1,40 @@
+{
+  "contact_id": 405,
+  "reviewer_id": "A1D27BCSYV7VWH",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 44,
+  "reviews_used": 15,
+  "prompt_chars": 9877,
+  "status": "ok",
+  "seconds": 1385.69,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.4,
+    "A": 3.9,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "however for this kind of money I did some pretty deep comparison shopping and resear",
+      "C": "Out of the box and playing TV in 50 minutes, 10 to install the card, 20 on the phone with Comcast, and 20 minutes installing and configuring the software",
+      "E": "I picked up one of these after a friend told me about them",
+      "A": "The fan noise is why I gave it a 3 and not a 5, and the picture was why I just could not give it a 1",
+      "N": "The Annoying: Radically bright power LED on the box for a home theater application, small piece of electrical tape took care of that, no light now."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.25,
+    "E": 3.4,
+    "N": 2.2,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "The fan noise is why I gave it a 3 and not a 5, and the picture was why I just could not give it a 1",
+      "C": "Out of the box and playing TV in 50 minutes, 10 to install the card, 20 on the phone with Comcast, and 20 minutes installing and configuring the software",
+      "E": "I picked up one of these after a friend told me about them",
+      "N": "The Annoying: Radically bright power LED on the box for a home theater application, small piece of electrical tape took care of that, no light now.",
+      "O": "however for this kind of money I did some pretty deep comparison shopping and resear"
+    }
+  }
+}

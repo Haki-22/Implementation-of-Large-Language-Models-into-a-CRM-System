@@ -1,0 +1,40 @@
+{
+  "contact_id": 37,
+  "reviewer_id": "A2AY4YUOX2N1BQ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 228,
+  "reviews_used": 15,
+  "prompt_chars": 9791,
+  "status": "ok",
+  "seconds": 96.73,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.35,
+    "E": 3.6,
+    "A": 4.05,
+    "N": 1.95,
+    "evidence_quotes": {
+      "O": "It is PC and Mac compatible, and also ran just fine on ArchLinux and ElementaryOS.",
+      "C": "I have edited this review to keep up with my new review format, but the sentiments haven't changed!",
+      "E": "I am a semi-professional photographer, who shoots mainly weddings, although I do a lot of portrait work in my spare time.",
+      "A": "after looking through a ton of reviewers being pleased with their purchase but rating it at 3-stars, I decided it could use the bump",
+      "N": "This is not a power-house case, but at this price no-one should be expecting it to be!"
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.35,
+    "E": 3.6,
+    "N": 1.95,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "after looking through a ton of reviewers being pleased with their purchase but rating it at 3-stars, I decided it could use the bump",
+      "C": "I have edited this review to keep up with my new review format, but the sentiments haven't changed!",
+      "E": "I am a semi-professional photographer, who shoots mainly weddings, although I do a lot of portrait work in my spare time.",
+      "N": "This is not a power-house case, but at this price no-one should be expecting it to be!",
+      "O": "It is PC and Mac compatible, and also ran just fine on ArchLinux and ElementaryOS."
+    }
+  }
+}

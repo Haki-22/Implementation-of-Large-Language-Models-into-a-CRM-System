@@ -1,0 +1,35 @@
+{
+  "contact_id": 353,
+  "status": "ok",
+  "seconds": 5.46,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Pevný disk Seagate NAS HDD 3,5\" 4 TB SATA pro rozšíření síťového úložiště",
+      "Baterie Nikon EN-EL3e pro digitální zrcadlovku Nikon D50",
+      "Paměťová karta SDHC 32 GB Class 10 s Wi‑Fi přenosem pro fotoaparát Nikon"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-353 (anonymizováno). Názvy produktů česky.\nNákupní historie (47 nákupů, od nejstaršího):\n- 2007-05-23 ★5 Propojovací sada do auta pro Walkman MD a CD Walkman (model č. CPA-9C)\n- 2007-05-23 ★5 Zrcadlovka Nikon D50 (pouze tělo) (STARÝ MODEL)\n- 2007-05-23 ★4 NOVÁ AUTONABÍJEČKA pro Apple iPod Video Nano a iPhone touch\n- 2007-05-23 ★5 Garmin eTrex Vista Cx Voděodolná turistická GPS navigace\n- 2007-05-23 ★5 Čtečka karet Sandisk Extreme USB 2.0 3v1 (SDDRX3-3IN1-901, balení pro maloobchodní prodej v USA)\n- 2007-05-23 ★5 Paměťová karta SanDisk SD 2GB (SDSDB-2048, hromadné balení)\n- 2009-01-08 ★4 Brašna na fotoaparát Lowepro SlingShot 300 do každého počasí (černá)\n- 2011-06-23 ★4 Bezdrátová síťová kamera D-Link pro denní/noční režim s podporou mydlink, DCS-932L (bílá)\n- 2011-11-17 ★5 Lehká skládací sluchátka Sennheiser PX 100 (výrobce ukončil výrobu)\n- 2011-11-17 ★3 Mini stativ Sunpak MINI-PLUS s 3cestnou panhead hlavou\n- 2011-11-17 ★5 Nikon EN-EL3a Rechargeable Lithium-Ion Battery Pack for D50, D70, D70s, and D100\n- 2011-11-17 ★4 USB flash disk Verbatim 2 GB USB 2.0, modrý 97086\n- 2011-11-25 ★5 Teleobjektiv Nikon 18-200 mm f/3,5-5,6G AF-S ED VR II Nikkor se zoomem pro digitální zrcadlovky formátu Nikon DX\n- 2011-12-19 ★5 Chladicí podložka pod notebook Belkin CoolSpot Anyway\n- 2012-02-20 ★5 Distanční podložky eneloop SEC-DSPACER4PK velikosti D pro použití s bateriemi AA\n- 2012-03-24 ★2 Batoh AmazonBasics Sling pro zrcadlovky\n- 2012-05-11 ★4 Poutko na digitální zrcadlovku Case Logic TBC-410\n- 2012-08-15 ★5 Diamond Multimedia Powerline Internet HDTV AV 200 Mbps Ethernet přes Power HomePlug AV Ethernet Adaptér Starter Kit (2 a\n- 2012-08-15 ★5 Mobilní projektor 3M MP410\n- 2012-10-25 ★5 Mobilní klávesnice Microsoft Wedge\n- 2012-10-25 ★5 Streamovací projektor 3M s technologií Roku (SPR1000)\n- 2012-11-21 ★2 Kolorimetr Datacolor Spyder4Elite S4EL100 pro kalibraci displeje\n- 2012-12-19 ★5 Klávesnice pro tablet Logitech 920-003390 s Androidem 3.0 Plus\n- 2013-01-09 ★5 Belkin MiXiT Aux / Auxiliary kabel odolný proti zamotávání, 90 cm (červený)\n- 2013-01-09 ★5 Pouzdro AmazonBasics Holster pro digitální zrcadlovky\n- 2013-01-09 ★5 Dotyková myš Microsoft Sculpt\n- 2013-01-10 ★5 Zoo-Tunes Portable Mini Character Speakers for MP3 Players, Tablets, Laptops etc. (Teddy Bear)\n- 2013-02-27 ★5 Bezdrátový PCI adaptér TP-LINK TL-WN951N N300 Advanced, 2,4 GHz 300 Mb/s, včetně nízkoprofilového držáku\n- 2013-02-27 ★2 Seagate Wireless Plus 1TB Mobile Cloud Storage with Built-in WiFi Streaming (STCK1000100)\n- 2013-04-08 ★2 Mace Security EWIP-CAM-WIFI Easy Watch IP HD megapixelová bezdrátová síťová bezpečnostní kamera\n- 2013-04-08 ★5 Bezdrátový Bluetooth reproduktor iLuv MobiTour pro Kindle, tablet nebo smartphone (černý)\n- 2013-04-11 ★5 Action Video Camera from Sony HDR-AS15 (Black)\n- 2013-04-17 ★4 Bezdrátový adaptér TP-LINK TL-WPA281 pro powerline s rychlostí 300 Mb/s, 2,4 GHz, N300, 802.11b/g/n\n- 2013-04-27 ★4 Coby 7palcový internetový tablet s Androidem 4.0, 8 GB RAM, 16:9 kapacitní multidotykový širokoúhlý displej s vestavěnou\n- 2013-06-07 ★5 Powerbanka myCharge Jolt 2000D, RFAM-0226 (stříbrná)\n- 2013-07-16 ★5 Seagate NAS HDD 2TB SATA 6GB NCQ 64 MB Cache Bare Drive ST2000VN000\n- 2013-08-05 ★5 Bezdrátová paměťová karta Eye-Fi Mobi 8GB SDHC Class 10 s 90denní výdrží cloudové služby Eye-Fi, balení bez frustrace (M\n- 2013-10-14 ★5 NETGEAR ReadyNAS 102 2-pozicové bezdiskové síťové úložiště (RN10200-100NAS)\n- 2013-10-28 ★5 Belkin F8T065tt Mini Bluetooth 4.0 USB adaptér pro Windows XP, Windows 7 a Windows 8\n- 2013-12-04 ★5 Reproduktory Logitech Multimedia Speakers Z200 se stereo zvukem pro více zařízení, černé\n- 2013-12-17 ★5 WD My Cloud EX4 Diskless: Vysoce výkonný NAS, maximální spolehlivost, osobní cloudové úložiště (WDBWWD0000NBK-NESN)\n- 2014-01-08 ★4 Samson Expedition Express PA systém s dobíjecí baterií a Bluetooth\n- 2014-01-14 ★3 Toshiba Flash Air II Wireless SD Memory Card (PFW016U-1BCW)\n- 2014-04-23 ★4 Přenosný PA systém Samson Expedition XP308i s výkonem 300 W\n- 2014-04-24 ★5 Pevný disk Seagate Laptop Thin 320 GB 7200 ot./min SATA 6 GB/s 32 MB mezipaměti 2,5\" (ST320LM010)\n- 2014-06-17 ★4 Osobní cloudové úložiště a mediální server Buffalo LinkStation 210 3 TB NAS (LS210D0301)\n- 2014-07-01 ★5 Paměťová karta Samsung Electronics 32GB EVO Micro SDHC s adaptérem, až 48 MB/s, třída 10 (MB-MP32DA/AM)\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Pevný disk Seagate NAS HDD 3,5\" 4 TB SATA pro rozšíření síťového úložiště",
+      "Baterie Nikon EN-EL3e pro digitální zrcadlovku Nikon D50",
+      "Paměťová karta SDHC 32 GB Class 10 s Wi‑Fi přenosem pro fotoaparát Nikon"
+    ]
+  },
+  "held_out": "B00JEVHZHC"
+}

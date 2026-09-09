@@ -1,0 +1,60 @@
+{
+  "kind": "aspects",
+  "key": "38",
+  "status": "ok",
+  "seconds": 16.96,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Tento adaptér funguje uspokojivě a snadno se instaluje."
+      },
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Kvalita konstrukce těchto sluchátek je nadprůměrná."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Maximální rozlišení, které dokáže, je 1680 x 1050."
+      },
+      {
+        "aspect": "Cena",
+        "sentiment": "positive",
+        "evidence": "Za svou cenu je tato karta těžko překonatelná."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-38 (anonymizován).\nRecenze (100, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nNikon LC-67 Snap-on Front Lens Cap 67mm: Skutečná věc. Koupil jsem si tohle jako náhradu za krytku pro můj objektiv Nikon 16-85 VR. Pasuje perfektně a je to skutečná koupě. Obrázek zde je naprosto špatně. Toto je moderní \"pinch\" verze krytky objektivu. RJB.\nB+W 46mm čirý UV zářivý film s multirezistentní vrstvou (010M): Vysoce kvalitní UV filtr pro vaše kvalitní čočky Toto je UV Haze filtr, který chcete pro své lepší 77mm objektivy. Koupil jsem si ho speciálně pro svůj objektiv Nikon 24-70 F/2.8, což je jeden z mých nejlepších objektivů. Tento filtr má na obou stranách antireflexní vrstvu, což je přesně to, co chcete. Nemá smysl platit za špičkový objektiv a pak si nechat fotografie zničit odlesky nebo nekvalitní optikou kvůli levnému filtru. Hlavním účelem tohoto filtru je samozřejmě chránit extrémně drahé sklo, které je nedílnou součástí objektivu. Pokud tento filtr poškrábete, je jeho výměna snadná a relativně levná. Ne tak samotné optické komponenty objektivu. Vždy používám kvalitní UV filtr, jako je tento, k ochraně svých objektivů. RJB.\nTiffen 46mm UV ochranný filtr: Dostatečná ochrana objektivu Tenhle objektiv dostatečně ochrání, to je asi tak všechno. Nemá ale antireflexní vrstvu. Kdybych si to musel zopakovat, pravděpodobně bych si pro svůj objektiv 24-70 mm F/2,8 připlatil za verzi od Nikonu. RJB.\nPaměťová karta Kingston 4 GB SDHC třídy 4 SD4/4GBET: Pěkná malá SD karta Na téhle malé SD kartě opravdu není nic, co by se dalo nelíbit. 16 GB v dnešní době není moc, ale já ji používám na ukládání obrázků do svého digitálního fotorámečku a na tohle funguje skvěle. Pěkná malá karta. RJB.\nStarTech.com USB to VGA Multi Monitor External Video Card Adapter - 1440x900 - USB to VGA External Graphics Card: Fungovalo uspokojivě; rozlišení omezeno na 1680 x 1050 Tento adaptér funguje uspokojivě a snadno se instaluje. Upozorňujeme však, že rozlišení tohoto adaptéru je omezené. Maximální rozlišení, které dokáže, je 1680 x 1050. Můj 25palcový monitor HP podporuje mnohem vyšší rozlišení, takže tento adaptér je omezující. Navíc je tento adaptér poněkud pomalejší než integrovaná grafická karta. Pro běžné používání počítače funguje uspokojivě. Pozitivní stránkou je snadná instalace. Musíte použít dodané instalační CD; instalace není plug and play. Nicméně instalace trvala jen pár minut a zvládl jsem ji bez jakýchkoli problémů. Sečteno a podtrženo: pokud je 1680 x 1050 nejlepší rozlišení, které budete potřebovat, je to dobrý adaptér a vyžaduje pouze USB 2.0 a RJB.\nCable Matters 3 Port 3x1 HDMI Switch with IR:  Tohle je pěkný malý HDMI přepínač. Moje televize Sony má jen dva HDMI porty a pro Blu-ray přehrávač, Apple TV a satelitní přijímač jsem potřeboval tři. Tento přepínač na to funguje perfektně. Pokud vám nevadí používat tlačítko na přepínači místo dálkového ovladače k přepínání HDMI zařízení, tento přepínač se jednoduše zapojí do HDMI portu televize a je připraven k použití. Napájení je získáváno z HDMI portu na vaší televizi. Dodávané dálkové ovládání funguje dobře, pokud se rozhodnete zapojit do přepínače také dodávaný IR senzor. To vše pomáhá eliminovat nepořádek a zjednodušit věci. Příliš mnoho zařízení je složitých s příliš mnoha vychytávkami. Tento přepínač věci zjednodušuje, ale zároveň je dodáván s dálkovým ovladačem, pokud ho vaše aplikace potřebuje. To je bezkonkurenční. Doporučuji. RJB.\nB004JWA70I: Perfektní produkt za velmi rozumnou cenu. Tohle je perfektní produkt na to, co je, a bez ostychu mu hodnotím pět hvězdiček. Hned na první vyzkoušení se mi nalepila na nový Kindle Paperwhite bez jediné bublinky. Perfektní. Textura má lehce „brusný“ povrch, což je v pořádku. Jinak byste ani nepoznali, že tato ochranná fólie na Kindle je. Dávají vám tři kusy, takže když to napoprvé pokazíte, můžete to zkusit znovu. Ti, kteří mají s používáním těchto typů ochranných fólií, stejně jako já, pravděpodobně udělají dobře hned napoprvé, takže budete mít dvě náhradní. Některé společnosti vyrábějící ochranné fólie jsou šetrné a dávají vám pouze jednu ochrannou fólii na jeden pokus a za vyšší cenu. Tady ne. Toto je příslušenství, které bude chtít každý majitel Kindle Paperwhite. Vřele doporučuji. RJB.\nCase Logic TBC-302 FFP Compact Camera Case (Black):  Toto je velmi pěkné malé pouzdro pro digitální fotoaparát Canon S100 a fotoaparáty podobné velikosti. Chrání fotoaparát a má přihrádku vhodnou pro uložení náhradní baterie a SD karty. Za ty peníze si opravdu nemůžete koupit lepší pouzdro. Koupil jsem manželce Canon S100 k narozeninám a toto pouzdro je pro ni perfektní. Můžete si ho připnout na opasek na turistiku nebo procházky, nebo si ho jen tak dát do tašky nebo podobně. Toto pouzdro je dobře vyrobené a za ty peníze je to skvělá nabídka. RJB.\nSanDisk 4GB Extreme SDHC Class 10 Memory Card: Skvělý výkon a dobrá nabídka za danou cenu Rád často fotím s fotoaparátem Canon S100 v režimu sériového snímání a chtěl jsem mít kartu SDHC třídy 10, která by s fotoaparátem držela krok. I když jsem neprováděl žádné metodické benchmarkové testy, při sériovém snímání je výkon s touto kartou znatelně lepší než s některými levnějšími kartami třídy 2, které jsem měl po ruce. I pro videa by tato karta měla být ideální. S 32 GB můžu pořídit přes 10 000 snímků ve vysoké kvalitě JPEG a přes 5 000 snímků RAW+JPEG. To je opravdu vše, co potřebujete i na tu nejfotomobilnější dovolenou! Ušli jsme dlouhou cestu! Už žádné pocení s ukládáním fotografií během dovolené. Za svou cenu je tato karta těžko překonatelná. Můj notebook s Windows 8 neměl problém tuto kartu načíst a v mém fotoaparátu Canon S100 Powershot funguje perfektně. RJB.\nSANOXY STR35-CBL6 6 Feet 3.5 mm Stereo Extension Cable Male to Female: Funguje dobře a vypadá robustně Tyto dělají přesně to, co mají. Jeden z nich můžete zapojit do 3,5mm stereo jacku, což je standardní velikost mini jacku na většině televizorů a počítačů, a funguje jako prodlužovací kabel. To je ideální pro zařízení, která mají vstupy jack na nevhodných místech, nebo samozřejmě pokud prostě potřebujete delší kabel. Koupil jsem si jich několik a fungují a vypadají dobře zpracované. RJB.\nSkullcandy SCS-SCW3.5 Skullcrusher Subwoofer Stereo Headphones (White): Docela dobrá sluchátka Za ty peníze jsou to docela dobrá sluchátka. Jejich hlavním rozlišovacím prvkem jsou vylepšené basy. Pokud máte rádi hodně basů ve zvuku, jsou tato sluchátka pro vás. Zjistil jsem, že při sledování filmů na iPadu nebo Kindle Fire tato sluchátka výrazně vylepšují zvuk. Jedna věc, kterou mi tato sluchátka nedokázala, je adekvátní potlačení zvuku v hlučném prostředí. Konkrétně při létání v hlučném letadle tato sluchátka nedokázala dostatečně potlačit hluk v pozadí. Moje sluchátka Bose toho sice dokázala, ale samozřejmě stála téměř pětkrát tolik. Kvalita konstrukce těchto sluchátek je nadprůměrná. Jsou to pěkně vyrobená sluchátka. Tato sluchátka vyžadují pro fungování subwooferu jednu AA baterii. Pokud je po použití zapomenete vypnout, baterie se vybije během několika dní. Je tedy důležité si to pamatovat. Pokud nepotřebujete super potlačení hluku, jsou tato sluchátka dobrou volbou. RJB.\nStojan na pozadí Square Perfect 1040 SP2000 pro mušelínové scénické pozadí a zelené/modré obrazovky Chromakey: Dobrý hardware Můj syn koupil tento stojan na pozadí, aby poskytl rychlé nastavení zeleného pozadí pro videa a některé fotografie. Pro tento účel se velmi dobře osvědčil. Stojan se snadno sestavuje a skládá a snadno se skladuje, když se nepoužívá. Pro tento stojan najdeme mnoho využití. Hardware se zdá být dobře vyrobený a robustní. RJB.\nSeagate Desktop HDD 500GB 7200RPM SATA 3Gb/s 16 MB Cache 3.5\"- Internal Drive Retail Kit (ST3500641AS-RK): Funguje dobře na mé USB dokovací stanici Tento 2TB disk Seagate Barracuda jsem si koupil především jako svůj druhý multimediální disk, protože si z iTunes kupuji spoustu filmů a televizních seriálů, které mi často zabírají místo na disku. Tento disk používám také k ukládání svých cenných digitálních fotografií. Používám ho v dokovací stanici LaptopMate Uspeed j\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Tento adaptér funguje uspokojivě a snadno se instaluje."
+      },
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Kvalita konstrukce těchto sluchátek je nadprůměrná."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Maximální rozlišení, které dokáže, je 1680 x 1050."
+      },
+      {
+        "aspect": "Cena",
+        "sentiment": "positive",
+        "evidence": "Za svou cenu je tato karta těžko překonatelná."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 22,
+  "reviewer_id": "A3TAS1AG6FMBQW",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 143,
+  "reviews_used": 15,
+  "prompt_chars": 10259,
+  "status": "ok",
+  "seconds": 59.19,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.4,
+    "E": 3.9,
+    "A": 3.95,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I've used several similar applications and am becoming increasingly skilled with many apps included within my Adobe CC subscription.",
+      "C": "the best of both large cloud-based storage at home as well as a backup copy maintained offsite",
+      "E": "it was nice to sit the tablet up as a mini display when in meetings so everyone could watch. I am very very very happy with the case!!",
+      "A": "this lens is a gift to each other for our Crystal Jubilee Wedding Anniversary (our 15th). And we only live once... well in his case twice..",
+      "N": "someone who must pack light for crazy situations within the US, usually last minute, for unknown durations, yet needing access to current technology"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.4,
+    "E": 3.9,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "this lens is a gift to each other for our Crystal Jubilee Wedding Anniversary (our 15th). And we only live once... well in his case twice..",
+      "C": "the best of both large cloud-based storage at home as well as a backup copy maintained offsite",
+      "E": "it was nice to sit the tablet up as a mini display when in meetings so everyone could watch. I am very very very happy with the case!!",
+      "N": "someone who must pack light for crazy situations within the US, usually last minute, for unknown durations, yet needing access to current technology",
+      "O": "I've used several similar applications and am becoming increasingly skilled with many apps included within my Adobe CC subscription."
+    }
+  }
+}

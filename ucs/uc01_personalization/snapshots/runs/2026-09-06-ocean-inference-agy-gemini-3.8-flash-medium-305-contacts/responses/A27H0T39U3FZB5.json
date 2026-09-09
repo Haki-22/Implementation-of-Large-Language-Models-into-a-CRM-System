@@ -1,0 +1,40 @@
+{
+  "contact_id": 262,
+  "reviewer_id": "A27H0T39U3FZB5",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 9863,
+  "status": "ok",
+  "seconds": 970.13,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.6,
+    "E": 3.4,
+    "A": 3.85,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "Has a wonderful stereo image that gives a much more \"present\" feeling to vocalists and solo instruments than other similarly priced earphones.",
+      "C": "The LS3100 is just complex enough to warrant reading the manual before connecting the parts.",
+      "E": "I fly a lot. Full-on \"road-warrior\". In the past, I've looked longingly at the Bose headphones that others who were willing to spend the coin were wearing on the plane.",
+      "A": "Hope the review is helpful and that you don't mind digging through it to find the actual info :-)",
+      "N": "Small device that came with few instructions and no Mac software in the box, but in the end it works well and does what it says - with some minor effort."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.6,
+    "E": 3.4,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Hope the review is helpful and that you don't mind digging through it to find the actual info :-)",
+      "C": "The LS3100 is just complex enough to warrant reading the manual before connecting the parts.",
+      "E": "I fly a lot. Full-on \"road-warrior\". In the past, I've looked longingly at the Bose headphones that others who were willing to spend the coin were wearing on the plane.",
+      "N": "Small device that came with few instructions and no Mac software in the box, but in the end it works well and does what it says - with some minor effort.",
+      "O": "Has a wonderful stereo image that gives a much more \"present\" feeling to vocalists and solo instruments than other similarly priced earphones."
+    }
+  }
+}

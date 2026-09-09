@@ -1,0 +1,40 @@
+{
+  "contact_id": 146,
+  "reviewer_id": "A24HWYHR28JJ7A",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 114,
+  "reviews_used": 15,
+  "prompt_chars": 10764,
+  "status": "ok",
+  "seconds": 535.96,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.45,
+    "E": 3.65,
+    "A": 4.2,
+    "N": 1.95,
+    "evidence_quotes": {
+      "O": "I work in high tech and I am also a musician who plays guitars, harmonica, and world-beat/ethnic percussion.",
+      "C": "This review is written from the perspective of comparing Think Tank's previous (V1.0) version of the Digital Holster 30 with the updated V2.0 version.",
+      "E": "camera holsters are perfect for shoot-and-scoot situations like walking tours of a city, hiking in the woods or mountains, and social gatherings with family or friends.",
+      "A": "Highly recommended with warm fuzzies!",
+      "N": "Somewhat recommended, with reservations and only lukewarm fuzzies."
+    }
+  },
+  "raw": {
+    "A": 4.2,
+    "C": 4.45,
+    "E": 3.65,
+    "N": 1.95,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "Highly recommended with warm fuzzies!",
+      "C": "This review is written from the perspective of comparing Think Tank's previous (V1.0) version of the Digital Holster 30 with the updated V2.0 version.",
+      "E": "camera holsters are perfect for shoot-and-scoot situations like walking tours of a city, hiking in the woods or mountains, and social gatherings with family or friends.",
+      "N": "Somewhat recommended, with reservations and only lukewarm fuzzies.",
+      "O": "I work in high tech and I am also a musician who plays guitars, harmonica, and world-beat/ethnic percussion."
+    }
+  }
+}

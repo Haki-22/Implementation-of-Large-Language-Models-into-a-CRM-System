@@ -1,0 +1,40 @@
+{
+  "contact_id": 58,
+  "reviewer_id": "A11KZ906QD08C5",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 184,
+  "reviews_used": 15,
+  "prompt_chars": 8724,
+  "status": "ok",
+  "seconds": 175.4,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.95,
+    "E": 3.5,
+    "A": 3.65,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I have tested it on My new Acer Aspire One (shortened Linux OS) and on my new Eee PC 1000 (XP Home OS).",
+      "C": "I've spent the whole day and late into the night testing the Eton FR500 Solarlink and I am impressed.",
+      "E": "I only want to register my great satisfaction with this camera - and with all things CANON. I have become crazy with happiness.",
+      "A": "Also, bare in mind that I'm just a customer and have very limited radio/technical knowledge.",
+      "N": "When this radio arrived in the mail my heart sank. I thought it couldn't possibly satisfy my desires for good quality radio reception."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 3.95,
+    "E": 3.5,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Also, bare in mind that I'm just a customer and have very limited radio/technical knowledge.",
+      "C": "I've spent the whole day and late into the night testing the Eton FR500 Solarlink and I am impressed.",
+      "E": "I only want to register my great satisfaction with this camera - and with all things CANON. I have become crazy with happiness.",
+      "N": "When this radio arrived in the mail my heart sank. I thought it couldn't possibly satisfy my desires for good quality radio reception.",
+      "O": "I have tested it on My new Acer Aspire One (shortened Linux OS) and on my new Eee PC 1000 (XP Home OS)."
+    }
+  }
+}

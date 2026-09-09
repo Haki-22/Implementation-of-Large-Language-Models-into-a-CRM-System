@@ -1,0 +1,40 @@
+{
+  "contact_id": 112,
+  "reviewer_id": "AONUCJBC85BL",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 138,
+  "reviews_used": 15,
+  "prompt_chars": 10033,
+  "status": "ok",
+  "seconds": 402.83,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.75,
+    "A": 3.8,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "Specifically, when I need the precision of a trackball for design or architecture work when not at my desk.",
+      "C": "I keep it in the car for camputs and for storm situations and the like.",
+      "E": "Projector - stunned. Amazed. Blown away. I thought this would be a gimmicky feature but it works amazingly well.",
+      "A": "There seems to be some confusion, Sony had a previous model of this that was very similar but was NOT iphone compatible. This new model IS iphone compatible.",
+      "N": "Ok, so I really wanted to love this little camera but it's fighting me very step of the way."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.1,
+    "E": 3.75,
+    "N": 2.5,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "There seems to be some confusion, Sony had a previous model of this that was very similar but was NOT iphone compatible. This new model IS iphone compatible.",
+      "C": "I keep it in the car for camputs and for storm situations and the like.",
+      "E": "Projector - stunned. Amazed. Blown away. I thought this would be a gimmicky feature but it works amazingly well.",
+      "N": "Ok, so I really wanted to love this little camera but it's fighting me very step of the way.",
+      "O": "Specifically, when I need the precision of a trackball for design or architecture work when not at my desk."
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "contact_id": 379,
+  "status": "ok",
+  "seconds": 9.46,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-2-methods-agy-gemini-3.8-flash-medium-en-cs-100-customers",
+  "parsed": {
+    "next_purchases": [
+      "Universal projector ceiling mount bracket for Epson PowerLite",
+      "100-inch 16:9 pull-down home cinema projection screen",
+      "High-speed HDMI cable (25 ft) for home cinema projector"
+    ]
+  },
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "agy",
+  "model": "gemini-3.8-flash",
+  "tier": "medium",
+  "provider_cli_version": "1.1.27",
+  "prompt_version": "1.0.2",
+  "database_sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+  "prompt": "Customer C-379 (anonymised). Product titles in English.\nPurchase history (44 purchases, oldest first):\n- 2006-04-03 ★5 Logitech MX1000 Laser Cordless Mouse\n- 2006-04-04 ★4 Toshiba 46HM95 46-Inch Diagonal 16:9 Integrated HD DLP Projection TV with HDMI\n- 2006-04-17 ★5 Delphi SkyFi2 XM Satellite Radio Receiver and Car Kit\n- 2007-07-15 ★4 HP IPAQ rx4200 Mobile Media Companion\n- 2007-12-07 ★5 Logitech Cordless Desktop Wave Set\n- 2008-12-06 ★4 4GB Jumpdrive Secure II Plus JDSEP4GB-431\n- 2008-12-10 ★3 Coosh Headphones, White, 1-Count (Discontinued by Manufacturer)\n- 2009-01-15 ★5 Microsoft Wireless Laser Desktop 6000 v3 (Black)\n- 2009-02-17 ★4 Gunnar Optiks R6638-C001Z Edge Rimless Advanced Computer Glasses with Squared Off Lenses and Amber Tint, Onyx Frame Fini\n- 2009-02-17 ★4 Logitech Pure-Fi Express Plus Omnidirectional Speaker Dock for iPod and iPhone\n- 2009-05-28 ★5 Altec Lansing M812 Octiv Air Wireless Speaker System with Dock for iPod (Black)\n- 2009-06-17 ★4 Creative Live! Cam Notebook Pro - VF0400\n- 2009-07-23 ★4 Lorex LW2201 Weatherproof Ultra Digital Wireless Surveillance System\n- 2009-09-15 ★4 Seagate Replica 250 GB USB 2.0 Complete Single PC Backup System ST902504BDA101-RK (Silver)\n- 2009-09-16 ★4 Altec Lansing UHP606 Backbeat Pro Reference Earphones (Black/Gold) (Discontinued by Manufacturer)\n- 2009-12-16 ★3 Philips Revolution Motorized Portable Speaker Dock for iPhone/iPod\n- 2009-12-21 ★4 Actiontec MegaPlug A/V 200 Mbps Powerline Network Adapter Kit (White)\n- 2010-01-28 ★4 Altec Lansing inMotion Speaker Dock with FM Radio for Zune (Black)\n- 2010-05-20 ★2 Digital Lifestyle Outfitters DLA49002/17 Wall Dock for Ipod and Iphone\n- 2010-06-16 ★3 Acme Made Slick Case for iPad (Gloss White)\n- 2010-06-24 ★4 Garmin nüvi 295W 3.5-Inch Widescreen Wi-Fi Portable GPS Navigator\n- 2010-08-26 ★3 Lift Audio Groove Series Noise-Isolating In-Ear Headphones (Black) (Discontinued by Manufacturer)\n- 2010-09-23 ★4 Philips Prestigo SRU6006/27 Universal 6-In-1 Remote Control\n- 2011-01-19 ★4 iHome iH27 Portable Alarm Clock for iPod (Black)\n- 2011-01-26 ★4 Sony Bloggie Touch Camera, 4-Hour (Black)\n- 2011-02-07 ★5 Belkin Micra Digital HDMI to Mini-HDMI Cable (6ft)\n- 2011-03-21 ★2 Verbatim Wireless Optical Touch Mouse, Piano Black 97564\n- 2011-04-21 ★4 Targus Vuscape Protective Cover/Stand for Apple iPad 2, Black/Blue (THZ044US)\n- 2011-06-21 ★5 B004TKTOWC\n- 2011-09-21 ★4 Belkin Bluetooth Keyboard Folio for New Apple iPad 2 / 3rd Generation, HD, 1080P, WiFi, 4G LTE, AT & T, Verizon\n- 2011-12-21 ★4 Nike+ SportWatch GPS Powered by TomTom (Black/Volt)\n- 2012-01-16 ★4 B005VTGCE8\n- 2012-08-22 ★5 Motorola MOTOACTV 16GB Golf Edition GPS Sports Watch and MP3 Player - Retail Packaging (Discontinued by Manufacturer)\n- 2012-10-14 ★2 Philips M100/37 Wireless Home Monitor\n- 2012-12-26 ★5 Jaybird Freedom Sprint Bluetooth Headphones - Retail Packaging - Midnight Black\n- 2013-01-07 ★3 Apex LE3212D 32-Inch 60Hz LED HDTV and DVD Combo (Black)\n- 2013-04-24 ★5 Seagate Wireless Plus 1TB Mobile Cloud Storage with Built-in WiFi Streaming (STCK1000100)\n- 2013-05-12 ★4 Monster DNA On-Ear Headphones (Black)\n- 2013-05-15 ★5 TP-LINK TL-WDR4300 Wireless N750 Dual Band Router, Gigabit, 2.4GHz 300Mbps+5Ghz 450Mbps, 2 USB port, Wireless On/Off Swi\n- 2013-05-28 ★4 LG Electronics 47GA6400 47-Inch Cinema 3D 1080p 120Hz LED-LCD HDTV with Google TV and Four Pairs of 3D Glasses (2013 Mod\n- 2013-06-08 ★5 LG Electronics 55GA7900 55-Inch Cinema Screen Cinema 3D 1080p 240Hz LED-LCD HDTV with Google TV and Four Pairs of 3D Gla\n- 2013-07-24 ★5 Gizmo Dorks Neoprene Zipper Sleeve Case Cover (Black) for Amazon Kindle Touch / Paperwhite\n- 2013-07-24 ★5 Logitech Wireless Combo MK270 with Keyboard and Mouse\n- 2013-11-27 ★4 Epson V11H475220 PowerLite Home Cinema 707 Gold Edition 720p 2700 Lumens HDMI Projector (White)\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Universal projector ceiling mount bracket for Epson PowerLite",
+      "100-inch 16:9 pull-down home cinema projection screen",
+      "High-speed HDMI cable (25 ft) for home cinema projector"
+    ]
+  },
+  "held_out": "B00IAELUOS"
+}

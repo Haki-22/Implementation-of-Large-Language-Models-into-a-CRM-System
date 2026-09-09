@@ -1,0 +1,40 @@
+{
+  "contact_id": 43,
+  "reviewer_id": "A353U0L2HAMSHV",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 111,
+  "reviews_used": 15,
+  "prompt_chars": 9980,
+  "status": "ok",
+  "seconds": 123.41,
+  "error": "",
+  "profile": {
+    "O": 3.4,
+    "C": 4.15,
+    "E": 3.35,
+    "A": 4.1,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "I am by no means a very technical person. So I won't try to explain things I'm not qualified to do.",
+      "C": "In my quest for a new office desktop monitor I spent several days looking over sizes, features, brands, reviews and pricing.",
+      "E": "A couple examples are recently my daughter needed a song on CD for a school performance and an Aunt wanting a mix CD of music she liked.",
+      "A": "The main reason I decided to buy the remote control was for my daughters use.",
+      "N": "I am hopeful that it never falls out, because if it were to I probably wouldn't notice until it was too late."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.15,
+    "E": 3.35,
+    "N": 2.7,
+    "O": 3.4,
+    "evidence_quotes": {
+      "A": "The main reason I decided to buy the remote control was for my daughters use.",
+      "C": "In my quest for a new office desktop monitor I spent several days looking over sizes, features, brands, reviews and pricing.",
+      "E": "A couple examples are recently my daughter needed a song on CD for a school performance and an Aunt wanting a mix CD of music she liked.",
+      "N": "I am hopeful that it never falls out, because if it were to I probably wouldn't notice until it was too late.",
+      "O": "I am by no means a very technical person. So I won't try to explain things I'm not qualified to do."
+    }
+  }
+}

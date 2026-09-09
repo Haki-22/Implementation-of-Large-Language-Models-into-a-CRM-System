@@ -1,0 +1,40 @@
+{
+  "contact_id": 272,
+  "reviewer_id": "A22MANL4US4RMY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 8224,
+  "status": "ok",
+  "seconds": 1013.26,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.3,
+    "A": 3.6,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "When I got it, I did a test with my camera on a tripod. I took several pairs of comparison shots.",
+      "C": "After each use, I remove a battery, so there is no drain. I didn't think a plain old battery could last so long.",
+      "E": "I posted the images for photographer friends to see, and they came to the same conclusion:",
+      "A": "Some people mentioned difficulty inserting the SD card. It's no problem at all if you hold it by the sides and insert it with the label facing you.",
+      "N": "I tried it just now, and gave up after eight minutes."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.35,
+    "E": 3.3,
+    "N": 2.6,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Some people mentioned difficulty inserting the SD card. It's no problem at all if you hold it by the sides and insert it with the label facing you.",
+      "C": "After each use, I remove a battery, so there is no drain. I didn't think a plain old battery could last so long.",
+      "E": "I posted the images for photographer friends to see, and they came to the same conclusion:",
+      "N": "I tried it just now, and gave up after eight minutes.",
+      "O": "When I got it, I did a test with my camera on a tripod. I took several pairs of comparison shots."
+    }
+  }
+}

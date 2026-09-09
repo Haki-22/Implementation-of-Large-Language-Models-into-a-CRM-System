@@ -1,0 +1,7 @@
+config,precision,recall,f1,tp,fp,fn,partial_precision,partial_recall,partial_f1,restored_rate,detection_seconds
+rules+bardsai,1.0,1.0,1.0,35,0,0,1.0,1.0,1.0,1.0,4.774
+rules+bardsai_v2,0.842105,0.914286,0.876712,32,6,3,0.921053,1.0,0.958904,1.0,1.095
+rules+bardsai_mini,0.944444,0.971429,0.957746,34,2,1,0.972222,1.0,0.985915,1.0,1.485
+rules+wismut,0.944444,0.971429,0.957746,34,2,1,0.972222,1.0,0.985915,1.0,2.054
+rules+stulcrad,1.0,1.0,1.0,35,0,0,1.0,1.0,1.0,1.0,53.414
+rules+gliner,0.775,0.885714,0.826667,31,9,4,0.825,0.942857,0.88,1.0,6.068

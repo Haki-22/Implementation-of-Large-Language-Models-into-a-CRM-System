@@ -1,0 +1,40 @@
+{
+  "contact_id": 333,
+  "reviewer_id": "A2DKQQIZ793AV5",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 59,
+  "reviews_used": 15,
+  "prompt_chars": 10049,
+  "status": "ok",
+  "seconds": 379.96,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.25,
+    "E": 3.9,
+    "A": 4.05,
+    "N": 1.95,
+    "evidence_quotes": {
+      "O": "To my very pleasant surprise, when I received FiiO X5 DAP - I actually ended up rediscovering my headphones, all over again!!!",
+      "C": "First of all, even with it's 12000 mAh capacity, this new 2nd gen Astro shrank up in size down to 110 mm x 83 mm x 26 mm",
+      "E": "Before starting with my review, let me get something off my chest. Yes, this speaker is on a pricey side, and No, it's not intended for audiophiles.",
+      "A": "It's clear that BlueAnt done their homework really well by studying the competition to come up with a spec, a fitment, and accessories to make everybody happy.",
+      "N": "before even opening it I thought they messed up my order. I was looking at a very small and lightweight package which couldn't possibly hold a keyboard."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.25,
+    "E": 3.9,
+    "N": 1.95,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "It's clear that BlueAnt done their homework really well by studying the competition to come up with a spec, a fitment, and accessories to make everybody happy.",
+      "C": "First of all, even with it's 12000 mAh capacity, this new 2nd gen Astro shrank up in size down to 110 mm x 83 mm x 26 mm",
+      "E": "Before starting with my review, let me get something off my chest. Yes, this speaker is on a pricey side, and No, it's not intended for audiophiles.",
+      "N": "before even opening it I thought they messed up my order. I was looking at a very small and lightweight package which couldn't possibly hold a keyboard.",
+      "O": "To my very pleasant surprise, when I received FiiO X5 DAP - I actually ended up rediscovering my headphones, all over again!!!"
+    }
+  }
+}

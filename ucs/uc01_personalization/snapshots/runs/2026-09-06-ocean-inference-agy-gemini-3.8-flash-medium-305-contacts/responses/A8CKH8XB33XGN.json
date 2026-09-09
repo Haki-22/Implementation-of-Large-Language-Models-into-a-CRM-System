@@ -1,0 +1,40 @@
+{
+  "contact_id": 298,
+  "reviewer_id": "A8CKH8XB33XGN",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 6480,
+  "status": "ok",
+  "seconds": 1118.63,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 3.65,
+    "E": 2.5,
+    "A": 2.9,
+    "N": 3.3,
+    "evidence_quotes": {
+      "O": "it takes interesting pictures. If you do it just right, it takes pictures with a lot of depth and detail, it's almost like being there.",
+      "C": "With Dish, go to satellite pointing > menu - 6 - 1 -1, choose 110... aim dish the best you can.",
+      "E": "I live alone and have a TV in the living room that I rarely watch",
+      "A": "Oh, and \"Dave\", I will find another camera, and don't EVER phone or email me again!",
+      "N": "Tried formatting, says it's fine, but it lies... \"File doesn't exist\" when restoring Windows 7."
+    }
+  },
+  "raw": {
+    "A": 2.9,
+    "C": 3.65,
+    "E": 2.5,
+    "N": 3.3,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "Oh, and \"Dave\", I will find another camera, and don't EVER phone or email me again!",
+      "C": "With Dish, go to satellite pointing > menu - 6 - 1 -1, choose 110... aim dish the best you can.",
+      "E": "I live alone and have a TV in the living room that I rarely watch",
+      "N": "Tried formatting, says it's fine, but it lies... \"File doesn't exist\" when restoring Windows 7.",
+      "O": "it takes interesting pictures. If you do it just right, it takes pictures with a lot of depth and detail, it's almost like being there."
+    }
+  }
+}

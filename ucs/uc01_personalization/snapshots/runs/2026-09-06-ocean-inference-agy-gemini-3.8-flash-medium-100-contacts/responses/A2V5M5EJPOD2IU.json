@@ -1,0 +1,40 @@
+{
+  "contact_id": 170,
+  "reviewer_id": "A2V5M5EJPOD2IU",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 115,
+  "reviews_used": 15,
+  "prompt_chars": 9657,
+  "status": "ok",
+  "seconds": 127.75,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 2.75,
+    "A": 3.6,
+    "N": 3.3,
+    "evidence_quotes": {
+      "O": "I purchased this bag because my current bag could not handle a Calculus book, a JAVA book, and a laptop.",
+      "C": "I use a MacBook Pro (Intel Core i7, Early 2011, Mac OS X Lion 10.7.4), and the drive is formatted in NTFS",
+      "E": "I love having a laptop but also love having my full home setup (three monitors, not including MacBook monitor and full mouse and keyboard).",
+      "A": "it was a pain to upgrade [this is not the tablet's problem]",
+      "N": "I disabled this since I am paranoid about security and do not like open ports that are not a major necessity on my Firewall"
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.15,
+    "E": 2.75,
+    "N": 3.3,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "it was a pain to upgrade [this is not the tablet's problem]",
+      "C": "I use a MacBook Pro (Intel Core i7, Early 2011, Mac OS X Lion 10.7.4), and the drive is formatted in NTFS",
+      "E": "I love having a laptop but also love having my full home setup (three monitors, not including MacBook monitor and full mouse and keyboard).",
+      "N": "I disabled this since I am paranoid about security and do not like open ports that are not a major necessity on my Firewall",
+      "O": "I purchased this bag because my current bag could not handle a Calculus book, a JAVA book, and a laptop."
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contact_id": 371,
+  "status": "ok",
+  "seconds": 14.08,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Objektiv Panasonic Lumix G 20 mm f/1,7 ASPH pro Micro Four Thirds",
+      "Externí systémový blesk Canon Speedlite pro Canon EOS 7D",
+      "Objektiv Nikon AF-S Nikkor 24–70 mm f/2,8G ED pro fotoaparáty Nikon FX"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-371 (anonymizováno). Názvy produktů česky.\nNákupní historie (37 nákupů, od nejstaršího):\n- 2008-06-23 ★2 Popruh na fotoaparát Lowepro Transporter\n- 2009-03-01 ★4 Objektiv Nikon 85 mm f/1,4D AF Nikkor pro digitální zrcadlovky Nikon\n- 2009-03-01 ★4 Střední teleobjektiv Canon EF 85 mm f/1,8 USM pro zrcadlovky Canon\n- 2009-03-01 ★5 Sigma 70-200 mm f/2,8 EX DG HSM II Macro Zoom objektiv pro digitální zrcadlovky Nikon\n- 2009-03-04 ★5 Bateriový grip Canon BG-E5 pro vybrané digitální zrcadlovky (maloobchodní balení)\n- 2009-06-08 ★5 Pentax DA 40mm f/2.8 Ultrakompaktní objektiv pro digitální zrcadlovky Pentax a Samsung\n- 2009-06-08 ★4 Objektiv Sigma 50mm f/1.4 EX DG HSM pro digitální zrcadlovky Canon\n- 2009-06-13 ★5 Objektiv Canon EF 100 mm f/2,8 Macro USM pro zrcadlovky Canon\n- 2009-06-13 ★5 Objektiv Canon EF 135 mm f/2L USM pro zrcadlovky Canon\n- 2009-06-18 ★5 Digitální zrcadlovka Canon EOS 40D 10,1 MP (pouze tělo)\n- 2009-06-20 ★4 Objektiv Canon EF-S 17-55 mm f/2,8 IS USM pro digitální zrcadlovky Canon\n- 2009-06-20 ★5 Paměťová karta Kingston Elite Pro 4 GB 133x CompactFlash CF/4GB-S2\n- 2009-06-20 ★2 Gary Fong LS2C3 Lightsphere II Cloud Size 3 (průsvitný)\n- 2009-06-24 ★5 Think Tank Pee Wee Pixel Pocket Rocket\n- 2009-07-05 ★5 Sigma 24-70 mm f/2,8 IF EX DG HSM AF Standardní zoom objektiv pro digitální zrcadlovky Canon\n- 2009-07-28 ★5 Nikon 7072 Lens Pen Cleaning System\n- 2009-07-28 ★5 Digitální fotoaparát Panasonic DMC-LX3 10,1MP s 24mm širokoúhlým objektivem MEGA optická stabilizace obrazu (černý)\n- 2009-07-30 ★5 Joby GP1-A1EN Gorillapod flexibilní stativ (šedý)\n- 2009-09-10 ★5 Digitální zrcadlovka Nikon D700 formátu FX s 12,1MP CMOS senzorem a 3,0palcovým LCD displejem (pouze tělo)\n- 2009-09-10 ★5 Digitální zrcadlovka Nikon D90 s rozlišením 12,3 MP a snímačem CMOS formátu DX s objektivem Nikkor 18–105 mm f/3,5–5,6G \n- 2009-09-11 ★5 Digitální zrcadlovka Nikon D3000 s rozlišením 10,2 MP a objektivem Nikkor AF-S DX VR se zoomem 18–55 mm f/3,5–5,6G\n- 2009-10-10 ★4 Olympus Evolt E620 12,3MP digitální zrcadlovka Live MOS se stabilizací obrazu, otočným 2,7palcovým LCD displejem a objek\n- 2009-10-20 ★5 Ricoh GR DIGITAL III 10 MP CCD Digital Camera with 28mm f/1.9 GR Fixed Lens and 3-Inch LCD\n- 2009-10-22 ★4 Digitální fotoaparát Canon PowerShot S90 s rozlišením 10 MP, 3,8násobným širokoúhlým zoomem, optickou stabilizací obrazu\n- 2009-11-02 ★5 Sigma APO Telekonvertor 1.4x EX DG pro objektivy s bajonetem Canon\n- 2009-11-05 ★5 Digitální zrcadlovka Pentax K-x s 2,7palcovým LCD displejem a objektivem 18-55 mm f/3,5-5,6 AL (černá)\n- 2009-11-15 ★4 Standardní zoom objektiv Canon EF-S 18-135 mm f/3,5-5,6 IS pro digitální zrcadlovky Canon\n- 2009-11-26 ★4 Digitální fotoaparát Canon PowerShot SD780IS s rozlišením 12,1 MP, 3x optickým zoomem, stabilizací obrazu a 2,5palcovým \n- 2009-12-16 ★5 Digitální zrcadlovka Nikon D5000 s rozlišením 12,3 MP, objektivem 18–55 mm f/3,5–5,6G VR a 2,7palcovým výklopným LCD dis\n- 2009-12-29 ★5 Nikon School představuje praktický průvodce kreativním osvětlením\n- 2010-01-10 ★5 Hoodman H-LPP3 HoodLoupe 3.0 Profesionální lupa s 3palcovou obrazovkou\n- 2010-01-11 ★5 Nikon 16-85mm f/3.5-5.6G AF-S DX ED VR Nikkor Wide-Angle Telephoto Zoom Lens for Nikon DSLR Cameras\n- 2010-04-26 ★4 Think Tank Shape Shifter, fotografický batoh\n- 2010-04-26 ★5 Digitální fotoaparát Panasonic Lumix DMC-GF1 s rozlišením 12,1 MP a výměnným objektivem Micro Four-Thirds s asférickým o\n- 2010-05-28 ★5 Digitální zrcadlovka Canon EOS 7D s 18MP CMOS snímačem, pouze tělo (UKONČENO V PRODEJI)\n- 2010-05-29 ★5 Fotoaparát Panasonic Lumix DMC-G2 12,1 MP Live MOS s výměnnými objektivy, 3palcovým dotykovým LCD displejem a objektivem\n- 2010-06-05 ★5 Digitální fotoaparát Sigma DP2S 14MP X3 FOVEON CMOS s 24,2mm f/2,8 a 2,5palcovým LCD displejem\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Objektiv Panasonic Lumix G 20 mm f/1,7 ASPH pro Micro Four Thirds",
+      "Externí systémový blesk Canon Speedlite pro Canon EOS 7D",
+      "Objektiv Nikon AF-S Nikkor 24–70 mm f/2,8G ED pro fotoaparáty Nikon FX"
+    ]
+  },
+  "held_out": "B002NEGTSI"
+}

@@ -1,0 +1,3 @@
+item_id,kind,comet_score,comet_verdict,gemini_pro_verdict,gemini_flash_verdict,sonnet_46_verdict,haiku_45_verdict,num_fixes_total,unique_replace_targets,en_len_chars,cz_len_chars
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,review_text,0.6531,INVALID,INVALID,INVALID,INVALID,INVALID,6,Objednal jsem si záruku Fellowes 99090; Za reklamace v rámci záruky ubírám jednu hvězdičku; záruku Fellowes 99090,1626,1569
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,review_text,0.5525,INVALID,INVALID,INVALID,INVALID,INVALID,9,"...který po rozepnutí; 1,6 kg; Těžká část; Těžká část - 1,6 kg.; je zip. ...který; trochu přehnaně těžký; Černá látka, šedý zip.; šedý zip",2348,2328

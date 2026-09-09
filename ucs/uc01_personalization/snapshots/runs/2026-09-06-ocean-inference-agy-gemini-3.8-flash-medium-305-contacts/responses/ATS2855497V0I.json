@@ -1,0 +1,40 @@
+{
+  "contact_id": 127,
+  "reviewer_id": "ATS2855497V0I",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 133,
+  "reviews_used": 15,
+  "prompt_chars": 9850,
+  "status": "ok",
+  "seconds": 461.51,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.3,
+    "A": 3.9,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "So I did buy one, in fact, I bought two as I saw the opportunity for writing software for the big screen.",
+      "C": "I tested this by charging my iPhone 4 while in use, while simultaneously charging a Kindle Fire and it seems to work fine.",
+      "E": "on long car trips when my car is filled with children and gadgets, a double socket makes for a lot less futzing.",
+      "A": "I've been waiting for a new computer for my wife, something that she can use both as her desktop computer attached to a monitor, mouse and keyboard",
+      "N": "I do not regret for one minute paying more for a device I use several hours a day, and from which I derive my living."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.15,
+    "E": 3.3,
+    "N": 2.2,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I've been waiting for a new computer for my wife, something that she can use both as her desktop computer attached to a monitor, mouse and keyboard",
+      "C": "I tested this by charging my iPhone 4 while in use, while simultaneously charging a Kindle Fire and it seems to work fine.",
+      "E": "on long car trips when my car is filled with children and gadgets, a double socket makes for a lot less futzing.",
+      "N": "I do not regret for one minute paying more for a device I use several hours a day, and from which I derive my living.",
+      "O": "So I did buy one, in fact, I bought two as I saw the opportunity for writing software for the big screen."
+    }
+  }
+}

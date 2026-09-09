@@ -1,0 +1,40 @@
+{
+  "contact_id": 97,
+  "reviewer_id": "AN81JUYW2SL24",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 184,
+  "reviews_used": 15,
+  "prompt_chars": 10114,
+  "status": "ok",
+  "seconds": 336.8,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.1,
+    "A": 3.5,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "I had been searching for a small/compact digital camera capable of aperture and shutter speed priority with the option of full manual control",
+      "C": "I found the lowest setting, 64 ISO, gives me the least noise in my photos (indoors and outdoors).",
+      "E": "I'll be blunt, the HD 6450 is not designed for playing the latest games.",
+      "A": "So I will simply add info that you won't find in most websites:",
+      "N": "it was a bit frustrating to get used to the Escort Passport 8500 x50's lack of voice alerts."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.35,
+    "E": 3.1,
+    "N": 2.5,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "So I will simply add info that you won't find in most websites:",
+      "C": "I found the lowest setting, 64 ISO, gives me the least noise in my photos (indoors and outdoors).",
+      "E": "I'll be blunt, the HD 6450 is not designed for playing the latest games.",
+      "N": "it was a bit frustrating to get used to the Escort Passport 8500 x50's lack of voice alerts.",
+      "O": "I had been searching for a small/compact digital camera capable of aperture and shutter speed priority with the option of full manual control"
+    }
+  }
+}

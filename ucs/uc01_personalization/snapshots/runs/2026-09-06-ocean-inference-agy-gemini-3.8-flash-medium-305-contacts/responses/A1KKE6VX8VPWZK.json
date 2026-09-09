@@ -1,0 +1,40 @@
+{
+  "contact_id": 300,
+  "reviewer_id": "A1KKE6VX8VPWZK",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 9885,
+  "status": "ok",
+  "seconds": 1129.29,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.25,
+    "E": 3.75,
+    "A": 3.9,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "The quality of the piece is above par. The faceplate is clean and the buttons are flush. It is aesthetically pleasing.",
+      "C": "I coordinated the arrival by also renting 3 HD DVD's to watch from Netflix.",
+      "E": "I had several friends over to see the new player",
+      "A": "Here is some of the data I found out so maybe it can help the shoppers that are unsure of its stats",
+      "N": "I hate that I have to constantly put new batteries in my beats to even be able to hear music. Who's idea was that anyway?"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.25,
+    "E": 3.75,
+    "N": 2.6,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "Here is some of the data I found out so maybe it can help the shoppers that are unsure of its stats",
+      "C": "I coordinated the arrival by also renting 3 HD DVD's to watch from Netflix.",
+      "E": "I had several friends over to see the new player",
+      "N": "I hate that I have to constantly put new batteries in my beats to even be able to hear music. Who's idea was that anyway?",
+      "O": "The quality of the piece is above par. The faceplate is clean and the buttons are flush. It is aesthetically pleasing."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 76,
+  "reviewer_id": "A3A4ZAIBQWKOZS",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 216,
+  "reviews_used": 15,
+  "prompt_chars": 9871,
+  "status": "ok",
+  "seconds": 247.57,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.3,
+    "E": 3.15,
+    "A": 3.9,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "So why did I try this lens out? Why bother when everything tells me the Canon is excellent? Well, I just wanted to compare really.",
+      "C": "I review all of the things I receive as if I had paid for them for maintaining my review integrity.",
+      "E": "If you don't mind having a wired Xbox communicator, this headset it great. It can be used for PS3 sound and communication as well",
+      "A": "do NOT purchase this assuming support will come. That would potentially be a waste of your money.",
+      "N": "I have missed shots and when I think I may want faster focus I put it on manual"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.3,
+    "E": 3.15,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "do NOT purchase this assuming support will come. That would potentially be a waste of your money.",
+      "C": "I review all of the things I receive as if I had paid for them for maintaining my review integrity.",
+      "E": "If you don't mind having a wired Xbox communicator, this headset it great. It can be used for PS3 sound and communication as well",
+      "N": "I have missed shots and when I think I may want faster focus I put it on manual",
+      "O": "So why did I try this lens out? Why bother when everything tells me the Canon is excellent? Well, I just wanted to compare really."
+    }
+  }
+}

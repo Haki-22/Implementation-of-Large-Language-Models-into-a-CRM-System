@@ -1,0 +1,40 @@
+{
+  "contact_id": 193,
+  "reviewer_id": "A10PEXB6XAQ5XF",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 105,
+  "reviews_used": 15,
+  "prompt_chars": 9858,
+  "status": "ok",
+  "seconds": 129.29,
+  "error": "",
+  "profile": {
+    "O": 3.65,
+    "C": 4.25,
+    "E": 3.3,
+    "A": 3.6,
+    "N": 3.35,
+    "evidence_quotes": {
+      "O": "I finally took the plunge and upgraded from having to find blank discs for video recording to this lightweight and compact recorder.",
+      "C": "Clean your Fire's screen with the soft cloth that comes with the screen protector. DO NOT use water to assist you, but use a gentle wiping motion with the cloth.",
+      "E": "To sum up what I will tell you about in the details below, for just $199 you are getting one heck of a deal",
+      "A": "if a leather look is not that important to you I'd recommend getting one of these",
+      "N": "I have mixed emotions about this stylus, as part of me really likes it and the other part of me gets frustrated while typing out emails."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.25,
+    "E": 3.3,
+    "N": 3.35,
+    "O": 3.65,
+    "evidence_quotes": {
+      "A": "if a leather look is not that important to you I'd recommend getting one of these",
+      "C": "Clean your Fire's screen with the soft cloth that comes with the screen protector. DO NOT use water to assist you, but use a gentle wiping motion with the cloth.",
+      "E": "To sum up what I will tell you about in the details below, for just $199 you are getting one heck of a deal",
+      "N": "I have mixed emotions about this stylus, as part of me really likes it and the other part of me gets frustrated while typing out emails.",
+      "O": "I finally took the plunge and upgraded from having to find blank discs for video recording to this lightweight and compact recorder."
+    }
+  }
+}

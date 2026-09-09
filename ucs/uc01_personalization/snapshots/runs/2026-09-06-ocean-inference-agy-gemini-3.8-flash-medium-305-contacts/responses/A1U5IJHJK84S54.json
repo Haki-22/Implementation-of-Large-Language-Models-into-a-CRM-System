@@ -1,0 +1,40 @@
+{
+  "contact_id": 269,
+  "reviewer_id": "A1U5IJHJK84S54",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 93,
+  "reviews_used": 15,
+  "prompt_chars": 9399,
+  "status": "ok",
+  "seconds": 1005.39,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 2.85,
+    "A": 2.75,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "Much easier way to bounce and diffuse an SB400: tape a white business card to the top of the flash so it hangs off the front.",
+      "C": "I didn't want to use the suction mount directly onto the windshield because 1) it telegraphs the presence of an expensive GPS unit, 2) it's illegal in California",
+      "E": "I often work in the middle of the night in the dark with only the monitors lighting the room. My keyboard is on a pullout shelf/drawer",
+      "A": "The specs say they go down to 12 Hz. Hah. No way. The music is simply not full and rich.",
+      "N": "This is the deal killer for me. I'm tempted to take a razor knife and cut the fram"
+    }
+  },
+  "raw": {
+    "A": 2.75,
+    "C": 4.15,
+    "E": 2.85,
+    "N": 3.25,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "The specs say they go down to 12 Hz. Hah. No way. The music is simply not full and rich.",
+      "C": "I didn't want to use the suction mount directly onto the windshield because 1) it telegraphs the presence of an expensive GPS unit, 2) it's illegal in California",
+      "E": "I often work in the middle of the night in the dark with only the monitors lighting the room. My keyboard is on a pullout shelf/drawer",
+      "N": "This is the deal killer for me. I'm tempted to take a razor knife and cut the fram",
+      "O": "Much easier way to bounce and diffuse an SB400: tape a white business card to the top of the flash so it hangs off the front."
+    }
+  }
+}

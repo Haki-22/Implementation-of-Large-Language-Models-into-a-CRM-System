@@ -1,0 +1,40 @@
+{
+  "contact_id": 103,
+  "reviewer_id": "A231WM2Z2JL0U3",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 162,
+  "reviews_used": 15,
+  "prompt_chars": 8942,
+  "status": "ok",
+  "seconds": 370.67,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.2,
+    "E": 3.45,
+    "A": 3.65,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I have been following trends in this area for a long time, and my last big MP3 player investment was in a SONICblue Jukebox.",
+      "C": "I have been following CF costs on a dollar-per-meg basis for some time",
+      "E": "its CD changer makes this unit great for handling all the music at your next party.",
+      "A": "Apple replaced it without questions in 72 hours. Nice work!",
+      "N": "Update: It went dead, probably because of a really bad power surge here, and Apple replaced it without questions in 72 hours. Nice work!"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.2,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "Apple replaced it without questions in 72 hours. Nice work!",
+      "C": "I have been following CF costs on a dollar-per-meg basis for some time",
+      "E": "its CD changer makes this unit great for handling all the music at your next party.",
+      "N": "Update: It went dead, probably because of a really bad power surge here, and Apple replaced it without questions in 72 hours. Nice work!",
+      "O": "I have been following trends in this area for a long time, and my last big MP3 player investment was in a SONICblue Jukebox."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 61,
+  "reviewer_id": "A1E1LEVQ9VQNK",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 182,
+  "reviews_used": 15,
+  "prompt_chars": 9938,
+  "status": "ok",
+  "seconds": 185.43,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.3,
+    "E": 3.15,
+    "A": 4.05,
+    "N": 1.95,
+    "evidence_quotes": {
+      "O": "I wondered where the word \"Chambray\" came from, so I looked it up.",
+      "C": "Unfortunately, I don't have the sophisticated equipment to do really accurate speed comparison tests, but I did do some approximation tests using a stopwatch.",
+      "E": "so I was elated to see Nikon come up with the D3200. So far, I'm very impressed.",
+      "A": "I'm sure there are plenty of people who have more USB devices than will fit in a typical 4- or 6-port hub.",
+      "N": "I figured if it was a piece of junk, I had wasted a dollar, no big deal."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.3,
+    "E": 3.15,
+    "N": 1.95,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I'm sure there are plenty of people who have more USB devices than will fit in a typical 4- or 6-port hub.",
+      "C": "Unfortunately, I don't have the sophisticated equipment to do really accurate speed comparison tests, but I did do some approximation tests using a stopwatch.",
+      "E": "so I was elated to see Nikon come up with the D3200. So far, I'm very impressed.",
+      "N": "I figured if it was a piece of junk, I had wasted a dollar, no big deal.",
+      "O": "I wondered where the word \"Chambray\" came from, so I looked it up."
+    }
+  }
+}

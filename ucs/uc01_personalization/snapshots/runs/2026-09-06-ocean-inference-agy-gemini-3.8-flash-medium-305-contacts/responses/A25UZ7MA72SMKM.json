@@ -1,0 +1,40 @@
+{
+  "contact_id": 188,
+  "reviewer_id": "A25UZ7MA72SMKM",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 106,
+  "reviews_used": 15,
+  "prompt_chars": 9675,
+  "status": "ok",
+  "seconds": 705.38,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.35,
+    "A": 3.3,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I listen to many genres of music, and get great response in all frequency ranges. Symphonies, jazz, vocals, and anything else I play sounds great.",
+      "C": "I waited a few weeks after purchasing this TV to write a review, because I had read of a few other owners reporting problems with the model.",
+      "E": "We found the product quite satisfactory and confidently recommend it.",
+      "A": "Roku's estimates of the set up time are not just optimistic, they are a flat out lie.",
+      "N": "I got it to pop out only with an extreme effort that had me wondering if some part of me would give before the packaging did! LOL"
+    }
+  },
+  "raw": {
+    "A": 3.3,
+    "C": 4.25,
+    "E": 3.35,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Roku's estimates of the set up time are not just optimistic, they are a flat out lie.",
+      "C": "I waited a few weeks after purchasing this TV to write a review, because I had read of a few other owners reporting problems with the model.",
+      "E": "We found the product quite satisfactory and confidently recommend it.",
+      "N": "I got it to pop out only with an extreme effort that had me wondering if some part of me would give before the packaging did! LOL",
+      "O": "I listen to many genres of music, and get great response in all frequency ranges. Symphonies, jazz, vocals, and anything else I play sounds great."
+    }
+  }
+}

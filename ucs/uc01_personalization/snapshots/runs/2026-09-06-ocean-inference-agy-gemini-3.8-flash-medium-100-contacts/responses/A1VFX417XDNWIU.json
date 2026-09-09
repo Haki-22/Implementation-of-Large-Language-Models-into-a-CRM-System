@@ -1,0 +1,40 @@
+{
+  "contact_id": 308,
+  "reviewer_id": "A1VFX417XDNWIU",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 83,
+  "reviews_used": 15,
+  "prompt_chars": 10172,
+  "status": "ok",
+  "seconds": 264.27,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.35,
+    "A": 3.5,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "Below this review, I explain in more detail about the 4k label--should you not know about it already and what it is.",
+      "C": "Startup is kind of slow at about 10 seconds. Time between channel switching is about 3 seconds, which also feels a little slow.",
+      "E": "I was thrilled to review the G700 because for one, I have owned a G7 for about four years",
+      "A": "Either a manufacturer is trying to represent their product as being better than what it is--characterized by much higher than warranted price tag",
+      "N": "There are a few things with this set that are a little annoying"
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.15,
+    "E": 3.35,
+    "N": 2.8,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "Either a manufacturer is trying to represent their product as being better than what it is--characterized by much higher than warranted price tag",
+      "C": "Startup is kind of slow at about 10 seconds. Time between channel switching is about 3 seconds, which also feels a little slow.",
+      "E": "I was thrilled to review the G700 because for one, I have owned a G7 for about four years",
+      "N": "There are a few things with this set that are a little annoying",
+      "O": "Below this review, I explain in more detail about the 4k label--should you not know about it already and what it is."
+    }
+  }
+}

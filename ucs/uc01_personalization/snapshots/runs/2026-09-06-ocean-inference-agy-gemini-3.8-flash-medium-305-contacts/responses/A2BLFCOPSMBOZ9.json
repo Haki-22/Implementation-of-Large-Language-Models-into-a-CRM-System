@@ -1,0 +1,40 @@
+{
+  "contact_id": 90,
+  "reviewer_id": "A2BLFCOPSMBOZ9",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 159,
+  "reviews_used": 15,
+  "prompt_chars": 9622,
+  "status": "ok",
+  "seconds": 298.67,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.3,
+    "A": 3.85,
+    "N": 2.95,
+    "evidence_quotes": {
+      "O": "At first I was looking at really fancy keyboards, but then I realized that I wasn't shopping for a geek like myself",
+      "C": "I try to be conscientious about keeping a well-stocked disaster kit.",
+      "E": "The sound quality of the HD signal is dazzling and it's awesome to be able to pull in all the extra stations.",
+      "A": "In case you don't read all the way through this review, please scroll to the end to see a product that I recommend instead of this one...",
+      "N": "I was disappointed that I couldn't just use the two-button setup and frustrated that I was going to have to find a power outlet"
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.25,
+    "E": 3.3,
+    "N": 2.95,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "In case you don't read all the way through this review, please scroll to the end to see a product that I recommend instead of this one...",
+      "C": "I try to be conscientious about keeping a well-stocked disaster kit.",
+      "E": "The sound quality of the HD signal is dazzling and it's awesome to be able to pull in all the extra stations.",
+      "N": "I was disappointed that I couldn't just use the two-button setup and frustrated that I was going to have to find a power outlet",
+      "O": "At first I was looking at really fancy keyboards, but then I realized that I wasn't shopping for a geek like myself"
+    }
+  }
+}

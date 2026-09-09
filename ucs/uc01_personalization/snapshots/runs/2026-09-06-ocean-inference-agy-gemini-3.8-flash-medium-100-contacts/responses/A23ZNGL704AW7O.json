@@ -1,0 +1,40 @@
+{
+  "contact_id": 301,
+  "reviewer_id": "A23ZNGL704AW7O",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 84,
+  "reviews_used": 15,
+  "prompt_chars": 10320,
+  "status": "ok",
+  "seconds": 236.92,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.45,
+    "A": 3.65,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "I networked my home long before wireless routers were even available (or affordable) for home users, using Ethernet back then",
+      "C": "After hours of trying to fix it - including updating the firmware and resetting it to the factory defaults - I finally gave up",
+      "E": "Then Amazon Vine received the Harmony One remote from Logitech for review, and I was thrilled to be able to review it.",
+      "A": "my complaint is mostly cosmetic here and really not worth counting off on how many stars I give this",
+      "N": "This GPS just gets worse and worse. I've now downgraded the stars to just 1 for this piece of junk."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.15,
+    "E": 3.45,
+    "N": 3.1,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "my complaint is mostly cosmetic here and really not worth counting off on how many stars I give this",
+      "C": "After hours of trying to fix it - including updating the firmware and resetting it to the factory defaults - I finally gave up",
+      "E": "Then Amazon Vine received the Harmony One remote from Logitech for review, and I was thrilled to be able to review it.",
+      "N": "This GPS just gets worse and worse. I've now downgraded the stars to just 1 for this piece of junk.",
+      "O": "I networked my home long before wireless routers were even available (or affordable) for home users, using Ethernet back then"
+    }
+  }
+}

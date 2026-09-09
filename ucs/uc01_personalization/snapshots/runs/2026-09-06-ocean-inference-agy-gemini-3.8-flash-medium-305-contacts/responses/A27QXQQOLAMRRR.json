@@ -1,0 +1,40 @@
+{
+  "contact_id": 207,
+  "reviewer_id": "A27QXQQOLAMRRR",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 10229,
+  "status": "ok",
+  "seconds": 758.34,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.55,
+    "A": 3.3,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "It's a hell of a tool for doing the simplest of tasks in graphics to even the more difficult aspects.",
+      "C": "Before closing the case up and putting the screws in just go ahead and start it up and make sure that your drive is accessible.",
+      "E": "The sad part is that no other manufactures come close to Wacom products, I've tried a couple of them that friends have.",
+      "A": "Simple software that anyone with a 1/10 of a brain can figure out",
+      "N": "First off my biggest annoyance is the menu system. It's really setup poorly."
+    }
+  },
+  "raw": {
+    "A": 3.3,
+    "C": 4.2,
+    "E": 3.55,
+    "N": 3.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Simple software that anyone with a 1/10 of a brain can figure out",
+      "C": "Before closing the case up and putting the screws in just go ahead and start it up and make sure that your drive is accessible.",
+      "E": "The sad part is that no other manufactures come close to Wacom products, I've tried a couple of them that friends have.",
+      "N": "First off my biggest annoyance is the menu system. It's really setup poorly.",
+      "O": "It's a hell of a tool for doing the simplest of tasks in graphics to even the more difficult aspects."
+    }
+  }
+}

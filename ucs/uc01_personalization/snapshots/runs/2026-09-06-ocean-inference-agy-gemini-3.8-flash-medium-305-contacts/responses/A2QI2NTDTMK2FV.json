@@ -1,0 +1,40 @@
+{
+  "contact_id": 251,
+  "reviewer_id": "A2QI2NTDTMK2FV",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 96,
+  "reviews_used": 15,
+  "prompt_chars": 9222,
+  "status": "ok",
+  "seconds": 929.82,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.3,
+    "E": 3.4,
+    "A": 3.5,
+    "N": 2.0,
+    "evidence_quotes": {
+      "O": "According to various forums, upscaling to 1080i via the player and downscaling to 720p via the TV provides a better quality picture",
+      "C": "Both networks share the same DHCP pool, but have different SSIDs and passphrases (a Linksys recommendation). The first thing I did was update the firmware.",
+      "E": "This is my entry into the HD disc format war. I have chosen a side and I am putting my money and support behind HD DVD.",
+      "A": "Some people just make issue out of such little things. It puzzles me why people have problems with the features of this unit.",
+      "N": "No matter the outcome of the war, I now have an excellent DVD player with HD capabilities."
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 4.3,
+    "E": 3.4,
+    "N": 2,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "Some people just make issue out of such little things. It puzzles me why people have problems with the features of this unit.",
+      "C": "Both networks share the same DHCP pool, but have different SSIDs and passphrases (a Linksys recommendation). The first thing I did was update the firmware.",
+      "E": "This is my entry into the HD disc format war. I have chosen a side and I am putting my money and support behind HD DVD.",
+      "N": "No matter the outcome of the war, I now have an excellent DVD player with HD capabilities.",
+      "O": "According to various forums, upscaling to 1080i via the player and downscaling to 720p via the TV provides a better quality picture"
+    }
+  }
+}

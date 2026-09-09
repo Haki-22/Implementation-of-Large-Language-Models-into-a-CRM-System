@@ -1,0 +1,40 @@
+{
+  "contact_id": 403,
+  "reviewer_id": "AD73VMNYB8XVX",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 43,
+  "reviews_used": 15,
+  "prompt_chars": 9633,
+  "status": "ok",
+  "seconds": 1377.19,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.1,
+    "E": 3.6,
+    "A": 3.7,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "Appearance: Gorgeous. 'nuff said. I consider these the best looking cans in the business. But meh, I'd take a great sounding ugly pair than a horrible sounding attractive pair.",
+      "C": "I waited a couple of months to review this product. This is my 5th external hard drive, and all my other hard drives have failed on me.",
+      "E": "So....drumroll: did the burn-in make any difference? YES! A resounding YES! As you read on to my original review, you will know that I love crisp clear highs.",
+      "A": "All headphone preferences are specific to the listener, but these take that concept to the Nth degree. So be very mindful that this is just one man's perspective.",
+      "N": "First off, let me start with the design. HORRIBLE. It looks fantastic, but the one sided kickstand design is horrible. The kickstand doesn't lock very well,"
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 4.1,
+    "E": 3.6,
+    "N": 2.6,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "All headphone preferences are specific to the listener, but these take that concept to the Nth degree. So be very mindful that this is just one man's perspective.",
+      "C": "I waited a couple of months to review this product. This is my 5th external hard drive, and all my other hard drives have failed on me.",
+      "E": "So....drumroll: did the burn-in make any difference? YES! A resounding YES! As you read on to my original review, you will know that I love crisp clear highs.",
+      "N": "First off, let me start with the design. HORRIBLE. It looks fantastic, but the one sided kickstand design is horrible. The kickstand doesn't lock very well,",
+      "O": "Appearance: Gorgeous. 'nuff said. I consider these the best looking cans in the business. But meh, I'd take a great sounding ugly pair than a horrible sounding attractive pair."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 178,
+  "reviewer_id": "A2UWPPU5GZLMQZ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 113,
+  "reviews_used": 15,
+  "prompt_chars": 9793,
+  "status": "ok",
+  "seconds": 670.5,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 3.95,
+    "E": 3.4,
+    "A": 3.9,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "I'm used to shooting raw because I get better files and can squeeze a bit more juicy goodness out of my photos",
+      "C": "It seemed heavier but I weighed both of the devices and the Connect is 112 grams vs. 105 for the iPod Touch.",
+      "E": "I wanted a projector for photo club presentations that would give us a better color accuracy than our aging unit.",
+      "A": "Kirk Tuck gives this camera a fine review, but realize that he's a lighting pro, who has written several (good) books on the subject.",
+      "N": "A nasty fall some years ago left me in the hospital and gave me permanent difficulties carrying things around my neck."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 3.95,
+    "E": 3.4,
+    "N": 2.2,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "Kirk Tuck gives this camera a fine review, but realize that he's a lighting pro, who has written several (good) books on the subject.",
+      "C": "It seemed heavier but I weighed both of the devices and the Connect is 112 grams vs. 105 for the iPod Touch.",
+      "E": "I wanted a projector for photo club presentations that would give us a better color accuracy than our aging unit.",
+      "N": "A nasty fall some years ago left me in the hospital and gave me permanent difficulties carrying things around my neck.",
+      "O": "I'm used to shooting raw because I get better files and can squeeze a bit more juicy goodness out of my photos"
+    }
+  }
+}

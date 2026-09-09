@@ -1,0 +1,60 @@
+{
+  "run_dir": "2026-09-07-personality-feature-2-arms-3-variants-en-cs-425-customers",
+  "date": "2026-09-07",
+  "arms": {
+    "lightgbm_features": {
+      "title": "LightGBM on engineered features",
+      "description": "boosted trees, bought-or-not, over category, price, length and history-overlap features"
+    },
+    "svm_features": {
+      "title": "Linear SVM on engineered features",
+      "description": "linear SVM, bought-or-not, over the same features as the LightGBM arm"
+    }
+  },
+  "variants": {
+    "none": "no personality columns (the recorded arms)",
+    "inferred": "five columns from the model-inferred profile; 425 of 425 customers",
+    "sampled": "five columns from the generator's sampled profile; 271 of 425 customers, the rest missing"
+  },
+  "missing_value": "NaN for LightGBM (native handling), the scale midpoint 3.0 for the SVM",
+  "pairing": "per customer, hit = hidden item in the top 10; pairs with the sampled profile are counted on the customers who have both profiles",
+  "languages": [
+    "en",
+    "cs"
+  ],
+  "protocols": [
+    "full",
+    "sampled"
+  ],
+  "sampled_negatives": 100,
+  "seed": 42,
+  "database": {
+    "file": "substrate/snapshots/substrate.db",
+    "sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+    "customers": 425,
+    "groups": {
+      "A": 300,
+      "B": 50,
+      "C": 75
+    },
+    "catalogue_items": 18213,
+    "reviews_in_histories": 45526
+  },
+  "synthetic_profiles": "ocean_synthetic_500.json",
+  "code": {
+    "python": "3.12.3",
+    "packages": {
+      "implicit": "0.7.3",
+      "scipy": "1.14.1",
+      "scikit-learn": "1.8.0",
+      "lightgbm": "4.6.0",
+      "mlxtend": "0.24.0",
+      "rank_bm25": "0.2.2",
+      "sentence_transformers": "5.5.1",
+      "transformers": "4.57.6",
+      "torch": "2.12.0",
+      "simplemma": "1.1.2"
+    }
+  },
+  "total_seconds": 81.0
+}

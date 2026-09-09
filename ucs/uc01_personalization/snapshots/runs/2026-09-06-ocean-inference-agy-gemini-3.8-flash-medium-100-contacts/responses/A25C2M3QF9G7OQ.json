@@ -1,0 +1,40 @@
+{
+  "contact_id": 75,
+  "reviewer_id": "A25C2M3QF9G7OQ",
+  "group": "A",
+  "sources": "previous",
+  "reviews_total": 261,
+  "reviews_used": 15,
+  "prompt_chars": 9865,
+  "status": "ok",
+  "seconds": 40.52,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.4,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "A fun and affordable way to explore tilt-shift photography: The Lensbaby Edge 80 Optic is one of Lensbaby's \"swappable\" optics for its line of lenses.",
+      "C": "After reading reviews in Cnet and Consumer Reports, and feedback from owners on the AVS board, I knew I wanted to get a Samsung LCD.",
+      "E": "I've been using GPS systems for several years, and I'm always asked \"what's the best GPS?\" Unfortunately, that's not an easy question to answer.",
+      "A": "I bought this for my Mom to replace an aging TV in her kitchen.",
+      "N": "Unless you're printing photos in the several feet by several feet size, you'll never see them. Sure, I'll download a firmware fix when"
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 3.4,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I bought this for my Mom to replace an aging TV in her kitchen.",
+      "C": "After reading reviews in Cnet and Consumer Reports, and feedback from owners on the AVS board, I knew I wanted to get a Samsung LCD.",
+      "E": "I've been using GPS systems for several years, and I'm always asked \"what's the best GPS?\" Unfortunately, that's not an easy question to answer.",
+      "N": "Unless you're printing photos in the several feet by several feet size, you'll never see them. Sure, I'll download a firmware fix when",
+      "O": "A fun and affordable way to explore tilt-shift photography: The Lensbaby Edge 80 Optic is one of Lensbaby's \"swappable\" optics for its line of lenses."
+    }
+  }
+}

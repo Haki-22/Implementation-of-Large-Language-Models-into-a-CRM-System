@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "376",
+  "status": "ok",
+  "seconds": 15.62,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Solidní zařízení za nízkou cenu, i když mám svůj Nexus 7 stále rád."
+      },
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Má vestavěný subwoofer, který splní svůj účel a zvuk je pěkný a čistý."
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "mixed",
+        "evidence": "Ostatní aplikace se často chovaly stejně."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Spoléhá na Bluetooth a bohužel je omezen na moderní telefony a iOS 7, takže si nezapomeňte ověřit, zda máte kompatibilní zařízení: iPhone 5 (první model, 5c a 5s), iPad mini, iPad Air, iPad 4."
+      },
+      {
+        "aspect": "pohodlí",
+        "sentiment": "positive",
+        "evidence": "Navzdory mým velkým rukám byl ovladač dostatečně pohodlný."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-376 (anonymizován).\nRecenze (37, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nASUS MeMO Pad 8 ME181C-A1-BK 8palcový tablet s 1 GB RAM (černý): Solidní zařízení za nízkou cenu, i když mám svůj Nexus 7 stále rád. Už mám Google Nexus 7 (2013), který je také od ASUSu, ale s jinými specifikacemi (více paměti, jiný procesor), takže moje zkušenost je ovlivněna srovnáním. Za prvé, ASUS výrazně upravil uživatelské rozhraní (nerozvětvil, jen upravil). Vypadá to docela hezky a musím říct, že klávesnice je mnohem lepší, už jen proto, že se na první desku vešlo mnohem více znaků a možností/interpunkce, aniž by bylo nutné přepínat na alternativy. To se mi rozhodně líbilo. Vzhledem k tomu, že se jedná o verzi 4.4, zbytek operačního systému je z velké části stejný a běží stejně jako můj Nexus 7 (který jsem upgradoval z verze 4.3 na 4.4). Nicméně, s výjimkou aplikací specifických pro ASUS – prohlížeč, pošta a další základní aplikace byly standardně nastaveny na verze od ASUSu, i když vždycky můžete použít verze od Googlu – docházelo k znatelnému zpoždění při používání různých aplikací. Například jsem hrál Hay Day (nesud'te mě!) a přepínání aplikací se občas zpožďovalo i o několik sekund. Ostatní aplikace se často chovaly stejně. Myslím, že je to nižší RAM (1 oproti 2), ale vadilo mi to. Chápu, že toto zařízení je levnější – zvláště proto, že můj Nexus 7 je 7\" a srovnatelný MeMO Pad stojí 150 dolarů, takže cenový rozdíl je poměrně značný. Mějte ale na paměti, že procesor MeMO Padu je podle toho mála, co jsem provedl, výkonnější (nejsem v tom expert). U Nexusu 7 jsem se s takovým problémem nikdy nesetkal. Je možné, že se rozdíly v CPU projeví o něco později, ale já jsem si toho nevšiml. Musím zmínit dodávanou aplikaci pro správu baterie od ASUSu. Na svém Nexusu 7 používám aplikaci od třetí strany a ta dokáže dělat... zajímavá rozhodnutí. Aplikace od ASUSu se mi zdála mnohem chytřejší, co se týče správy napájení. Upřímně řečeno, kdybych si mohl tu aplikaci koupit a spustit ji na svém Nexusu 7, myslím, že bych to udělal. A když už mluvíme o hrách, problém, který se zdá být u obou zařízení, je zahřívání. Jeden roh se může prudce zahřát, pravděpodobně se procesor zatěžuje. Není to tak úplně negativní (máte velmi tenké zařízení se solidním CPU), ale občas se obávám, že zařízení... vznítit nebo tak něco. Kromě výše uvedeného je zařízení jinak docela solidní. Nemůžu říct, že mě ohromilo nebo něco takového, ale proto jsem zmínil Nexus 7. Technicky vzato jsem měl šanci být ohromen, když jsem si pořídil Nexus 7. To mi jen říká, že ASUS stále umí vyrábět dobrá zařízení. Jen si nejsem jistý softwarem. Chápu, že se snaží, aby zařízení vyniklo, ale raději bych, kdyby tam prostě přidali tu upravenou klávesnici a zbytek aplikací nechali na Googlu a dalších poskytovatelích. Měli byste si toto zařízení pořídit? Opravdu záleží na tom, co od zařízení hledáte. Ušetříte slušné množství peněz oproti Nexusu 7, což může být důležité. Běží na 4.4, takže můžete používat stejné aplikace, a tato klávesnice je pro mě skvělá. Získáte větší obrazovku, což je také fajn (k dispozici je 7\" MeMO Pad, který je o 50 dolarů levnější, takže na to pamatujte). Osobně, po vyzkoušení obou zařízení, se přikláním k Nexusu 7. Více paměti/plynulejší chod v kombinaci s o něco tenčím provedením mě uspokojuje více. Navíc preferuji „výchozí“ styl Androidu před „plochým“ stylem od ASUSu, i když je hezký. Pokud vám záleží na výkonu, můžete vyzkoušet Google Nexus 7. Pokud ale chcete větší obrazovku (a rozšířenou klávesnici) spolu s lepším procesorem a zároveň ušetřit peníze oproti Nexusu 7, s tímto zařízením opravdu nemůžete udělat chybu.\n2.1kanálový soundbar Sony HT-XT1 s vestavěným subwooferem: Skvělý soundbar a HDMI hub... V obýváku máme přehrávač Sonos, ale moje domácí kancelář (a můj rozpočet) si na další zrovna nevejde. Mám už pár let docela starou LCD televizi Sony. Reproduktory na ní nejsou moc dobré a vzhledem k tomu, jak je moje kancelář uspořádána, není moc praktické nainstalovat domácí kino (navíc stejně nemám takový rozpočet). A teď si pořídím tento soundbar. Má vestavěný subwoofer, který splní svůj účel a zvuk je pěkný a čistý. Je to skvělý upgrade vestavěných reproduktorů a je mnohem úhlednější než kabelové domácí kino. Získáte výběr zvukových předvoleb a (alespoň pro mě) tři HDMI vstupy spolu s HDMI výstupem pro televizi. Měl jsem malý přepínač pro ovládání více HDMI zařízení a jediného HDMI vstupu mé staré televize. Je tam také optický port, pokud je to vaše věc. Dodává se s malým dálkovým ovladačem, který vypadá docela skvěle, ale je trochu chatrný. V závislosti na vaší konfiguraci jej pravděpodobně můžete z rovnice vynechat, pokud ho opravdu nepotřebujete. Také se dodává s HDMI kabely, takže se určitě ujistěte, že nějaké máte, nebo si nějaké přineste. Zařízení je poměrně hluboké (nebo myslím, že široké, podle toho, jak se na to díváte), takže si nezapomeňte zkontrolovat rozměry v informacích o produktu. Pro mě to nakonec stačilo. I když existuje limit, kolik věcí se na něj dá umístit (horní část zařízení je ve skutečnosti ze skla!), podařilo se mi na něj umístit televizi, takže co se týče místa, jsem skvělý. Z hlediska úspory místa jsem s tímto soundbarem opravdu spokojený, protože reproduktory jsou vpředu, takže nic nahoře nebude blokovat zvuk. Pro mě to prostě fungovalo skvěle. Ještě jedna věc, kterou je třeba poznamenat, zatímco většina mých zařízení s tímto zařízením fungovala dobře, alespoň jedno, přehrávač Sony Blu-Ray, vykazovalo velké rušení. V manuálu se doporučují vysokorychlostní kabely a já nemohu ručit za některé z kabelů, které používám, takže si k tomuto úsudku vyhrazuji, dokud nebudu mít možnost si pořídit nový kabel a vyzkoušet ho. Mějte na paměti, že Blu-ray přehrávač je na poličce asi patnáct centimetrů pod soundbarem, takže je možné, že problém způsobuje subwoofer (i když přehrávač je na opačné straně než subwoofer). Nicméně ve srovnání s cenou systému Sonos (což je pěkný systém, nechápejte mě špatně) je to dobrý systém, který se hodí, pokud nemáte velký rozpočet nebo pokud nehledáte všechny funkce takového systému (mezi Sonos Playbarem a subwooferem to vyjde na 4x více). Navíc pro menší místnosti bude tento systém pravděpodobně vhodnější než něco podobného, co je skutečně určené pro větší místnosti. Pro mě je nejlepší prostě to, že konečně můžu ze svého sestavy dostat skvělý zvuk, když se dívám na televizi nebo film. Pokud si to můžete dovolit, myslím, že s koupí tohoto systému neuděláte chybu. Nečekejte, že to bude 5.1 systém, samozřejmě. Je to 2.1. Ale ani to bych tomuto zařízení nevyčítal. Je to mnohem lepší než vestavěné reproduktory a mnohem lépe organizované než instalace nějakého domácího kina.\nBezdrátový herní ovladač SteelSeries Stratus pro iPhone, iPad a iPod Touch – černý: Pěkné, i když je to pro vás, s velkými palčáky, trochu malé... Říkal jsem si, že tenhle ovladač vyzkouším, jestli se nakonec neukáže jako lepší alternativa k mým obrovským prstům a dlaním, které mi zakrývají půlku obrazovky, když se snažím hrát nějaké hry. Celkově vzato funguje docela dobře. Spoléhá na Bluetooth a bohužel je omezen na moderní telefony a iOS 7, takže si nezapomeňte ověřit, zda máte kompatibilní zařízení: iPhone 5 (první model, 5c a 5s), iPad mini, iPad Air, iPad 4. generace a iPod touch 5. generace (podle SteelSeries: [...]). Navzdory mým velkým rukám byl ovladač dostatečně pohodlný. K dispozici jsou tlačítka ABXY, duální páčky a D-pad. Místo spouštěčů máte v horní části ovladače čtyři tlačítka. Jsou stále velmi dobře použitelná, ale pokud jste na spouštěče zvyklí, budete si na ně muset zvyknout. Hrál jsem s ovladačem Bastion a bylo to skvělé. Je to mnohem přirozenější a pohodlnější. Z praktických důvodů jsem si ale nevšiml žádného zpoždění, obvykle sedím hned vedle telefonu. Nejsem si jistý, jak dobře by to fungovalo z dálky, ale... na druhou stranu... proč by člověk byl tak daleko? Ovladač je dodáván s plastovým krytem, který chrání ovládací rozhraní, ale jakmile do něčeho narazí, uvolní se, takže jeho použitelnost je otázkou. K dispozici je také měkké látkové\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Solidní zařízení za nízkou cenu, i když mám svůj Nexus 7 stále rád."
+      },
+      {
+        "aspect": "zvuk",
+        "sentiment": "positive",
+        "evidence": "Má vestavěný subwoofer, který splní svůj účel a zvuk je pěkný a čistý."
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "mixed",
+        "evidence": "Ostatní aplikace se často chovaly stejně."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Spoléhá na Bluetooth a bohužel je omezen na moderní telefony a iOS 7, takže si nezapomeňte ověřit, zda máte kompatibilní zařízení: iPhone 5 (první model, 5c a 5s), iPad mini, iPad Air, iPad 4."
+      },
+      {
+        "aspect": "pohodlí",
+        "sentiment": "positive",
+        "evidence": "Navzdory mým velkým rukám byl ovladač dostatečně pohodlný."
+      }
+    ]
+  }
+}

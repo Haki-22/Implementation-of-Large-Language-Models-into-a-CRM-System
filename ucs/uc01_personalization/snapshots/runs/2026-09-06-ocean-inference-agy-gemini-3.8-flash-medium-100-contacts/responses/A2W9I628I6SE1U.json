@@ -1,0 +1,40 @@
+{
+  "contact_id": 350,
+  "reviewer_id": "A2W9I628I6SE1U",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 80,
+  "reviews_used": 15,
+  "prompt_chars": 9666,
+  "status": "ok",
+  "seconds": 458.15,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.35,
+    "A": 3.9,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "It darkens the sky and lightens the foliage (Woods effect). It gives images an otherworldy appearance that many find appealing.",
+      "C": "After reading reviews all across the web, the concensus was that this is the best all-purpose Infrared filter for photography - digital photography in my case.",
+      "E": "It is the perfect device to keep close at hand for that candid kid moments you want to share with family or just treasure forever.",
+      "A": "Sure, Monster makes a good cable, there is no denying that. Deserving of 5 star rating for what it is.",
+      "N": "So far, not so intuitive. I contacted customer support and a day later I got an email that helped me sol"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.1,
+    "E": 3.35,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Sure, Monster makes a good cable, there is no denying that. Deserving of 5 star rating for what it is.",
+      "C": "After reading reviews all across the web, the concensus was that this is the best all-purpose Infrared filter for photography - digital photography in my case.",
+      "E": "It is the perfect device to keep close at hand for that candid kid moments you want to share with family or just treasure forever.",
+      "N": "So far, not so intuitive. I contacted customer support and a day later I got an email that helped me sol",
+      "O": "It darkens the sky and lightens the foliage (Woods effect). It gives images an otherworldy appearance that many find appealing."
+    }
+  }
+}

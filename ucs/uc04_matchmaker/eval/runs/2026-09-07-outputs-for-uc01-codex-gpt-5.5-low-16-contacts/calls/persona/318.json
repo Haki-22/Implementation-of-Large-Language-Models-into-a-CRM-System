@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "318",
+  "status": "ok",
+  "seconds": 14.0,
+  "error": "",
+  "parsed": {
+    "label": "opakujici_se_nakupci_pc_prislusenstvi",
+    "narrative_cs": "Zákazník často nakupuje počítačové příslušenství, hlavně bezdrátové periferie, paměťové karty, flash disky, externí úložiště a ochranu napájení, občas i tablety a televizní techniku. Se 78 nákupy a hodnocením 4,3 se vrací pravidelně, míří spíše na střední cenovou hladinu a v recenzích řeší praktičnost, kompatibilitu a spolehlivost.",
+    "tags": [
+      "počítačové_příslušenství",
+      "úložiště",
+      "bezdrátové_periferie",
+      "opakované_nákupy",
+      "praktické_recenze"
+    ],
+    "price_segment": "mid"
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-318 (anonymizován).\nNákupů: 78, průměrné hodnocení 4.3 z 5, fáze v e-shopu: kandidát na návrat.\nNejčastější kategorie: Computers & Accessories (56), Accessories & Supplies (6), Television & Video (6)\nTémata zájmu (klasické shlukování): computers / accessories / logitech / myš / bezdrátová; computers / accessories / karta / gb / paměťová; usb / computers / accessories / disk / externí\nUkázky recenzí (nejdelší, zkrácené):\n- Apple iPad MC705LL/A (16 GB, Wi-Fi, černý) 3. generace: Klady: Tenčí design; 4G a Wi-Fi; osobní hotspot; krásná obrazovkaZápory: Stále žádné použitelné USB portySečteno a podtrženo: stejně jako iPad 1 a 2 před ním je iPad 3 nezbytným zařízením desetiletí, tečka! Tablet se stal prodloužením mé paže!Můj Apple iPad. Co začalo jako příjemná hračka, se stalo \n- Tablet Apple iPad 2 MC769LL/A (16GB, WiFi, černý) 2. generace: Apple iPad. Ti z nás, kteří ho vlastní, byli v poslední době nazýváni ne zrovna lichotivými jmény za to, že se odvážili ho používat a užívat si ho! Popularita těchto zařízení ale roste; ve skutečnosti je vidím všude. Zrovna včera jsem seděl vedle ženy v místním autosalonu Ford, která si četla knihu \n- Kingston Digital 16GB USB 2.0 vysokorychlostní flash disk Datatraveler DTIG3/16GBZ, bílý a modrý: Shrnutí: Nemohl jsem si přát lepší přenosný paměťový produkt než „DataTranveler 8GB 2.0 G3 Flash Drive“. Stalo se pro mě zvykem nosit v batohu na notebooku spolu s notebookem, ať už osobním nebo pracovním. Dříve jsem používal výhradně USB Jump-Drive od Lexar Media, ale mé požadavky na paměť rychle p\n- Paměťová karta Kingston 8 GB microSDHC třídy 4 s adaptéry SD a miniSD SDC4/8GB-2ADP: Sečteno a podtrženo: Nemohl jsem si přát lepší přenosnou paměť než „Kingston Technology SDC4/8GB MicroSDHC Class 4 Flash Card“. Když můj počítač s 64bitovým Windows 7 nedávno vykazoval známky vyčerpání 4 GB RAM, které jsem měl nainstalované, místo nákupu další SDRAM jsem se rozhodl využít technologi\n- Záložní zdroj napájení pro širokopásmové připojení APC Back-UPS ES 725 (číslo dílu BE725BB): Shrnutí: Závěrečná analýza: „ES 725“ dělá to, co má dělat – chrání můj počítač před škodlivými elektrickými událostmi a poskytuje zdroj nouzového napájení; dělá to dobře. Už léta se spoléhám na UPS od společnosti American Power Conversion (APC). Společnost vyrábí systémy UPS od roku 1984 a je lídrem\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "opakujici_se_nakupci_pc_prislusenstvi",
+    "narrative_cs": "Zákazník často nakupuje počítačové příslušenství, hlavně bezdrátové periferie, paměťové karty, flash disky, externí úložiště a ochranu napájení, občas i tablety a televizní techniku. Se 78 nákupy a hodnocením 4,3 se vrací pravidelně, míří spíše na střední cenovou hladinu a v recenzích řeší praktičnost, kompatibilitu a spolehlivost.",
+    "tags": [
+      "počítačové_příslušenství",
+      "úložiště",
+      "bezdrátové_periferie",
+      "opakované_nákupy",
+      "praktické_recenze"
+    ],
+    "price_segment": "mid"
+  }
+}

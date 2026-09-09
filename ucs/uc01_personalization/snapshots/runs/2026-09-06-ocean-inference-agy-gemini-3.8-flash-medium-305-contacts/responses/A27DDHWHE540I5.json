@@ -1,0 +1,40 @@
+{
+  "contact_id": 351,
+  "reviewer_id": "A27DDHWHE540I5",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 40,
+  "reviews_used": 15,
+  "prompt_chars": 9883,
+  "status": "ok",
+  "seconds": 1150.46,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 4.35,
+    "A": 4.15,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "What a charming, quirky, insanely cool cover for me Kindle! The second I saw this retro cover, I ordered it.",
+      "C": "I felt that I owed this company and any viewers a solid update on this Kindle case, after putting it through some SERIOUS use the past 30 days.",
+      "E": "Now, for the review. I LOVE THIS FRICKIN' THING!!!!",
+      "A": "THANK YOU, Sony, for continuing to fulfil a true need for so many people (young and old) who need something that is simple to use",
+      "N": "The Good: The colour is a lovely deep shrimp and I was delighted with the slight, subtle embossing of a flower on the front cover."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.05,
+    "E": 4.35,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "THANK YOU, Sony, for continuing to fulfil a true need for so many people (young and old) who need something that is simple to use",
+      "C": "I felt that I owed this company and any viewers a solid update on this Kindle case, after putting it through some SERIOUS use the past 30 days.",
+      "E": "Now, for the review. I LOVE THIS FRICKIN' THING!!!!",
+      "N": "The Good: The colour is a lovely deep shrimp and I was delighted with the slight, subtle embossing of a flower on the front cover.",
+      "O": "What a charming, quirky, insanely cool cover for me Kindle! The second I saw this retro cover, I ordered it."
+    }
+  }
+}

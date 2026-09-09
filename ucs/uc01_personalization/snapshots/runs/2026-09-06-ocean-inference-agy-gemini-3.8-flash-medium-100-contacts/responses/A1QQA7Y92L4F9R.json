@@ -1,0 +1,40 @@
+{
+  "contact_id": 305,
+  "reviewer_id": "A1QQA7Y92L4F9R",
+  "group": "B",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 75,
+  "reviews_used": 15,
+  "prompt_chars": 10417,
+  "status": "ok",
+  "seconds": 258.87,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.25,
+    "E": 4.15,
+    "A": 3.4,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "This review is going to get a bit technical, but not really heavy duty technical stuff about the nVidia Fermi cards, just some basic rocket science",
+      "C": "most of all please attend to the *DETAILS*, details, details of installation, and yours will be all that much better in your own machine if you do!",
+      "E": "I am flat out telling everyone reading this review that you are about to invest in the finest SDRAM in the marketplace of retail products, bar none!",
+      "A": "let's tell the nice Amazon.com readers what it does, and how well it does it, and a whole slew of TIPS and TRICKS this user knows in and out!",
+      "N": "If they don't work, simply call or email Amazon.com Customer Support and get it replaced, that's all you have to do!!"
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.25,
+    "E": 4.15,
+    "N": 2.2,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "let's tell the nice Amazon.com readers what it does, and how well it does it, and a whole slew of TIPS and TRICKS this user knows in and out!",
+      "C": "most of all please attend to the *DETAILS*, details, details of installation, and yours will be all that much better in your own machine if you do!",
+      "E": "I am flat out telling everyone reading this review that you are about to invest in the finest SDRAM in the marketplace of retail products, bar none!",
+      "N": "If they don't work, simply call or email Amazon.com Customer Support and get it replaced, that's all you have to do!!",
+      "O": "This review is going to get a bit technical, but not really heavy duty technical stuff about the nVidia Fermi cards, just some basic rocket science"
+    }
+  }
+}

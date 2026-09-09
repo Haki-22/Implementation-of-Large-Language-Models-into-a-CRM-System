@@ -1,0 +1,40 @@
+{
+  "contact_id": 295,
+  "reviewer_id": "A2BX8DDQGCCG2J",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 10040,
+  "status": "ok",
+  "seconds": 1104.84,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.35,
+    "E": 3.25,
+    "A": 3.65,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "Here is an extremely useful, albeit technical, review of this particular Asus model AND of the Atom N450 on which it is based",
+      "C": "Do not mismatch RAM module speeds or sizes! No additional boost to video score.",
+      "E": "My conclusion (at the end of this highly revised review) was, and remains, a resounding YES",
+      "A": "Please see Cisco's response, below. I am glad Cisco has responded.",
+      "N": "strikes me as a \"come on\" - it omits the two essential features that make the 3rd Generation Flips of interest"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.35,
+    "E": 3.25,
+    "N": 2.5,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Please see Cisco's response, below. I am glad Cisco has responded.",
+      "C": "Do not mismatch RAM module speeds or sizes! No additional boost to video score.",
+      "E": "My conclusion (at the end of this highly revised review) was, and remains, a resounding YES",
+      "N": "strikes me as a \"come on\" - it omits the two essential features that make the 3rd Generation Flips of interest",
+      "O": "Here is an extremely useful, albeit technical, review of this particular Asus model AND of the Atom N450 on which it is based"
+    }
+  }
+}

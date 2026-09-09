@@ -1,0 +1,40 @@
+{
+  "contact_id": 137,
+  "reviewer_id": "A2ARDVMUGDFED6",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 121,
+  "reviews_used": 15,
+  "prompt_chars": 10025,
+  "status": "ok",
+  "seconds": 492.74,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.35,
+    "A": 3.8,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "I've been doing photography for years as a hobby - I've got all the fancy stuff and filters for everything.",
+      "C": "A correction to the amazon description: According to the box, it only holds up to 450 DVDs (not the 564 they list)",
+      "E": "I was excited to see Yongnuo introduce a new model - I love their flashes, the CTR-301P transmitters and the RF-602 transmitters.",
+      "A": "I'll start off by saying that this item IS compatible with the Rebel XTi (I've seen conflicting information floating around).",
+      "N": "This made long-exposes such as night photography difficult for me and often left me disappointed with the results."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.15,
+    "E": 3.35,
+    "N": 2.7,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I'll start off by saying that this item IS compatible with the Rebel XTi (I've seen conflicting information floating around).",
+      "C": "A correction to the amazon description: According to the box, it only holds up to 450 DVDs (not the 564 they list)",
+      "E": "I was excited to see Yongnuo introduce a new model - I love their flashes, the CTR-301P transmitters and the RF-602 transmitters.",
+      "N": "This made long-exposes such as night photography difficult for me and often left me disappointed with the results.",
+      "O": "I've been doing photography for years as a hobby - I've got all the fancy stuff and filters for everything."
+    }
+  }
+}

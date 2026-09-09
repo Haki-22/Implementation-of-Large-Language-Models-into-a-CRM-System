@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "59",
+  "status": "ok",
+  "seconds": 15.4,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "cena",
+        "sentiment": "mixed",
+        "evidence": "Cena je vysoká, ale za ty peníze dostanete hodně."
+      },
+      {
+        "aspect": "konstrukce",
+        "sentiment": "positive",
+        "evidence": "Celkově je konstrukce solidní."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Nastavení je relativně snadné (mnohem snazší než u úložného serveru Windows, jako je Seagate), ale na rozdíl od úložišť WD se tato jednoduchost neshoduje s nedostatkem funkcí."
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "positive",
+        "evidence": "Výkon je prostě obrovský a i když nemám po ruce směrné číslo, zdá se mi znatelně lepší než u mého SB-900 (u mého Nikonu)."
+      },
+      {
+        "aspect": "ergonomie",
+        "sentiment": "mixed",
+        "evidence": "Ergonomie je smíšená, protože nemáte přístup k mnoha rozměrným kapsám, ale unese se do ní hodně věcí a dobře se v ní nosí."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-59 (anonymizován).\nRecenze (32, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nThule TPBP-101 Perspektiv Backpack (Black):  Brašny na fotoaparáty jsou opravdu otázkou preferencí a potřeb a já jsem zatím nenašel tu perfektní (používám mnoho brašen od Lowepro, Think Tank, Crumpler a Case Logic). Kromě Case Logic měly všechny co nabídnout, stejně jako tato brašna. Dostanete zde velký batoh, který se otevírá vzadu. Je to pravděpodobně bezpečnější, ale také méně pohodlné. Ve skutečnosti si nepředvídám scénář, kdy by se daly ukrást objektivy z běžného batohu během používání. Stejně tak, i když je přístup k tradičnějšímu batohu o něco snazší, obvykle je nutné ho sundat, abyste se dostali k hlavním přihrádkám. Pokud chci mít přístup k brašně, kterou nosím, používám brašnu přes rameno nebo přes rameno. Opět váš názor. Co se týče konstrukce, jsem obecně docela spokojen. Vnější konstrukci jsem shledal srovnatelnou s brašnami vyšší třídy, ale přál bych si trochu lepší polstrování uvnitř (Crumpler má pravdu). Je lepší než Case Logic, ale jejich brašny stojí mnohem méně. Celkově je konstrukce solidní. Chvála za výrazný modrý interiér. Ergonomie je smíšená, protože nemáte přístup k mnoha rozměrným kapsám, ale unese se do ní hodně věcí a dobře se v ní nosí. Je to moje oblíbená taška na nošení vybavení. Opět bych z ní nechtěl pracovat, ale je to skvělá příruční taška nebo taška na přenášení vybavení na set. Podíval bych se na tuto tašku, ale podíval bych se i na jiné možnosti a nešetřil bych. Pokud máte dostatek vybavení, abyste tuto tašku zaplnili, investujte do způsobu, jak ji nosit.\nSynology America DiskStation 8-Bay Diskless Network Attached Storage (DS1813+): Úžasný NAS Používal jsem jiné NAS servery Synology, úložné servery Seagate pro Windows a úložné boxy Western Digital se 2 a 4 disky a tento je nejlepší. Toto je nejrychlejší NAS, jaký jsem používal (s disky WD Red 3TB, i když by fungovaly dobře i disky Seagate NAS) a lze jej použít jako primární úložiště pro mnoho úkolů (používám ho pro soubory v Lightroomu), ale i pro hromadné ukládání a zálohování. Nastavení je relativně snadné (mnohem snazší než u úložného serveru Windows, jako je Seagate), ale na rozdíl od úložišť WD se tato jednoduchost neshoduje s nedostatkem funkcí. Tento box toho zvládne docela dost – a to vše při rychlém načítání souborů. Používal jsem službu MySQL i funkce webového a mediálního serveru, ale nabízí toho mnohem víc. Správce souborů je překvapivě užitečný (i když musím říct, že funkce Průzkumníka úložného serveru Windows je o dost lepší). A konečně, Synology Hybrid RAID je skvělý. Umožňuje používat disky různých velikostí (s pochopitelnými výhradami) a také snadno rozšiřovat svazky na další disky. Vysoká cena tohoto modelu spolu s cenou 3 nebo 4TB disků určených pro použití v NAS se může nasčítat. Zde můžete začít s 1-3 disky a postupně rozšiřovat počet disků (já jsem začal se 4). Přál bych si, aby byla funkce redundance 2 disků snadnější na nastavení (pole s 8 disky by se nemělo stavět pouze s jedním redundantním diskem). Je tam, ale musíte si ji trochu zapamatovat. Co se týče hardwaru, je překvapivě tichý se dvěma velkými ventilátory. Není to sice tiché jako šepot, ale mnoho stolních počítačů vydává větší hluk. Nepoužil jsem více LAN portů, ale umožňuje redundanci i propojení pro zvýšení rychlosti a myslím, že i základní router (nikdy jsem ho nezkoušel). Cena je vysoká, ale za ty peníze dostanete hodně. Pole s 8 disky dává z hlediska správy a nákladů mnohem větší smysl než více polí se 4 nebo 5 disky a toto nabízí spoustu rychlosti. Můžete jej rozšířit dle potřeby, a to buď dalšími boxy, nebo přidáním disků do částečně plného boxu. K dispozici je robustní ekosystém solidních aplikací, které zřejmě nesnižují funkčnost souborového serveru. Zkrátka je to vše, co malá firma nebo zkušený uživatel může kdy potřebovat. Vřele doporučuji.\nNikon MB-D15 Grip Multi Battery Power Pack for D7100 Digital SLR Camera: Neuvěřitelně solidní Zaprvé: ano, je předražený. Nicméně je neuvěřitelně dobře vyrobený. Výrazně lepší než gripy od jiných výrobců, které jsem používal na svém D70 nebo Nikon MB-D80 namontovaný na mém D90. Uchycení je pevné, pevné a především robustní. Miluji to. Skutečnost, že můžete používat AA baterie kromě interních lithium-iontových baterií, je docela praktická. To vám dává praktickou zálohu. S jinými gripy jsem se horečně snažil nabít 6 AA baterií, než bych promeškal snímek. Ovládání je dobré, ale mohlo by být lepší. Je to kvalita Nikonu, ale tlačítko AE je velmi citlivé – až příliš citlivé. Čtyřsměrný ovladač je trochu volnější než ten v mém D7100, ale je to solidní kus. Kolečko je špičkové. A konečně, když používám svůj D7100 s tímto a objektivem 70-200/2,8, pociťuji mnohem menší únavu než s mými D90 a MB-D80. Myslím, že hlavním důvodem je pevnější připojení tohoto zařízení. Prostě tak dobře drží na mém D7100. Proto mi cena vyhovuje, ale koupil jsem si svůj z druhé ruky za méně než polovinu maloobchodní ceny.\nStoracell SLAATB Powerpax SlimLine AA Battery Caddy, Black, 4-Pack: Nejlepší držák baterií, jaký jsem našel Nicméně je to jen plastový držák na baterie. Nabízí snadný přístup a bezpečné uložení. Já používám tyto 4 držáky na AA baterie pro své blesky/\nJBL Sub 260P 12-Inch, 300-Watt Powered Subwoofer (Each): Velmi dobré, ale za tu cenu existují skvělé alternativy Celkově vzato se jedná o docela dobrý subwoofer, který dokáže zaplnit malou až středně velkou místnost. Na druhou stranu se totéž dá říct o mnoha subwooferech za 250-400 dolarů. Za tu cenu se dají sehnat zatraceně dobré subwoofery, které snadno překonají tento přístroj. Subwoofer se skvěle hodí k reproduktorům JBL Studio, dobře poslouží jak s hudbou, tak s filmy a na danou příležitost se nikdy nezdá být ani příliš silný, ani slabý. Opravdu obstojí v porovnání s většinou subwooferů v obchodech (jako ty, které najdete v Best Buy nebo v jakémkoli jiném obchodě), ale internet nabízí i lepší ceny.\nSony HVLF60M Flash for Alpha Cameras (Black): Skvělý, i když nedokonalý blesk I když je na bezzrcadlovce Sony A7 mnoho co obdivovat, zejména jeho poměr ceny a výkonu, omezený výběr příslušenství, jako jsou blesky, a jejich ceny byly trochu odrazující. Nicméně jsem si tento blesk koupil a drží se po boku těch nejlepších od Canonu a Nikonu. Je toho mnoho co obdivovat, včetně výkonu, videosvětla, dostatečně snadného rozhraní (bohužel to u blesků není zvykem) a super cool designu „kobři“ (dnes se to zdá být tak zřejmé, ale nikdo jiný to nikdy nedělal). Výkon je prostě obrovský a i když nemám po ruce směrné číslo, zdá se mi znatelně lepší než u mého SB-900 (u mého Nikonu). Stačí říct, že jeho výkon je na profesionální úrovni. Vestavěný LCD displej jsem pro video moc nepoužíval, ale v minulosti jsem takovou možnost chtěl a brzy ji využiji. Moc nefotím portréty, ale otočná hlava tohoto blesku ve tvaru „kobry“ celou záležitost (včetně odrazu od stropu) usnadňuje než u jakéhokoli jiného blesku, který jsem používal (bez držáku a kabelu za více než 200 dolarů). Tyto výhody jsou vyváženy nevýhodami. Četné zprávy o přehřívání, i když jsem se s mým bleskem, stejně jako s SB-900, osobně nesetkal. Nejsem „profík“ a nekladu na své vybavení takové nároky jako někdo v tisku nebo na svatbách, takže vaše zkušenosti jsou pozitivní. Stejně tak obvykle používám velký modifikátor těžkého světla, kterým je strop, kde jiná zařízení mohou omezovat proudění vzduchu pro chlazení. Každopádně se nerad obávám přehřívání. Další nevýhodou je bezdrátové nastavení, které je stále trochu pozadu za některými jinými řešeními, a chybějící zásuvka pro synchronizační kabel nepomáhá. S správným přístupem je stále velmi dobře použitelný (i když pokud se u dálkových blesků používá manuální režim, existují MNOHEM levnější možnosti). Největším problémem, který jsem měl, je, že vysokorychlostní synchronizace je omezena výhradně na polohu směřující dopředu. Zřídka mířím blesk přímo na objekty a často ho používám na těle fotoaparátu. Celkově je to trochu jako celková historie Sony. V některých ohledech výjimečný (inovace designu), ve většině solidní a\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "cena",
+        "sentiment": "mixed",
+        "evidence": "Cena je vysoká, ale za ty peníze dostanete hodně."
+      },
+      {
+        "aspect": "konstrukce",
+        "sentiment": "positive",
+        "evidence": "Celkově je konstrukce solidní."
+      },
+      {
+        "aspect": "snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Nastavení je relativně snadné (mnohem snazší než u úložného serveru Windows, jako je Seagate), ale na rozdíl od úložišť WD se tato jednoduchost neshoduje s nedostatkem funkcí."
+      },
+      {
+        "aspect": "výkon",
+        "sentiment": "positive",
+        "evidence": "Výkon je prostě obrovský a i když nemám po ruce směrné číslo, zdá se mi znatelně lepší než u mého SB-900 (u mého Nikonu)."
+      },
+      {
+        "aspect": "ergonomie",
+        "sentiment": "mixed",
+        "evidence": "Ergonomie je smíšená, protože nemáte přístup k mnoha rozměrným kapsám, ale unese se do ní hodně věcí a dobře se v ní nosí."
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "contact_id": 327,
+  "status": "ok",
+  "seconds": 5.36,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "USB 3.0 powered hub with multiple ports",
+      "Portable external hard drive with 2 TB or higher capacity",
+      "Bluetooth portable speaker with rechargeable battery"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Customer C-327 (anonymised). Product titles in English.\nPurchase history (27 purchases, oldest first):\n- 2009-04-15 ★4 Channel Master CM-7000 Digital to Analog TV Converter Box with S-Video\n- 2009-09-03 ★1 Channel Master CM 4228 8-bay HDTV/UHF Antenna CM4228HD\n- 2009-09-16 ★5 Ultimate Ears 700 Noise Isolating Earphones (Discontinued by Manufacturer)\n- 2009-10-12 ★4 Ultimate Ears MetroFi 170vi Noise Isolating Earphones w/ Microphone (Discontinued by Manufacturer)\n- 2009-11-28 ★1 B002LLK5CO\n- 2010-02-21 ★4 AmazonBasics 8.5 GB 8x DVD+R DL (50-Pack Spindle) (Discontinued by Manufacturer)\n- 2010-12-16 ★5 V7 D22W12-N6 22-Inch Wide 1000:1 1680X1050 5MS VGA LCD Monitor with DVI-D Spekers\n- 2011-01-18 ★4 Post-it® Super Sticky Name Badge Labels, 2.33 x 3.37 Inches, Blue Border, 400 per Pack (2800-O)\n- 2011-01-29 ★5 Ultra ULT40299 4-port USB PCI Bracket\n- 2011-02-02 ★3 Magellan RoadMate 3030LM 4.7-Inch Portable GPS Navigator (Lifetime Map Updates Included)\n- 2011-03-01 ★5 3M Desk Mount Easy-Adjust Monitor Arm (MA200MB)\n- 2011-03-31 ★5 Zotac ZBOXHD-ID34BR Intel Atom D525 1.8 GHz Dual Core with Blu-ray All-in-One Mini-PC\n- 2011-05-16 ★4 Case Logic SLMC-200 Compact Systems Camera Case (Black)\n- 2011-07-13 ★4 Belkin Micra Digital HDMI to Mini-HDMI Cable (6ft)\n- 2011-09-14 ★5 Kingston Digital 32 GB Flash Memory Card SD10G2/32gb\n- 2011-09-19 ★3 Syba SY-KVM22004 PS2 Interface, 2x Ports Cable KVM Switch, Compact Design, Video up to 2048x1536 Pixels, with Built-in A\n- 2011-10-20 ★4 Sony MDRNC200D Digital Noise-Canceling Headphones (Discontinued by Manufacturer)\n- 2011-12-25 ★4 Joby GorillaPod Hybrid Red\n- 2012-06-29 ★4 Seagate Expansion 1TB Desktop External Hard Drive USB 3.0 (STBV1000100)\n- 2012-07-23 ★2 AmazonBasics Flexible Tripod for Point-and-Shoot Cameras\n- 2013-02-06 ★5 HP Envy Phoenix h9-1330 Desktop (Black)\n- 2013-05-10 ★4 TP-LINK TL-WDR4300 Wireless N750 Dual Band Router, Gigabit, 2.4GHz 300Mbps+5Ghz 450Mbps, 2 USB port, Wireless On/Off Swi\n- 2013-05-14 ★5 Mohu Sky 60 amplified attic/outdoor HDTV antenna w/ mount\n- 2013-11-04 ★5 NEW AYL® Portable Mini Speaker System with 3YR GUARANTEE (Black) with Rechargeable Battery and Expandable Bass Resonator\n- 2013-11-18 ★4 WD My Passport Ultra 2TB Portable External USB 3.0 Hard Drive with Auto Backup - Black\n- 2014-01-19 ★3 Tonez Audio Corp. CAN Portable Bluetooth Speaker/Speakerphone (Stealth/Black)\n- 2014-02-27 ★5 AmazonBasics USB 3.0 A-Male to A-Female Extension Cable - 9.8 Feet (3.0 Meters)\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "USB 3.0 powered hub with multiple ports",
+      "Portable external hard drive with 2 TB or higher capacity",
+      "Bluetooth portable speaker with rechargeable battery"
+    ]
+  },
+  "held_out": "B008EQZ25K"
+}

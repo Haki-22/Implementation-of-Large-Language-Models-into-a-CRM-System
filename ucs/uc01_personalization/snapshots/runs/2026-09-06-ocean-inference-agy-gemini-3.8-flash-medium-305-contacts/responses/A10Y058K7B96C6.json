@@ -1,0 +1,40 @@
+{
+  "contact_id": 148,
+  "reviewer_id": "A10Y058K7B96C6",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 113,
+  "reviews_used": 15,
+  "prompt_chars": 9171,
+  "status": "ok",
+  "seconds": 542.2,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 3.35,
+    "A": 3.85,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I often test a number of cameras for both personal and business use so I was happy to get this camera in my hands.",
+      "C": "It took me many months before I decided to purchase this camera.",
+      "E": "I can sum up my decision very easily: this netbook is awesome.",
+      "A": "Overall, I feel this would be a good unit for a GPS newbie or someone that does not want all of the bells and whistles.",
+      "N": "Awesome, but now the TVs were not working. I went into the configuration and turned off All Pass and the problem was fixed."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.2,
+    "E": 3.35,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Overall, I feel this would be a good unit for a GPS newbie or someone that does not want all of the bells and whistles.",
+      "C": "It took me many months before I decided to purchase this camera.",
+      "E": "I can sum up my decision very easily: this netbook is awesome.",
+      "N": "Awesome, but now the TVs were not working. I went into the configuration and turned off All Pass and the problem was fixed.",
+      "O": "I often test a number of cameras for both personal and business use so I was happy to get this camera in my hands."
+    }
+  }
+}

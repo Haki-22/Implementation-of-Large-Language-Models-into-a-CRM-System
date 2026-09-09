@@ -1,0 +1,40 @@
+{
+  "contact_id": 72,
+  "reviewer_id": "ARBKYIVNYWK3C",
+  "group": "A",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 267,
+  "reviews_used": 15,
+  "prompt_chars": 10026,
+  "status": "ok",
+  "seconds": 47.22,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.15,
+    "E": 3.45,
+    "A": 3.85,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "Design has moved a long way in the last few years, especially for less expensive computers.",
+      "C": "I spent extensive time trying to decide between this model, the SR7 and the CX7.",
+      "E": "I'm elated to learn from a Logitech forum post that this camera will be supporting Skype HQ with release of Skype 5.0!",
+      "A": "I work in the IT industry, so every time people move offices they come to me for a power strip.",
+      "N": "I also really cringed at the idea of running wires for a full surround system."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.15,
+    "E": 3.45,
+    "N": 2.7,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I work in the IT industry, so every time people move offices they come to me for a power strip.",
+      "C": "I spent extensive time trying to decide between this model, the SR7 and the CX7.",
+      "E": "I'm elated to learn from a Logitech forum post that this camera will be supporting Skype HQ with release of Skype 5.0!",
+      "N": "I also really cringed at the idea of running wires for a full surround system.",
+      "O": "Design has moved a long way in the last few years, especially for less expensive computers."
+    }
+  }
+}

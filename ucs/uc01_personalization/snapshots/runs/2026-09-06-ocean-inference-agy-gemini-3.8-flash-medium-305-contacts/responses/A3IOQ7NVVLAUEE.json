@@ -1,0 +1,40 @@
+{
+  "contact_id": 294,
+  "reviewer_id": "A3IOQ7NVVLAUEE",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 4134,
+  "status": "ok",
+  "seconds": 1103.3,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 2.7,
+    "E": 3.1,
+    "A": 3.05,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "When I bought this item, I was under the impression that I could use it to order pie through the internet whenever I got hungry.",
+      "C": "I don't have any idea why I bought this product, given that the chip I'm using has integrated graphics",
+      "E": "I mainly just surf the web in search of funny cat videos.",
+      "A": "As a computer accessory I'd have to give this one star, but as a cat tormenting device I'd give it five.",
+      "N": "When I found that it could be used for the internet part but not the pie part, I was very disappointed."
+    }
+  },
+  "raw": {
+    "A": 3.05,
+    "C": 2.7,
+    "E": 3.1,
+    "N": 2.45,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "As a computer accessory I'd have to give this one star, but as a cat tormenting device I'd give it five.",
+      "C": "I don't have any idea why I bought this product, given that the chip I'm using has integrated graphics",
+      "E": "I mainly just surf the web in search of funny cat videos.",
+      "N": "When I found that it could be used for the internet part but not the pie part, I was very disappointed.",
+      "O": "When I bought this item, I was under the impression that I could use it to order pie through the internet whenever I got hungry."
+    }
+  }
+}

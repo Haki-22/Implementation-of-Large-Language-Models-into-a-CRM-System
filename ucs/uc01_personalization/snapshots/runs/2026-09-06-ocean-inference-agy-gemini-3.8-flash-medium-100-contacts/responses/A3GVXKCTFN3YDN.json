@@ -1,0 +1,40 @@
+{
+  "contact_id": 307,
+  "reviewer_id": "A3GVXKCTFN3YDN",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 76,
+  "reviews_used": 15,
+  "prompt_chars": 10089,
+  "status": "ok",
+  "seconds": 262.39,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.45,
+    "E": 3.3,
+    "A": 4.05,
+    "N": 1.95,
+    "evidence_quotes": {
+      "O": "Knowing that I would want to replace the SharpVision, I began doing research on projectors, starting in 2007.",
+      "C": "after using it as much as possible to familiarize myself with it, I can report that, overall, I am very pleased with this unit.",
+      "E": "Courtesy of Amazon Vine, I received my Dell Streak 7 Tablet and I have been having a lot of fun with it.",
+      "A": "I can definitely and honestly say that it is an excellent unit, one of which Garmin should be proud.",
+      "N": "(Still, 17 years is not a bad run!)"
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.45,
+    "E": 3.3,
+    "N": 1.95,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I can definitely and honestly say that it is an excellent unit, one of which Garmin should be proud.",
+      "C": "after using it as much as possible to familiarize myself with it, I can report that, overall, I am very pleased with this unit.",
+      "E": "Courtesy of Amazon Vine, I received my Dell Streak 7 Tablet and I have been having a lot of fun with it.",
+      "N": "(Still, 17 years is not a bad run!)",
+      "O": "Knowing that I would want to replace the SharpVision, I began doing research on projectors, starting in 2007."
+    }
+  }
+}

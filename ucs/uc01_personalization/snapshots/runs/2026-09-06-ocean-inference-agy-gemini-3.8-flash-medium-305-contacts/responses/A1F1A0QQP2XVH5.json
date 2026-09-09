@@ -1,0 +1,40 @@
+{
+  "contact_id": 81,
+  "reviewer_id": "A1F1A0QQP2XVH5",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 170,
+  "reviews_used": 15,
+  "prompt_chars": 8157,
+  "status": "ok",
+  "seconds": 265.63,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.5,
+    "A": 3.85,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "they are able to put their creativity to use without bumping up against the typical Windows hardware and software snafus.",
+      "C": "I take lots of pictures, so I was able to put this camera through its paces over about a three-week period.",
+      "E": "What a great computer for the home! It has an amazingly small form factor, a very bright, clear screen, but most of all is easy to use.",
+      "A": "Lots of great features, great camera for kids.... But after four months of use, this Aipek camera decided that it was done.",
+      "N": "The 3490 has also frozen up twice so far. Both times I was driving into the sun, so I suspect the unit is overheating."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.25,
+    "E": 3.5,
+    "N": 2.2,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Lots of great features, great camera for kids.... But after four months of use, this Aipek camera decided that it was done.",
+      "C": "I take lots of pictures, so I was able to put this camera through its paces over about a three-week period.",
+      "E": "What a great computer for the home! It has an amazingly small form factor, a very bright, clear screen, but most of all is easy to use.",
+      "N": "The 3490 has also frozen up twice so far. Both times I was driving into the sun, so I suspect the unit is overheating.",
+      "O": "they are able to put their creativity to use without bumping up against the typical Windows hardware and software snafus."
+    }
+  }
+}

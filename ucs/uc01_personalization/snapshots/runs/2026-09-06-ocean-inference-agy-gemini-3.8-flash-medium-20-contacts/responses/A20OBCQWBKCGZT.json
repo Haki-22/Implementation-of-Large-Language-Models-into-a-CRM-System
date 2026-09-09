@@ -1,0 +1,40 @@
+{
+  "contact_id": 41,
+  "reviewer_id": "A20OBCQWBKCGZT",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 113,
+  "reviews_used": 15,
+  "prompt_chars": 10030,
+  "status": "ok",
+  "seconds": 101.08,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.65,
+    "A": 4.1,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "I do tons of photo editing, video production, and web site development and actually prefer two separate monitors to using this as a split screen.",
+      "C": "For the initial back up, I turned off the Internet connection on my computer, and then turned off the anti-virus software and let it work overnight.",
+      "E": "we were in the elevator and I pulled out this \"TDK\" product and said to him... old school brand, new school technology with a smile.",
+      "A": "I almost selfishly installed this in my bedroom, but I'm not much of a TV watcher so I wanted to let the rest of my family enjoy it.",
+      "N": "First, fingerprints are not a big deal. They can easily be wiped off with a microfiber or eye glass cleaning cloth."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.25,
+    "E": 3.65,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I almost selfishly installed this in my bedroom, but I'm not much of a TV watcher so I wanted to let the rest of my family enjoy it.",
+      "C": "For the initial back up, I turned off the Internet connection on my computer, and then turned off the anti-virus software and let it work overnight.",
+      "E": "we were in the elevator and I pulled out this \"TDK\" product and said to him... old school brand, new school technology with a smile.",
+      "N": "First, fingerprints are not a big deal. They can easily be wiped off with a microfiber or eye glass cleaning cloth.",
+      "O": "I do tons of photo editing, video production, and web site development and actually prefer two separate monitors to using this as a split screen."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 142,
+  "reviewer_id": "A1N5FSCYN4796F",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 124,
+  "reviews_used": 15,
+  "prompt_chars": 9337,
+  "status": "ok",
+  "seconds": 90.83,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.4,
+    "E": 3.35,
+    "A": 3.8,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I've reviewed a number of corded over-the-ear and in-ear headphones over the last few months, and I've discovered what good headphones are capable of.",
+      "C": "After pairing this unit with my Droid X, I evaluated it for sound quality, ease of use, and comfort.",
+      "E": "The iSport are my active use headphones while I plan to use the DNA for other settings - at my desk, Starbucks, etc.",
+      "A": "I prefer a flat keyboard or ones with pop-up feet that other people can use if they want the keyboard tilted.",
+      "N": "The sound could be a little better, but it is good enough for me."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.4,
+    "E": 3.35,
+    "N": 2.25,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I prefer a flat keyboard or ones with pop-up feet that other people can use if they want the keyboard tilted.",
+      "C": "After pairing this unit with my Droid X, I evaluated it for sound quality, ease of use, and comfort.",
+      "E": "The iSport are my active use headphones while I plan to use the DNA for other settings - at my desk, Starbucks, etc.",
+      "N": "The sound could be a little better, but it is good enough for me.",
+      "O": "I've reviewed a number of corded over-the-ear and in-ear headphones over the last few months, and I've discovered what good headphones are capable of."
+    }
+  }
+}

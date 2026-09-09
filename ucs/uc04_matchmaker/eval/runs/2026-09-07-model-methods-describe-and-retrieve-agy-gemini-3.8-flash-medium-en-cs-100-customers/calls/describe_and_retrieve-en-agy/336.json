@@ -1,0 +1,34 @@
+{
+  "contact_id": 336,
+  "status": "ok",
+  "seconds": 14.81,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-2-methods-agy-gemini-3.8-flash-medium-en-cs-100-customers",
+  "parsed": {
+    "next_purchases": [
+      "Apple Smart Cover for iPad mini (Dark Gray)",
+      "Apple Lightning to USB Cable (1m)",
+      "Screen Protector for Apple iPad mini (Clear)"
+    ]
+  },
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "agy",
+  "model": "gemini-3.8-flash",
+  "tier": "medium",
+  "provider_cli_version": "1.1.27",
+  "prompt_version": "1.0.2",
+  "database_sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+  "prompt": "Customer C-336 (anonymised). Product titles in English.\nPurchase history (19 purchases, oldest first):\n- 2010-01-15 ★5 Apex MI-100 4BAY Desktop Blk/Silver 250W ATX12V Mitx\n- 2010-01-15 ★3 Zotac IONITX-A-U Atom N330 Dual Core 90-Watt PSU WiFi ITX Intel Motherboard\n- 2010-01-15 ★3 Zotac IONITX-D-E Atom N330 Dual Core WiFi ITX Intel Motherboard\n- 2010-01-15 ★5 ZOTAC Atom Dual-Core 1.6GHz MCP7A-ION HDMI A&V&GbE Mini ITX Motherboard - IONITX-F-E\n- 2010-01-18 ★2 D-Link ANT24-0230 Xtreme N 2.4GHZ Indoor Antenna\n- 2010-02-13 ★3 Intel Core i7 Processor i7-920 2.66GHz 8 MB LGA1366 CPU BX80601920\n- 2010-02-13 ★5 Intel Core i7-950 3.06 GHz 8 MB Cache Socket LGA1366 Processor\n- 2010-03-06 ★3 Acer AspireRevo AR3610-U9022 Desktop PC (Dark Blue)\n- 2010-03-06 ★3 Zotac MAG Intel Atom N330, NVIDIA ION, 2 GB DDR2, 160 GB HD, eSATA, HDMI HD-ND01-U Mini PC - No OS\n- 2010-03-16 ★4 Dell Inspiron Mini 10V Netbook Computer\n- 2010-03-16 ★5 Dell Inspiron iM1012-687OBK 10.1-Inch Netbook (Obsidian Black)\n- 2010-03-20 ★3 Acer Aspire Revo 3610 Nettop\n- 2010-03-22 ★3 Intel Core i7 965 3.2GHz 8M L3 Cache 6.4GT/sec QPI Hyper-Threading Turbo Boost LGA1366 Extreme Processor\n- 2010-04-16 ★3 Apple iPad (first generation) MB292LL/A Tablet (16GB, Wifi)\n- 2010-09-07 ★5 Apple iPod touch 32GB Black (4th Generation) (Discontinued by Manufacturer)\n- 2010-11-16 ★4 HP Mini 110-3130NR 10.1-Inch Netbook (Black)\n- 2011-12-12 ★2 Lexar Echo ZX 16GB USB Backup Flash Drive LEHZX16GBSBNA\n- 2012-03-16 ★5 Apple iPad MC705LL/A (16GB, Wi-Fi, Black) 3rd Generation\n- 2012-12-02 ★5 Apple iPad Mini MD528LL/A (16GB, Wi-Fi, Black & Slate)\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Apple Smart Cover for iPad mini (Dark Gray)",
+      "Apple Lightning to USB Cable (1m)",
+      "Screen Protector for Apple iPad mini (Clear)"
+    ]
+  },
+  "held_out": "B0097BEF1S"
+}

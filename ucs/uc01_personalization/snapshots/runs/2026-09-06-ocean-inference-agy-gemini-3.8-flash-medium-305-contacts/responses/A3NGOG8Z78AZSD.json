@@ -1,0 +1,40 @@
+{
+  "contact_id": 391,
+  "reviewer_id": "A3NGOG8Z78AZSD",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 47,
+  "reviews_used": 15,
+  "prompt_chars": 10073,
+  "status": "ok",
+  "seconds": 1327.24,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.3,
+    "E": 3.35,
+    "A": 3.8,
+    "N": 2.95,
+    "evidence_quotes": {
+      "O": "Good looking, fairly unobtrusive camera with a nicely designed ball-and-socket mount that can be set on a table or mounted permanently on a wall.",
+      "C": "I read reviews from many sources (Amazon, Consumer Reports, CNet, specialized GPS sites) before selecting the Nuvi 360.",
+      "E": "Then, three weeks ago, before a trip to India and China, I decided to give webcams another try so that I could stay in touch with home.",
+      "A": "(If you want to manage the video without using D-Link's portal, I've included instructions at the end of this review.)",
+      "N": "However, the reliability was very poor, and dying one month after the warranty expires is incredibly annoying."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.3,
+    "E": 3.35,
+    "N": 2.95,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "(If you want to manage the video without using D-Link's portal, I've included instructions at the end of this review.)",
+      "C": "I read reviews from many sources (Amazon, Consumer Reports, CNet, specialized GPS sites) before selecting the Nuvi 360.",
+      "E": "Then, three weeks ago, before a trip to India and China, I decided to give webcams another try so that I could stay in touch with home.",
+      "N": "However, the reliability was very poor, and dying one month after the warranty expires is incredibly annoying.",
+      "O": "Good looking, fairly unobtrusive camera with a nicely designed ball-and-socket mount that can be set on a table or mounted permanently on a wall."
+    }
+  }
+}

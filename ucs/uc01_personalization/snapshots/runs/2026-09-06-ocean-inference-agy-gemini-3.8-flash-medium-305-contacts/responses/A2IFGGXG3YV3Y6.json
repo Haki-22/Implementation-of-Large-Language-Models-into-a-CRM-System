@@ -1,0 +1,40 @@
+{
+  "contact_id": 213,
+  "reviewer_id": "A2IFGGXG3YV3Y6",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 101,
+  "reviews_used": 15,
+  "prompt_chars": 9385,
+  "status": "ok",
+  "seconds": 774.25,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.35,
+    "E": 3.7,
+    "A": 3.4,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "has plenty of features that will allow you to be as creative as you wish or as programmed as you wish. You decide!",
+      "C": "I recently purchased this PDA after spending over a month comparing features with other similar products online and in the stores",
+      "E": "Folks, if you are in the market for a daily organizer, date book planner, calculator, address book and email system, then this is the system for you.",
+      "A": "What are you expecting out of $10.00 speakers? Also, the size is listed on the product page so why were they a surprise.",
+      "N": "Amazon - you had better correct your error, and soon! The DX7590 is coming out and you don't want to be stuck with many angry customers!"
+    }
+  },
+  "raw": {
+    "A": 3.4,
+    "C": 4.35,
+    "E": 3.7,
+    "N": 2.6,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "What are you expecting out of $10.00 speakers? Also, the size is listed on the product page so why were they a surprise.",
+      "C": "I recently purchased this PDA after spending over a month comparing features with other similar products online and in the stores",
+      "E": "Folks, if you are in the market for a daily organizer, date book planner, calculator, address book and email system, then this is the system for you.",
+      "N": "Amazon - you had better correct your error, and soon! The DX7590 is coming out and you don't want to be stuck with many angry customers!",
+      "O": "has plenty of features that will allow you to be as creative as you wish or as programmed as you wish. You decide!"
+    }
+  }
+}

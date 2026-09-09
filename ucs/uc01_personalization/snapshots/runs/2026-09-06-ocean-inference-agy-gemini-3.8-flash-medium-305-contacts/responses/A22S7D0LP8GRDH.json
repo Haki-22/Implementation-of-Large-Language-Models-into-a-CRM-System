@@ -1,0 +1,40 @@
+{
+  "contact_id": 245,
+  "reviewer_id": "A22S7D0LP8GRDH",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 96,
+  "reviews_used": 15,
+  "prompt_chars": 10006,
+  "status": "ok",
+  "seconds": 913.03,
+  "error": "",
+  "profile": {
+    "O": 4.0,
+    "C": 4.2,
+    "E": 2.9,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "I run pretty taxing software (Adobe Photoshop, basic video editing on a variety of programs, Logos Bible Software) and the processor computer handles them easily.",
+      "C": "Generally I have 3 goals with my headphones:1. They must be comfortable for extended use (8+ hours)",
+      "E": "I spend much of my day at home with earphones in.",
+      "A": "I have found a work-around that makes this case even better.",
+      "N": "Well, after about a week of what I thought would be putting up with an inferior computer for the sake of portability, has left me a believer."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.2,
+    "E": 2.9,
+    "N": 2.3,
+    "O": 4,
+    "evidence_quotes": {
+      "A": "I have found a work-around that makes this case even better.",
+      "C": "Generally I have 3 goals with my headphones:1. They must be comfortable for extended use (8+ hours)",
+      "E": "I spend much of my day at home with earphones in.",
+      "N": "Well, after about a week of what I thought would be putting up with an inferior computer for the sake of portability, has left me a believer.",
+      "O": "I run pretty taxing software (Adobe Photoshop, basic video editing on a variety of programs, Logos Bible Software) and the processor computer handles them easily."
+    }
+  }
+}

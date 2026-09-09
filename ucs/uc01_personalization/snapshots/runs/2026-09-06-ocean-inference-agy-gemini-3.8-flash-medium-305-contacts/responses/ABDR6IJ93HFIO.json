@@ -1,0 +1,40 @@
+{
+  "contact_id": 12,
+  "reviewer_id": "ABDR6IJ93HFIO",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 152,
+  "reviews_used": 15,
+  "prompt_chars": 10393,
+  "status": "ok",
+  "seconds": 37.15,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.45,
+    "E": 3.9,
+    "A": 4.15,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "However, I purchased this tablet because I wanted a more stock and pure Android experience without bloat-ware or Touch Wiz on it.",
+      "C": "Since I am a techie, I tested this tablet thoroughly and I have found it to be excellent for my everyday basic computer functions",
+      "E": "I bought this camera yesterday and I am totally overjoyed with it.",
+      "A": "this review is dedicated to you the reader so that it will be of help to you in your possible decision",
+      "N": "The slider is a little stiff, however, the flash drive is still new and hopefully it will loosen up a bit."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.45,
+    "E": 3.9,
+    "N": 2.1,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "this review is dedicated to you the reader so that it will be of help to you in your possible decision",
+      "C": "Since I am a techie, I tested this tablet thoroughly and I have found it to be excellent for my everyday basic computer functions",
+      "E": "I bought this camera yesterday and I am totally overjoyed with it.",
+      "N": "The slider is a little stiff, however, the flash drive is still new and hopefully it will loosen up a bit.",
+      "O": "However, I purchased this tablet because I wanted a more stock and pure Android experience without bloat-ware or Touch Wiz on it."
+    }
+  }
+}

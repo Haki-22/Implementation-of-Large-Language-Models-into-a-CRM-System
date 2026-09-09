@@ -1,0 +1,40 @@
+{
+  "contact_id": 67,
+  "reviewer_id": "A1EH2S92FHWZRP",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 180,
+  "reviews_used": 15,
+  "prompt_chars": 9512,
+  "status": "ok",
+  "seconds": 218.88,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.25,
+    "E": 3.55,
+    "A": 3.25,
+    "N": 2.95,
+    "evidence_quotes": {
+      "O": "I have an early production version of this and tested it for a few weeks.",
+      "C": "Iphone 4 will charge once from 10 to 100% on three normal alkaline aa batteries in about an hour",
+      "E": "I am a bit of a road warrior and have burned through several other keyboard options.",
+      "A": "the idiots forgot to include the wifi capability found on the Roku player.",
+      "N": "(Windows 8 is an annoying counter-intuitive mess.)"
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.25,
+    "E": 3.55,
+    "N": 2.95,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "the idiots forgot to include the wifi capability found on the Roku player.",
+      "C": "Iphone 4 will charge once from 10 to 100% on three normal alkaline aa batteries in about an hour",
+      "E": "I am a bit of a road warrior and have burned through several other keyboard options.",
+      "N": "(Windows 8 is an annoying counter-intuitive mess.)",
+      "O": "I have an early production version of this and tested it for a few weeks."
+    }
+  }
+}

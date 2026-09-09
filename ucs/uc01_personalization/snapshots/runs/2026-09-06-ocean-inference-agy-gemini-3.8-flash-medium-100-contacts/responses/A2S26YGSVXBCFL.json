@@ -1,0 +1,40 @@
+{
+  "contact_id": 198,
+  "reviewer_id": "A2S26YGSVXBCFL",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 104,
+  "reviews_used": 15,
+  "prompt_chars": 9734,
+  "status": "ok",
+  "seconds": 146.79,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.05,
+    "E": 3.65,
+    "A": 3.9,
+    "N": 3.35,
+    "evidence_quotes": {
+      "O": "I have gone to other sites trying to find tweaks, etc.",
+      "C": "Along with a return label for FedEx, which I completed when I got the replacement and sent back the old one at the same time.",
+      "E": "You will love it, and the people you speak to will love you for having it. With half a charge I spoke for 2 hours before it died out",
+      "A": "There was GREAT communication and genuine concern for the customer. A+ for customer service (and this ranks very high in my book).",
+      "N": "Having the the disk mount on my dash is and advertisement to theives that I have a GPS and a chance for them break into my car"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.05,
+    "E": 3.65,
+    "N": 3.35,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "There was GREAT communication and genuine concern for the customer. A+ for customer service (and this ranks very high in my book).",
+      "C": "Along with a return label for FedEx, which I completed when I got the replacement and sent back the old one at the same time.",
+      "E": "You will love it, and the people you speak to will love you for having it. With half a charge I spoke for 2 hours before it died out",
+      "N": "Having the the disk mount on my dash is and advertisement to theives that I have a GPS and a chance for them break into my car",
+      "O": "I have gone to other sites trying to find tweaks, etc."
+    }
+  }
+}

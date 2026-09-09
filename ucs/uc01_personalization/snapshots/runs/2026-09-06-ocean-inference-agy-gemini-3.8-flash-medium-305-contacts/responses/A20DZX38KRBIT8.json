@@ -1,0 +1,40 @@
+{
+  "contact_id": 93,
+  "reviewer_id": "A20DZX38KRBIT8",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 156,
+  "reviews_used": 15,
+  "prompt_chars": 8683,
+  "status": "ok",
+  "seconds": 321.83,
+  "error": "",
+  "profile": {
+    "O": 3.1,
+    "C": 3.3,
+    "E": 3.15,
+    "A": 1.85,
+    "N": 4.1,
+    "evidence_quotes": {
+      "O": "You could custom build a super computer or buy a gaming PC that would bury this \"Pro\" in seconds for less than half the cost.",
+      "C": "This machine comes with Vista home basic and crashed ever 5 mins, even when I would fix the driver issues.",
+      "E": "I can attest to the fact that there is no way in hell that this system is worth nearly 3000$.",
+      "A": "There is no reason for anyone other than Apple fanboy zombies to buy this becasue they must buy every Apple product",
+      "N": "becasue the track pad is from the pit's of hell itself as with most dell laptops."
+    }
+  },
+  "raw": {
+    "A": 1.85,
+    "C": 3.3,
+    "E": 3.15,
+    "N": 4.1,
+    "O": 3.1,
+    "evidence_quotes": {
+      "A": "There is no reason for anyone other than Apple fanboy zombies to buy this becasue they must buy every Apple product",
+      "C": "This machine comes with Vista home basic and crashed ever 5 mins, even when I would fix the driver issues.",
+      "E": "I can attest to the fact that there is no way in hell that this system is worth nearly 3000$.",
+      "N": "becasue the track pad is from the pit's of hell itself as with most dell laptops.",
+      "O": "You could custom build a super computer or buy a gaming PC that would bury this \"Pro\" in seconds for less than half the cost."
+    }
+  }
+}

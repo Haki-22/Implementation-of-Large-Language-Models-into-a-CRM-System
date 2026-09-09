@@ -1,0 +1,40 @@
+{
+  "contact_id": 259,
+  "reviewer_id": "A14JBDSWKPKTZA",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 9897,
+  "status": "ok",
+  "seconds": 964.64,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.25,
+    "E": 3.75,
+    "A": 4.0,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "saw these gleaming piano black finish towers for a smaller reasonably priced all in one system it was noteworthy.",
+      "C": "When I first installed it, I followed the directions, and installed the software first, shut the computer down, installed the card, and rebooted.",
+      "E": "When Stuff is Cool, I get excited.",
+      "A": "I had setup a wireless Linksys router for a friend in his Win XP and ME machines, and it went without a glitch",
+      "N": "You know the frustration you feel when a mouse doesn't work, restricting you to the mouse pad. Not this one."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 4.25,
+    "E": 3.75,
+    "N": 2.2,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I had setup a wireless Linksys router for a friend in his Win XP and ME machines, and it went without a glitch",
+      "C": "When I first installed it, I followed the directions, and installed the software first, shut the computer down, installed the card, and rebooted.",
+      "E": "When Stuff is Cool, I get excited.",
+      "N": "You know the frustration you feel when a mouse doesn't work, restricting you to the mouse pad. Not this one.",
+      "O": "saw these gleaming piano black finish towers for a smaller reasonably priced all in one system it was noteworthy."
+    }
+  }
+}

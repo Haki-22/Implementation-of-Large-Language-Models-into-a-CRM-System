@@ -1,0 +1,1141 @@
+{
+  "name": "model-arms-100",
+  "created": "2026-09-06T17:35:31+00:00",
+  "rule": "the arena's linked customers (at least two reviews) split by group; per group fill {\"A\": 60, \"B\": 20, \"C\": 20} slots: first the linked contacts of UC-01's pick reading-16 that belong to the group, in contact-id order, then a random draw without replacement from the group's remaining customers with numpy default_rng([42, group index]); ids sorted; one list for every model arm and for the OCEAN inference",
+  "seed": 42,
+  "quotas": {
+    "A": 60,
+    "B": 20,
+    "C": 20
+  },
+  "pick": {
+    "name": "reading-16",
+    "members_per_group": {
+      "A": 10,
+      "B": 2,
+      "C": 4
+    }
+  },
+  "arena": {
+    "linked_customers": 425,
+    "per_group": {
+      "A": 300,
+      "B": 50,
+      "C": 75
+    }
+  },
+  "groups": {
+    "A": [
+      2,
+      3,
+      4,
+      7,
+      11,
+      13,
+      24,
+      25,
+      27,
+      29,
+      31,
+      33,
+      41,
+      50,
+      55,
+      57,
+      59,
+      60,
+      71,
+      72,
+      88,
+      108,
+      111,
+      117,
+      118,
+      128,
+      130,
+      133,
+      138,
+      141,
+      142,
+      143,
+      157,
+      162,
+      170,
+      182,
+      183,
+      187,
+      193,
+      197,
+      198,
+      204,
+      206,
+      209,
+      212,
+      218,
+      222,
+      224,
+      228,
+      231,
+      236,
+      241,
+      248,
+      255,
+      256,
+      257,
+      268,
+      277,
+      285,
+      288
+    ],
+    "B": [
+      305,
+      310,
+      313,
+      316,
+      318,
+      322,
+      323,
+      327,
+      328,
+      333,
+      335,
+      336,
+      338,
+      340,
+      341,
+      342,
+      344,
+      345,
+      348,
+      349
+    ],
+    "C": [
+      353,
+      356,
+      358,
+      361,
+      363,
+      364,
+      367,
+      371,
+      372,
+      374,
+      376,
+      377,
+      378,
+      379,
+      402,
+      405,
+      411,
+      415,
+      416,
+      424
+    ]
+  },
+  "contact_ids": [
+    2,
+    3,
+    4,
+    7,
+    11,
+    13,
+    24,
+    25,
+    27,
+    29,
+    31,
+    33,
+    41,
+    50,
+    55,
+    57,
+    59,
+    60,
+    71,
+    72,
+    88,
+    108,
+    111,
+    117,
+    118,
+    128,
+    130,
+    133,
+    138,
+    141,
+    142,
+    143,
+    157,
+    162,
+    170,
+    182,
+    183,
+    187,
+    193,
+    197,
+    198,
+    204,
+    206,
+    209,
+    212,
+    218,
+    222,
+    224,
+    228,
+    231,
+    236,
+    241,
+    248,
+    255,
+    256,
+    257,
+    268,
+    277,
+    285,
+    288,
+    305,
+    310,
+    313,
+    316,
+    318,
+    322,
+    323,
+    327,
+    328,
+    333,
+    335,
+    336,
+    338,
+    340,
+    341,
+    342,
+    344,
+    345,
+    348,
+    349,
+    353,
+    356,
+    358,
+    361,
+    363,
+    364,
+    367,
+    371,
+    372,
+    374,
+    376,
+    377,
+    378,
+    379,
+    402,
+    405,
+    411,
+    415,
+    416,
+    424
+  ],
+  "reviewer_ids": [
+    "A22CW0ZHY3NJH8",
+    "A23GFTVIETX7DS",
+    "A3AYSYSLHU26U9",
+    "A31N0XY2UTB25C",
+    "A3OXHLG6DIBRW8",
+    "A6FIAB28IS79",
+    "A18S2VGUH9SCV5",
+    "A376OJHLE6SU9Q",
+    "ACJT8MUC0LRF0",
+    "A3LGT6UZL99IW1",
+    "A1IU7S4HCK1XK0",
+    "A2NOW4U7W3F7RI",
+    "A20OBCQWBKCGZT",
+    "A1CMD08Z49PGKQ",
+    "A11I1I9QLMAM1A",
+    "A1R377IPZOKLMM",
+    "A1EXGL6L0QQ0M5",
+    "A2OWR5G2OAQF7C",
+    "A5JLAU2ARJ0BO",
+    "ARBKYIVNYWK3C",
+    "A1VQHH85U7PX0",
+    "A38KK0SZYEH5UD",
+    "AZMY6E8B52L2T",
+    "AOEAD7DPLZE53",
+    "A2KYRPDKVBI2R4",
+    "A3R1WFO4KIUQXZ",
+    "A20DDH4NT6Q1E8",
+    "A1URXSRV6WDHVY",
+    "A2PSD2R9A1CXG7",
+    "AOEDWQLH2WKKW",
+    "A1N5FSCYN4796F",
+    "A3W4D8XOGLWUN5",
+    "A18FLOC8YQY0P8",
+    "A2HMF8ZR67BNZS",
+    "A2V5M5EJPOD2IU",
+    "A1VTCSCH8FFC76",
+    "A3IY316DRNF5F2",
+    "A1SB9BNNGKNX2Z",
+    "A10PEXB6XAQ5XF",
+    "AX7317G153T8W",
+    "A2S26YGSVXBCFL",
+    "A3BVN2QBNPBHCR",
+    "A3FOSLM5G1BO63",
+    "A3D0UM4ZD2CMAW",
+    "A2AF0NOCM71J0B",
+    "A3EZFFPVS34AMO",
+    "AGGAQLXPVGM5D",
+    "A2I357I10ZY7CI",
+    "A3VI2VETB90ZG5",
+    "A1C5WS021EL3WO",
+    "A2F7CSE6KT7NI4",
+    "AHQRU3MRORIWQ",
+    "A11T807LX2EF00",
+    "AAQ9NJ480N9W5",
+    "A2XCCN239AR1XK",
+    "AMVXR3NPL0GWX",
+    "A3V0YR50F1XSKP",
+    "A36IHC0K68NS2",
+    "A1ILWPH1GHUXE2",
+    "A26KXNN6H1IL0I",
+    "A1QQA7Y92L4F9R",
+    "AYNAH993VDECT",
+    "A20VG5W98SX99L",
+    "A25QJBK33C4O0R",
+    "A3QMJMTLJC34QC",
+    "A3JUHP1E3WUHEA",
+    "A23QII83UGZP5U",
+    "AHPV4F8IVSC39",
+    "A4U27URFECK1U",
+    "A2DKQQIZ793AV5",
+    "A2WPL6Y08K6ZQH",
+    "AENLD33KQ6MJ4",
+    "AXU3VKZE848IY",
+    "A3D7BGK0P5QY0X",
+    "A3BACUOZV1M0WM",
+    "A34CSXOGVYF94S",
+    "AIBRTGBN07D6A",
+    "A1WUQF5HWBAQJU",
+    "A2LXX47A0KMJVX",
+    "A2VODABWSVHV8E",
+    "A4H4KYSM2KQ85",
+    "A1S88XU6PWCTUD",
+    "A1J5IDFDIXRAQU",
+    "A1F50KG7O9A0JD",
+    "A1CWE28BRV6JP0",
+    "A37QUQPYFMR9Y9",
+    "A1GPGBHBI6T2HJ",
+    "ALYU98KL3VUGF",
+    "A108XABRHAA9E7",
+    "A294SHLWPSG1BP",
+    "A18U9BQQQ0U8F5",
+    "A268EEWUXYCA8Q",
+    "A20WS8TZ5840ND",
+    "A1OZA52DFY3SHD",
+    "A2X8KN82L07RSK",
+    "A1D27BCSYV7VWH",
+    "A3MQAQT8C6D1I7",
+    "A1H0D7635GEEJ1",
+    "AC1YLEFC9AN5X",
+    "AHNHLGKIZ2N3B"
+  ],
+  "contacts": {
+    "2": {
+      "id": 2,
+      "reviewer_id": "A22CW0ZHY3NJH8",
+      "group": "A",
+      "pick_tier": "full",
+      "reviews": 255,
+      "ocean_source": "inferred"
+    },
+    "3": {
+      "id": 3,
+      "reviewer_id": "A23GFTVIETX7DS",
+      "group": "A",
+      "pick_tier": "full",
+      "reviews": 241,
+      "ocean_source": "inferred"
+    },
+    "4": {
+      "id": 4,
+      "reviewer_id": "A3AYSYSLHU26U9",
+      "group": "A",
+      "pick_tier": "full",
+      "reviews": 231,
+      "ocean_source": "inferred"
+    },
+    "7": {
+      "id": 7,
+      "reviewer_id": "A31N0XY2UTB25C",
+      "group": "A",
+      "pick_tier": "partial",
+      "reviews": 200,
+      "ocean_source": "synthetic"
+    },
+    "11": {
+      "id": 11,
+      "reviewer_id": "A3OXHLG6DIBRW8",
+      "group": "A",
+      "pick_tier": "full",
+      "reviews": 407,
+      "ocean_source": "inferred"
+    },
+    "13": {
+      "id": 13,
+      "reviewer_id": "A6FIAB28IS79",
+      "group": "A",
+      "pick_tier": "full",
+      "reviews": 367,
+      "ocean_source": "inferred"
+    },
+    "24": {
+      "id": 24,
+      "reviewer_id": "A18S2VGUH9SCV5",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 142,
+      "ocean_source": "synthetic"
+    },
+    "25": {
+      "id": 25,
+      "reviewer_id": "A376OJHLE6SU9Q",
+      "group": "A",
+      "pick_tier": "partial",
+      "reviews": 132,
+      "ocean_source": "synthetic"
+    },
+    "27": {
+      "id": 27,
+      "reviewer_id": "ACJT8MUC0LRF0",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 126,
+      "ocean_source": "synthetic"
+    },
+    "29": {
+      "id": 29,
+      "reviewer_id": "A3LGT6UZL99IW1",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 245,
+      "ocean_source": "inferred"
+    },
+    "31": {
+      "id": 31,
+      "reviewer_id": "A1IU7S4HCK1XK0",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 122,
+      "ocean_source": "synthetic"
+    },
+    "33": {
+      "id": 33,
+      "reviewer_id": "A2NOW4U7W3F7RI",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 241,
+      "ocean_source": "inferred"
+    },
+    "41": {
+      "id": 41,
+      "reviewer_id": "A20OBCQWBKCGZT",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 113,
+      "ocean_source": null
+    },
+    "50": {
+      "id": 50,
+      "reviewer_id": "A1CMD08Z49PGKQ",
+      "group": "A",
+      "pick_tier": "partial",
+      "reviews": 190,
+      "ocean_source": "synthetic"
+    },
+    "55": {
+      "id": 55,
+      "reviewer_id": "A11I1I9QLMAM1A",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 185,
+      "ocean_source": null
+    },
+    "57": {
+      "id": 57,
+      "reviewer_id": "A1R377IPZOKLMM",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 91,
+      "ocean_source": "synthetic"
+    },
+    "59": {
+      "id": 59,
+      "reviewer_id": "A1EXGL6L0QQ0M5",
+      "group": "A",
+      "pick_tier": "partial",
+      "reviews": 183,
+      "ocean_source": "synthetic"
+    },
+    "60": {
+      "id": 60,
+      "reviewer_id": "A2OWR5G2OAQF7C",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 89,
+      "ocean_source": null
+    },
+    "71": {
+      "id": 71,
+      "reviewer_id": "A5JLAU2ARJ0BO",
+      "group": "A",
+      "pick_tier": "full",
+      "reviews": 351,
+      "ocean_source": "inferred"
+    },
+    "72": {
+      "id": 72,
+      "reviewer_id": "ARBKYIVNYWK3C",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 267,
+      "ocean_source": "inferred"
+    },
+    "88": {
+      "id": 88,
+      "reviewer_id": "A1VQHH85U7PX0",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 189,
+      "ocean_source": null
+    },
+    "108": {
+      "id": 108,
+      "reviewer_id": "A38KK0SZYEH5UD",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 161,
+      "ocean_source": "synthetic"
+    },
+    "111": {
+      "id": 111,
+      "reviewer_id": "AZMY6E8B52L2T",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 161,
+      "ocean_source": "synthetic"
+    },
+    "117": {
+      "id": 117,
+      "reviewer_id": "AOEAD7DPLZE53",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 146,
+      "ocean_source": null
+    },
+    "118": {
+      "id": 118,
+      "reviewer_id": "A2KYRPDKVBI2R4",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 142,
+      "ocean_source": "synthetic"
+    },
+    "128": {
+      "id": 128,
+      "reviewer_id": "A3R1WFO4KIUQXZ",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 131,
+      "ocean_source": null
+    },
+    "130": {
+      "id": 130,
+      "reviewer_id": "A20DDH4NT6Q1E8",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 124,
+      "ocean_source": "synthetic"
+    },
+    "133": {
+      "id": 133,
+      "reviewer_id": "A1URXSRV6WDHVY",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 122,
+      "ocean_source": "synthetic"
+    },
+    "138": {
+      "id": 138,
+      "reviewer_id": "A2PSD2R9A1CXG7",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 120,
+      "ocean_source": "synthetic"
+    },
+    "141": {
+      "id": 141,
+      "reviewer_id": "AOEDWQLH2WKKW",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 125,
+      "ocean_source": "synthetic"
+    },
+    "142": {
+      "id": 142,
+      "reviewer_id": "A1N5FSCYN4796F",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 124,
+      "ocean_source": "synthetic"
+    },
+    "143": {
+      "id": 143,
+      "reviewer_id": "A3W4D8XOGLWUN5",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 124,
+      "ocean_source": null
+    },
+    "157": {
+      "id": 157,
+      "reviewer_id": "A18FLOC8YQY0P8",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 109,
+      "ocean_source": "synthetic"
+    },
+    "162": {
+      "id": 162,
+      "reviewer_id": "A2HMF8ZR67BNZS",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 119,
+      "ocean_source": "synthetic"
+    },
+    "170": {
+      "id": 170,
+      "reviewer_id": "A2V5M5EJPOD2IU",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 115,
+      "ocean_source": null
+    },
+    "182": {
+      "id": 182,
+      "reviewer_id": "A1VTCSCH8FFC76",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 109,
+      "ocean_source": "synthetic"
+    },
+    "183": {
+      "id": 183,
+      "reviewer_id": "A3IY316DRNF5F2",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 101,
+      "ocean_source": "synthetic"
+    },
+    "187": {
+      "id": 187,
+      "reviewer_id": "A1SB9BNNGKNX2Z",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 106,
+      "ocean_source": "synthetic"
+    },
+    "193": {
+      "id": 193,
+      "reviewer_id": "A10PEXB6XAQ5XF",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 105,
+      "ocean_source": null
+    },
+    "197": {
+      "id": 197,
+      "reviewer_id": "AX7317G153T8W",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 105,
+      "ocean_source": null
+    },
+    "198": {
+      "id": 198,
+      "reviewer_id": "A2S26YGSVXBCFL",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 104,
+      "ocean_source": null
+    },
+    "204": {
+      "id": 204,
+      "reviewer_id": "A3BVN2QBNPBHCR",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 103,
+      "ocean_source": "synthetic"
+    },
+    "206": {
+      "id": 206,
+      "reviewer_id": "A3FOSLM5G1BO63",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 103,
+      "ocean_source": "synthetic"
+    },
+    "209": {
+      "id": 209,
+      "reviewer_id": "A3D0UM4ZD2CMAW",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 93,
+      "ocean_source": "synthetic"
+    },
+    "212": {
+      "id": 212,
+      "reviewer_id": "A2AF0NOCM71J0B",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 102,
+      "ocean_source": null
+    },
+    "218": {
+      "id": 218,
+      "reviewer_id": "A3EZFFPVS34AMO",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 101,
+      "ocean_source": null
+    },
+    "222": {
+      "id": 222,
+      "reviewer_id": "AGGAQLXPVGM5D",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 101,
+      "ocean_source": "synthetic"
+    },
+    "224": {
+      "id": 224,
+      "reviewer_id": "A2I357I10ZY7CI",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 89,
+      "ocean_source": "synthetic"
+    },
+    "228": {
+      "id": 228,
+      "reviewer_id": "A3VI2VETB90ZG5",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 89,
+      "ocean_source": null
+    },
+    "231": {
+      "id": 231,
+      "reviewer_id": "A1C5WS021EL3WO",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 88,
+      "ocean_source": "synthetic"
+    },
+    "236": {
+      "id": 236,
+      "reviewer_id": "A2F7CSE6KT7NI4",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 90,
+      "ocean_source": "synthetic"
+    },
+    "241": {
+      "id": 241,
+      "reviewer_id": "AHQRU3MRORIWQ",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 98,
+      "ocean_source": "synthetic"
+    },
+    "248": {
+      "id": 248,
+      "reviewer_id": "A11T807LX2EF00",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 89,
+      "ocean_source": "synthetic"
+    },
+    "255": {
+      "id": 255,
+      "reviewer_id": "AAQ9NJ480N9W5",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 89,
+      "ocean_source": "synthetic"
+    },
+    "256": {
+      "id": 256,
+      "reviewer_id": "A2XCCN239AR1XK",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 95,
+      "ocean_source": "synthetic"
+    },
+    "257": {
+      "id": 257,
+      "reviewer_id": "AMVXR3NPL0GWX",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 89,
+      "ocean_source": null
+    },
+    "268": {
+      "id": 268,
+      "reviewer_id": "A3V0YR50F1XSKP",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 88,
+      "ocean_source": "synthetic"
+    },
+    "277": {
+      "id": 277,
+      "reviewer_id": "A36IHC0K68NS2",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 87,
+      "ocean_source": "synthetic"
+    },
+    "285": {
+      "id": 285,
+      "reviewer_id": "A1ILWPH1GHUXE2",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 91,
+      "ocean_source": "synthetic"
+    },
+    "288": {
+      "id": 288,
+      "reviewer_id": "A26KXNN6H1IL0I",
+      "group": "A",
+      "pick_tier": null,
+      "reviews": 91,
+      "ocean_source": "synthetic"
+    },
+    "305": {
+      "id": 305,
+      "reviewer_id": "A1QQA7Y92L4F9R",
+      "group": "B",
+      "pick_tier": "full",
+      "reviews": 75,
+      "ocean_source": "inferred"
+    },
+    "310": {
+      "id": 310,
+      "reviewer_id": "AYNAH993VDECT",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 77,
+      "ocean_source": "inferred"
+    },
+    "313": {
+      "id": 313,
+      "reviewer_id": "A20VG5W98SX99L",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 77,
+      "ocean_source": "inferred"
+    },
+    "316": {
+      "id": 316,
+      "reviewer_id": "A25QJBK33C4O0R",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 84,
+      "ocean_source": "inferred"
+    },
+    "318": {
+      "id": 318,
+      "reviewer_id": "A3QMJMTLJC34QC",
+      "group": "B",
+      "pick_tier": "full",
+      "reviews": 78,
+      "ocean_source": "inferred"
+    },
+    "322": {
+      "id": 322,
+      "reviewer_id": "A3JUHP1E3WUHEA",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 67,
+      "ocean_source": "inferred"
+    },
+    "323": {
+      "id": 323,
+      "reviewer_id": "A23QII83UGZP5U",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 60,
+      "ocean_source": "inferred"
+    },
+    "327": {
+      "id": 327,
+      "reviewer_id": "AHPV4F8IVSC39",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 28,
+      "ocean_source": "inferred"
+    },
+    "328": {
+      "id": 328,
+      "reviewer_id": "A4U27URFECK1U",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 57,
+      "ocean_source": "inferred"
+    },
+    "333": {
+      "id": 333,
+      "reviewer_id": "A2DKQQIZ793AV5",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 59,
+      "ocean_source": "inferred"
+    },
+    "335": {
+      "id": 335,
+      "reviewer_id": "A2WPL6Y08K6ZQH",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 70,
+      "ocean_source": "synthetic"
+    },
+    "336": {
+      "id": 336,
+      "reviewer_id": "AENLD33KQ6MJ4",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 20,
+      "ocean_source": null
+    },
+    "338": {
+      "id": 338,
+      "reviewer_id": "AXU3VKZE848IY",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 75,
+      "ocean_source": "inferred"
+    },
+    "340": {
+      "id": 340,
+      "reviewer_id": "A3D7BGK0P5QY0X",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 46,
+      "ocean_source": "inferred"
+    },
+    "341": {
+      "id": 341,
+      "reviewer_id": "A3BACUOZV1M0WM",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 76,
+      "ocean_source": "inferred"
+    },
+    "342": {
+      "id": 342,
+      "reviewer_id": "A34CSXOGVYF94S",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 73,
+      "ocean_source": "inferred"
+    },
+    "344": {
+      "id": 344,
+      "reviewer_id": "AIBRTGBN07D6A",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 68,
+      "ocean_source": "inferred"
+    },
+    "345": {
+      "id": 345,
+      "reviewer_id": "A1WUQF5HWBAQJU",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 56,
+      "ocean_source": "inferred"
+    },
+    "348": {
+      "id": 348,
+      "reviewer_id": "A2LXX47A0KMJVX",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 79,
+      "ocean_source": "inferred"
+    },
+    "349": {
+      "id": 349,
+      "reviewer_id": "A2VODABWSVHV8E",
+      "group": "B",
+      "pick_tier": null,
+      "reviews": 79,
+      "ocean_source": "inferred"
+    },
+    "353": {
+      "id": 353,
+      "reviewer_id": "A4H4KYSM2KQ85",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 48,
+      "ocean_source": "synthetic"
+    },
+    "356": {
+      "id": 356,
+      "reviewer_id": "A1S88XU6PWCTUD",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 27,
+      "ocean_source": null
+    },
+    "358": {
+      "id": 358,
+      "reviewer_id": "A1J5IDFDIXRAQU",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 12,
+      "ocean_source": "synthetic"
+    },
+    "361": {
+      "id": 361,
+      "reviewer_id": "A1F50KG7O9A0JD",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 20,
+      "ocean_source": null
+    },
+    "363": {
+      "id": 363,
+      "reviewer_id": "A1CWE28BRV6JP0",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 32,
+      "ocean_source": "synthetic"
+    },
+    "364": {
+      "id": 364,
+      "reviewer_id": "A37QUQPYFMR9Y9",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 33,
+      "ocean_source": "synthetic"
+    },
+    "367": {
+      "id": 367,
+      "reviewer_id": "A1GPGBHBI6T2HJ",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 35,
+      "ocean_source": null
+    },
+    "371": {
+      "id": 371,
+      "reviewer_id": "ALYU98KL3VUGF",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 38,
+      "ocean_source": "synthetic"
+    },
+    "372": {
+      "id": 372,
+      "reviewer_id": "A108XABRHAA9E7",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 39,
+      "ocean_source": "synthetic"
+    },
+    "374": {
+      "id": 374,
+      "reviewer_id": "A294SHLWPSG1BP",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 35,
+      "ocean_source": "synthetic"
+    },
+    "376": {
+      "id": 376,
+      "reviewer_id": "A18U9BQQQ0U8F5",
+      "group": "C",
+      "pick_tier": "defective",
+      "reviews": 37,
+      "ocean_source": null
+    },
+    "377": {
+      "id": 377,
+      "reviewer_id": "A268EEWUXYCA8Q",
+      "group": "C",
+      "pick_tier": "defective",
+      "reviews": 44,
+      "ocean_source": null
+    },
+    "378": {
+      "id": 378,
+      "reviewer_id": "A20WS8TZ5840ND",
+      "group": "C",
+      "pick_tier": "defective",
+      "reviews": 37,
+      "ocean_source": null
+    },
+    "379": {
+      "id": 379,
+      "reviewer_id": "A1OZA52DFY3SHD",
+      "group": "C",
+      "pick_tier": "defective",
+      "reviews": 45,
+      "ocean_source": null
+    },
+    "402": {
+      "id": 402,
+      "reviewer_id": "A2X8KN82L07RSK",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 54,
+      "ocean_source": null
+    },
+    "405": {
+      "id": 405,
+      "reviewer_id": "A1D27BCSYV7VWH",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 44,
+      "ocean_source": null
+    },
+    "411": {
+      "id": 411,
+      "reviewer_id": "A3MQAQT8C6D1I7",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 56,
+      "ocean_source": null
+    },
+    "415": {
+      "id": 415,
+      "reviewer_id": "A1H0D7635GEEJ1",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 45,
+      "ocean_source": null
+    },
+    "416": {
+      "id": 416,
+      "reviewer_id": "AC1YLEFC9AN5X",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 58,
+      "ocean_source": null
+    },
+    "424": {
+      "id": 424,
+      "reviewer_id": "AHNHLGKIZ2N3B",
+      "group": "C",
+      "pick_tier": null,
+      "reviews": 61,
+      "ocean_source": null
+    }
+  }
+}

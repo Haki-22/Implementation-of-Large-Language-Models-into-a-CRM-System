@@ -1,0 +1,40 @@
+{
+  "contact_id": 222,
+  "reviewer_id": "AGGAQLXPVGM5D",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 101,
+  "reviews_used": 15,
+  "prompt_chars": 9974,
+  "status": "ok",
+  "seconds": 169.32,
+  "error": "",
+  "profile": {
+    "O": 4.0,
+    "C": 4.45,
+    "E": 3.15,
+    "A": 3.85,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "After traveling to places such as India, Portugal, and Cancun, for example, 3X is not versatile enough to capture some of the landscapes, landmarks and distant subjects",
+      "C": "Before saving any data, you might as well format it to NTFS, since FAT32 is the default (files greater than 4 GB minus 2 bytes won't transfer on FAT32)",
+      "E": "I am a casual user who prefers size, convenience and function over versatility of SLR cameras.",
+      "A": "I wanted a way of communicating with my daughter when she went to the neighbor's house. The compact size of this unit is great for a young child.",
+      "N": "Instructions are too tiny to read but legible. Pictures are too small to follow. I watched a video on the Internet"
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.45,
+    "E": 3.15,
+    "N": 2.15,
+    "O": 4,
+    "evidence_quotes": {
+      "A": "I wanted a way of communicating with my daughter when she went to the neighbor's house. The compact size of this unit is great for a young child.",
+      "C": "Before saving any data, you might as well format it to NTFS, since FAT32 is the default (files greater than 4 GB minus 2 bytes won't transfer on FAT32)",
+      "E": "I am a casual user who prefers size, convenience and function over versatility of SLR cameras.",
+      "N": "Instructions are too tiny to read but legible. Pictures are too small to follow. I watched a video on the Internet",
+      "O": "After traveling to places such as India, Portugal, and Cancun, for example, 3X is not versatile enough to capture some of the landscapes, landmarks and distant subjects"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 186,
+  "reviewer_id": "A1L64KDYO5BOJA",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 100,
+  "reviews_used": 15,
+  "prompt_chars": 9257,
+  "status": "ok",
+  "seconds": 690.89,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.35,
+    "A": 3.6,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "I am 67 years old and started out in photography as a kid with a contact printer and a box camera.",
+      "C": "I did some side by side tests with my top notch Panasonic FZ35 bridge camera.",
+      "E": "I have had my digital Canon Rebel XT about a month now and I can't keep my hands off of it.",
+      "A": "I must say that I could not get the Optipix Pro software to work, maybe its me but I tried everything I could think of with no dice.",
+      "N": "driving the I-10 west into Los Angeles from the Inland Empire is nerve racking as other freeways branch off all the time"
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.25,
+    "E": 3.35,
+    "N": 3.2,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I must say that I could not get the Optipix Pro software to work, maybe its me but I tried everything I could think of with no dice.",
+      "C": "I did some side by side tests with my top notch Panasonic FZ35 bridge camera.",
+      "E": "I have had my digital Canon Rebel XT about a month now and I can't keep my hands off of it.",
+      "N": "driving the I-10 west into Los Angeles from the Inland Empire is nerve racking as other freeways branch off all the time",
+      "O": "I am 67 years old and started out in photography as a kid with a contact printer and a box camera."
+    }
+  }
+}

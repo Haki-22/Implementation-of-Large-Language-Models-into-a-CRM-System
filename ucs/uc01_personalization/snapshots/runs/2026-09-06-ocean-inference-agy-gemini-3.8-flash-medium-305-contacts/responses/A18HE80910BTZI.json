@@ -1,0 +1,40 @@
+{
+  "contact_id": 85,
+  "reviewer_id": "A18HE80910BTZI",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 163,
+  "reviews_used": 15,
+  "prompt_chars": 9762,
+  "status": "ok",
+  "seconds": 281.2,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.1,
+    "E": 3.35,
+    "A": 3.95,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "Buffalo uses a factory customized DD-WRT firmware on this product and also supports community based DD-WRT which you can tweak to your heart's content.",
+      "C": "May be it's me or I am too picky when it comes to quality",
+      "E": "I told him - oh Yeah! I can build one for you but it will look like a Franken",
+      "A": "But for the benefit of others let me share how to make this work painlessly if your other router at home does not have WPS button.",
+      "N": "There is always one thing or the other that disappoints me."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.1,
+    "E": 3.35,
+    "N": 2.75,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "But for the benefit of others let me share how to make this work painlessly if your other router at home does not have WPS button.",
+      "C": "May be it's me or I am too picky when it comes to quality",
+      "E": "I told him - oh Yeah! I can build one for you but it will look like a Franken",
+      "N": "There is always one thing or the other that disappoints me.",
+      "O": "Buffalo uses a factory customized DD-WRT firmware on this product and also supports community based DD-WRT which you can tweak to your heart's content."
+    }
+  }
+}

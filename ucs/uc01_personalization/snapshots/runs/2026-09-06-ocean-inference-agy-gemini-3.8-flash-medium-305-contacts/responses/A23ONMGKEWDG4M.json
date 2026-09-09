@@ -1,0 +1,40 @@
+{
+  "contact_id": 249,
+  "reviewer_id": "A23ONMGKEWDG4M",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 96,
+  "reviews_used": 15,
+  "prompt_chars": 8120,
+  "status": "ok",
+  "seconds": 924.37,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.6,
+    "A": 3.2,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "I took some shots in a museum under very bad lighting and a 3 second exposures, came out great with this monopod.",
+      "C": "Problem: It's the receiver that is charged (recharged) not the transmitter. The transmitter uses an A-23 battery.",
+      "E": "These people need to wake up to reality. This is the best compact digital camera in this price range.... PERIOD.",
+      "A": "The guy with issues on installation should have looked at where his antenna was located first before buying and item that won't fit in the space available.",
+      "N": "This lens is a tiny bit soft at 300 (480 on my XTi) but it has never been an issue."
+    }
+  },
+  "raw": {
+    "A": 3.2,
+    "C": 4.1,
+    "E": 3.6,
+    "N": 2.4,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "The guy with issues on installation should have looked at where his antenna was located first before buying and item that won't fit in the space available.",
+      "C": "Problem: It's the receiver that is charged (recharged) not the transmitter. The transmitter uses an A-23 battery.",
+      "E": "These people need to wake up to reality. This is the best compact digital camera in this price range.... PERIOD.",
+      "N": "This lens is a tiny bit soft at 300 (480 on my XTi) but it has never been an issue.",
+      "O": "I took some shots in a museum under very bad lighting and a 3 second exposures, came out great with this monopod."
+    }
+  }
+}

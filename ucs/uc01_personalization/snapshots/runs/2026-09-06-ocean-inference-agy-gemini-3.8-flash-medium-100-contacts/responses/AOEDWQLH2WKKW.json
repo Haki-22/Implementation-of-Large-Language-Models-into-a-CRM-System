@@ -1,0 +1,40 @@
+{
+  "contact_id": 141,
+  "reviewer_id": "AOEDWQLH2WKKW",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 125,
+  "reviews_used": 15,
+  "prompt_chars": 9757,
+  "status": "ok",
+  "seconds": 91.9,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.4,
+    "E": 3.35,
+    "A": 3.85,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "Not a beginners camera unless you have a strong desire to learn about photography",
+      "C": "I shoot test charts and real world images to confirm chart results.",
+      "E": "Buy this lens now if you want a superb manual focus long portrait lens of modern design and don't want to empty your pocket book.",
+      "A": "If you want all the features with out all the cost, look at the 190xprob (aluminum version).",
+      "N": "Auto back light becomes annoying (disable it)"
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.4,
+    "E": 3.35,
+    "N": 2.25,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "If you want all the features with out all the cost, look at the 190xprob (aluminum version).",
+      "C": "I shoot test charts and real world images to confirm chart results.",
+      "E": "Buy this lens now if you want a superb manual focus long portrait lens of modern design and don't want to empty your pocket book.",
+      "N": "Auto back light becomes annoying (disable it)",
+      "O": "Not a beginners camera unless you have a strong desire to learn about photography"
+    }
+  }
+}

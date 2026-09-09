@@ -1,0 +1,40 @@
+{
+  "contact_id": 348,
+  "reviewer_id": "A2LXX47A0KMJVX",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 79,
+  "reviews_used": 15,
+  "prompt_chars": 10160,
+  "status": "ok",
+  "seconds": 447.19,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.3,
+    "E": 3.45,
+    "A": 3.65,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "Comparing the DS-2 to older digital voice recorders is like comparing a high-end stereo system with a Victrola.",
+      "C": "since so many people had written reviews discussing how unreliable the dehumidifier was, I bought the 4 year Square Trade warranty to cover myself.",
+      "E": "The Olympus DS-2 Digital Voice Recorder is one of those breakthrough products that makes me want to recommend it to everyone I see.",
+      "A": "Because there are so many comments asking the same question I decided I should add this to the beginning to save you agony.",
+      "N": "As it turns out, it turned a bad experience with the dehumidifier into a tolerable experience since the warranty coverage reimbursed me completely"
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.3,
+    "E": 3.45,
+    "N": 2.35,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "Because there are so many comments asking the same question I decided I should add this to the beginning to save you agony.",
+      "C": "since so many people had written reviews discussing how unreliable the dehumidifier was, I bought the 4 year Square Trade warranty to cover myself.",
+      "E": "The Olympus DS-2 Digital Voice Recorder is one of those breakthrough products that makes me want to recommend it to everyone I see.",
+      "N": "As it turns out, it turned a bad experience with the dehumidifier into a tolerable experience since the warranty coverage reimbursed me completely",
+      "O": "Comparing the DS-2 to older digital voice recorders is like comparing a high-end stereo system with a Victrola."
+    }
+  }
+}

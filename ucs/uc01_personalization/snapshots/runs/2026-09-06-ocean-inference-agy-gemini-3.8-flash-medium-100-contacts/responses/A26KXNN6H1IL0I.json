@@ -1,0 +1,40 @@
+{
+  "contact_id": 288,
+  "reviewer_id": "A26KXNN6H1IL0I",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 9613,
+  "status": "ok",
+  "seconds": 223.96,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.3,
+    "E": 3.1,
+    "A": 3.8,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "superior optical performance in the areas of contrast, color rendition, vignetting, and distortion.",
+      "C": "the stitches are sturdy and I could not detect any apparent flaw in the fabric or the seams.",
+      "E": "What I need is a camera with outstanding picture quality and a big lens to carry to family functions,",
+      "A": "Well, first of all, this case does its advertised job.",
+      "N": "I guess, the camera had to familiarize itself with this new strange equipment. Other than that, I don't have any good explanation for this weird behavior."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.3,
+    "E": 3.1,
+    "N": 2.3,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Well, first of all, this case does its advertised job.",
+      "C": "the stitches are sturdy and I could not detect any apparent flaw in the fabric or the seams.",
+      "E": "What I need is a camera with outstanding picture quality and a big lens to carry to family functions,",
+      "N": "I guess, the camera had to familiarize itself with this new strange equipment. Other than that, I don't have any good explanation for this weird behavior.",
+      "O": "superior optical performance in the areas of contrast, color rendition, vignetting, and distortion."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "377",
+  "status": "ok",
+  "seconds": 15.5,
+  "error": "",
+  "parsed": {
+    "label": "opakujici_se_nakupci_pc_prislusenstvi",
+    "narrative_cs": "Zákazník často nakupuje počítačové příslušenství, hlavně produkty Logitech, herní myši, headsety a univerzální ovladače, s celkem 44 nákupy a průměrným hodnocením 4,2. V recenzích porovnává použitelnost, spolehlivost a cenu, míří od střední po vyšší hladinu, ale je ve fázi ohroženého odchodu.",
+    "tags": [
+      "pc_prislusenstvi",
+      "logitech",
+      "herni_periferie",
+      "univerzalni_ovladace",
+      "riziko_odchodu"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-377 (anonymizován).\nNákupů: 44, průměrné hodnocení 4.2 z 5, fáze v e-shopu: ohrožený odchodem.\nNejčastější kategorie: Computers & Accessories (28), Accessories & Supplies (5), Portable Audio & Video (3)\nTémata zájmu (klasické shlukování): computers / accessories / logitech / myš / bezdrátová; supplies / accessories / sluchátka / výrobce / ukončil; audio / video / portable / ipod / mp3\nUkázky recenzí (nejdelší, zkrácené):\n- Logitech Harmony One Universal Remote with Color Touch Screen - OLD MODEL (Discontinued by Manufacturer): Pokud si prohlížíte stránku o dálkovém ovladači Harmony One, předpokládám, že hledáte tento typ ovladače a cena vás neodradí. S cenou 250 dolarů je Harmony One rozhodně drahý na zařízení, které slouží pouze k ovládání čehokoli, co sledujete, posloucháte nebo hrajete. Poté, co jsem se podíval na jiná\n- Bezdrátová herní sluchátka Creative Sound Blaster Tactic 3D Wrath pro PC a Mac s THX Studio Pro (GH0180): Od té doby, co jsem se začal věnovat hraní her na PC, jsem závislý na headsetech. Když jste většinu času na PC trávili hraním kooperativních her, které vyžadují Ventrilo nebo jiný VoIP program, zdálo se mi to prostě fungovat lépe než spoléhat se na reproduktory a samostatný mikrofon. Proto jsem vyzk\n- Laserová myš Logitech G9: Už nějakou dobu jsem fanouškem myší Logitech. Od té doby, co jsem se začal vážně věnovat hraní her na PC, jsem zjistil, že myši Logitech jsou spolehlivé, snadno se používají a dají se přizpůsobit. Moje poslední myš byla MX518, vynikající volba pro ty, kteří hledají myš střední třídy. Nyní máme novéh\n- Dobíjecí dálkový ovladač Logitech Harmony 900 s barevným dotykovým displejem: Harmony One byl můj první univerzální dálkový ovladač. Některé jsem si prohlédl, s jinými jsem si hrál u kamaráda a koupal jsem se v bazénu, ale nikdy jsem nebyl moc nadšený. Jasně, obvykle se zbavili více dálkových ovladačů, ale mnohokrát mi připadaly neohrabané a nepřívětivé k používání. Harmony O\n- Programovatelná herní deska Logitech G13 s LCD displejem: Chvíli trvá, než si zvyknete na jakékoli nové herní zařízení, které podstatně mění způsob hraní her, a G13 Advanced Gameboard se v tomto ohledu neliší. V některých ohledech nabízí strmější křivku učení jednoduše proto, že když se do něj poprvé dostanete, není uživatelsky přívětivý. Problém s G13 je \nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "opakujici_se_nakupci_pc_prislusenstvi",
+    "narrative_cs": "Zákazník často nakupuje počítačové příslušenství, hlavně produkty Logitech, herní myši, headsety a univerzální ovladače, s celkem 44 nákupy a průměrným hodnocením 4,2. V recenzích porovnává použitelnost, spolehlivost a cenu, míří od střední po vyšší hladinu, ale je ve fázi ohroženého odchodu.",
+    "tags": [
+      "pc_prislusenstvi",
+      "logitech",
+      "herni_periferie",
+      "univerzalni_ovladace",
+      "riziko_odchodu"
+    ],
+    "price_segment": "mixed"
+  }
+}

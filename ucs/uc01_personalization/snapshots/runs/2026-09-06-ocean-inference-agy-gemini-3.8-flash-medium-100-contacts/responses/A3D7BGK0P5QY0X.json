@@ -1,0 +1,40 @@
+{
+  "contact_id": 340,
+  "reviewer_id": "A3D7BGK0P5QY0X",
+  "group": "B",
+  "sources": "sample:model-arms-100+previous",
+  "reviews_total": 46,
+  "reviews_used": 15,
+  "prompt_chars": 10351,
+  "status": "ok",
+  "seconds": 413.05,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.7,
+    "E": 3.4,
+    "A": 4.05,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "UL1449 is the UL testing gold standard and 3rd Edition is the latest and most stringent",
+      "C": "Actual play time ranges from 3hrs (default) to 3hrs 50mins depending on backlight setting (at full screen). Realistically expect 3hrs 30mins at most",
+      "E": "If considering the 7\" version of this, I highly suggest spending the extra $20ish and get this one. The 9\" screen alone is worth it.",
+      "A": "I've described at the start some summary differences below to help you choose if the SMC1000 is the right one for you.",
+      "N": "The sound works well for my purposes but these are surely not audiophile speakers."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.7,
+    "E": 3.4,
+    "N": 2.1,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I've described at the start some summary differences below to help you choose if the SMC1000 is the right one for you.",
+      "C": "Actual play time ranges from 3hrs (default) to 3hrs 50mins depending on backlight setting (at full screen). Realistically expect 3hrs 30mins at most",
+      "E": "If considering the 7\" version of this, I highly suggest spending the extra $20ish and get this one. The 9\" screen alone is worth it.",
+      "N": "The sound works well for my purposes but these are surely not audiophile speakers.",
+      "O": "UL1449 is the UL testing gold standard and 3rd Edition is the latest and most stringent"
+    }
+  }
+}

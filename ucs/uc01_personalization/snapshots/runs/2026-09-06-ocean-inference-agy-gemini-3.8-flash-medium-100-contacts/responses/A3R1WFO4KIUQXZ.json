@@ -1,0 +1,40 @@
+{
+  "contact_id": 128,
+  "reviewer_id": "A3R1WFO4KIUQXZ",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 131,
+  "reviews_used": 15,
+  "prompt_chars": 9827,
+  "status": "ok",
+  "seconds": 73.96,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.1,
+    "E": 3.45,
+    "A": 4.05,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "I am a professional photographer/graphic artist but will not be reviewing this camera from the perspective of comparing it in any way to specialized pro gear.",
+      "C": "I waited until today to review until I bought my own Air so I could do an actual hands-on test",
+      "E": "I have a variety of point-and-shoot pocket cameras for family events, vacations and just having fun",
+      "A": "Through updates the manufacturer seems to have responded to the issue and none of the original issues remain. I have upped my rating",
+      "N": "I have purchased lots of refurbished products and never shy away from them."
+    }
+  },
+  "raw": {
+    "A": 4.05,
+    "C": 4.1,
+    "E": 3.45,
+    "N": 2.25,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "Through updates the manufacturer seems to have responded to the issue and none of the original issues remain. I have upped my rating",
+      "C": "I waited until today to review until I bought my own Air so I could do an actual hands-on test",
+      "E": "I have a variety of point-and-shoot pocket cameras for family events, vacations and just having fun",
+      "N": "I have purchased lots of refurbished products and never shy away from them.",
+      "O": "I am a professional photographer/graphic artist but will not be reviewing this camera from the perspective of comparing it in any way to specialized pro gear."
+    }
+  }
+}

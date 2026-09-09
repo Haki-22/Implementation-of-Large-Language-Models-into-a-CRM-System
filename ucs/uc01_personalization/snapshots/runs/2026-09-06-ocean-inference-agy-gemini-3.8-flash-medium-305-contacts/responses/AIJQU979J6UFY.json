@@ -1,0 +1,40 @@
+{
+  "contact_id": 116,
+  "reviewer_id": "AIJQU979J6UFY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 152,
+  "reviews_used": 15,
+  "prompt_chars": 10078,
+  "status": "ok",
+  "seconds": 420.15,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 3.45,
+    "A": 3.85,
+    "N": 2.55,
+    "evidence_quotes": {
+      "O": "For the amount of abuse I've put it through as my walkaround lens, it's handled the abuse/dust/dirt perfectly in over 25 countries.",
+      "C": "Before I made this my drive for Time Machine backups, I gave it a thorough beating by copying hundreds of GBs of photos from my desktop to my new Macbook.",
+      "E": "The swiveling lens is awesome - I can mount this at weird angles or something low profile - something the boxy GoPro Hero can't really do.",
+      "A": "So, after I've thoroughly said how much this bag won't work for me, who will it work for?",
+      "N": "There are minor gripes. The drive is solidly built but very thin so I'm worried that I'll somehow snap it in half."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.05,
+    "E": 3.45,
+    "N": 2.55,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "So, after I've thoroughly said how much this bag won't work for me, who will it work for?",
+      "C": "Before I made this my drive for Time Machine backups, I gave it a thorough beating by copying hundreds of GBs of photos from my desktop to my new Macbook.",
+      "E": "The swiveling lens is awesome - I can mount this at weird angles or something low profile - something the boxy GoPro Hero can't really do.",
+      "N": "There are minor gripes. The drive is solidly built but very thin so I'm worried that I'll somehow snap it in half.",
+      "O": "For the amount of abuse I've put it through as my walkaround lens, it's handled the abuse/dust/dirt perfectly in over 25 countries."
+    }
+  }
+}

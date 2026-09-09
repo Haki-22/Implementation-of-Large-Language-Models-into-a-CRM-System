@@ -1,0 +1,21 @@
+{
+  "counts": {
+    "prose_contacts": 16,
+    "reasons_ok": 80,
+    "reasons_failed": 0,
+    "reasons_grounded": 80,
+    "personas_ok": 16,
+    "personas_failed": 0,
+    "aspects_contacts_ok": 16,
+    "aspects_contacts_failed": 0,
+    "aspects_contacts_skipped": 0,
+    "aspects_total": 75,
+    "aspects_grounded": 74,
+    "topics_contacts": 425,
+    "calls": 112
+  },
+  "reason_words_median": 18.0,
+  "reason_words_max": 25,
+  "median_call_seconds": 9.2,
+  "wall_seconds": 212.2
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 320,
+  "reviewer_id": "A7FDGFK0KN7QG",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 48,
+  "reviews_used": 15,
+  "prompt_chars": 9428,
+  "status": "ok",
+  "seconds": 327.4,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.85,
+    "A": 3.45,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "This lens is the best constructed m4/3 yet. It is optically amazing and fast.",
+      "C": "Set your mode up. Go to the menu and save it. To use it rotate the shooting mode dial to U1 or U2. Presto you are there.",
+      "E": "Now I know that is a bold statement and I intend to back it up.",
+      "A": "Please be aware that this camera is \"region\" coded so if you buy a Japanese version you will not be able to change the menu language to English.",
+      "N": "First it is disappointing that Panasonic has region coded the camera and that they are starving the US market."
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 4.15,
+    "E": 3.85,
+    "N": 2.45,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Please be aware that this camera is \"region\" coded so if you buy a Japanese version you will not be able to change the menu language to English.",
+      "C": "Set your mode up. Go to the menu and save it. To use it rotate the shooting mode dial to U1 or U2. Presto you are there.",
+      "E": "Now I know that is a bold statement and I intend to back it up.",
+      "N": "First it is disappointing that Panasonic has region coded the camera and that they are starving the US market.",
+      "O": "This lens is the best constructed m4/3 yet. It is optically amazing and fast."
+    }
+  }
+}

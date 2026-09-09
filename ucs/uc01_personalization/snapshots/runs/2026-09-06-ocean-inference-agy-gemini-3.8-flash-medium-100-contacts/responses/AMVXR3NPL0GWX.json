@@ -1,0 +1,40 @@
+{
+  "contact_id": 257,
+  "reviewer_id": "AMVXR3NPL0GWX",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 89,
+  "reviews_used": 15,
+  "prompt_chars": 9609,
+  "status": "ok",
+  "seconds": 209.09,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.1,
+    "E": 3.4,
+    "A": 3.6,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "I shoot a lot; kids, parties, performance art with available light, sport etc. plus I am getting into home studio portrait and strobism",
+      "C": "I have no use for a keyboard where you have to press harder or longer to get a M than to get an A.",
+      "E": "It is too heavy to really use on your on-camera flash while mingling in the event you are shooting",
+      "A": "Considering the price it is absolutely acceptable and expected.",
+      "N": "The only other problem I ever had was the plug falling from the camera without real reason beyond gravity. Not a big deal"
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.1,
+    "E": 3.4,
+    "N": 2.1,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Considering the price it is absolutely acceptable and expected.",
+      "C": "I have no use for a keyboard where you have to press harder or longer to get a M than to get an A.",
+      "E": "It is too heavy to really use on your on-camera flash while mingling in the event you are shooting",
+      "N": "The only other problem I ever had was the plug falling from the camera without real reason beyond gravity. Not a big deal",
+      "O": "I shoot a lot; kids, parties, performance art with available light, sport etc. plus I am getting into home studio portrait and strobism"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 332,
+  "reviewer_id": "A1ZM846Y7AUYD",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 66,
+  "reviews_used": 15,
+  "prompt_chars": 10060,
+  "status": "ok",
+  "seconds": 381.11,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.4,
+    "E": 3.35,
+    "A": 3.9,
+    "N": 2.45,
+    "evidence_quotes": {
+      "O": "With a range of 10 to 20mm I decided this lens would offer very wide shots and near fish-eye creativity capabilities.",
+      "C": "When a person invests a lot of money in electronic hardware, it only makes sense to do everything you can to protect it.",
+      "E": "Once you see this remote and try it for yourself you will understand what all the buzz is about!",
+      "A": "In cooperation with a local electronics store, I have been allowed to try out several frames by Kodak, Pandigital, HP, Siren and Smartparts.",
+      "N": "However, recently Logitech started dabbling with Bluetooth, and I have been disappointed with them for doing so."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.4,
+    "E": 3.35,
+    "N": 2.45,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "In cooperation with a local electronics store, I have been allowed to try out several frames by Kodak, Pandigital, HP, Siren and Smartparts.",
+      "C": "When a person invests a lot of money in electronic hardware, it only makes sense to do everything you can to protect it.",
+      "E": "Once you see this remote and try it for yourself you will understand what all the buzz is about!",
+      "N": "However, recently Logitech started dabbling with Bluetooth, and I have been disappointed with them for doing so.",
+      "O": "With a range of 10 to 20mm I decided this lens would offer very wide shots and near fish-eye creativity capabilities."
+    }
+  }
+}

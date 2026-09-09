@@ -1,0 +1,40 @@
+{
+  "contact_id": 415,
+  "reviewer_id": "A1H0D7635GEEJ1",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 45,
+  "reviews_used": 15,
+  "prompt_chars": 9366,
+  "status": "ok",
+  "seconds": 1425.98,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.1,
+    "E": 3.45,
+    "A": 3.95,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "It's a very clever hack, and a very good hack, but due to its nature there are no guarantees that things are going to \"just work.\"",
+      "C": "Even though I do not require DOCSIS 3.0 for my current level of service, it seemed like a good idea to be \"future proof\"",
+      "E": "Here it is, folks: your heretofore missing 4/3 portrait lens. And what a marvelous little gem it is.",
+      "A": "There are many negative reviews for this item, and I think they're largely unwarranted.",
+      "N": "Suffice it to say it ended well for neither camera nor lens"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.1,
+    "E": 3.45,
+    "N": 2.15,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "There are many negative reviews for this item, and I think they're largely unwarranted.",
+      "C": "Even though I do not require DOCSIS 3.0 for my current level of service, it seemed like a good idea to be \"future proof\"",
+      "E": "Here it is, folks: your heretofore missing 4/3 portrait lens. And what a marvelous little gem it is.",
+      "N": "Suffice it to say it ended well for neither camera nor lens",
+      "O": "It's a very clever hack, and a very good hack, but due to its nature there are no guarantees that things are going to \"just work.\""
+    }
+  }
+}

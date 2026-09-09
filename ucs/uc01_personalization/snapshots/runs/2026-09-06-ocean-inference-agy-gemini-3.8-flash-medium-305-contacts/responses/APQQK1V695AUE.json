@@ -1,0 +1,40 @@
+{
+  "contact_id": 355,
+  "reviewer_id": "APQQK1V695AUE",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 51,
+  "reviews_used": 15,
+  "prompt_chars": 10276,
+  "status": "ok",
+  "seconds": 1172.17,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.35,
+    "E": 3.05,
+    "A": 3.9,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "The DSP capabilities (a Digital Signal Processing circuit contained on a very small computer chip that was recently introduced by Silicon Labs in Texas) are really fine",
+      "C": "Stay tuned as I will update this review shortly with more technical details to follow.",
+      "E": "I am extremely impressed right out of the box with how well it performs",
+      "A": "is a fantastic value and should be a great bargain for many avid radio listeners.",
+      "N": "The radio has some synthesizer noise evident, but I have found that this noise is only significant for the weakest stations, especially on the AM"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.35,
+    "E": 3.05,
+    "N": 2.25,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "is a fantastic value and should be a great bargain for many avid radio listeners.",
+      "C": "Stay tuned as I will update this review shortly with more technical details to follow.",
+      "E": "I am extremely impressed right out of the box with how well it performs",
+      "N": "The radio has some synthesizer noise evident, but I have found that this noise is only significant for the weakest stations, especially on the AM",
+      "O": "The DSP capabilities (a Digital Signal Processing circuit contained on a very small computer chip that was recently introduced by Silicon Labs in Texas) are really fine"
+    }
+  }
+}

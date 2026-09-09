@@ -1,0 +1,21 @@
+item_id,verdict,fixes_json
+rs::ADLVFFE4VBT8::B0001IXUDK::1246924800,VALID,[]
+rs::ADLVFFE4VBT8::B00009V2W9::1255305600,VALID,[]
+rs::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,[]
+rt::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,[]
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,INVALID,"[{""replace"": ""Těžká část - 1,6 kg."", ""with"": ""Spíše těžší - 3,25 libry."", ""why"": ""Překlad 'Těžká část' je nesprávný a konverze váhy '3.25 lbs' na '1,6 kg' je nepřesná.""}, {""replace"": ""šedý zip"", ""with"": ""ocelově šedé kování zipu"", ""why"": ""Překlad zjednodušuje 'gunmetal grey zipper hardware' a ztrácí tak informaci o konkrétní barvě a části (kování).""}, {""replace"": ""...který po rozepnutí"", ""with"": "", který po rozepnutí"", ""why"": ""Překlad vkládá '...' které v originále nejsou a působí jako chyba v překladu.""}, {""replace"": ""trochu přehnaně těžký"", ""with"": ""trochu těžší"", ""why"": ""Překlad přidává na intenzitě slovem 'přehnaně', které v originálu 'a little bit on the heavy side' není.""}]"
+rs::ADLVFFE4VBT8::B00006343P::1320364800,VALID,[]
+rs::ADLVFFE4VBT8::B00002NDRF::1298419200,INVALID,"[{""replace"": ""Jasné"", ""with"": ""Ostré"", ""why"": ""Anglické 'crisp' v kontextu tisku znamená 'ostrý', nikoliv 'jasný'.""}]"
+rt::ADLVFFE4VBT8::B00006343P::1320364800,INVALID,"[{""replace"": ""S nákupem jsem spokojený"", ""with"": ""S nákupem jsem v pohodě"", ""why"": ""Anglické 'I am okay' vyjadřuje spíše neutrální smíření, zatímco 'jsem spokojený' je pozitivní, což mění polaritu hodnocení.""}]"
+rt::ADLVFFE4VBT8::B00002NDRF::1298419200,VALID,[]
+rs::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,[]
+rt::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,[]
+rt::ADLVFFE4VBT8::B000067SGI::1298246400,INVALID,"[{""replace"": ""standardních 2 metry"", ""with"": ""standardních 6 stop nebo 2 metrů"", ""why"": ""Překlad vypustil údaj '6 ft.', který byl v originále uveden jako alternativa k '2 meter'.""}]"
+rs::ADLVFFE4VBT8::B000067SGI::1298246400,VALID,[]
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,INVALID,"[{""replace"": ""Objednal jsem si záruku Fellowes 99090"", ""with"": ""Objednal jsem si Fellowes 99090"", ""why"": ""Autor si objednal produkt 'Fellowes 99090' (přepěťovou ochranu), nikoli jeho 'záruku'.""}]"
+rs::ADLVFFE4VBT8::B00006B8K2::1244160000,INVALID,"[{""replace"": ""prakticky žádná záruka"", ""with"": ""prakticky žádné záruky"", ""why"": ""Originál používá množné číslo 'warranties', což se vztahuje k více záručním podmínkám; český překlad v jednotném čísle je méně přesný.""}]"
+rs::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,[]
+rt::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,[]
+rt::ADLVFFE4VBT8::B0000VP1WQ::1245628800,INVALID,"[{""replace"": ""snímků v „dobré“ kvalitě"", ""with"": ""snímků v „dobré“ kvalitě JPEGs"", ""why"": ""Překlad vypustil specifikaci formátu souboru 'JPEGs', která je v originále uvedena.""}]"
+rt::ADLVFFE4VBT8::B0001IXUDK::1246924800,INVALID,"[{""replace"": ""Automatická synchronizace rtů a rtů"", ""with"": ""Automatická synchronizace rtů"", ""why"": ""Překlad 'lip-sync' jako 'synchronizace rtů a rtů' je nesprávný; správně je 'automatická synchronizace rtů'.""}, {""replace"": ""je to nic jiného než „nepříjemnost“ (FUD)"", ""with"": ""je to nic jiného než FUD"", ""why"": ""Překlad termínu 'FUD' jako 'nepříjemnost' je zcela chybný a mění význam, který byl navíc správně definován na začátku textu.""}]"
+rs::ADLVFFE4VBT8::B0000VP1WQ::1245628800,VALID,[]

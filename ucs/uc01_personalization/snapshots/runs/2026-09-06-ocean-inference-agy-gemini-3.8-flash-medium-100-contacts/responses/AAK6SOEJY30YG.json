@@ -1,0 +1,40 @@
+{
+  "contact_id": 343,
+  "reviewer_id": "AAK6SOEJY30YG",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 48,
+  "reviews_used": 15,
+  "prompt_chars": 10359,
+  "status": "ok",
+  "seconds": 426.24,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.25,
+    "E": 3.45,
+    "A": 3.6,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "I did A-B comparisons with the old model and the new AE-2's I just purchased and there are differences.",
+      "C": "So it's fairly simple to give it a positive review based on it's price/performance ratio, which is how I rate all my electronics.",
+      "E": "I have tried many different types over the years mostly from listening to my friends.",
+      "A": "I always right reviews to help others out.",
+      "N": "During moving, it got a large scatch in the main viewing area which bothered the crap out of me."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.25,
+    "E": 3.45,
+    "N": 2.8,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I always right reviews to help others out.",
+      "C": "So it's fairly simple to give it a positive review based on it's price/performance ratio, which is how I rate all my electronics.",
+      "E": "I have tried many different types over the years mostly from listening to my friends.",
+      "N": "During moving, it got a large scatch in the main viewing area which bothered the crap out of me.",
+      "O": "I did A-B comparisons with the old model and the new AE-2's I just purchased and there are differences."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 287,
+  "reviewer_id": "A1O229NVVDJUX2",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 10085,
+  "status": "ok",
+  "seconds": 1070.85,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.4,
+    "A": 3.95,
+    "N": 2.75,
+    "evidence_quotes": {
+      "O": "The X-E2 is a handsome, retro styled camera. It's extremely well made, with predominately metal construction.",
+      "C": "I'm putting a quick update at the top, for those who don't get a chance to read all the way through. As of 03/03/2014 my 7D is still working perfectly",
+      "E": "\"My name is Anthony and I was a Home Theater in a Box junkie, but I have seen the light of a dedicated receiver and her name is Onkyo\".",
+      "A": "I bought this camera for a friend for Christmas. She was using a basic point and shoot model prior to it, but seemed to enjoy photography",
+      "N": "Indoor shots at 200 or 400 ISO are unacceptably noisy. The noise was distracting in prints as small as 4\" x 6\"."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.35,
+    "E": 3.4,
+    "N": 2.75,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I bought this camera for a friend for Christmas. She was using a basic point and shoot model prior to it, but seemed to enjoy photography",
+      "C": "I'm putting a quick update at the top, for those who don't get a chance to read all the way through. As of 03/03/2014 my 7D is still working perfectly",
+      "E": "\"My name is Anthony and I was a Home Theater in a Box junkie, but I have seen the light of a dedicated receiver and her name is Onkyo\".",
+      "N": "Indoor shots at 200 or 400 ISO are unacceptably noisy. The noise was distracting in prints as small as 4\" x 6\".",
+      "O": "The X-E2 is a handsome, retro styled camera. It's extremely well made, with predominately metal construction."
+    }
+  }
+}

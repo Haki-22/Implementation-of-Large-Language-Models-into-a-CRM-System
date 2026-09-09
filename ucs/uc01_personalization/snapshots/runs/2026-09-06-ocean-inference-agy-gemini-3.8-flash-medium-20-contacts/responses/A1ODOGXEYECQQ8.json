@@ -1,0 +1,40 @@
+{
+  "contact_id": 16,
+  "reviewer_id": "A1ODOGXEYECQQ8",
+  "group": "A",
+  "sources": "previous",
+  "reviews_total": 333,
+  "reviews_used": 15,
+  "prompt_chars": 9440,
+  "status": "ok",
+  "seconds": 44.38,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.25,
+    "A": 3.8,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "The first time I plugged it to my HDTV, Angelina Jolie just popped out from the screen and served me breakfast on bed.",
+      "C": "Make sure you are using the correct USB plug on your Mac laptop. Not all of the USB outlets in Mac laptops have sufficient power to drive an external drive.",
+      "E": "You may think first that it is unique, strange and even a conversational piece",
+      "A": "If you really have a preferred earphones that has a bigger plug base, it is not the end of the world. Just file or cut a bit of the material",
+      "N": "If you really have a preferred earphones that has a bigger plug base, it is not the end of the world."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.25,
+    "E": 3.25,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "If you really have a preferred earphones that has a bigger plug base, it is not the end of the world. Just file or cut a bit of the material",
+      "C": "Make sure you are using the correct USB plug on your Mac laptop. Not all of the USB outlets in Mac laptops have sufficient power to drive an external drive.",
+      "E": "You may think first that it is unique, strange and even a conversational piece",
+      "N": "If you really have a preferred earphones that has a bigger plug base, it is not the end of the world.",
+      "O": "The first time I plugged it to my HDTV, Angelina Jolie just popped out from the screen and served me breakfast on bed."
+    }
+  }
+}

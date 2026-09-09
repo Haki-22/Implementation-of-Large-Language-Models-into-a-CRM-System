@@ -1,0 +1,40 @@
+{
+  "contact_id": 347,
+  "reviewer_id": "A2I18AO597DSDI",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 59,
+  "reviews_used": 15,
+  "prompt_chars": 10549,
+  "status": "ok",
+  "seconds": 442.56,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.15,
+    "E": 3.35,
+    "A": 3.3,
+    "N": 2.65,
+    "evidence_quotes": {
+      "O": "I have a cabinet filled with entries from Ultimate Ears, Altec Lansing, Sennheiser, Shure, Koss, Sony, Monster, JVC, and more.",
+      "C": "Check your device for compatibility before buying.",
+      "E": "I am a HUGE fan of the Slingbox Pro, another video broadcast device which is the direct competition to this unit",
+      "A": "What I don't like about the Slingbox Pro is that they nickel and dime you to death for add ons.",
+      "N": "There are so many sketchy sellers selling phone chargers out there, that it can be a bit scary."
+    }
+  },
+  "raw": {
+    "A": 3.3,
+    "C": 4.15,
+    "E": 3.35,
+    "N": 2.65,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "What I don't like about the Slingbox Pro is that they nickel and dime you to death for add ons.",
+      "C": "Check your device for compatibility before buying.",
+      "E": "I am a HUGE fan of the Slingbox Pro, another video broadcast device which is the direct competition to this unit",
+      "N": "There are so many sketchy sellers selling phone chargers out there, that it can be a bit scary.",
+      "O": "I have a cabinet filled with entries from Ultimate Ears, Altec Lansing, Sennheiser, Shure, Koss, Sony, Monster, JVC, and more."
+    }
+  }
+}

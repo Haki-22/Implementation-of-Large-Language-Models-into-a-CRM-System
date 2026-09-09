@@ -1,0 +1,40 @@
+{
+  "contact_id": 297,
+  "reviewer_id": "A506HOOCVL8GW",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 8584,
+  "status": "ok",
+  "seconds": 1139.29,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.3,
+    "E": 3.65,
+    "A": 4.0,
+    "N": 2.85,
+    "evidence_quotes": {
+      "O": "From the piano black finish to the tasteful, blue, glowing bar and sweet blue light coming out of the ports.",
+      "C": "The power supply is a HEFTY 3A output. It will power all 7 ports at 428mA each or 6 at 500mA each.",
+      "E": "This is the stuff dreams are made of: If you need lots of storage for your images, this is the card to buy.",
+      "A": "The people in my office liked its looks so much that we bought one for everyone in the office.",
+      "N": "This is a bonus in my book because I dislike having to open a clam-shell with a knife or scissors, it is frustrating."
+    }
+  },
+  "raw": {
+    "A": 4,
+    "C": 4.3,
+    "E": 3.65,
+    "N": 2.85,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "The people in my office liked its looks so much that we bought one for everyone in the office.",
+      "C": "The power supply is a HEFTY 3A output. It will power all 7 ports at 428mA each or 6 at 500mA each.",
+      "E": "This is the stuff dreams are made of: If you need lots of storage for your images, this is the card to buy.",
+      "N": "This is a bonus in my book because I dislike having to open a clam-shell with a knife or scissors, it is frustrating.",
+      "O": "From the piano black finish to the tasteful, blue, glowing bar and sweet blue light coming out of the ports."
+    }
+  }
+}

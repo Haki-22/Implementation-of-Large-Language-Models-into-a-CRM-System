@@ -1,0 +1,40 @@
+{
+  "contact_id": 134,
+  "reviewer_id": "A30X750M8V1XXW",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 130,
+  "reviews_used": 15,
+  "prompt_chars": 9727,
+  "status": "ok",
+  "seconds": 488.55,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.2,
+    "E": 3.25,
+    "A": 3.3,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "I'm no expert but just have a passion for great picture quality and try to do research online to help my reviews.",
+      "C": "I did extensive photo tests with both cameras because I felt the Canons overall sharpness was bad.",
+      "E": "I'm super happy that I upgraded!!! Price was just right too.",
+      "A": "PCNation is misleading and they haven't had them in stock at all.",
+      "N": "I purchased this because I was very unhappy with the new Canon A3300 that I also purchased just a week before this one."
+    }
+  },
+  "raw": {
+    "A": 3.3,
+    "C": 4.2,
+    "E": 3.25,
+    "N": 3.2,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "PCNation is misleading and they haven't had them in stock at all.",
+      "C": "I did extensive photo tests with both cameras because I felt the Canons overall sharpness was bad.",
+      "E": "I'm super happy that I upgraded!!! Price was just right too.",
+      "N": "I purchased this because I was very unhappy with the new Canon A3300 that I also purchased just a week before this one.",
+      "O": "I'm no expert but just have a passion for great picture quality and try to do research online to help my reviews."
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "targets": 20,
+  "ok": 20,
+  "failed": 0,
+  "skipped": 0,
+  "wall_seconds": 113.2,
+  "median_call_seconds": 62.6,
+  "max_call_seconds": 113.21,
+  "median_prompt_chars": 9760,
+  "by_group": {
+    "A": {
+      "targets": 20,
+      "ok": 20
+    }
+  },
+  "traits": {
+    "O": {
+      "mean": 4.12,
+      "sd": 0.08,
+      "min": 3.95,
+      "max": 4.25
+    },
+    "C": {
+      "mean": 4.21,
+      "sd": 0.11,
+      "min": 4.05,
+      "max": 4.45
+    },
+    "E": {
+      "mean": 3.47,
+      "sd": 0.17,
+      "min": 3.1,
+      "max": 3.8
+    },
+    "A": {
+      "mean": 3.8,
+      "sd": 0.33,
+      "min": 2.75,
+      "max": 4.15
+    },
+    "N": {
+      "mean": 2.35,
+      "sd": 0.3,
+      "min": 2.05,
+      "max": 3.35
+    }
+  }
+}

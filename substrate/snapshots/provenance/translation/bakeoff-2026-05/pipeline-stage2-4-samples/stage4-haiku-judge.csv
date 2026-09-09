@@ -1,0 +1,21 @@
+item_id,verdict,fixes_json
+rs::ADLVFFE4VBT8::B0001IXUDK::1246924800,VALID,[]
+rs::ADLVFFE4VBT8::B00009V2W9::1255305600,VALID,[]
+rs::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,[]
+rt::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,[]
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,INVALID,"[{""replace"": ""Černá látka, šedý zip."", ""with"": ""Černá látka, gunmetalově šedé kovové kování zipu."", ""why"": ""Překlad vypustil specifický popis 'gunmetal grey' a 'hardware', čímž zjednoduší detaily o vzhledu a kvalitě materiálu.""}]"
+rs::ADLVFFE4VBT8::B00006343P::1320364800,VALID,[]
+rs::ADLVFFE4VBT8::B00002NDRF::1298419200,VALID,[]
+rt::ADLVFFE4VBT8::B00006343P::1320364800,VALID,[]
+rt::ADLVFFE4VBT8::B00002NDRF::1298419200,VALID,[]
+rs::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,[]
+rt::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,[]
+rt::ADLVFFE4VBT8::B000067SGI::1298246400,VALID,[]
+rs::ADLVFFE4VBT8::B000067SGI::1298246400,VALID,[]
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,INVALID,"[{""replace"": ""Objednal jsem si záruku Fellowes 99090"", ""with"": ""Objednal jsem si Fellowes 99090"", ""why"": ""EN říká 'I ordered that Fellowes 99090' — zařízení, ne záruka.""}, {""replace"": ""Za reklamace v rámci záruky ubírám jednu hvězdičku"", ""with"": ""Za (zkreslená) tvrzení o záruce ubírám jednu hvězdičku"", ""why"": ""'warranty claims' znamená 'tvrzení o záruce', nikoli 'reklamace'.""}]"
+rs::ADLVFFE4VBT8::B00006B8K2::1244160000,VALID,[]
+rs::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,[]
+rt::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,[]
+rt::ADLVFFE4VBT8::B0000VP1WQ::1245628800,VALID,[]
+rt::ADLVFFE4VBT8::B0001IXUDK::1246924800,VALID,[]
+rs::ADLVFFE4VBT8::B0000VP1WQ::1245628800,VALID,[]

@@ -1,0 +1,60 @@
+{
+  "kind": "aspects",
+  "key": "22",
+  "status": "ok",
+  "seconds": 10.28,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Vřele doporučuji!"
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Nastavení bylo hračka, nebyly potřeba žádné ovladače, vše bylo plně plug and play."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "NENÍ vhodné pro systémy chytré domácnosti Vera3/VeraLite Z-wave ani Nexia."
+      },
+      {
+        "aspect": "Výkon",
+        "sentiment": "mixed",
+        "evidence": "Z tohoto fotoaparátu jsem velmi, velmi zklamaný."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-22 (anonymizován).\nRecenze (143, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nBelkin Smooth Tri-Fold Folio Case pro Samsung Galaxy Tab Pro - 10,1 palce (fialové): Kvalitní konstrukce, nízká hmotnost, flexibilní design, chrání mou investici Hladké trojskládací pouzdro Belkin Folio je velmi lehké, nabízí dobrou ochranu a je extrémně flexibilní, což mi umožňuje používat tablet v různých polohách. Nejraději mám, když sedím v šikmé poloze, takže můžu s výjimečnou lehkostí používat svou Bluetooth klávesnici. Je to skvělé pouzdro a vypadá to, že je vyrobeno z kvalitních materiálů. Vřele doporučuji!\nBolse® N600 Dual-Band USB Wireless Adapter Optimized for HD Video & Gaming, 2.4GHz 300Mbps/5Ghz 300Mbps, One-Button Setup, Support Windows XP, Vista, 7, 8; Mac OS X 10.5 Greater(*Does Not Support Win8.1*): Mnohem rychlejší pro Windows 7 i Windows 8 (8.1 jsem nezkoušel... 8.1 se mému počítači nelíbí!) Jsem opravdu ohromen nárůstem rychlosti z 5 GHz na 2,4 GHz, což se při používání naší mikrovlnky (nebo pravděpodobně i sousedů) trochu zhoršuje. Nastavení bylo hračka, nebyly potřeba žádné ovladače, vše bylo plně plug and play. Toto zařízení bylo poskytnuto pro účely recenze a zcela splňovalo inzerované požadavky bez jakýchkoli problémů, zádrhelů nebo obav. Hodnotím jej 5 hvězdičkami a bezdrátový adaptér doporučuji ostatním, kteří potřebují zvýšit rychlost nebo překonat problém s vestavěným Wi-Fi připojením.\nCestovní nabíječka NukePak Dual USB High Speed 3.1A 15W pro Apple iPad, nový iPad 3 4, iPhone 5 4s 4 3 3Gs, Samsung Motorola Android chytré telefony a tablety. Certifikováno UL (pouze nabíječka - Lightning ani jiné kabely nejsou součástí balení).: Horní port má vyšší proud, spodní port je standardní 1,0 ampér – kéž by oba měly vyšší výkon! Nukepak má JEDEN port s vysokým výkonem (nahoře) a jeden standardní 1,0ampérový port (dole), které NENECHÁ napájet novější zařízení, jako jsou Apple nebo Galaxy. Jedná se o kvalitní produkt, jen mějte na paměti, že pokud potřebujete dva porty s vyšším výkonem, hledejte jinde. Celkově jsem spokojen s každým produktem NukePak, který jsem testoval, ale v tomto případě si myslím, že by se lépe hodily k návrhu zařízení tak, aby mělo OBĚ porty schopné vyššího výkonu. Celkově se jedná o kvalitní nabíječku, která byla dodána pro účely recenze.\nBrašna Thule TCDM-101 Covert DSLR (tmavý stín): Vynikající kvalita, prostorný, SKVĚLÝ pro různé potřeby! Nosím s sebou Canon DSLR s objektivem 18-135, soubory, tablet, Kindle a mnoho dalšího! Jsem ZAMILOVANÁ do brašny Thule! Konečně si s sebou můžu nosit svou digitální zrcadlovku Canon s objektivem 18-135 a několika náhradními bateriemi, soubory, 10\" tablet, 7\" Kindle, nabíjecí kabely A mnohem víc - včetně mého 15,6\" notebooku, když je potřeba. Vše na jednom místě s pohodlným přístupem. Tuto brašnu si naprosto vážím, stala se mou každodenní taškou, takže mám všechno potřebné pořád u sebe.\nWi-Fi USB adaptér NETGEAR N300 (WNA3100): Snadné nastavení, pevné připojení! Byl jsem opravdu ohromen snadným nastavením a konzistentně spolehlivým připojením. Vřele doporučuji!\nPaměťová karta Samsung Electronics 16GB PRO SDHC až 90 MB/s třída 10 (MB-SG16D/AM): Vynikající pro Canon T4i i 70D! Dnešní digitální zrcadlovky potřebují rychlé zápisy s dostatkem místa pro soubory RAW. Samsung PRO je ideální karta pro spolehlivé zachycení a uložení těchto důležitých snímků. Vřele doporučuji!\nDigitální fotoaparát Nikon COOLPIX L620 s rozlišením 18,1 MP, CMOS senzorem, 14násobným zoomem a možností pořizování videa v rozlišení Full HD 1080p (černý): Vůbec mě to neohromilo. Tohle je to nejlepší, co Nikon v této cenové relaci nabízí? Vyhněte se tomu! Velmi, velmi pomalé. Ostření se výrazně zpožďuje. Závěrka se zpožďuje ještě hůř, i když mám extrémně rychlou paměťovou kartu, která jinak funguje skvěle i v režimu RAW na mém Canonu 70D. Z tohoto fotoaparátu jsem velmi, velmi zklamaný. Jasně, není to Canon T5i, Canon 70D ani Mark III, ale od dnešní technologie, zejména od Nikonu, rozhodně očekávám lepší výsledky. Po první zkušenosti jsem uvažoval o jeho vrácení, ale doufal jsem, že mi pomůže ještě lepší paměťová karta. Nepomohla. Měl jsem vrátit Nikon Coolpix......takže stále sháním slušný kompaktní fotoaparát, když s sebou nechci tahat vybavení od Canonu... nějaké návrhy? Zanechte prosím komentář!\nMěkké přepravní pouzdro Sony LCS-U10 pro videokameru – černé: Toto pouzdro je pro typickou videokameru Sony MALÉ. Není zde místo pro napájecí kabel. Toto přepravní pouzdro je TAK MALÉ, že u typické videokamery Sony není místo na napájecí kabel. Pokud je pro vás důležité mít napájecí kabel nebo cokoli jiného, důrazně doporučuji toto pouzdro vynechat a pořídit si o něco prostornější.\nOtterbox [Defender Series] Pouzdro pro Samsung Galaxy S5 - Ochranné pouzdro pro Galaxy S5 v maloobchodním balení - Neonově růžové (Whisper White/Blaze Pink): Otterbox je stále nejlepší! Galaxy S5 je drahé kapesní osobní zařízení, které potřebuje spolehlivou ochranu. I s pojištěním je jeho výměna nákladná a nepohodlné být několik dní mimo provoz, zejména během svátků! Otterbox je nejlepší z nejlepších, pokud jde o ochranu mého S5. Je o něco silnější a těžší než většina pouzder, ale i tak se pohodlně vejde do koženého pouzdra na opasek, které jsem si koupil. Vřele doporučuji těm, kteří chtějí absolutně nejlepší ochranu.\nB00HRQB28Y: Není tak robustní jako Priemere Pro, ale je snadněji použitelný a do jisté míry zaměřený na uživatele sociálních médií. Používání sady Sony Movie Studio 13 se mi naprosto líbilo. Nainstalovala se bez problémů a její používání bylo intuitivně snadné, vzhledem k tomu, že jsem používal několik podobných aplikací a stávám se stále zručnějším v mnoha aplikacích, které jsou součástí mého předplatného Adobe CC. Sada Sony Movie Studio 13 je určena pro publikum, které se více věnuje sociálním médiím (je velmi snadné sdílet hotová videa přímo na Facebooku!). Pokud nepotřebujete některé méně používané nástroje profesionální úrovně jako Premiere Pro (a After Effects) a chcete software VLASTNIT, místo abyste si ho pronajímali za přibližně 50 dolarů měsíčně, pak Sony Movie Studio rozhodně stojí za zvážení. Součástí balení je Sony Sound Forge Audio Studio 10, které je navíc k dispozici, což je bonus pro editaci, mixování a prolínání zvukových stop. Mazací mazání umožňuje vytvářet karaoke melodie z tradičnějších zvukových zdrojů. Můj audiofilský manžel byl VELMI spokojen s nahráváním a editací zvuku – není to zrovna moje specializace, ale pokud je spokojený on, jsem spokojený i já.\nMotorola Scout1 Wi-Fi monitor domácích mazlíčků pro vzdálené sledování pomocí iPhone a chytrých telefonů a tabletů se systémem Android, černý: Ideální pro uživatele iPhonu nebo Androidu. NENÍ vhodné pro systémy chytré domácnosti Vera3/VeraLite Z-wave ani Nexia. Motorola Scout je skvělá WiFi kamera pro sledování z iPhonu nebo Androidu. Upozorňujeme, že Motorola Scout nemůžete sledovat ze standardního počítače nebo notebooku, musíte jej sledovat ze zařízení s aplikací. Celkové nastavení bylo stejně přímočaré nebo jednodušší než u jiných IP kamer, které jsem dříve nastavoval (včetně Foscamu) a Z-wave kamer (například Schlage), i když kvalita obrazu nebyla tak dobrá jako u kamer Foscamu (zejména v noci / ve tmě!). Pro ty, kteří hledají IP kameru pro chytré domácnosti Vera3 / Vera Lite, jsou kamery Foscam dobrou volbou (pokud si do Very nainstalujete aplikaci Foscam). Ti, kteří používají Nexii k ovládání svých chytrých domácností se Z-wave, by si měli najít kameru kompatibilní se Z-wave, jako je například Schlage WCO100NX N N SL Home Outdoor Camera s Nexia Home Intelligence (Z-Wave) (stále poměrně drahá).\n4portový přepínač video displeje Belkin: Funguje přesně tak, jak bylo navrženo. Stylové, snadno použitelné. Značka Belkin si spojuji s výrazně vyšší kvalitou než některé méně známé značky. 4portový VGA přepínač videa splnil má očekávání ohledně vynikající kvality konstrukce a zpracování. Tento model (VGA) i verze HDMI jsou ideální pro připojení více notebooků k projektoru. Tento přepínač mám v úmyslu skladovat s projektorem Epson pro prezentace na\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Vřele doporučuji!"
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Nastavení bylo hračka, nebyly potřeba žádné ovladače, vše bylo plně plug and play."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "NENÍ vhodné pro systémy chytré domácnosti Vera3/VeraLite Z-wave ani Nexia."
+      },
+      {
+        "aspect": "Výkon",
+        "sentiment": "mixed",
+        "evidence": "Z tohoto fotoaparátu jsem velmi, velmi zklamaný."
+      }
+    ]
+  }
+}

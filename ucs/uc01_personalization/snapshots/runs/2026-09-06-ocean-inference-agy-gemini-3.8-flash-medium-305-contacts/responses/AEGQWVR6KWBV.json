@@ -1,0 +1,40 @@
+{
+  "contact_id": 419,
+  "reviewer_id": "AEGQWVR6KWBV",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 45,
+  "reviews_used": 15,
+  "prompt_chars": 10049,
+  "status": "ok",
+  "seconds": 1446.84,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.5,
+    "A": 4.1,
+    "N": 2.1,
+    "evidence_quotes": {
+      "O": "They are very balanced, and let you hear the subtle details of your music, making the music almost come alive in your head.",
+      "C": "If you've already done your research and only want to know why I am qualifying my recommendation, skip down to near the bottom of my review.",
+      "E": "The sound quality is amazing, better than the average home stereo and better than any headphones or earphones I've ever heard.",
+      "A": "I agree with many of their observations, but I respectfully disagree with their overall assessment of the Superdrive.",
+      "N": "I got a replacement which fixed one problem but introduces another. I'll insert comments into my original review."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 3.5,
+    "N": 2.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I agree with many of their observations, but I respectfully disagree with their overall assessment of the Superdrive.",
+      "C": "If you've already done your research and only want to know why I am qualifying my recommendation, skip down to near the bottom of my review.",
+      "E": "The sound quality is amazing, better than the average home stereo and better than any headphones or earphones I've ever heard.",
+      "N": "I got a replacement which fixed one problem but introduces another. I'll insert comments into my original review.",
+      "O": "They are very balanced, and let you hear the subtle details of your music, making the music almost come alive in your head."
+    }
+  }
+}

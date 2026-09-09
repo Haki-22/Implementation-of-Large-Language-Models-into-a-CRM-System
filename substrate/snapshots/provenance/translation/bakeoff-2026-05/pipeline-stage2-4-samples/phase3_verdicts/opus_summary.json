@@ -1,0 +1,14 @@
+{
+  "scope_items": 113687,
+  "model": "claude-opus-4-7",
+  "prompt_id": "translation_judge-only-invalid",
+  "prompt_version": "1",
+  "chunk_size": 1000,
+  "parallel": 4,
+  "wall_seconds_total": 1240.5,
+  "chunks_done": 11,
+  "chunks_failed": 103,
+  "invalid_total": 314,
+  "hallu_total": 220,
+  "invalid_rate_pct": 0.276
+}

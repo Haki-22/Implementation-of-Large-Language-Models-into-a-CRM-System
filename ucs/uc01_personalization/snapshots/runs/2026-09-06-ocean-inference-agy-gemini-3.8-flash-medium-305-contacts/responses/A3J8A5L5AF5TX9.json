@@ -1,0 +1,40 @@
+{
+  "contact_id": 95,
+  "reviewer_id": "A3J8A5L5AF5TX9",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 153,
+  "reviews_used": 15,
+  "prompt_chars": 9503,
+  "status": "ok",
+  "seconds": 326.14,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.15,
+    "A": 3.85,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "After learning the differences in the newer audio formats, I found that I needed an audio decoder",
+      "C": "Instead of using the picture, I chose this Belkin F8V234 from it's product description and item/model number.",
+      "E": "I highly recommend this Bluetooth wireless mouse.",
+      "A": "Update: I'm sorry not to be helpful to all who read my review...",
+      "N": "Well, I guess my luck was not so good with this cable."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.25,
+    "E": 3.15,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Update: I'm sorry not to be helpful to all who read my review...",
+      "C": "Instead of using the picture, I chose this Belkin F8V234 from it's product description and item/model number.",
+      "E": "I highly recommend this Bluetooth wireless mouse.",
+      "N": "Well, I guess my luck was not so good with this cable.",
+      "O": "After learning the differences in the newer audio formats, I found that I needed an audio decoder"
+    }
+  }
+}

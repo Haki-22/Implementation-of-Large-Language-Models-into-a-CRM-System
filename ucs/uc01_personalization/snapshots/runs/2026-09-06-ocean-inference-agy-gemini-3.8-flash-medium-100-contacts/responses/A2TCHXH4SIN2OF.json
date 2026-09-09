@@ -1,0 +1,40 @@
+{
+  "contact_id": 306,
+  "reviewer_id": "A2TCHXH4SIN2OF",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 40,
+  "reviews_used": 15,
+  "prompt_chars": 9994,
+  "status": "ok",
+  "seconds": 260.04,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.2,
+    "E": 3.05,
+    "A": 2.8,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "The new digital recording of Mahler's 9th by Dudamel and the LAPO sounded good enough, and the added detail in strings really made me spot new and interes",
+      "C": "And I've tried the foam pads and the silicon flanges and taken all the approaches to get the \"perfect seal\"",
+      "E": "If you've already read my review of the FC300, you can skip to the last two paragraphs of this review to see the differences",
+      "A": "These are ordinary Sennheisers, which means way better than the usual junk by Sony, Aiwa, etc or worse yet Coby and Maxell.",
+      "N": "and even with the foam pads and a great \"underwater\" sounding seal, the bass is pitiful."
+    }
+  },
+  "raw": {
+    "A": 2.8,
+    "C": 4.2,
+    "E": 3.05,
+    "N": 3.25,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "These are ordinary Sennheisers, which means way better than the usual junk by Sony, Aiwa, etc or worse yet Coby and Maxell.",
+      "C": "And I've tried the foam pads and the silicon flanges and taken all the approaches to get the \"perfect seal\"",
+      "E": "If you've already read my review of the FC300, you can skip to the last two paragraphs of this review to see the differences",
+      "N": "and even with the foam pads and a great \"underwater\" sounding seal, the bass is pitiful.",
+      "O": "The new digital recording of Mahler's 9th by Dudamel and the LAPO sounded good enough, and the added detail in strings really made me spot new and interes"
+    }
+  }
+}

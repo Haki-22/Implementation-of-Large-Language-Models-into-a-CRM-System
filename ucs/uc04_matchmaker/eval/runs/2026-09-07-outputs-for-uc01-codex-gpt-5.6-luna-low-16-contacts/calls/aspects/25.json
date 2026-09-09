@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "25",
+  "status": "ok",
+  "seconds": 8.55,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Zálohovací software se snadno nainstaloval a zdá se, že nespotřebovává velké množství zdrojů (tj. nedošlo k žádné znatelné změně výkonu počítače)."
+      },
+      {
+        "aspect": "Kompaktnost",
+        "sentiment": "positive",
+        "evidence": "Pouzdro nepřidává moc prostoru, ale stále poskytuje vynikající ochranu."
+      },
+      {
+        "aspect": "Ochrana",
+        "sentiment": "positive",
+        "evidence": "Pouzdro bylo/je „vodotěsné“ -- cítil jsem se bezpečně, když jsem si s sebou bral Kindle k bazénu / vířivce / a při koupeli."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Z nějakého důvodu se mi v prvním zařízení (Dell s Windows 7) nepodařilo kartu rozpoznat."
+      },
+      {
+        "aspect": "Kvalita obrazu",
+        "sentiment": "positive",
+        "evidence": "Za tu cenu má úžasnou kvalitu obrazu."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-25 (anonymizován).\nRecenze (132, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nB00GA55OGE: Vynikající pro čtenáře Tento produkt poskytuje vynikající ochranu proti vodě pro můj Kindle Paperwhite. „Pocit“ z pouzdra je takový, že nepřidává příliš mnoho objemu, takže je snadné Paperwhite v tomto pouzdře uchovávat po delší dobu. S vodotěsným pouzdrem pro můj HDX jsem měl drobné problémy s nabíjením v pouzdře. Nicméně, protože tato čtečka elektronických knih zřídka potřebuje nabíjení, není to problém. Rád čtu ve vaně nebo ve vířivce. Cítím se jistě, když si svůj Paperwhite vezmu do vody! Pouzdro má stále skvělý pocit nízké hmotnosti, takže se Paperwhite stále snadno drží. Pouzdro neovlivňuje citlivost dotykové obrazovky.\nB00DQZPM72: Opravdu bych si tenhle produkt chtěl/a zamilovat, ale... Zaprvé. Nejsem zrovna nejtrpělivější člověk na světě. Chci, aby věci fungovaly tak, jak si myslím, že by měly, a nemám moc trpělivosti si s tím hrát. Nicméně nejdřív ohodnotím své nepříjemné věci a pak budu mluvit o tom, co se mi na tomto produktu líbí. Nepříjemnosti (nebo věci, na které jsem neměl trpělivost): 1. Nabíjení -- Když byl Fire HDX v pouzdře, nemohl jsem do něj vložit micro USB (všimněte si, že jsem se ho asi dostatečně nesnažil rozesmát / zapojit do správné polohy). 2. Po několika pokusech o nabití se z pouzdra a vyndání z něj stalo něco, co bylo snadné, nuda. Co se mi líbilo! 1. Pouzdro bylo/je „vodotěsné“ -- cítil jsem se bezpečně, když jsem si s sebou bral Kindle k bazénu / vířivce / a při koupeli. 2. Pouzdro mělo překvapivě malý profil -- opravdu nemám rád pouzdra, která Kindle hodně zvětšují. Myslel jsem si, že vodotěsné pouzdro by to jistě zvládlo. Ale tohle ne. I v tomto pouzdře se mi Kindle skvěle držel. 3. Pouzdro mi nepřekáželo v používání Kindlu! (opět překvapení, protože jsem si myslel, že by mohlo dojít ke ztrátě citlivosti dotykové obrazovky) Celkově se mi toto pouzdro opravdu líbí a budu ho mít sbalené, když budu cestovat na dovolenou nebo se koupat ve vaně. Svou otravu z toho, že jsem ho musel vyndávat z pouzdra, aby se nabil, vidím jako plus, protože bych rád, aby „zástrčka“ přes nabíjecí bod zůstala bezpečně na svém místě.\nSeagate Backup Plus 3TB Desktop External Hard Drive with Mobile Device Backup USB 3.0(STDT3000100): Skvělé pro zálohování Jsem profesionální fotograf a mám spoustu fotek. S tímto 4TB diskem není žádná výmluva, proč nezálohovat. Mám ho připojený k routeru Netgear pomocí USB 3.0. Rychlost i pro velké (tj. počáteční) zálohy je překvapivě vysoká. Zálohovací software se snadno nainstaloval a zdá se, že nespotřebovává velké množství zdrojů (tj. nedošlo k žádné znatelné změně výkonu počítače).\nEpson VS230 SVGA 3LCD Projector, 2800 color lumens, 2800 white lumens (V11H552220): skvělé pro jeskyni sportovních fanoušků (tj. suterén) Už několik let mám Epson Movie Mate. Má podobnou kvalitu obrazu. Nastavení (zapojení HDMI z Direct TV boxu) a napájení bylo velmi snadné a bylo to hotové. Zvuk z něj není špatný (není to skvělý, ale na prezentace je to v pořádku). Mám soundbar připojený k Direct TV boxu a ztlumený zvuk na projektoru. Kvalita obrazu je překvapivě dobrá. I když vím, že je to hlavně pro kancelářské použití, je to skvělé i do sklepa. Barvy jsou jasné a nejsou vybledlé. Za tu cenu má úžasnou kvalitu obrazu.\nTP-LINK TL-WR710N 150Mbps Wireless N Mini Pocket Router, Repeater, Client, 2 LAN Ports, USB Port for Charging and Storage: Pěkné a kompaktní Velikost na mě velmi zapůsobila. Není o moc větší než krabička cigaret. Snadno se vejde do brašny na počítač a je velmi malý. Snadno se rozběhne a funguje docela snadno.\nB00DQZQ16S: Snadná aplikace - příjemná extra ochrana Toto je velmi snadno aplikovatelná ochranná fólie na displej - (možná jsem měl jen štěstí, ale žádné velké problémy se vzduchovými bublinami nejsou). Přidává extra ochranu, ale zároveň nezhoršuje citlivost dotykové obrazovky. Ochranná fólie nepřidává další odlesky (ale ani je nesnižuje).\nB00F6E8OUS: Elegantní jednoduchost Mám spoustu pouzder. Většinu nepoužívám. Tohle je jen pro uchování. Jednoduché a elegantní. Používám Kindle, protože chci, aby se mi do tašky vešlo malé zařízení. Toto pouzdro nepřidává moc prostoru, ale stále poskytuje vynikající ochranu.\nB00G4FCKB2: Stylový Tohle je pěkné stylové pouzdro. Dobře sedí v ruce a vypadá dobře na pohled. Kindle se v něm pohodlně drží. Také se (na rozdíl od některých jiných pouzder) snadno drží v ruce.\nB00DQZOD8Q: Prostě to nepřipadá správné Správné pouzdro na Kindle není vždycky nejjednodušší věc k nalezení. Toto pouzdro pro mě nesplňuje mé potřeby ---- Kindle HDX se těžko vyndával z pouzdra – zatímco pouzdro snadno drželo na místě ve vodorovné poloze na stole, na klíně se tak snadno nedrželo – bylo obtížné ho držet na výšku při čtení knihy (oproti hraní her nebo sledování filmu).\nB00DQZO3JK: Lepší než někteří Možná je to spíše ženská věc, ale najít ten správný kryt na tablet/Kindle může být stejně náročné jako najít tu správnou kabelku. Tento kryt je dobrou střední cestou - s omotáním po okrajích jsem se obával, že bude příliš velký. -- vůbec není objemný -- drží Kindle bezpečně v pouzdře -- musím si s ním trochu pohrát, aby byl konektor pro sluchátka přístupný. Na rozdíl od [[ASIN:B00DQZOG56 Belkin Chambray Cover for Kindle Fire HDX (pasuje pouze na Kindle Fire HDX 7\"), Sorbet] se tento kryt snadno drží při čtení --- nicméně není tak snadné v něm stát při sledování filmů nebo hraní her ve vodorovné poloze. Zatím nejlepší kryt na Kindle HDX, který jsem použil, je: [[ASIN:B00EADOTE6 i-Blason Kindle Fire HDX 7 Inch Tablet (není kompatibilní s Kindle Fire HD 7) Auto Wake / Sleep Slim-fit Cover Case - Lifetime Warranty (Black)]]. Ze tří pouzder na Kindle HDX, které jsem použil, se tento umístil na 2. místě.\nB0096YTSL8: Zatím nejlepší pro HDX Váhal jsem s koupí, protože to bylo tak levné a nebyla to značka, se kterou bych měl zkušenosti. Jsem rád, že jsem to riskl - do tohoto pouzdra se Kindle snadno vkládá a vyjímá (na rozdíl od pouzdra od Belkinu, které mám) - pohodlně se drží v jedné ruce, když používám Kindle jako knihu - odolné pouzdro, které při častém vyhazování v kabelce vykazuje určité opotřebení, ale celkově vypadá skvěle (a opotřebení je kosmetické, nikoli strukturální) - dobře stojí vodorovně na tvrdém povrchu nebo na klíně - přední pojistka slouží také jako tlačítko pro probuzení při otevírání pouzdra - má pěkné poutko pro stylus, které nepřekáží.\nB00EOE6COQ: Barevný způsob, jak vyniknout na stole Miluju barvu a délku. Koupila jsem si červený i zelený. V kanceláři mi barva pomáhá rozlišit nabíjecí kabel mezi všemi ostatními kabely, které mám u stolu. Doma mi umožňuje protáhnout kabel ze zásuvky na gauči. Neměla jsem žádné problémy s žádným z mých Kindle ani s telefonem Samsung.\nČtyřportová karta řadiče Syba USB 3.0 PCI-Express x1 (SD-PEX20133): V první krabici to nefungovalo Z nějakého důvodu se mi v prvním zařízení (Dell s Windows 7) nepodařilo kartu rozpoznat. Byla připojená k internímu napájení, takže pokud byl připojen USB flash disk, displej se rozsvítil, ale kartu jsem nenašel. I když jsem se snažil kartu najít pomocí dodaného softwaru, nepodařilo se mi ji najít. Vložil jsem ji do staršího zařízení (stále s Windows 7), nainstaloval software a kartu jsem hned odřízl – žádný problém (mimochodem, v Dellu jsem do stejného slotu PCI-Express nainstaloval kartu jiné značky bez problémů).\nBuffalo LinkStation 421e bezdiskový box, vysoce výkonný RAID NAS, osobní cloudové úložiště a mediální server (LS421DE): zklamaný Zatím nejlepší věc, kterou jsem našel pro sdílení dat v mé síti, je NETGEAR N900 Dual Band Wi-Fi Gigabit Router s vestavěným 2TB úložištěm (WNDR4720). Nastavení této položky trvalo déle, než bych si přál (a stále nejsem přesvědčen, že funguje správně). Disky jsou částečně drženy na místě levným plastovým držákem, který se zdá, jako by se pokaždé, když se ho pokusím vyjmout, zlomil. Návod má velmi hezké obrázky, ale jen velmi málo slov (někdy jsou slova užitečná). Musím nainstalovat software, aby byl viditelný v síti (PROČ???). V podstatě to vypadá jako síťový diskový box, kter\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Zálohovací software se snadno nainstaloval a zdá se, že nespotřebovává velké množství zdrojů (tj. nedošlo k žádné znatelné změně výkonu počítače)."
+      },
+      {
+        "aspect": "Kompaktnost",
+        "sentiment": "positive",
+        "evidence": "Pouzdro nepřidává moc prostoru, ale stále poskytuje vynikající ochranu."
+      },
+      {
+        "aspect": "Ochrana",
+        "sentiment": "positive",
+        "evidence": "Pouzdro bylo/je „vodotěsné“ -- cítil jsem se bezpečně, když jsem si s sebou bral Kindle k bazénu / vířivce / a při koupeli."
+      },
+      {
+        "aspect": "Kompatibilita",
+        "sentiment": "mixed",
+        "evidence": "Z nějakého důvodu se mi v prvním zařízení (Dell s Windows 7) nepodařilo kartu rozpoznat."
+      },
+      {
+        "aspect": "Kvalita obrazu",
+        "sentiment": "positive",
+        "evidence": "Za tu cenu má úžasnou kvalitu obrazu."
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 215,
+  "reviewer_id": "A25FL6VLD7S23S",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 7677,
+  "status": "ok",
+  "seconds": 795.09,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.35,
+    "E": 3.5,
+    "A": 3.3,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "THE SHOTS I HAVE TAKEN BOTH NATURE, LANDSCAPES AND PEOPLE HAVE BEEN BREATHTAKING..I HIGHLY RECCOMEND THIS FINE CAMERA",
+      "C": "PLEASE FOLLOW THE INSTRUCTIONS TO THE LETTER!!!!!!!!!! PROGRAM THE CD CHANGER BY RUNNING THE PROGRAM CD IN THE MAIN UNIT BEFORE!!! HOOKING UP THE CHANGER!!",
+      "E": "I\"m looking forward to taking it on my next cruise vacation to the Caribbean............I highly reccomend it.........",
+      "A": "I DONT UNDERSTAND ALL THE SOUR GRAPES ABOUT THIS LENS FROM OTHER REVIEWERS. THEY MUST USE THIS LENS FOR HAND BALL PRACTICE......OR JUST THROW IT AROUND",
+      "N": "once I pluged them into my Ipod Touch, I was extreemly dissapointed in the audio quality!!..the sound is muddy at best"
+    }
+  },
+  "raw": {
+    "A": 3.3,
+    "C": 4.35,
+    "E": 3.5,
+    "N": 2.7,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I DONT UNDERSTAND ALL THE SOUR GRAPES ABOUT THIS LENS FROM OTHER REVIEWERS. THEY MUST USE THIS LENS FOR HAND BALL PRACTICE......OR JUST THROW IT AROUND",
+      "C": "PLEASE FOLLOW THE INSTRUCTIONS TO THE LETTER!!!!!!!!!! PROGRAM THE CD CHANGER BY RUNNING THE PROGRAM CD IN THE MAIN UNIT BEFORE!!! HOOKING UP THE CHANGER!!",
+      "E": "I\"m looking forward to taking it on my next cruise vacation to the Caribbean............I highly reccomend it.........",
+      "N": "once I pluged them into my Ipod Touch, I was extreemly dissapointed in the audio quality!!..the sound is muddy at best",
+      "O": "THE SHOTS I HAVE TAKEN BOTH NATURE, LANDSCAPES AND PEOPLE HAVE BEEN BREATHTAKING..I HIGHLY RECCOMEND THIS FINE CAMERA"
+    }
+  }
+}

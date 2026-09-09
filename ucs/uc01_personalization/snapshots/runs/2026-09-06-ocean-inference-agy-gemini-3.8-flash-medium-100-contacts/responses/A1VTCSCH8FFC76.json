@@ -1,0 +1,40 @@
+{
+  "contact_id": 182,
+  "reviewer_id": "A1VTCSCH8FFC76",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 109,
+  "reviews_used": 15,
+  "prompt_chars": 9213,
+  "status": "ok",
+  "seconds": 114.33,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.3,
+    "E": 3.35,
+    "A": 3.8,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "I am very conscious about how my home décor looks and buy only devices that gel with it.",
+      "C": "most of them are labeled religiously, for identification, as each is assigned for something specific.",
+      "E": "What I liked most about the digital camera is that it is WiFi compatible meaning I can post my photos on social networking sites",
+      "A": "We found out that the 34837 can be partitioned into two drives and it works both on my PC and well as on my daughter's Mac.",
+      "N": "Nothing but mere regrets to have bought it. There cant be a DeadSlower connection than what this linkstick can give."
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 4.3,
+    "E": 3.35,
+    "N": 2.8,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "We found out that the 34837 can be partitioned into two drives and it works both on my PC and well as on my daughter's Mac.",
+      "C": "most of them are labeled religiously, for identification, as each is assigned for something specific.",
+      "E": "What I liked most about the digital camera is that it is WiFi compatible meaning I can post my photos on social networking sites",
+      "N": "Nothing but mere regrets to have bought it. There cant be a DeadSlower connection than what this linkstick can give.",
+      "O": "I am very conscious about how my home décor looks and buy only devices that gel with it."
+    }
+  }
+}

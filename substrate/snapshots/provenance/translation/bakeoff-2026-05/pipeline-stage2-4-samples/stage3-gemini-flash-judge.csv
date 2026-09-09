@@ -1,0 +1,21 @@
+item_id,verdict,fixes_json
+rs::ADLVFFE4VBT8::B0001IXUDK::1246924800,VALID,[]
+rs::ADLVFFE4VBT8::B00009V2W9::1255305600,VALID,[]
+rs::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,[]
+rt::ADLVFFE4VBT8::B0001LTT64::1229990400,VALID,[]
+rt::ADLVFFE4VBT8::B00020BJA8::1246665600,INVALID,"[{""replace"": ""Těžká část"", ""with"": ""Poněkud těžší"", ""why"": ""Fráze 'On the heavy side' byla chybně přeložena jako 'Těžká část'.""}, {""replace"": ""je zip. ...který"", ""with"": ""je zip, který"", ""why"": ""V textu se objevuje chybná interpunkce a rozdělení věty, které v originále není.""}]"
+rs::ADLVFFE4VBT8::B00006343P::1320364800,VALID,[]
+rs::ADLVFFE4VBT8::B00002NDRF::1298419200,VALID,[]
+rt::ADLVFFE4VBT8::B00006343P::1320364800,VALID,[]
+rt::ADLVFFE4VBT8::B00002NDRF::1298419200,VALID,[]
+rs::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,[]
+rt::ADLVFFE4VBT8::B00005114Z::1242691200,VALID,[]
+rt::ADLVFFE4VBT8::B000067SGI::1298246400,VALID,[]
+rs::ADLVFFE4VBT8::B000067SGI::1298246400,VALID,[]
+rt::ADLVFFE4VBT8::B00006B8K2::1244160000,INVALID,"[{""replace"": ""záruku Fellowes 99090"", ""with"": ""přepěťovou ochranu Fellowes 99090"", ""why"": ""V originálu se hovoří o zakoupení samotného přístroje 'Fellowes 99090', nikoli o záruce.""}]"
+rs::ADLVFFE4VBT8::B00006B8K2::1244160000,VALID,[]
+rs::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,[]
+rt::ADLVFFE4VBT8::B000067RVL::1250640000,VALID,[]
+rt::ADLVFFE4VBT8::B0000VP1WQ::1245628800,VALID,[]
+rt::ADLVFFE4VBT8::B0001IXUDK::1246924800,INVALID,"[{""replace"": ""Automatická synchronizace rtů a rtů"", ""with"": ""Automatická synchronizace zvuku a obrazu"", ""why"": ""Termín 'Auto lip-sync' označuje synchronizaci zvuku s obrazem, překlad 'rtů a rtů' nedává smysl.""}, {""replace"": ""s RGBY CbCr"", ""with"": ""sRGB, YCbCr"", ""why"": ""Došlo k chybnému spojení a zkomolení dvou různých barevných standardů 'sRGB' a 'YCbCr'.""}]"
+rs::ADLVFFE4VBT8::B0000VP1WQ::1245628800,VALID,[]

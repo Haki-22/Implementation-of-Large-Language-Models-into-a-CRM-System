@@ -1,0 +1,40 @@
+{
+  "contact_id": 3,
+  "reviewer_id": "A23GFTVIETX7DS",
+  "group": "A",
+  "sources": "sample:model-arms-100+pick:reading-16+previous",
+  "reviews_total": 241,
+  "reviews_used": 15,
+  "prompt_chars": 9996,
+  "status": "ok",
+  "seconds": 17.92,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 3.45,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "Within minutes of opening the box and plugging the connection into a USB slot, I was able to create a high-quality podcast on my Mac using Garage",
+      "C": "I've learned the hard way that it makes no sense to buy a cheap but uncertified lightning cable because those cables often have problems.",
+      "E": "Since I travel a lot, I was excited to learn about Sennheiser's new noise-canceling earbuds;",
+      "A": "the interface is friendly for even someone not entirely comfortable with new technology.",
+      "N": "I have a Sennheiser over-the-ear set of headphones that has good sound but which drives me nuts after a few hours of wearing them."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.05,
+    "E": 3.45,
+    "N": 2.3,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "the interface is friendly for even someone not entirely comfortable with new technology.",
+      "C": "I've learned the hard way that it makes no sense to buy a cheap but uncertified lightning cable because those cables often have problems.",
+      "E": "Since I travel a lot, I was excited to learn about Sennheiser's new noise-canceling earbuds;",
+      "N": "I have a Sennheiser over-the-ear set of headphones that has good sound but which drives me nuts after a few hours of wearing them.",
+      "O": "Within minutes of opening the box and plugging the connection into a USB slot, I was able to create a high-quality podcast on my Mac using Garage"
+    }
+  }
+}

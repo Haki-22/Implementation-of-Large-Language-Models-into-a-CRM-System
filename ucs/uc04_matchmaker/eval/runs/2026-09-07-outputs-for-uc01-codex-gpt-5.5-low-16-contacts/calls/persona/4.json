@@ -1,0 +1,36 @@
+{
+  "kind": "persona",
+  "key": "4",
+  "status": "ok",
+  "seconds": 6.74,
+  "error": "",
+  "parsed": {
+    "label": "verny_nakupci_pocitacoveho_prislusenstvi",
+    "narrative_cs": "Zákazník dlouhodobě a velmi často nakupuje hlavně počítače a příslušenství, zejména produkty pro Apple, pouzdra, bezdrátové myši Logitech a doplňky k iPadu. Podle recenzí řeší i kamery, úložiště a domácí video, hodnotí technicky podrobně a míří na smíšenou cenovou hladinu.",
+    "tags": [
+      "počítačové příslušenství",
+      "apple a ipad",
+      "logitech",
+      "foto a video",
+      "technické recenze"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-4 (anonymizován).\nNákupů: 231, průměrné hodnocení 4.3 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (113), Camera & Photo (25), Portable Audio & Video (22)\nTémata zájmu (klasické shlukování): ipad / pouzdro / computers / accessories / apple; computers / accessories / logitech / myš / bezdrátová; audio / video / portable / ipod / mp3\nUkázky recenzí (nejdelší, zkrácené):\n- Q-See QT5716-8E3-1 16kanálový 960H DVR s 8 kamerami s vysokým rozlišením 700TVL/960H a předinstalovaným 1TB pevným diskem (černý): ***PŘEČTĚTE SI PROSÍM MÉ AKTUALIZACE***PŮVODNÍ RECENZE 24. května 2014: To bylo ale zklamání! Strávili jsme krásné sobotní odpoledne 6 hodin instalací osmi kamer, vedením kabelů pod obložením a pak jsme bojovali s DVR boxem, až jsme ho nakonec vypnuli a vzdali to. Instalace kamer byla opravdu snadná\n- Logitech HD Pro Webcam C920, 1080p Widescreen Video Calling and Recording: AKTUALIZACE prosinec 2013: Odstranil jsem své video, protože zobrazovalo většinou avatary, a podle některých komentářů se Logitech avatarů nedávno zbavil. Existuje však způsob, jak to obejít, a to instalací staršího softwaru a neprováděním žádných aktualizací. Nezkoušel jsem to s Windows 8, ale fung\n- Cobra XRS 9970G Voice Alert 15pásmový radarový a laserový detektor: Pamatuji si, že můj poslední radarový detektor byl Cobra. Od doby dlouhého pruhu červených světel, který se při detekci signálu postupně zvětšoval, urazily dlouhou cestu. Cobra XRS 9970G je plně digitální, má plně barevnou dotykovou obrazovku a snadno čitelný displej. Poskytuje vám 360stupňovou ochr\n- Seagate FreeAgent GoFlex Home 2 TB STAM2000100: AKTUALIZACE: Podle ostatních uživatelů, kteří komentovali mou recenzi, bude tento externí pevný disk Seagate FreeAgent GoFlex Home fungovat s OS X Lion. Jedná se o nový operační systém, který společnost Apple vydala 20. července 2011. Moje recenze je založena na jeho používání s OS X Snow Leopard. D\n- LG Cinema Screen 47LM6700 47palcový Cinema 3D 1080p 60Hz TruMotion LED-LCD HDTV se Smart TV a šesti páry 3D brýlí (model 2012): Tohle je jeden skvělý televizor, o tom není pochyb. Opravdu si musíte trochu zapracovat, protože samotný televizor vám neposkytne SKUTEČNÝ 3D zážitek, pokud ho neplánujete používat jen ke sledování běžné televize a ničeho jiného. Nejdřív jsem si objednal bezdrátový síťový Blu-ray přehrávač LG BD670 \nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "verny_nakupci_pocitacoveho_prislusenstvi",
+    "narrative_cs": "Zákazník dlouhodobě a velmi často nakupuje hlavně počítače a příslušenství, zejména produkty pro Apple, pouzdra, bezdrátové myši Logitech a doplňky k iPadu. Podle recenzí řeší i kamery, úložiště a domácí video, hodnotí technicky podrobně a míří na smíšenou cenovou hladinu.",
+    "tags": [
+      "počítačové příslušenství",
+      "apple a ipad",
+      "logitech",
+      "foto a video",
+      "technické recenze"
+    ],
+    "price_segment": "mixed"
+  }
+}

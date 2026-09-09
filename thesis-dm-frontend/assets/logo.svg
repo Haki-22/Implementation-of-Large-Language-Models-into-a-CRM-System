@@ -1,0 +1,28 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="thesis dm middleware logomark">
+  <defs>
+    <linearGradient id="tdmo-g" x1="14" y1="10" x2="106" y2="110" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFA56B"></stop>
+      <stop offset="0.5" stop-color="#F58020"></stop>
+      <stop offset="1" stop-color="#E06D10"></stop>
+    </linearGradient>
+    <linearGradient id="tdmo-sheen" x1="20" y1="16" x2="60" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff" stop-opacity="0.55"></stop>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="108" height="108" rx="30" fill="url(#tdmo-g)"></rect>
+  <rect x="6" y="6" width="108" height="108" rx="30" fill="url(#tdmo-sheen)"></rect>
+  <rect x="6.75" y="6.75" width="106.5" height="106.5" rx="29.25" stroke="#ffffff" stroke-opacity="0.45" stroke-width="1.5"></rect>
+  
+  <g stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M40 60 H51"></path>
+    <path d="M69 60 H80"></path>
+  </g>
+  
+  <rect x="24" y="48" width="20" height="24" rx="6" fill="#ffffff"></rect>
+  
+  <rect x="76" y="48" width="20" height="24" rx="6" fill="#ffffff"></rect>
+  
+  <path d="M60 44 L73 60 L60 76 L47 60 Z" fill="#ffffff"></path>
+  <circle cx="60" cy="60" r="5.5" fill="#F58020"></circle>
+</svg>

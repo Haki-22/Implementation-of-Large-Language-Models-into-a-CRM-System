@@ -1,0 +1,40 @@
+{
+  "contact_id": 162,
+  "reviewer_id": "A2HMF8ZR67BNZS",
+  "group": "A",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 119,
+  "reviews_used": 15,
+  "prompt_chars": 8226,
+  "status": "ok",
+  "seconds": 106.36,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.25,
+    "E": 3.4,
+    "A": 4.15,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "We were heading for South Africa and wanted a pair of night binoculars where I could see the animals at night.",
+      "C": "I first charged the batteries as recommended by the instruction booklet and the batteries have held up reasonably well.",
+      "E": "It is one of the best covers around and I get lots of inquiries when I open the iPad.",
+      "A": "I had to list some \"stars\" otherwise I could not send this e-mail. I AM NOT giving the radio a \"one star\" rating.",
+      "N": "First my photos are most disappointing. Thank goodness I took along my Nikon D-90 from which I got some great photos."
+    }
+  },
+  "raw": {
+    "A": 4.15,
+    "C": 4.25,
+    "E": 3.4,
+    "N": 2.15,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I had to list some \"stars\" otherwise I could not send this e-mail. I AM NOT giving the radio a \"one star\" rating.",
+      "C": "I first charged the batteries as recommended by the instruction booklet and the batteries have held up reasonably well.",
+      "E": "It is one of the best covers around and I get lots of inquiries when I open the iPad.",
+      "N": "First my photos are most disappointing. Thank goodness I took along my Nikon D-90 from which I got some great photos.",
+      "O": "We were heading for South Africa and wanted a pair of night binoculars where I could see the animals at night."
+    }
+  }
+}

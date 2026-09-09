@@ -1,0 +1,40 @@
+{
+  "contact_id": 113,
+  "reviewer_id": "A3QNQQKJTL76H0",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 159,
+  "reviews_used": 15,
+  "prompt_chars": 10170,
+  "status": "ok",
+  "seconds": 405.31,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.4,
+    "A": 3.65,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "great support for various music formats, including the lesser known FLAC (free loss-less audio codec), OGG, and APE",
+      "C": "The first thing you'll want to do is update the firmware. Connect the Denon to your TV with an HDMI cable so you see what's going on.",
+      "E": "bring just the player over to a friend or relative's house for movie night without having to lug along an external hard drive as well.",
+      "A": "Be aware that Apple considers batteries \"consumables\" and are not covered by any warranty.",
+      "N": "I'm just not thrilled with the loud buzz it makes during operation sometimes. Sometimes it gets worse."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.1,
+    "E": 3.4,
+    "N": 2.8,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Be aware that Apple considers batteries \"consumables\" and are not covered by any warranty.",
+      "C": "The first thing you'll want to do is update the firmware. Connect the Denon to your TV with an HDMI cable so you see what's going on.",
+      "E": "bring just the player over to a friend or relative's house for movie night without having to lug along an external hard drive as well.",
+      "N": "I'm just not thrilled with the loud buzz it makes during operation sometimes. Sometimes it gets worse.",
+      "O": "great support for various music formats, including the lesser known FLAC (free loss-less audio codec), OGG, and APE"
+    }
+  }
+}

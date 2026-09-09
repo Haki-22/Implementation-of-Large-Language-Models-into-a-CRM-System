@@ -1,0 +1,40 @@
+{
+  "contact_id": 234,
+  "reviewer_id": "A1WXG10FJ353K0",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 85,
+  "reviews_used": 15,
+  "prompt_chars": 9968,
+  "status": "ok",
+  "seconds": 863.66,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 3.85,
+    "E": 3.6,
+    "A": 2.9,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "As a Web Designer for 15 years, I am always looking for new software and gadgets to bring me to the next level of creativity without limits.",
+      "C": "I have been using this for a couple months now before I reviewed it to truly give it time to disappoint me or screw something up.",
+      "E": "It makes movie nights special and brings the family together.",
+      "A": "First and foremost, Velocity Micro customer service is the worst. I purposely planted several support tickets on their web site to see how they would be addressed",
+      "N": "My service was Comcast, and no more am I being abused by their pathetic service and support."
+    }
+  },
+  "raw": {
+    "A": 2.9,
+    "C": 3.85,
+    "E": 3.6,
+    "N": 3.2,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "First and foremost, Velocity Micro customer service is the worst. I purposely planted several support tickets on their web site to see how they would be addressed",
+      "C": "I have been using this for a couple months now before I reviewed it to truly give it time to disappoint me or screw something up.",
+      "E": "It makes movie nights special and brings the family together.",
+      "N": "My service was Comcast, and no more am I being abused by their pathetic service and support.",
+      "O": "As a Web Designer for 15 years, I am always looking for new software and gadgets to bring me to the next level of creativity without limits."
+    }
+  }
+}

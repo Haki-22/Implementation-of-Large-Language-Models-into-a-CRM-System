@@ -1,0 +1,28 @@
+[
+  {
+    "method": "rerank_als",
+    "lang": "en",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 58,
+    "hits_second": 28,
+    "difference": 30,
+    "only_first": 33,
+    "only_second": 3,
+    "p_sign": 0.0
+  },
+  {
+    "method": "rerank_als",
+    "lang": "cs",
+    "protocol": "sampled",
+    "versus": "als_cf",
+    "n": 100,
+    "hits_first": 56,
+    "hits_second": 28,
+    "difference": 28,
+    "only_first": 30,
+    "only_second": 2,
+    "p_sign": 0.0
+  }
+]

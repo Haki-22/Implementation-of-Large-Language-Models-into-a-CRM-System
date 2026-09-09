@@ -1,0 +1,40 @@
+{
+  "contact_id": 290,
+  "reviewer_id": "A2LCE1D0TW2XY0",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 86,
+  "reviews_used": 15,
+  "prompt_chars": 10103,
+  "status": "ok",
+  "seconds": 1083.8,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.6,
+    "E": 3.3,
+    "A": 3.75,
+    "N": 2.0,
+    "evidence_quotes": {
+      "O": "This camera has top-tier image quality in a polished, compact package well-suited to travel.",
+      "C": "I've done some write benchmarks on the 16GB version of this card and others with my Canon 40D. Here are the results:",
+      "E": "I'm reviewing it from the perspective of a working professional, which means I'm at least as concerned about what it's missing as what it has.",
+      "A": "Buyers without an investment in the Canon system may find Nikon's D600 a better value.",
+      "N": "No benefit was expected; cameras of this vintage max out at about 12 MB/s."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.6,
+    "E": 3.3,
+    "N": 2,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "Buyers without an investment in the Canon system may find Nikon's D600 a better value.",
+      "C": "I've done some write benchmarks on the 16GB version of this card and others with my Canon 40D. Here are the results:",
+      "E": "I'm reviewing it from the perspective of a working professional, which means I'm at least as concerned about what it's missing as what it has.",
+      "N": "No benefit was expected; cameras of this vintage max out at about 12 MB/s.",
+      "O": "This camera has top-tier image quality in a polished, compact package well-suited to travel."
+    }
+  }
+}

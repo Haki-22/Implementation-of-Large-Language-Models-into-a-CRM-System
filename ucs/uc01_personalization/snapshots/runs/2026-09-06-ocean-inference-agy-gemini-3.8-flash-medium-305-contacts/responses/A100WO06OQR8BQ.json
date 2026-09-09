@@ -1,0 +1,40 @@
+{
+  "contact_id": 156,
+  "reviewer_id": "A100WO06OQR8BQ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 121,
+  "reviews_used": 15,
+  "prompt_chars": 8058,
+  "status": "ok",
+  "seconds": 576.14,
+  "error": "",
+  "profile": {
+    "O": 3.2,
+    "C": 4.1,
+    "E": 2.8,
+    "A": 2.4,
+    "N": 3.7,
+    "evidence_quotes": {
+      "O": "My streaming activities are rather simple - Netflix and Amazon Prime.",
+      "C": "I checked out the modem list that Comcast posted of modems that are compatible with their service.",
+      "E": "I had not used this vet before but I got his address from my neighbor.",
+      "A": "This charger was made in China so being flawed was not a surprise.",
+      "N": "There is an irregular string of light that appears at times across the top edge of the screen. Very annoying."
+    }
+  },
+  "raw": {
+    "A": 2.4,
+    "C": 4.1,
+    "E": 2.8,
+    "N": 3.7,
+    "O": 3.2,
+    "evidence_quotes": {
+      "A": "This charger was made in China so being flawed was not a surprise.",
+      "C": "I checked out the modem list that Comcast posted of modems that are compatible with their service.",
+      "E": "I had not used this vet before but I got his address from my neighbor.",
+      "N": "There is an irregular string of light that appears at times across the top edge of the screen. Very annoying.",
+      "O": "My streaming activities are rather simple - Netflix and Amazon Prime."
+    }
+  }
+}

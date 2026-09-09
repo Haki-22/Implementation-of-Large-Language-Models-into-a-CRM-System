@@ -1,0 +1,40 @@
+{
+  "contact_id": 202,
+  "reviewer_id": "A34UVV757IKPVB",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 95,
+  "reviews_used": 15,
+  "prompt_chars": 9434,
+  "status": "ok",
+  "seconds": 756.46,
+  "error": "",
+  "profile": {
+    "O": 3.6,
+    "C": 3.8,
+    "E": 3.7,
+    "A": 3.5,
+    "N": 3.45,
+    "evidence_quotes": {
+      "O": "I have a mess of old Sinatra records that I've always wanted to listen to and maybe transfer to my computer and now I finally can!",
+      "C": "Had to format it in NTFS, which took almost 2 hours, but it worked. I can copy over large files (4+ gigs) with no problem.",
+      "E": "Wanna plug that baby into your laptop? This is what you need! It works. What more can you say? There's not much to it.",
+      "A": "I never liked the idea of a subwoofer shaking my place and possibly upsetting the neighbors.",
+      "N": "I cannot adequately explain how utterly maddening this is. Go to hit seek while driving, fingers slip and change the source!"
+    }
+  },
+  "raw": {
+    "A": 3.5,
+    "C": 3.8,
+    "E": 3.7,
+    "N": 3.45,
+    "O": 3.6,
+    "evidence_quotes": {
+      "A": "I never liked the idea of a subwoofer shaking my place and possibly upsetting the neighbors.",
+      "C": "Had to format it in NTFS, which took almost 2 hours, but it worked. I can copy over large files (4+ gigs) with no problem.",
+      "E": "Wanna plug that baby into your laptop? This is what you need! It works. What more can you say? There's not much to it.",
+      "N": "I cannot adequately explain how utterly maddening this is. Go to hit seek while driving, fingers slip and change the source!",
+      "O": "I have a mess of old Sinatra records that I've always wanted to listen to and maybe transfer to my computer and now I finally can!"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 39,
+  "reviewer_id": "AGVWTYW0ULXHT",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 224,
+  "reviews_used": 15,
+  "prompt_chars": 10605,
+  "status": "ok",
+  "seconds": 109.55,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.35,
+    "A": 3.95,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "A whole new kind of thing - a beautiful device, with so-far-untapped possibilities",
+      "C": "I did a system test on a 1GB file transfer and found that with the USB 2.0 cable it writes 28.7 MB/s and reads 36.4 MB",
+      "E": "the setup I have now is exactly what I need to play the tunes that keep my ride alive.",
+      "A": "I hope that all this detail is helpful.",
+      "N": "with a bit of tweaking I could get it to work just fine, and I did."
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.25,
+    "E": 3.35,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I hope that all this detail is helpful.",
+      "C": "I did a system test on a 1GB file transfer and found that with the USB 2.0 cable it writes 28.7 MB/s and reads 36.4 MB",
+      "E": "the setup I have now is exactly what I need to play the tunes that keep my ride alive.",
+      "N": "with a bit of tweaking I could get it to work just fine, and I did.",
+      "O": "A whole new kind of thing - a beautiful device, with so-far-untapped possibilities"
+    }
+  }
+}

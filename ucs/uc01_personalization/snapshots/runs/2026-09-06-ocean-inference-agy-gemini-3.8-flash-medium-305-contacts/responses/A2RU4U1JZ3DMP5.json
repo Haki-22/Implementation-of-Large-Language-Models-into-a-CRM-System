@@ -1,0 +1,40 @@
+{
+  "contact_id": 315,
+  "reviewer_id": "A2RU4U1JZ3DMP5",
+  "group": "B",
+  "sources": "all",
+  "reviews_total": 82,
+  "reviews_used": 15,
+  "prompt_chars": 10090,
+  "status": "ok",
+  "seconds": 1136.52,
+  "error": "",
+  "profile": {
+    "O": 4.45,
+    "C": 4.35,
+    "E": 3.1,
+    "A": 3.6,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "It's just something that I'm messing with because I'm sleeping, eating, and breathing all sorts of photography 24-7.",
+      "C": "I read through the reviews of almost 10 different versions of these aftermarket camera connection kit type devices on Amazon and this one seemed like the one with the most encouraging reviews",
+      "E": "I set out to buy the best windshield detector I could find, and after much research I settled on this one.",
+      "A": "I think a number of people are being a little too hard on this product right now (Dec 2011), so I'm going to be a little more generous with the stars.",
+      "N": "Unfortunately, after some testing, this doesn't seem to be the case."
+    }
+  },
+  "raw": {
+    "A": 3.6,
+    "C": 4.35,
+    "E": 3.1,
+    "N": 2.2,
+    "O": 4.45,
+    "evidence_quotes": {
+      "A": "I think a number of people are being a little too hard on this product right now (Dec 2011), so I'm going to be a little more generous with the stars.",
+      "C": "I read through the reviews of almost 10 different versions of these aftermarket camera connection kit type devices on Amazon and this one seemed like the one with the most encouraging reviews",
+      "E": "I set out to buy the best windshield detector I could find, and after much research I settled on this one.",
+      "N": "Unfortunately, after some testing, this doesn't seem to be the case.",
+      "O": "It's just something that I'm messing with because I'm sleeping, eating, and breathing all sorts of photography 24-7."
+    }
+  }
+}

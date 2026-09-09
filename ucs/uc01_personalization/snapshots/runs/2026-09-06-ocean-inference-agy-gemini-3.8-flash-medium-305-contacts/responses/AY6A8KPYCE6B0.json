@@ -1,0 +1,40 @@
+{
+  "contact_id": 154,
+  "reviewer_id": "AY6A8KPYCE6B0",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 111,
+  "reviews_used": 15,
+  "prompt_chars": 9676,
+  "status": "ok",
+  "seconds": 571.02,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.35,
+    "E": 3.4,
+    "A": 3.75,
+    "N": 3.4,
+    "evidence_quotes": {
+      "O": "I sampled a wide variety of musical genres including classical, pop, rap, house, dubstep, country, film scores, ambient, audio books and many others.",
+      "C": "I back up my backed up content, and then make another backup for those.",
+      "E": "What's cuter than having two mini-sized boom-boom speakers on your desk? Not only do they look great, but the sound is outstanding!",
+      "A": "if you have any other questions, please post in the comments and I'll try to help out to be the best of my ability.",
+      "N": "stand works, but is kinda iffy. I'm constantly worried it will fall."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.35,
+    "E": 3.4,
+    "N": 3.4,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "if you have any other questions, please post in the comments and I'll try to help out to be the best of my ability.",
+      "C": "I back up my backed up content, and then make another backup for those.",
+      "E": "What's cuter than having two mini-sized boom-boom speakers on your desk? Not only do they look great, but the sound is outstanding!",
+      "N": "stand works, but is kinda iffy. I'm constantly worried it will fall.",
+      "O": "I sampled a wide variety of musical genres including classical, pop, rap, house, dubstep, country, film scores, ambient, audio books and many others."
+    }
+  }
+}

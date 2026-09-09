@@ -1,0 +1,40 @@
+{
+  "contact_id": 38,
+  "reviewer_id": "A2XRMQA6PJ5ZJ8",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 227,
+  "reviews_used": 15,
+  "prompt_chars": 10044,
+  "status": "ok",
+  "seconds": 98.33,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.15,
+    "E": 3.5,
+    "A": 3.85,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I was one of the first to download the full-featured Nikon NX software on a trial basis in July 2006. I was immediately hooked.",
+      "C": "On the competent advice of my IT professional, I bought this unit to back up my home office and digital photograph library.",
+      "E": "Obviously, I am enamored with the Nikon D80.",
+      "A": "For those not familiar with RAW format, essentially a RAW format photo file enables the photographer to make post-shot changes to a photo",
+      "N": "This lens has only two \"faults.\" First, it is big and heavy--quality construction often yields a heavy lens."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.15,
+    "E": 3.5,
+    "N": 2.15,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "For those not familiar with RAW format, essentially a RAW format photo file enables the photographer to make post-shot changes to a photo",
+      "C": "On the competent advice of my IT professional, I bought this unit to back up my home office and digital photograph library.",
+      "E": "Obviously, I am enamored with the Nikon D80.",
+      "N": "This lens has only two \"faults.\" First, it is big and heavy--quality construction often yields a heavy lens.",
+      "O": "I was one of the first to download the full-featured Nikon NX software on a trial basis in July 2006. I was immediately hooked."
+    }
+  }
+}

@@ -1,0 +1,53 @@
+# UC-03 — Czech custom vocabulary for Whisper initial_prompt.
+#
+# Whisper degrades on proper nouns + technical jargon outside its training
+# distribution. ``initial_prompt`` biases the model toward the listed tokens
+# without changing weights. Keep this list under ~50 tokens — longer prompts
+# bias too aggressively and hallucinate the listed words on unrelated audio.
+#
+# Three buckets:
+#   1. CZ proper nouns (locations, common Czech surnames).
+#   2. CRM-relevant business terms (Salesforce, HubSpot, lead, etc.).
+#   3. CZ-specific identifiers (IČO, DIČ, ARES) — domain shorthand likely
+#      to appear in sales transcripts.
+#
+# Lines starting with '#' are comments; blank lines are ignored.
+
+# --- Czech proper nouns + cities
+Praha
+Brno
+Ostrava
+Plzeň
+Novák
+Nováková
+Svobodová
+Procházka
+Hřebejk
+Lžičařová
+Žaneta
+
+# --- CRM jargon (English loanwords used in Czech business)
+Salesforce
+HubSpot
+CRM
+B2B
+lead
+follow-up
+upsell
+cross-sell
+churn
+
+# --- CZ-specific identifiers
+IČO
+DIČ
+ARES
+RPO
+ISIR
+NUTS
+
+# --- Common short Czech business phrases
+schůzka
+nabídka
+reklamace
+poznámka
+zákazník

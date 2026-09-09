@@ -1,0 +1,40 @@
+{
+  "contact_id": 291,
+  "reviewer_id": "A27ADCSD15F3GL",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 91,
+  "reviews_used": 15,
+  "prompt_chars": 9408,
+  "status": "ok",
+  "seconds": 1084.48,
+  "error": "",
+  "profile": {
+    "O": 4.05,
+    "C": 4.3,
+    "E": 2.75,
+    "A": 3.85,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "Having had many creative sound products in the past I was curious as to how this was going to go.",
+      "C": "This memory is in the Intel approved list for the motherboard. I have been using the memory with no problems.",
+      "E": "I wanted another TV to have around in the basement for connecting my last gen consoles to.",
+      "A": "I purchased this drive to replace the drive in my Wife's computer that was running out of space.",
+      "N": "I'll live but the wall mount is sorely missed."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.3,
+    "E": 2.75,
+    "N": 2.2,
+    "O": 4.05,
+    "evidence_quotes": {
+      "A": "I purchased this drive to replace the drive in my Wife's computer that was running out of space.",
+      "C": "This memory is in the Intel approved list for the motherboard. I have been using the memory with no problems.",
+      "E": "I wanted another TV to have around in the basement for connecting my last gen consoles to.",
+      "N": "I'll live but the wall mount is sorely missed.",
+      "O": "Having had many creative sound products in the past I was curious as to how this was going to go."
+    }
+  }
+}

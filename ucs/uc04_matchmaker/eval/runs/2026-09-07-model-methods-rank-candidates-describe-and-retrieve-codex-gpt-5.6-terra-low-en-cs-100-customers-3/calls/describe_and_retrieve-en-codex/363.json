@@ -1,0 +1,35 @@
+{
+  "contact_id": 363,
+  "status": "ok",
+  "seconds": 9.61,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Micro Four Thirds lens for Panasonic Lumix G-series cameras",
+      "Spare battery for Panasonic Lumix DMC-ZS40",
+      "49mm circular polarizer filter for Panasonic Lumix DMC-ZS40"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "en",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Customer C-363 (anonymised). Product titles in English.\nPurchase history (31 purchases, oldest first):\n- 2010-11-20 ★2 Sigma 28-300mm f/3.5-6.3 DG IF Macro Aspherical Lens for Minolta and Sony SLR Cameras\n- 2010-11-22 ★5 Fujifilm Finepix S100fs 11.1MP Digital Camera with 14.3x Wide Angle Dual Image Stabilized Optical Zoom\n- 2010-11-22 ★4 Sony Alpha DSLR-A550 14.2MP Digital SLR Camera (Body Only)\n- 2010-11-30 ★4 Pentax K-r 12.4 MP Digital SLR Camera with 3.0-Inch LCD and 18-55mm f/3.5-5.6 and 55-300mm f/4-5.8 Lenses (Black)\n- 2011-01-01 ★3 Tiffen 46mm Circular Polarizer\n- 2011-01-08 ★5 Hoya 58mm HMC Circular PL Polarizer Multi-Coated Glass Filter\n- 2011-07-21 ★4 Sony Alpha A230L 10.2 MP Digital SLR Camera with Super SteadyShot INSIDE Image Stabilization and 18-55mm Lens\n- 2011-07-27 ★5 Pentax K-5 16.3 MP Digital SLR with 3-Inch LCD (Black Body Only)\n- 2011-08-04 ★5 Neewer LARGE Camera Case/Bag for CANON, NIKON, SONY, SAMSUNG, PENTAX, KODAK, PANASONIC, LEICA DSLR Digital SLR Cameras\n- 2011-08-09 ★3 Tamron AF 28-300mm f/3.5-6.3 XR Di LD Aspherical (IF) Macro Ultra Zoom Lens for Canon Digital SLR Cameras (Model A061E)\n- 2011-08-27 ★5 Panasonic DMC-FZ150K 12.1 MP Digital Camera with CMOS Sensor and 24x Optical Zoom (Black)\n- 2011-08-30 ★3 Tamron AF 18-200mm f/3.5-6.3 XR Di II LD Aspherical (IF) Macro Zoom Lens for Canon Digital SLR Cameras (Model A14E)\n- 2012-02-27 ★5 Replacement battery for Panasonic Lumix DMC-FZ150/DMC-FZ60 - Premium DMW-BMB9 Battery\n- 2012-07-25 ★3 Nikon D3200 24.2 MP CMOS Digital SLR with 18-55mm f/3.5-5.6 AF-S DX VR NIKKOR Zoom Lens (Black)\n- 2012-08-08 ★3 Olympus TG-1iHS 12 MP Waterproof Digital Camera with 4x Optical Zoom\n- 2012-08-27 ★4 Panasonic Lumix ZS15 12.1 MP High Sensitivity MOS Digital Camera with 16x Optical Zoom (Silver)\n- 2012-08-31 ★4 Battery Kit For Panasonic Lumix DMC-ZS7 DMC-ZS10, DMC-ZS8, DMC-ZS9, DMC-3D1, DMC-ZS20, DMC-ZS15, DMC-ZS25, DMC-ZS25K Dig\n- 2012-11-17 ★5 StarTech.com USB Easy Transfer Cable for Windows 7 Upgrade (USB2LINK)\n- 2012-11-22 ★1 HP Envy dv7-7250us 17.3-Inch Laptop\n- 2012-11-28 ★2 SanDisk Cruzer 4GB USB 2.0 Flash Drive, Frustration-Free Packaging- SDCZ36-004G-AFFP\n- 2013-07-31 ★4 Panasonic Lumix DMC-LF1 12 MP Digital Camera (Black)\n- 2013-10-07 ★2 FlexArmor Protective Digital Camera Sleeve Case- Works with Panasonic Lumix DMC-LF1 , DMC-ZS30 , DMC-TS5 , DMC-XS1 , Kod\n- 2013-10-17 ★4 Patriot 32GB Supersonic Rage Series USB 3.0 Flash Drive With Up To 180MB/sec- PEF32GSRUSB\n- 2013-10-21 ★2 Panasonic 45-200mm f/4.0-5.6 Lumix G Vario MEGA OIS Zoom Micro Four Thirds Lens for Panasonic and Olympus Micro Four Thi\n- 2013-10-21 ★3 Panasonic DMC-G5KK 16 MP Compact System Camera with 14-42mm Zoom Lens and 3-Inch LCD (Black)\n- 2013-11-14 ★4 Olympus OM-D E-M1 Compact System Camera with 16MP and 3-Inch LCD - Body Only\n- 2013-11-19 ★4 Panasonic Lumix DMC-GH3K 16.05 MP Digital Single Lens Mirrorless Camera with 3-Inch OLED - Body Only (Black)\n- 2013-11-20 ★4 Panasonic Lumix G X Vario PZ 45-175mm/F4.0-5.6 Lens for Panasonic Lumix G-Series Digital Cameras\n- 2014-02-13 ★4 Panasonic H-FS100300 Lumix G Vario 100-300mm F/4.0-5.6 MEGA O.I.S. Lens\n- 2014-06-12 ★5 Goja 49-58MM Step-Up Adapter Ring (49MM Lens to 58MM Accessory) + Premium MagicFiber Microfiber Cleaning Cloth\n- 2014-06-12 ★2 Panasonic DMC-ZS40K Digital Camera with 3-Inch LCD (Black)\nReturn the JSON.",
+  "system_prompt": "You are the recommender of a Czech online shop that sells electronics and accessories. From one customer's complete purchase history (oldest first: date, star rating, product title), describe the customer's most likely next purchase as a product listing line: the product type, the brand if the history suggests one, and the attribute that matters (size, capacity, compatibility, model family). Give three such lines, most likely first, written in the language of the titles you read. Do not name a product the customer already bought. Answer with JSON only: {\"next_purchases\": [\"<line 1>\", \"<line 2>\", \"<line 3>\"]}.\n\nExample. History: 2013-01-04 ★5 Sony MDR-7506 headphones; 2013-02-11 ★4 FiiO E10 USB DAC amplifier. Answer: {\"next_purchases\": [\"3.5 mm to 6.3 mm headphone jack adapter\", \"Headphone stand for over-ear headphones\", \"Replacement ear pads for Sony MDR-7506\"]}\n\nAnswer in this turn directly from what you read. Do not run commands, write files or use any tool; the answer is the JSON object only.",
+  "raw": {
+    "next_purchases": [
+      "Micro Four Thirds lens for Panasonic Lumix G-series cameras",
+      "Spare battery for Panasonic Lumix DMC-ZS40",
+      "49mm circular polarizer filter for Panasonic Lumix DMC-ZS40"
+    ]
+  },
+  "held_out": "B00007LI9D"
+}

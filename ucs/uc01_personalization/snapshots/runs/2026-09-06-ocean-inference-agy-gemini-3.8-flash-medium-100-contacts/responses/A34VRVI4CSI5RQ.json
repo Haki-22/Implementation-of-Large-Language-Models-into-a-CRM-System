@@ -1,0 +1,40 @@
+{
+  "contact_id": 326,
+  "reviewer_id": "A34VRVI4CSI5RQ",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 75,
+  "reviews_used": 15,
+  "prompt_chars": 9909,
+  "status": "ok",
+  "seconds": 348.3,
+  "error": "",
+  "profile": {
+    "O": 3.65,
+    "C": 4.25,
+    "E": 3.1,
+    "A": 3.9,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "Out of curiosity I put the camcorder with the battery installed on the kitchen scale and it weighed in at under 14 oz.",
+      "C": "After spending more time with the Monster phones I have decided to completely scrap my original review and focus just on the Monster and Bose comparison.",
+      "E": "I spend a great deal of time in a computer lab where there is literally over 1,000 running systems.",
+      "A": "So far, while I cannot say one is better than the other, they are both different in the features they provide and they both navigate well.",
+      "N": "The M570 is marginally larger than my standard mouse which gave me pause right off the bat, but my concerns were unfounded."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.25,
+    "E": 3.1,
+    "N": 2.2,
+    "O": 3.65,
+    "evidence_quotes": {
+      "A": "So far, while I cannot say one is better than the other, they are both different in the features they provide and they both navigate well.",
+      "C": "After spending more time with the Monster phones I have decided to completely scrap my original review and focus just on the Monster and Bose comparison.",
+      "E": "I spend a great deal of time in a computer lab where there is literally over 1,000 running systems.",
+      "N": "The M570 is marginally larger than my standard mouse which gave me pause right off the bat, but my concerns were unfounded.",
+      "O": "Out of curiosity I put the camcorder with the battery installed on the kitchen scale and it weighed in at under 14 oz."
+    }
+  }
+}

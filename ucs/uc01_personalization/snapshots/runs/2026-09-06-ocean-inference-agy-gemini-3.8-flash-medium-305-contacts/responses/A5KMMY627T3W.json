@@ -1,0 +1,40 @@
+{
+  "contact_id": 26,
+  "reviewer_id": "A5KMMY627T3W",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 128,
+  "reviews_used": 15,
+  "prompt_chars": 9847,
+  "status": "ok",
+  "seconds": 68.46,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 3.35,
+    "A": 2.75,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "It is professional looking and artistic looking at once. Easily controllable; automatically just the right amount and character in every shot. Just purely brilliant bokeh.",
+      "C": "Based on months of researching this lens vs. other options, my expectations were moderately high. I am happy to say that this lens has exceeded them.",
+      "E": "I'm sorry, I just can't understand ratings that aren't 5/5 for this lens. It flat out rocks.",
+      "A": "Gosh, I just don't even know what to say about some of the other reviews. (the negative ones) In short, they are wrong.",
+      "N": "Sadly, dropping over $1K on a new higher end laptop was not sufficient to avoid having to deal with these annoying audio issues."
+    }
+  },
+  "raw": {
+    "A": 2.75,
+    "C": 4.05,
+    "E": 3.35,
+    "N": 3.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Gosh, I just don't even know what to say about some of the other reviews. (the negative ones) In short, they are wrong.",
+      "C": "Based on months of researching this lens vs. other options, my expectations were moderately high. I am happy to say that this lens has exceeded them.",
+      "E": "I'm sorry, I just can't understand ratings that aren't 5/5 for this lens. It flat out rocks.",
+      "N": "Sadly, dropping over $1K on a new higher end laptop was not sufficient to avoid having to deal with these annoying audio issues.",
+      "O": "It is professional looking and artistic looking at once. Easily controllable; automatically just the right amount and character in every shot. Just purely brilliant bokeh."
+    }
+  }
+}

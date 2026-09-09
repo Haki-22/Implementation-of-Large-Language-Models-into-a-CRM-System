@@ -1,0 +1,40 @@
+{
+  "contact_id": 140,
+  "reviewer_id": "A33YZNZIRA3H97",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 118,
+  "reviews_used": 15,
+  "prompt_chars": 7971,
+  "status": "ok",
+  "seconds": 517.47,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.2,
+    "E": 2.65,
+    "A": 3.1,
+    "N": 3.15,
+    "evidence_quotes": {
+      "O": "The polarizer glass in this filter is questionable quality and can cause distortion or glare.",
+      "C": "Controls are easy to use (but read the instructions because the volume and music controls use the same buttons).",
+      "E": "I like the small size of this bag for long walks around town.",
+      "A": "The rest of the included accessories are garbage and I'll probably discard them.",
+      "N": "I really hate it when cheaper heads droop a little after you've composed your scene, then you have to start all over again."
+    }
+  },
+  "raw": {
+    "A": 3.1,
+    "C": 4.2,
+    "E": 2.65,
+    "N": 3.15,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "The rest of the included accessories are garbage and I'll probably discard them.",
+      "C": "Controls are easy to use (but read the instructions because the volume and music controls use the same buttons).",
+      "E": "I like the small size of this bag for long walks around town.",
+      "N": "I really hate it when cheaper heads droop a little after you've composed your scene, then you have to start all over again.",
+      "O": "The polarizer glass in this filter is questionable quality and can cause distortion or glare."
+    }
+  }
+}

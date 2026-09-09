@@ -1,0 +1,40 @@
+{
+  "contact_id": 279,
+  "reviewer_id": "A27M75LRSJ788H",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 92,
+  "reviews_used": 15,
+  "prompt_chars": 5104,
+  "status": "ok",
+  "seconds": 1043.89,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.2,
+    "E": 3.65,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I bought this for my D3100 to take macro shots. I absolutely love this product.",
+      "C": "Ran a memory test (which you should always do with new memory) and it tested out fine.",
+      "E": "Any questions please ask i am always looking for advice so i enjoy giving it when i can as well.",
+      "A": "This is a nice paperwhite case that I bought for my wife. It has a decent amount of protection and it has a nice soft feel to it.",
+      "N": "The first one I received had bent Pins in the lower right hand corner of the CPU slot. It was chalked up as a DOA and got a new one."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.2,
+    "E": 3.65,
+    "N": 2.15,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "This is a nice paperwhite case that I bought for my wife. It has a decent amount of protection and it has a nice soft feel to it.",
+      "C": "Ran a memory test (which you should always do with new memory) and it tested out fine.",
+      "E": "Any questions please ask i am always looking for advice so i enjoy giving it when i can as well.",
+      "N": "The first one I received had bent Pins in the lower right hand corner of the CPU slot. It was chalked up as a DOA and got a new one.",
+      "O": "I bought this for my D3100 to take macro shots. I absolutely love this product."
+    }
+  }
+}

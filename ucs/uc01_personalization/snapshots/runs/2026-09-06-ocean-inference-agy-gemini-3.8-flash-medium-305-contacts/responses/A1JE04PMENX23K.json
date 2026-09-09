@@ -1,0 +1,40 @@
+{
+  "contact_id": 370,
+  "reviewer_id": "A1JE04PMENX23K",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 35,
+  "reviews_used": 15,
+  "prompt_chars": 9998,
+  "status": "ok",
+  "seconds": 1220.73,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.45,
+    "A": 2.9,
+    "N": 3.1,
+    "evidence_quotes": {
+      "O": "The travel zoom genre of cameras is of particular interest to me, personally.",
+      "C": "The tested cameras all had 10 - 12MP CCD sensors, zoom ability was 10x-12x, none could record video at full 1080 HD",
+      "E": "I make a goodly portion of my living with the use of digital cameras, and have for a very long time.",
+      "A": "In my opinion, that's a pretty sleazy situation.",
+      "N": "The SX-280 is polluted with largely meaningless features: WiFi, GPS, Hybrid Auto / Movie Digest are all battery-sucking little monsters of dubious utility."
+    }
+  },
+  "raw": {
+    "A": 2.9,
+    "C": 4.1,
+    "E": 3.45,
+    "N": 3.1,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "In my opinion, that's a pretty sleazy situation.",
+      "C": "The tested cameras all had 10 - 12MP CCD sensors, zoom ability was 10x-12x, none could record video at full 1080 HD",
+      "E": "I make a goodly portion of my living with the use of digital cameras, and have for a very long time.",
+      "N": "The SX-280 is polluted with largely meaningless features: WiFi, GPS, Hybrid Auto / Movie Digest are all battery-sucking little monsters of dubious utility.",
+      "O": "The travel zoom genre of cameras is of particular interest to me, personally."
+    }
+  }
+}

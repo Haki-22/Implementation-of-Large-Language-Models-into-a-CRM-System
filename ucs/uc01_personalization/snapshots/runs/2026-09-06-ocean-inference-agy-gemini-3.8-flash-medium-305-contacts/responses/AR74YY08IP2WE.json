@@ -1,0 +1,40 @@
+{
+  "contact_id": 185,
+  "reviewer_id": "AR74YY08IP2WE",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 107,
+  "reviews_used": 15,
+  "prompt_chars": 9472,
+  "status": "ok",
+  "seconds": 690.64,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.2,
+    "E": 2.95,
+    "A": 3.25,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "While I was comfortable with doing a manual setup, I was curious to see how easy it would be using option 2.",
+      "C": "So I called Peek (twice, to confirm I had this right) and asked what the replacement policy is.",
+      "E": "even though I'm using it in a pretty quiet apt.",
+      "A": "Company shills? You decide. Also, count the bad ratings for this review.",
+      "N": "Other than that, the cons below and minor and don't really detract for me."
+    }
+  },
+  "raw": {
+    "A": 3.25,
+    "C": 4.2,
+    "E": 2.95,
+    "N": 2.7,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Company shills? You decide. Also, count the bad ratings for this review.",
+      "C": "So I called Peek (twice, to confirm I had this right) and asked what the replacement policy is.",
+      "E": "even though I'm using it in a pretty quiet apt.",
+      "N": "Other than that, the cons below and minor and don't really detract for me.",
+      "O": "While I was comfortable with doing a manual setup, I was curious to see how easy it would be using option 2."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 30,
+  "reviewer_id": "A3S3R88HA0HZG3",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 123,
+  "reviews_used": 15,
+  "prompt_chars": 9944,
+  "status": "ok",
+  "seconds": 74.28,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.05,
+    "E": 3.8,
+    "A": 3.95,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "I've been going through all of my music, from classical to rock to jazz to see how it sounds on this little speaker and I'm impressed.",
+      "C": "The keyboard is compact, 10-3/8 x 5-3/8 inches and less than 1/2 inch thick. It would easily fit in a briefcase or even a large purse.",
+      "E": "This little internet radio device is jumping-up-and-down cool!",
+      "A": "I bought the computer for my husband to replace an old Mac that he uses mainly for internet browsing, email, iTunes and some photography applications.",
+      "N": "Then it kept repeating over and over again that I had missed the exit. I was ready to pour my Starbucks"
+    }
+  },
+  "raw": {
+    "A": 3.95,
+    "C": 4.05,
+    "E": 3.8,
+    "N": 2.5,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I bought the computer for my husband to replace an old Mac that he uses mainly for internet browsing, email, iTunes and some photography applications.",
+      "C": "The keyboard is compact, 10-3/8 x 5-3/8 inches and less than 1/2 inch thick. It would easily fit in a briefcase or even a large purse.",
+      "E": "This little internet radio device is jumping-up-and-down cool!",
+      "N": "Then it kept repeating over and over again that I had missed the exit. I was ready to pour my Starbucks",
+      "O": "I've been going through all of my music, from classical to rock to jazz to see how it sounds on this little speaker and I'm impressed."
+    }
+  }
+}

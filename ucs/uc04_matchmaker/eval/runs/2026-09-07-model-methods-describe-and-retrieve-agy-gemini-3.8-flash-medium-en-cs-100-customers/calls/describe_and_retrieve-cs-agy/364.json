@@ -1,0 +1,34 @@
+{
+  "contact_id": 364,
+  "status": "ok",
+  "seconds": 13.03,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-2-methods-agy-gemini-3.8-flash-medium-en-cs-100-customers",
+  "parsed": {
+    "next_purchases": [
+      "Externí pevný disk Western Digital My Passport 1 TB USB 3.0",
+      "Bezdrátová myš Apple Magic Mouse pro Mac s technologií Multi-Touch",
+      "Ochranné pouzdro pro Apple MacBook Air 13,3 palce"
+    ]
+  },
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "agy",
+  "model": "gemini-3.8-flash",
+  "tier": "medium",
+  "provider_cli_version": "1.1.27",
+  "prompt_version": "1.0.2",
+  "database_sha256": "aba47a161d87818eb4de0a24bbcddfa59317d40f8bb5591571f8f7e7b4b608cf",
+  "prompt": "Zákazník Z-364 (anonymizováno). Názvy produktů česky.\nNákupní historie (32 nákupů, od nejstaršího):\n- 2002-11-30 ★4 DVD přehrávač s progresivním skenováním CyberHome CH-DVD 500\n- 2003-12-23 ★4 Bezdrátový adaptér Cardbus D-Link DWL-650, 802.11b, 11 Mb/s\n- 2007-12-22 ★3 Subwoofer Sony SA-W2500 Performance Line s výkonem 100 wattů\n- 2007-12-26 ★5 Pevný disk Western Digital WD5000KSRTL/WD5000AAKS Caviar 500 GB SATA\n- 2008-02-02 ★4 7.1kanálový domácí kino Sony STR-DG910 (výrobce ukončil výrobu)\n- 2008-03-01 ★2 Bezdrátový rozšiřovač dosahu Cisco-Linksys Wireless-G WRE54G\n- 2008-03-20 ★3 Sony DVP-NC85H/B HDMI/CD Progressive Scan 5diskový DVD měnič, černý\n- 2008-05-07 ★5 Bezdrátový širokopásmový router Cisco-Linksys WRT54G2-G\n- 2008-05-10 ★4 Satelitní rádiový přijímač SIRIUS Sportster 5 s palubní sadou\n- 2008-10-17 ★4 Samsung HL61A750 61palcový 1080p LED DLP HDTV\n- 2008-10-26 ★4 Nikon D40 6.1MP Digital SLR Camera Kit with 18-55mm f/3.5-5.6G ED II AF-S DX Zoom-Nikkor Lens\n- 2009-02-21 ★4 Bezdrátový router Belkin N (černý)\n- 2009-09-17 ★4 Zune HD 16 GB Video MP3 Player (Black)\n- 2009-12-06 ★4 Creative Zen X-Fi 16GB video MP3 přehrávač s bezdrátovou sítí LAN a vestavěným reproduktorem (černý/stříbrný)\n- 2010-02-06 ★4 Pevný disk Western Digital 500 GB Caviar Blue SATA 3 Gb/s 7200 ot./min 16 MB mezipaměti Bulk/OEM pro stolní počítače - W\n- 2010-03-15 ★4 Apple Remote – Mac, iPod nebo iPhone (MC377LL/A)\n- 2010-03-17 ★3 Prémiový balíček do auta Zune HD\n- 2010-03-25 ★4 Interní pevný disk HGST Travelstar 2,5 palce 500 GB 7200R PM SATA II 16 MB mezipaměti (0S00157)\n- 2010-03-26 ★4 Apple TV MB189LL/A with 160GB Hard Drive [OLD VERSION]\n- 2010-06-28 ★4 Ochranná fólie Green Onions Anti-Glare AG2 pro 13palcový Apple MacBook (RT-SPMB1302)\n- 2010-06-28 ★4 Notebook Apple MacBook Pro MC371LL/A 15,4 palce (STARÁ VERZE)\n- 2010-07-29 ★4 Apple MacBook Pro MC024LL/A 17palcový notebook (STARÁ VERZE)\n- 2010-12-28 ★4 Apple iMac MC511LL/A 27palcový stolní počítač (STARÁ VERZE)\n- 2011-02-19 ★4 Moshi PalmGuard pro Macbook 13\" Unibody - stříbrný\n- 2011-02-19 ★5 Corsair 4GB (1x4GB) DDR3 1333 MHz (PC3 10666) Laptop Memory (CMSO4GX3M1A1333C9)\n- 2011-02-19 ★3 Foscam FI8918W Bezdrátová/kabelová IP/síťová kamera s otočným a naklápěcím systémem, nočním viděním do záběru 8 metrů a \n- 2011-06-04 ★3 Notebook Apple MacBook Air MC505LL/A 11,6 palců (STARÁ VERZE)\n- 2011-07-23 ★4 Notebook Apple MacBook Air MC965LL/A 13,3 palce (STARÁ VERZE)\n- 2012-09-20 ★4 Kindle Fire HD 7\", Dolby Audio, dvoupásmové Wi-Fi, 16 GB\n- 2013-05-12 ★3 ADATA Superior Series S102 PRO 8 GB USB 3.0 flash disk AS102P-8G-RGY\n- 2013-05-12 ★4 B0098PIYTW\n- 2013-06-29 ★1 Bezdrátový 4G LTE USB modem Verizon Wireless 551L\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Externí pevný disk Western Digital My Passport 1 TB USB 3.0",
+      "Bezdrátová myš Apple Magic Mouse pro Mac s technologií Multi-Touch",
+      "Ochranné pouzdro pro Apple MacBook Air 13,3 palce"
+    ]
+  },
+  "held_out": "B00BU4OV50"
+}

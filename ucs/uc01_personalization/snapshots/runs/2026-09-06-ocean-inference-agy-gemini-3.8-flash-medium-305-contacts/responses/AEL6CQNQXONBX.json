@@ -1,0 +1,40 @@
+{
+  "contact_id": 147,
+  "reviewer_id": "AEL6CQNQXONBX",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 123,
+  "reviews_used": 15,
+  "prompt_chars": 10128,
+  "status": "ok",
+  "seconds": 533.95,
+  "error": "",
+  "profile": {
+    "O": 4.0,
+    "C": 4.35,
+    "E": 3.4,
+    "A": 4.1,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I really needed something that was expandable and could meet the needs of a techy family in the digital age.",
+      "C": "before you consider purchasing any security system I would be sure to think long and hard about what you want to accomplish with your system.",
+      "E": "The picture is awesome to say the least. I love the LG brand because their product seems to be top of the line.",
+      "A": "I am not going to use it for more than 4 hours in one day so it really doesn't make much difference.",
+      "N": "I only have one complaint and it is with LCD TV's in general. The sound is good but it doesn't get very loud."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.35,
+    "E": 3.4,
+    "N": 2.15,
+    "O": 4,
+    "evidence_quotes": {
+      "A": "I am not going to use it for more than 4 hours in one day so it really doesn't make much difference.",
+      "C": "before you consider purchasing any security system I would be sure to think long and hard about what you want to accomplish with your system.",
+      "E": "The picture is awesome to say the least. I love the LG brand because their product seems to be top of the line.",
+      "N": "I only have one complaint and it is with LCD TV's in general. The sound is good but it doesn't get very loud.",
+      "O": "I really needed something that was expandable and could meet the needs of a techy family in the digital age."
+    }
+  }
+}

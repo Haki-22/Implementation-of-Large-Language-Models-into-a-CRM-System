@@ -1,0 +1,40 @@
+{
+  "contact_id": 68,
+  "reviewer_id": "A250AXLRBVYKB4",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 178,
+  "reviews_used": 15,
+  "prompt_chars": 9768,
+  "status": "ok",
+  "seconds": 218.23,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.3,
+    "E": 3.05,
+    "A": 3.65,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I spent months picking a stereo system; reading reviews, listening to different systems at big box stores, and ultimately settled on this one.",
+      "C": "It makes backing up your system, cloning hard drives, and diagnosing problems with hard disks not just easy but enjoyable.",
+      "E": "It's a nice subdued looking bag, modern enough with clean lines, but not glamorous in a way that will attract attention.",
+      "A": "I bought one of these to replace the aging original from my coworker's macbook.",
+      "N": "If you don't care about a perfect fit and seamless seams, this is a great battery."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.3,
+    "E": 3.05,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I bought one of these to replace the aging original from my coworker's macbook.",
+      "C": "It makes backing up your system, cloning hard drives, and diagnosing problems with hard disks not just easy but enjoyable.",
+      "E": "It's a nice subdued looking bag, modern enough with clean lines, but not glamorous in a way that will attract attention.",
+      "N": "If you don't care about a perfect fit and seamless seams, this is a great battery.",
+      "O": "I spent months picking a stereo system; reading reviews, listening to different systems at big box stores, and ultimately settled on this one."
+    }
+  }
+}

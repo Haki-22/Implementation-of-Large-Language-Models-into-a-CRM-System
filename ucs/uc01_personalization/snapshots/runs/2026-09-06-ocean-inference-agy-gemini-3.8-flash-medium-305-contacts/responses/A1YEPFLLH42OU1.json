@@ -1,0 +1,40 @@
+{
+  "contact_id": 109,
+  "reviewer_id": "A1YEPFLLH42OU1",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 141,
+  "reviews_used": 15,
+  "prompt_chars": 9784,
+  "status": "ok",
+  "seconds": 395.21,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 3.65,
+    "E": 3.3,
+    "A": 3.8,
+    "N": 2.55,
+    "evidence_quotes": {
+      "O": "I managed to get my grubby hands on a Nexus 7 at launch day to play around with it.",
+      "C": "I copied 400 megs of files to the drive in about 8 seconds. That's pretty darn fast- actually faster than the specs say.",
+      "E": "I'll readily admit it- the main reason I got this was to take pictures of myself.",
+      "A": "I got one of these for a friend, someone who I know isn't going to be picky about hardware specs and speed.",
+      "N": "Quite simply, Mac laptops are just a lot less fuss. They don't break down or exhibit weird quirks as often as PC notebooks"
+    }
+  },
+  "raw": {
+    "A": 3.8,
+    "C": 3.65,
+    "E": 3.3,
+    "N": 2.55,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "I got one of these for a friend, someone who I know isn't going to be picky about hardware specs and speed.",
+      "C": "I copied 400 megs of files to the drive in about 8 seconds. That's pretty darn fast- actually faster than the specs say.",
+      "E": "I'll readily admit it- the main reason I got this was to take pictures of myself.",
+      "N": "Quite simply, Mac laptops are just a lot less fuss. They don't break down or exhibit weird quirks as often as PC notebooks",
+      "O": "I managed to get my grubby hands on a Nexus 7 at launch day to play around with it."
+    }
+  }
+}

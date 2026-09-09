@@ -1,0 +1,128 @@
+[
+  {
+    "item_id": "rt::ADLVFFE4VBT8::B00006B8K2::1244160000",
+    "kind": "review_text",
+    "en": "I ordered that Fellowes 99090 to protect a new computer and the several peripherals that attach to it. Its most attractive features are the price, the compact form and the innovative design allowing for as many as eight plugs to attach to it. So far, I am happy with my purchase.Here are the specs and features:- 3 line protection- right-angle plug- 15-Amp circuit breaker- 120V 60Hz- Noise filtering 40-45dB- Joule rating 1300- UL 1449 Rating/Clamping Level 330- 6 ft. chord- Illuminated on/off switch- LED surge indicator- Up to 8 outletsThe warranty paper claims 'lifetime' for the item itself and up to $50,000  on connected equipment for 5 years.The lifetime in 'lifetime warranty' promise is not the purchaser's life but the life of the product itself. To quote from the Fellowes warranty document, \"the lifetime of the product is considered to be the time until the product naturally ceases to provide surge protection\". In other words, there is a warranty on the product for as long as it works. To quote again, \"when the LED fails to light, the product has performed its duty\" and the lifetime warranty is no longer in effect.As for the $50,000 connected equipment warranty, the paper enumerates 10 instances under which the warranty becomes null and void including \"4. Fellowes determines that the equipment was not damaged by an Event or that no Event took place. 5. Fellowes determines that the Surge Protector was not properly installed, was tampered with, or was altered in any way.\"To conclude, this is good value for the price but forget about the warranties. I am taking one star away for the warranty claims.",
+    "cz_raw": "Objednal jsem si záruku Fellowes 99090, abych ochránil nový počítač a několik periferií, které se k němu připojují. Mezi nejatraktivnější vlastnosti patří cena, kompaktní tvar a inovativní design, který umožňuje připojení až osmi zástrček. Zatím jsem s nákupem spokojen. Zde jsou specifikace a vlastnosti: - Ochrana 3 linek - Pravoúhlá zástrčka - 15A jistič - 120 V 60 Hz - Filtrování šumu 40-45 dB - Jouleův výkon 1300 - UL 1449 Jmenovitý/upínací stupeň 330 - Délka kabelu 6 stop - Podsvícený vypínač - LED indikátor přepětí - Až 8 zásuvek. Záruční list uvádí „doživotní“ záruku na samotnou položku a až 50 000 dolarů na připojená zařízení po dobu 5 let. Slib „doživotní záruky“ se nevztahuje na život kupujícího, ale na životnost samotného produktu. Abych citoval ze záručního dokumentu společnosti Fellowes, „životnost produktu se považuje za dobu, než produkt přirozeně přestane poskytovat přepěťovou ochranu“. Jinými slovy, na produkt se vztahuje záruka po celou dobu jeho fungování. Znovu cituji: „Když se LED dioda nerozsvítí, produkt splnil svou funkci“ a doživotní záruka již neplatí. Pokud jde o záruku na připojené zařízení ve výši 50 000 USD, dokument vyjmenovává 10 případů, kdy záruka zaniká, včetně „4. Fellowes zjistí, že zařízení nebylo poškozeno událostí nebo že k žádné události nedošlo. 5. Fellowes zjistí, že přepěťová ochrana nebyla správně nainstalována, byla s ní manipulováno nebo byla jakkoli pozměněna.“ Závěrem lze říci, že se jedná o dobrou hodnotu za danou cenu, ale zapomeňte na záruky. Za reklamace v rámci záruky ubírám jednu hvězdičku.",
+    "cz_with_highlights": "**Objednal jsem si **záruku Fellowes 99090****, abych ochránil nový počítač a několik periferií, které se k němu připojují. Mezi nejatraktivnější vlastnosti patří cena, kompaktní tvar a inovativní design, který umožňuje připojení až osmi zástrček. Zatím jsem s nákupem spokojen. Zde jsou specifikace a vlastnosti: - Ochrana 3 linek - Pravoúhlá zástrčka - 15A jistič - 120 V 60 Hz - Filtrování šumu 40-45 dB - Jouleův výkon 1300 - UL 1449 Jmenovitý/upínací stupeň 330 - Délka kabelu 6 stop - Podsvícený vypínač - LED indikátor přepětí - Až 8 zásuvek. Záruční list uvádí „doživotní“ záruku na samotnou položku a až 50 000 dolarů na připojená zařízení po dobu 5 let. Slib „doživotní záruky“ se nevztahuje na život kupujícího, ale na životnost samotného produktu. Abych citoval ze záručního dokumentu společnosti Fellowes, „životnost produktu se považuje za dobu, než produkt přirozeně přestane poskytovat přepěťovou ochranu“. Jinými slovy, na produkt se vztahuje záruka po celou dobu jeho fungování. Znovu cituji: „Když se LED dioda nerozsvítí, produkt splnil svou funkci“ a doživotní záruka již neplatí. Pokud jde o záruku na připojené zařízení ve výši 50 000 USD, dokument vyjmenovává 10 případů, kdy záruka zaniká, včetně „4. Fellowes zjistí, že zařízení nebylo poškozeno událostí nebo že k žádné události nedošlo. 5. Fellowes zjistí, že přepěťová ochrana nebyla správně nainstalována, byla s ní manipulováno nebo byla jakkoli pozměněna.“ Závěrem lze říci, že se jedná o dobrou hodnotu za danou cenu, ale zapomeňte na záruky. **Za reklamace v rámci záruky ubírám jednu hvězdičku**.",
+    "comet_score": "0.6531",
+    "comet_status": "RETRY",
+    "verdicts": {
+      "COMET-Kiwi": "INVALID",
+      "Gemini-Pro": "INVALID",
+      "Gemini-Flash": "INVALID",
+      "Sonnet-4.6": "INVALID",
+      "Haiku-4.5": "INVALID"
+    },
+    "all_fixes": [
+      {
+        "replace": "Objednal jsem si záruku Fellowes 99090",
+        "with": "Objednal jsem si Fellowes 99090",
+        "why": "Autor si objednal produkt 'Fellowes 99090' (přepěťovou ochranu), nikoli jeho 'záruku'.",
+        "reported_by": "Gemini-Pro"
+      },
+      {
+        "replace": "záruku Fellowes 99090",
+        "with": "přepěťovou ochranu Fellowes 99090",
+        "why": "V originálu se hovoří o zakoupení samotného přístroje 'Fellowes 99090', nikoli o záruce.",
+        "reported_by": "Gemini-Flash"
+      },
+      {
+        "replace": "Objednal jsem si záruku Fellowes 99090",
+        "with": "Objednal jsem si Fellowes 99090",
+        "why": "Překlad vložil slovo 'záruku', které v EN originálu není — recenzent objednal produkt samotný, nikoli záruku.",
+        "reported_by": "Sonnet-4.6"
+      },
+      {
+        "replace": "Za reklamace v rámci záruky ubírám jednu hvězdičku",
+        "with": "Za záruční tvrzení ubírám jednu hvězdičku",
+        "why": "EN 'warranty claims' označuje marketingová tvrzení výrobce obsažená v záručním dokumentu, nikoli 'reklamace' ve smyslu spotřebitelské stížnosti nebo vrácení zboží.",
+        "reported_by": "Sonnet-4.6"
+      },
+      {
+        "replace": "Objednal jsem si záruku Fellowes 99090",
+        "with": "Objednal jsem si Fellowes 99090",
+        "why": "EN říká 'I ordered that Fellowes 99090' — zařízení, ne záruka.",
+        "reported_by": "Haiku-4.5"
+      },
+      {
+        "replace": "Za reklamace v rámci záruky ubírám jednu hvězdičku",
+        "with": "Za (zkreslená) tvrzení o záruce ubírám jednu hvězdičku",
+        "why": "'warranty claims' znamená 'tvrzení o záruce', nikoli 'reklamace'.",
+        "reported_by": "Haiku-4.5"
+      }
+    ]
+  },
+  {
+    "item_id": "rt::ADLVFFE4VBT8::B00020BJA8::1246665600",
+    "kind": "review_text",
+    "en": "In my view, this laptop case meets the requirements and expectations for its intended use - case and protect a laptop during transportation and provide sufficient and convenient room for the related items someone may bring along while traveling with the laptop.Briefly, this is what you get:- Solid, durable construction - padded ballistic nylon.- On the heavy side - 3.25 lbs.- Room for laptops up to 15.4\" widescreen.- Cushions inside the laptop compartment can be adjusted to fit smaller laptops.- Full-size dual file folder storage compartment.- Zippered 'workstation' with lots of pockets, some padded, most with Velcro locks,for various items, business cards, keys.- Removable accessory pouch.- One 'secret' zipped and one open pocket on the outside.- Removable shoulder strap.- Black fabric, gunmetal grey zipper hardware.- Made in China.The two gimmicks I detected have to do with the design and with the so-called lifetime warranty and they seem to serve no purpose other than 'marketing'.The so-called 'Zip-Thru' is a zipper that, when unzipped, unfolds the case  so that it can lay flat on an airport scanner conveyor belt with the laptop separated from the other half of the case. The claim is that, if you do this, you won't have to take your laptop out of the case and, therefore, if you buy this case you buy some convenience. The sad reality is that I was always asked to take my laptop out of the case at airport security points and, most of the time, I was asked to actually turn it on. In two instances, the airport detectives actually took my laptop and inserted it inside a machine supposedly capable to detect minute traces of certain substances so, Zip-Thru doesn't do much, given the current airport security practices and circumstances. I can't see any good use for this feature.The so-called life-time warranty seems to be nothing else but a promise to replace the bag if found defective - \"if after inspection we find that the product was defective in materials or workmanship\". This is nice but it would be illegal not to. Amazon would take back a defective product anyway so the 'lifetime warranty' doesn't mean much.Overall, I will grant this product 4 stars (it's 3.5 rounded up). It gets a slight demerit for being a little bit on the heavy side and a full demerit for the two somewhat misleading marketing gimmicks.",
+    "cz_raw": "Podle mého názoru toto pouzdro na notebook splňuje požadavky a očekávání pro zamýšlené použití - pouzdro a ochrana notebooku během přepravy a poskytnutí dostatečného a pohodlného prostoru pro související předměty, které si někdo může vzít s sebou na cesty. Stručně řečeno, toto je to, co získáte: - Pevná, odolná konstrukce - polstrovaný balistický nylon. - Těžká část - 1,6 kg. - Místo pro notebooky s úhlopříčkou až 15,4\" (širokoúhlý). - Polštáře uvnitř přihrádky na notebook lze nastavit tak, aby se do nich vešly i menší notebooky. - Přihrádka na dva složky v plné velikosti. - „Pracovní stanice“ na zip s mnoha kapsami, některé polstrované, většina se suchým zipem, na různé předměty, vizitky, klíče. - Odnímatelná kapsa na příslušenství. - Jedna „tajná“ kapsa na zip a jedna otevřená kapsa na vnější straně. - Odnímatelný ramenní popruh. - Černá látka, šedý zip. - Vyrobeno v Číně. Dva triky, které jsem objevil, se týkají designu a tzv. doživotní záruky a zdá se, že neslouží žádnému jinému účelu než „marketingu“. Takzvaný „Zip-Thru“ je zip. ...který po rozepnutí rozloží pouzdro tak, že může ležet naplocho na dopravním pásu letištního skeneru s notebookem odděleným od druhé poloviny pouzdra. Tvrdí se, že pokud to uděláte, nebudete muset notebook z pouzdra vyndávat, a proto si koupením tohoto pouzdra kupujete určité pohodlí. Smutnou realitou je, že na letištních bezpečnostních stanovištích mě vždycky požádali, abych notebook z pouzdra vyndal, a většinou mě požádali, abych ho skutečně zapnul. Ve dvou případech mi detektivové na letišti notebook skutečně vzali a vložili ho do zařízení, které údajně dokáže detekovat nepatrné stopy určitých látek, takže Zip-Thru vzhledem k současným bezpečnostním postupům a okolnostem na letištích moc nedělá. Nevidím pro tuto funkci žádné dobré využití. Takzvaná doživotní záruka se zdá být ničím jiným než slibem výměny pouzdra, pokud bude shledáno vadným - \"pokud po kontrole zjistíme, že výrobek měl vadu materiálu nebo zpracování\". To je sice hezké, ale bylo by nezákonné to neudělat. Amazon by vadný výrobek stejně vzal zpět, takže \"doživotní záruka\" moc neznamená. Celkově vzato... Dávám tomuto produktu 4 hvězdičky (zaokrouhleno nahoru je to 3,5). Mírnou nevýhodu dostává za to, že je trochu přehnaně těžký, a plnou nevýhodu za dva poněkud zavádějící marketingové triky.",
+    "cz_with_highlights": "Podle mého názoru toto pouzdro na notebook splňuje požadavky a očekávání pro zamýšlené použití - pouzdro a ochrana notebooku během přepravy a poskytnutí dostatečného a pohodlného prostoru pro související předměty, které si někdo může vzít s sebou na cesty. Stručně řečeno, toto je to, co získáte: - Pevná, odolná konstrukce - polstrovaný balistický nylon. - ****Těžká část** - **1,6 kg**.** - Místo pro notebooky s úhlopříčkou až 15,4\" (širokoúhlý). - Polštáře uvnitř přihrádky na notebook lze nastavit tak, aby se do nich vešly i menší notebooky. - Přihrádka na dva složky v plné velikosti. - „Pracovní stanice“ na zip s mnoha kapsami, některé polstrované, většina se suchým zipem, na různé předměty, vizitky, klíče. - Odnímatelná kapsa na příslušenství. - Jedna „tajná“ kapsa na zip a jedna otevřená kapsa na vnější straně. - Odnímatelný ramenní popruh. - Černá látka, **šedý zip**. - Vyrobeno v Číně. Dva triky, které jsem objevil, se týkají designu a tzv. doživotní záruky a zdá se, že neslouží žádnému jinému účelu než „marketingu“. Takzvaný „Zip-Thru“ je zip. **...který po rozepnutí** rozloží pouzdro tak, že může ležet naplocho na dopravním pásu letištního skeneru s notebookem odděleným od druhé poloviny pouzdra. Tvrdí se, že pokud to uděláte, nebudete muset notebook z pouzdra vyndávat, a proto si koupením tohoto pouzdra kupujete určité pohodlí. Smutnou realitou je, že na letištních bezpečnostních stanovištích mě vždycky požádali, abych notebook z pouzdra vyndal, a většinou mě požádali, abych ho skutečně zapnul. Ve dvou případech mi detektivové na letišti notebook skutečně vzali a vložili ho do zařízení, které údajně dokáže detekovat nepatrné stopy určitých látek, takže Zip-Thru vzhledem k současným bezpečnostním postupům a okolnostem na letištích moc nedělá. Nevidím pro tuto funkci žádné dobré využití. Takzvaná doživotní záruka se zdá být ničím jiným než slibem výměny pouzdra, pokud bude shledáno vadným - \"pokud po kontrole zjistíme, že výrobek měl vadu materiálu nebo zpracování\". To je sice hezké, ale bylo by nezákonné to neudělat. Amazon by vadný výrobek stejně vzal zpět, takže \"doživotní záruka\" moc neznamená. Celkově vzato... Dávám tomuto produktu 4 hvězdičky (zaokrouhleno nahoru je to 3,5). Mírnou nevýhodu dostává za to, že je **trochu přehnaně těžký**, a plnou nevýhodu za dva poněkud zavádějící marketingové triky.",
+    "comet_score": "0.5525",
+    "comet_status": "RETRY",
+    "verdicts": {
+      "COMET-Kiwi": "INVALID",
+      "Gemini-Pro": "INVALID",
+      "Gemini-Flash": "INVALID",
+      "Sonnet-4.6": "INVALID",
+      "Haiku-4.5": "INVALID"
+    },
+    "all_fixes": [
+      {
+        "replace": "Těžká část - 1,6 kg.",
+        "with": "Spíše těžší - 3,25 libry.",
+        "why": "Překlad 'Těžká část' je nesprávný a konverze váhy '3.25 lbs' na '1,6 kg' je nepřesná.",
+        "reported_by": "Gemini-Pro"
+      },
+      {
+        "replace": "šedý zip",
+        "with": "ocelově šedé kování zipu",
+        "why": "Překlad zjednodušuje 'gunmetal grey zipper hardware' a ztrácí tak informaci o konkrétní barvě a části (kování).",
+        "reported_by": "Gemini-Pro"
+      },
+      {
+        "replace": "...který po rozepnutí",
+        "with": ", který po rozepnutí",
+        "why": "Překlad vkládá '...' které v originále nejsou a působí jako chyba v překladu.",
+        "reported_by": "Gemini-Pro"
+      },
+      {
+        "replace": "trochu přehnaně těžký",
+        "with": "trochu těžší",
+        "why": "Překlad přidává na intenzitě slovem 'přehnaně', které v originálu 'a little bit on the heavy side' není.",
+        "reported_by": "Gemini-Pro"
+      },
+      {
+        "replace": "Těžká část",
+        "with": "Poněkud těžší",
+        "why": "Fráze 'On the heavy side' byla chybně přeložena jako 'Těžká část'.",
+        "reported_by": "Gemini-Flash"
+      },
+      {
+        "replace": "je zip. ...který",
+        "with": "je zip, který",
+        "why": "V textu se objevuje chybná interpunkce a rozdělení věty, které v originále není.",
+        "reported_by": "Gemini-Flash"
+      },
+      {
+        "replace": "1,6 kg",
+        "with": "1,47 kg",
+        "why": "Překlad nesprávně konvertuje '3.25 lbs': správná hodnota je přibližně 1,47 kg, nikoli 1,6 kg — zavádí se fakticky chybný údaj.",
+        "reported_by": "Sonnet-4.6"
+      },
+      {
+        "replace": "šedý zip",
+        "with": "ocelově šedý zip",
+        "why": "'gunmetal grey' označuje specifický kovový odstín šedé; překlad 'šedý' tuto upřesňující informaci vypouští.",
+        "reported_by": "Sonnet-4.6"
+      },
+      {
+        "replace": "Černá látka, šedý zip.",
+        "with": "Černá látka, gunmetalově šedé kovové kování zipu.",
+        "why": "Překlad vypustil specifický popis 'gunmetal grey' a 'hardware', čímž zjednoduší detaily o vzhledu a kvalitě materiálu.",
+        "reported_by": "Haiku-4.5"
+      }
+    ]
+  }
+]

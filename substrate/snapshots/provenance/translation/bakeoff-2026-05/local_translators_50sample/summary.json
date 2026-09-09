@@ -1,0 +1,26 @@
+[
+  {
+    "model": "hunyuan-mt-7b",
+    "load_seconds": 0.4,
+    "inference_seconds": 714.4,
+    "items_per_sec": 0.07,
+    "n_items": 50,
+    "errors": 0
+  },
+  {
+    "model": "translategemma-27b",
+    "load_seconds": 1.0,
+    "inference_seconds": 1070.8,
+    "items_per_sec": 0.047,
+    "n_items": 50,
+    "errors": 0
+  },
+  {
+    "model": "gemma-4-26b-a4b",
+    "load_seconds": 1.4,
+    "inference_seconds": 229.3,
+    "items_per_sec": 0.218,
+    "n_items": 50,
+    "errors": 0
+  }
+]

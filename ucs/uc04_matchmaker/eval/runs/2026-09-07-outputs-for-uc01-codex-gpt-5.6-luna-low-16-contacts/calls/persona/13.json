@@ -1,0 +1,34 @@
+{
+  "kind": "persona",
+  "key": "13",
+  "status": "ok",
+  "seconds": 14.93,
+  "error": "",
+  "parsed": {
+    "label": "verny_technologicky_nakupujici",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje počítače, přenosná audio­video zařízení a příslušenství, celkem uskutečnil 367 nákupů a průměrně hodnotí 4,2 z 5. Zajímá se o produkty Apple, externí disky, sluchátka a starší či ukončené modely; cenovou hladinu nelze z dat spolehlivě určit.",
+    "tags": [
+      "počítače",
+      "přenosné_audio_video",
+      "příslušenství",
+      "apple"
+    ],
+    "price_segment": "mixed"
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-13 (anonymizován).\nNákupů: 367, průměrné hodnocení 4.2 z 5, fáze v e-shopu: dlouhodobě věrný zákazník.\nNejčastější kategorie: Computers & Accessories (122), Portable Audio & Video (77), Accessories & Supplies (65)\nTémata zájmu (klasické shlukování): audio / video / portable / ipod / mp3; supplies / accessories / sluchátka / výrobce / ukončil; usb / computers / accessories / disk / externí\nUkázky recenzí (nejdelší, zkrácené):\n- Klipsch iGroove SXT 30pinový reproduktorový dok pro iPod/iPhone: Moje fotka čtyř reproduktorů by se měla objevit mezi ostatními fotografiemi od zákazníků. Jsem nadšenec do „hi-fi“ hudby od roku 1960, kdy cenově dostupný AR2 (Acoustic Research) dokázal, že malé, hermeticky uzavřené reproduktory s nízkou účinností si dokážou poradit s velkými hráči – 1,8 metru vyso\n- Notebook Apple MacBook Air MC968LL/A 11,6 palců (STARÁ VERZE): [Ohledně stížností na citlivost bezdrátového připojení. Zpočátku jsem měl problém s tím, aby zařízení vidělo sítě v pořadí, v jakém jsem je umístil. Pak jsem v Apple Storu zadal číslo modelu svého Airportu a zjistil jsem, že je to 2. generace. Router sice fungoval přijatelně, ale už jen proto, že je\n- Apple iPod touch 32GB bílý (5. generace) NEJNOVĚJŠÍ MODEL: Pátá generace Touch je natolik lepší než čtvrtá generace, že ti, kteří si koupili čtvrtou generaci jen proto, že používala nejnovější iOS, mohou svého rozhodnutí jen litovat. S modelem Touch 16GB Apple jednoduše přidal třetí, nízkokapacitní a cenově dostupnou verzi, aby nalákal více uživatelů k obje\n- Digitální fotoaparát Canon PowerShot SX230 HS s rozlišením 12,1 MP CMOS, 14násobným zoomem, stabilizací obrazu, 28mm širokoúhlým objektivem a natáčením videa v rozlišení 1080p Full HD (modrý): Canon je tak zaneprázdněn každoročním vylepšováním svých fotoaparátů – od malých Elfů až po okázalejší a ultraprofesionální EOS Rebely – že je extrémně těžké odolat „vyměňování“ každé dva roky. Obvykle jsem typ, který „koupí a drží“, řídím auta 15 let, nebo dokud pekáče zakrývající zrezivělé podlaho\n- Notebook Apple MacBook Air MC506LL/A 11,6 palců (STARÁ VERZE): Od roku 1990 jsem vystřídal tolik počítačů Apple – stolních počítačů, notebooků, Power Macbooků, iBooků, iPadů – že ani nespočítám. Ze všech byl můj nejoblíbenější bezpochyby předchozí Macbook Air (model s flash pamětí). Zapomeňte na specifikace. Jakmile se vám jeden z nich dostane do rukou, specifi\nVrať JSON.",
+  "system_prompt": "Jsi analytik zákazníků českého e-shopu s elektronikou. Dostaneš souhrn chování jednoho zákazníka: nejčastější kategorie nákupů, počet nákupů a průměrné hodnocení, fázi v e-shopu, témata zájmu a ukázky jeho recenzí. Popiš zákazníka dvěma českými větami (30 až 50 slov) tak, aby marketing věděl, co kupuje, jak často se vrací, na jakou cenovou hladinu míří a čím se odlišuje.\n\nPravidla: jen to, co data nesou, žádné stereotypy (bez audio produktů nepiš „audiofil“); třetí osoba nebo neosobní tvar, bez oslovení; bez reklamních frází; žádné jméno ani osobní údaj, persona je typ zákazníka. Dobře: „Zákazník opakovaně dokupuje příslušenství k audio sestavě a vrací se v krátkých cyklech.“ Špatně: „Náročný zákazník, který miluje prémiový zvuk.“\n\nVrať pouze JSON podle schématu: {\"label\": \"<slug_malymi_pismeny_s_podtrzitky>\", \"narrative_cs\": \"<dvě věty>\", \"tags\": [\"<3 až 5 štítků>\"], \"price_segment\": \"budget\" | \"mid\" | \"premium\" | \"mixed\"}.",
+  "raw": {
+    "label": "verny_technologicky_nakupujici",
+    "narrative_cs": "Zákazník dlouhodobě a opakovaně nakupuje počítače, přenosná audio­video zařízení a příslušenství, celkem uskutečnil 367 nákupů a průměrně hodnotí 4,2 z 5. Zajímá se o produkty Apple, externí disky, sluchátka a starší či ukončené modely; cenovou hladinu nelze z dat spolehlivě určit.",
+    "tags": [
+      "počítače",
+      "přenosné_audio_video",
+      "příslušenství",
+      "apple"
+    ],
+    "price_segment": "mixed"
+  }
+}

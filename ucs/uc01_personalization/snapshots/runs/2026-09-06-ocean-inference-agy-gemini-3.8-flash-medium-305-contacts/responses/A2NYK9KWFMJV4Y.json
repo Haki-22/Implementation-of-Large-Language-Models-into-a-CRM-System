@@ -1,0 +1,40 @@
+{
+  "contact_id": 91,
+  "reviewer_id": "A2NYK9KWFMJV4Y",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 159,
+  "reviews_used": 15,
+  "prompt_chars": 9904,
+  "status": "ok",
+  "seconds": 310.03,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.3,
+    "E": 3.35,
+    "A": 4.1,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "The concept was intriguing, and the engineering was an interesting combination of traditional paper, special ink and handwriting recognition software.",
+      "C": "Before installing this range extender I was getting a signal of about -45 dBm near the primary wireless router and -80 dBm in the dead room.",
+      "E": "After two hours this was fully charged and a friend and I took turns testing it out.",
+      "A": "I am less critical than she, so I wanted someone who would pull no punches regarding issues or flaws.",
+      "N": "Like others I opted for this more expensive card because I wanted peace of mind that it would work without problems with my Note II."
+    }
+  },
+  "raw": {
+    "A": 4.1,
+    "C": 4.3,
+    "E": 3.35,
+    "N": 2.3,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "I am less critical than she, so I wanted someone who would pull no punches regarding issues or flaws.",
+      "C": "Before installing this range extender I was getting a signal of about -45 dBm near the primary wireless router and -80 dBm in the dead room.",
+      "E": "After two hours this was fully charged and a friend and I took turns testing it out.",
+      "N": "Like others I opted for this more expensive card because I wanted peace of mind that it would work without problems with my Note II.",
+      "O": "The concept was intriguing, and the engineering was an interesting combination of traditional paper, special ink and handwriting recognition software."
+    }
+  }
+}

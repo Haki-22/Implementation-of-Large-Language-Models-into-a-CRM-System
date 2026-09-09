@@ -1,0 +1,41 @@
+# Offline test suite on a clean machine: the same commands the README documents.
+# No provider CLI is installed and THESIS_LLM_CALLS stays off. Tests use mocks
+# or check that hosted calls are refused. NER weights download on first use;
+# the Whisper tiny test skips when its weights are not already cached.
+name: tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  offline-suite:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - name: Free disk space (the pinned CUDA build of torch is several GB)
+        run: sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL
+
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the pinned environment
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install --no-cache-dir -e .
+          python -m pip check
+
+      - name: Prepare the data as the Instalace screen does (unpack the shipped snapshots, build the database)
+        run: |
+          python -m substrate.pipeline.packing --unpack
+          python -m substrate.pipeline.build_all --force --from database
+
+      - name: Run the offline suite
+        env:
+          THESIS_LLM_CALLS: "FALSE"
+          HF_HUB_DISABLE_TELEMETRY: "1"
+        run: python -m pytest -q -m "not live" --ignore=tests/utils/generation/test_live_provider_matrix.py

@@ -1,0 +1,40 @@
+{
+  "contact_id": 394,
+  "reviewer_id": "A2ROZACRW31PC2",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 51,
+  "reviews_used": 15,
+  "prompt_chars": 10120,
+  "status": "ok",
+  "seconds": 1334.84,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.4,
+    "E": 2.95,
+    "A": 3.7,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "The Zotac ZBOXSD-ID12 is a small barebones \"Do It Yourself\" PC. You add your own DDR3 SODIMM (laptop) memory and any 2.5\" SATA (laptop) hard drive/SSD",
+      "C": "IMPORTANT TIP: As with most cleaning discs ONLY USE THE CD CASE THAT COMES WITH THE PRODUCT! Do not be tempted to use a \"normal\" CD case",
+      "E": "Don't buy an ip cam that doesn't support 640x480 (i.e. some of the Panasonic ones)",
+      "A": "From reading other reviews on this page there seems to be confusion on when/why you'd use this cable.",
+      "N": "Just as in previous Sony recorders I find the Recording interface is dumb."
+    }
+  },
+  "raw": {
+    "A": 3.7,
+    "C": 4.4,
+    "E": 2.95,
+    "N": 2.25,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "From reading other reviews on this page there seems to be confusion on when/why you'd use this cable.",
+      "C": "IMPORTANT TIP: As with most cleaning discs ONLY USE THE CD CASE THAT COMES WITH THE PRODUCT! Do not be tempted to use a \"normal\" CD case",
+      "E": "Don't buy an ip cam that doesn't support 640x480 (i.e. some of the Panasonic ones)",
+      "N": "Just as in previous Sony recorders I find the Recording interface is dumb.",
+      "O": "The Zotac ZBOXSD-ID12 is a small barebones \"Do It Yourself\" PC. You add your own DDR3 SODIMM (laptop) memory and any 2.5\" SATA (laptop) hard drive/SSD"
+    }
+  }
+}

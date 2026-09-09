@@ -1,0 +1,40 @@
+{
+  "contact_id": 177,
+  "reviewer_id": "A1V4VVBQBFXRHC",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 113,
+  "reviews_used": 15,
+  "prompt_chars": 9584,
+  "status": "ok",
+  "seconds": 669.23,
+  "error": "",
+  "profile": {
+    "O": 3.95,
+    "C": 4.5,
+    "E": 3.45,
+    "A": 3.9,
+    "N": 2.6,
+    "evidence_quotes": {
+      "O": "be prepared for a learning curve. It can be complicated, simply because it offers very advanced abilities to edit just about anything",
+      "C": "After doing a lot of research (which I do before buying pretty much anything), I found these little Sony earbuds were exactly what I needed.",
+      "E": "This Klispch system blows everything I've ever owned away. Regardless of the volume level (low or cranking), this system sounds great.",
+      "A": "I sent them a copy of my system hardware and configuration and then followed their advise.",
+      "N": "There is nothing worse than seeing that great shot only to discover your battery is dead. Not many things will anger you more"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.5,
+    "E": 3.45,
+    "N": 2.6,
+    "O": 3.95,
+    "evidence_quotes": {
+      "A": "I sent them a copy of my system hardware and configuration and then followed their advise.",
+      "C": "After doing a lot of research (which I do before buying pretty much anything), I found these little Sony earbuds were exactly what I needed.",
+      "E": "This Klispch system blows everything I've ever owned away. Regardless of the volume level (low or cranking), this system sounds great.",
+      "N": "There is nothing worse than seeing that great shot only to discover your battery is dead. Not many things will anger you more",
+      "O": "be prepared for a learning curve. It can be complicated, simply because it offers very advanced abilities to edit just about anything"
+    }
+  }
+}

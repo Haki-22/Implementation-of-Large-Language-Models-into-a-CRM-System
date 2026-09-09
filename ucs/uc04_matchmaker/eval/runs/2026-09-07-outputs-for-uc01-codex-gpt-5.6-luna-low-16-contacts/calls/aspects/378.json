@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "378",
+  "status": "ok",
+  "seconds": 17.78,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "Cena",
+        "sentiment": "negative",
+        "evidence": "Za něco necelých 200 dolarů by mělo být o dost lepší."
+      },
+      {
+        "aspect": "Výdrž baterie",
+        "sentiment": "mixed",
+        "evidence": "Díky tomu je výdrž baterie delší, než jsem od těchto per očekával, ale není to tak fenomenální."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Co se týče softwaru, je v pořádku a snadno se používá."
+      },
+      {
+        "aspect": "Dosah signálu",
+        "sentiment": "negative",
+        "evidence": "Pokud doufáte, že 802.11ac vyřeší vaše problémy s příjmem, měli byste se opravdu poohlédnout jinde."
+      },
+      {
+        "aspect": "Design",
+        "sentiment": "positive",
+        "evidence": "Je to skvěle vypadající disk, je tenký, dobře vyrobený a přenosové rychlosti jsou docela rychlé (alespoň tak rychlé, jak byste očekávali od přenosného pevného disku s USB 3.0)."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.6-luna",
+  "tier": "low",
+  "prompt": "Zákazník Z-378 (anonymizován).\nRecenze (36, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nLivescribe 3 Smartpen for iOS7 iPhone and iPad: Ne taková revoluce chytrých per, jakou by měla být Nikdy jsem nebyl velkým fanouškem chytrých per Livescribe. První jsem vyzkoušel krátce po uvedení na trh a myslím si, že odvedl docela dobrou práci, ale bylo otravné kupovat si speciální zápisníky a někdy synchronizace nefungovala úplně dobře. Také frustrující bylo pamatovat si, že je potřeba pero nabít. Pokud zapomenete, nebo se nabíječka odpojí, aniž byste si to uvědomili, ztratíte všechny funkce chytrého pera a máte jen poněkud nepohodlné, tlustší pero a díru v digitalizovaném zápisníku. Nic z toho se v novějších verzích per Livescribe nezměnilo, což je zklamáním, a toto pero ve mně vyvolává dojem, že Livescribe se zhoršuje. Chci začít něčím pozitivním: pero se velmi snadno synchronizuje s iPhonem. Nejnovější technologie Bluetooth LE v hardwaru Apple a peru Livescribe to zrychlují a zastavují nadměrné vybíjení. Díky tomu je výdrž baterie delší, než jsem od těchto per očekával, ale není to tak fenomenální. Potřebují dostat pero do bodu, kdy ho i při intenzivním používání stačí nabíjet pouze jednou týdně. Když se začnete spoléhat na takové zařízení, je to velmi frustrující, když se pro provoz nenabíjí. Další věc, na kterou si musíte pamatovat, je nabíjení každý den. Pokud vám to nevadí, pak to není žádný problém. Pokud máte dostatek zařízení, která vyžadují zapojení každou noc, je to jen otrava. S původním perem jste mohli nahrávat zvuk spolu s poznámkami a synchronizovat ho. Zvuk z pera není skvělý, ale je to lepší než nic. S touto „pro edicí“ pro váš iPhone/iPad musíte mít pro nahrávání zvukových poznámek otevřenou aplikaci. To je trochu frustrující. Mám pocit, že mohli mít na peru více úložiště, aby pro přenos zvuku nepotřebovali otevřenou aplikaci. Nebo možná aplikace nahrává zvuk, nejsem si jistý. Je to tak či onak hloupé, protože jejich FIRST PEN to zvládl bez problémů sám. Co se týče softwaru, je v pořádku a snadno se používá. Poznámky se přenášejí bez problémů. Plní svou práci. Nejsem si jistý, proč ztrácejí čas hloupými funkcemi, jako je možnost ručně psát status na Facebooku, místo aby se soustředili na vývojářský program, ale je to tak. Samotné pero je hezké, i když trochu tlusté. Je natolik tlusté, že se divím, proč není lepší výdrž baterie. Pokud s ním chcete vydržet jen 14 hodin (v nejlepším případě), mělo by být trochu tenčí. Přesto mám pravděpodobně středně velké ruce a psaní mi s ním nebylo nepohodlné. Zasouvací inkoust je fajn funkce (i když mě to zpočátku mátlo, protože jsem si myslel, že inkoustová kazeta ještě nebyla vložena - to jsem ale jen hloupý). Celkově je prostě slušné. Myslím, že jsem trochu drsný, protože jsem k tomuto peru přišel s očekáváním, že se za ta léta zlepší, a teď mi to prostě připadá jako krok zpět. Za něco necelých 200 dolarů by mělo být o dost lepší.\nD-Link Wireless AC Gaming Router - 1300Mbps, Dual-Band, Gigabit, StreamBoost traffic shaping (DGL-5500): Podivně tvarovaný, spolehlivý router 802.11ac, který stojí příliš mnoho Routery v dnešní době nabývají nových a zajímavých tvarů. Líbí se mi myšlenka vložená do designu a jsem rád, že vidím více věžovitých variant, protože by to mohlo lidi povzbudit k umístění těchto zařízení výše a na očích, kde budou mít lepší výkon. Umístění často převyšuje vysílací výkon u spotřebitelských routerů, protože jejich hardware stejně není navržen pro přenos super silného signálu. To je i tento případ. Těšil jsem se na upgrade své bezdrátové sítě na 802.11ac ne kvůli vyšším rychlostem (i když to je rozhodně plus), ale proto, že má poskytovat lepší dosah. Wi-Fi se sotva dostane do mé ložnice a musím signál opakovat, abych ho tam dostal. Nejsem si jistý, proč je to takový problém, protože i když žiji v dvoupatrovém bytě, není tak velký. Nicméně, i když si *myslím*, že tento router D-Link poskytuje silnější signál, zdá se, že u mého notebooku má jen malý vliv. Pokud doufáte, že 802.11ac vyřeší vaše problémy s příjmem, měli byste se opravdu poohlédnout jinde. Možná by jiný router byl lepší, ale po vyzkoušení dvou si myslím, že je to jen omezení aktuálně dostupného spotřebitelského hardwaru. Pokud jde o specifické funkce tohoto routeru, získáte spoustu pěkných věcí. Vždycky oceňuji gigabitové ethernetové porty, kterých má tento čtyři. I když je lepší použít switch, pokud máte do sítě mnoho gigabitových ethernetových zařízení, někdy jich musíte do routeru zapojit pár, protože kabel nedosahuje, nebo to chcete dělat jen proto, že jste líní. Je fajn vědět, že to můžete. DGL-5500 také obsahuje něco, co D-Link nazývá StreamBoost, což je v podstatě zjednodušená funkce Quality of Service (QoS), která upřednostňuje různé druhy síťového provozu a zabraňuje kritickému zpoždění. Je těžké říct, jestli to skutečně dělá rozdíl, protože jsem si žádného s touto funkcí ani bez ní nevšiml, ale přesto je to vítáno. Routery jsou obecně matoucí i se zjednodušenými funkcemi, takže vždycky preferuji, aby jich obsahovaly co nejvíce. Pokud to bude vyžadovat čas na učení, klidně toho zvládnete hodně. Takže celkově, jak se tahle věc vyplatí? Já osobně preferuji Asus RT-AC66U, který stojí o 12 dolarů méně, a žádný router 802.11ac vlastně tolik nehraje roli, pokud nepotřebujete rychlejší přenos souborů v místní síti. Nezrychlí váš internet, pokud vaše připojení nepřekročí teoretické maximum 802.11n (asi 450 Mb/s a v některých případech 900 Mb/s) – a to se nestane, pokud nejste připojeni k Google Fiber nebo něčemu podobnému. V podstatě byste si měli svých 200 dolarů nechat. I když tento router odvede dobrou práci, v budoucnu, až 802.11ac skutečně udělá nějaký reálný rozdíl pro více lidí, bude levnější.\nWD My Passport Air 500GB pro Mac: Přenosný, USB 3.0, ultratenký, celokovový pevný disk (WDBBLW5000AAL-NESN): Skvělý, tenký pevný disk s USB 3.0 (jak se očekávalo) Tahle věc je v podstatě identická s My Passport Edge. Je to skvěle vypadající disk, je tenký, dobře vyrobený a přenosové rychlosti jsou docela rychlé (alespoň tak rychlé, jak byste očekávali od přenosného pevného disku s USB 3.0). Jediný problém je, že stojí – v době psaní této recenze – 90 dolarů oproti 60 dolarům u Edge. Takže v podstatě platíte více za to, co se zdá být jen jiná značka. Nechci tomuto disku dávat nízké hodnocení, protože (pravděpodobně dočasně) stojí víc. Stále je to skvělý produkt. Nicméně pokud si můžete pořídit Edge za mnohem nižší cenu, doporučil bych ho.\nPřenosný pevný disk Seagate Backup Plus Slim 500GB se zálohováním mobilních zařízení USB 3.0 (STCD500102) - černý: Krásný, rychlý a tenký pevný disk Tento tenký pevný disk Seagate je pozoruhodně tenký. V černé barvě vypadá skvěle. Celkově odvedli skvělou práci s designem, a to až po LED indikátor – jemnou linku v levém horním rohu zařízení. Zmiňuji to jako první, protože tenké disky pravděpodobně hledáte kvůli jejich designu, nikoli kvůli jejich užitku. O něco větší disky vám ušetří trochu peněz (běžná velikost 500 GB od Seagate se v době této recenze prodává za 60 dolarů – o 25 dolarů méně) a poběží o něco rychleji. Pokud chcete něco malého a hezky vypadajícího, tento disk to rozhodně splní. Zaplatíte za to více, ale dostanete to. Co se týče funkčnosti, pokud váš počítač podporuje USB 3.0, můžete dosáhnout docela vysokých rychlostí. Nejsem zvyklý na provádění benchmarků na svých discích, ale zkopíroval jsem 1,63 GB disk asi za 10 sekund. To je pro mé potřeby více než dost rychlé a srovnatelné se standardním 2,5\" pevným diskem Western Digital s USB 3.0, který používám. Nemohu ale posoudit, jak si tento disk povede dlouhodobě, protože ho mám teprve pár dní. Disky Seagate jsem přestal používat už před časem, protože jejich hodnocení spolehlivosti docela kleslo (kupodivu zrovna v době, kdy koupili Maxtor), ale to bylo už dávno. U Western Digital jsem zůstal jen proto, že jsem od té doby neměl jediný problém. Nicméně nechci vyvolat dojem, že Seagate je nespolehlivý, ale já to prostě nevím. Pro tyto informace byste se měli podívat do jiných recenzí. Co se týče všeho ostatního, disk sp\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "Cena",
+        "sentiment": "negative",
+        "evidence": "Za něco necelých 200 dolarů by mělo být o dost lepší."
+      },
+      {
+        "aspect": "Výdrž baterie",
+        "sentiment": "mixed",
+        "evidence": "Díky tomu je výdrž baterie delší, než jsem od těchto per očekával, ale není to tak fenomenální."
+      },
+      {
+        "aspect": "Snadnost použití",
+        "sentiment": "positive",
+        "evidence": "Co se týče softwaru, je v pořádku a snadno se používá."
+      },
+      {
+        "aspect": "Dosah signálu",
+        "sentiment": "negative",
+        "evidence": "Pokud doufáte, že 802.11ac vyřeší vaše problémy s příjmem, měli byste se opravdu poohlédnout jinde."
+      },
+      {
+        "aspect": "Design",
+        "sentiment": "positive",
+        "evidence": "Je to skvěle vypadající disk, je tenký, dobře vyrobený a přenosové rychlosti jsou docela rychlé (alespoň tak rychlé, jak byste očekávali od přenosného pevného disku s USB 3.0)."
+      }
+    ]
+  }
+}

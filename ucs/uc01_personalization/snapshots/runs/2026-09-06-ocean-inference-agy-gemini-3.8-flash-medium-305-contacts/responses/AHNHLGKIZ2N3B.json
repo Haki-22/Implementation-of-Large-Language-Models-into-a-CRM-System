@@ -1,0 +1,40 @@
+{
+  "contact_id": 424,
+  "reviewer_id": "AHNHLGKIZ2N3B",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 61,
+  "reviews_used": 15,
+  "prompt_chars": 10197,
+  "status": "ok",
+  "seconds": 1480.02,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.25,
+    "E": 3.35,
+    "A": 3.65,
+    "N": 2.55,
+    "evidence_quotes": {
+      "O": "I guess the next step in techological progress will be storing a terabyte on a speck of dust!",
+      "C": "I won't clutter up this review with pros and cons on Sirius vs. XM satellite radio service.",
+      "E": "Say goodbye to any worries that you won't be able to copy pictures from a relative's camera or share content with a friend's PSP",
+      "A": "Instead, I'll assume that you've already gone with Sirius and focus on whether or not the Sportster Replay is the right plug-and-play receiver for your needs.",
+      "N": "It's a little annoying that all of these drives aren't labeled beyond \"Removable drive\", but once you get the hang of the order, this isn't a concern anymore."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.25,
+    "E": 3.35,
+    "N": 2.55,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "Instead, I'll assume that you've already gone with Sirius and focus on whether or not the Sportster Replay is the right plug-and-play receiver for your needs.",
+      "C": "I won't clutter up this review with pros and cons on Sirius vs. XM satellite radio service.",
+      "E": "Say goodbye to any worries that you won't be able to copy pictures from a relative's camera or share content with a friend's PSP",
+      "N": "It's a little annoying that all of these drives aren't labeled beyond \"Removable drive\", but once you get the hang of the order, this isn't a concern anymore.",
+      "O": "I guess the next step in techological progress will be storing a terabyte on a speck of dust!"
+    }
+  }
+}

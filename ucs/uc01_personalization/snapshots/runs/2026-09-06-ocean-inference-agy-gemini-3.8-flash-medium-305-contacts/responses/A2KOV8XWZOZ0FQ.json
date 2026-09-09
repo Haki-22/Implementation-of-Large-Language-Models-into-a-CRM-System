@@ -1,0 +1,40 @@
+{
+  "contact_id": 123,
+  "reviewer_id": "A2KOV8XWZOZ0FQ",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 137,
+  "reviews_used": 15,
+  "prompt_chars": 10087,
+  "status": "ok",
+  "seconds": 440.59,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.05,
+    "E": 3.4,
+    "A": 3.65,
+    "N": 2.8,
+    "evidence_quotes": {
+      "O": "Whenever I get a new Android device, I usually root it and install a custom ROM, CyanogenMod.",
+      "C": "Once you remove all of the bloatware and unnecessary HP apps, and adjust Windows 8 settings to your liking, this laptop is quite fast",
+      "E": "Everything arrived on the same day, so I was like a kid in a candy store. All I can say is HOORAY!",
+      "A": "Some devices sound better than others but it is not the fault of this product.",
+      "N": "However, there is one obnoxious thing about these glasses that is driving me crazy."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.05,
+    "E": 3.4,
+    "N": 2.8,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Some devices sound better than others but it is not the fault of this product.",
+      "C": "Once you remove all of the bloatware and unnecessary HP apps, and adjust Windows 8 settings to your liking, this laptop is quite fast",
+      "E": "Everything arrived on the same day, so I was like a kid in a candy store. All I can say is HOORAY!",
+      "N": "However, there is one obnoxious thing about these glasses that is driving me crazy.",
+      "O": "Whenever I get a new Android device, I usually root it and install a custom ROM, CyanogenMod."
+    }
+  }
+}

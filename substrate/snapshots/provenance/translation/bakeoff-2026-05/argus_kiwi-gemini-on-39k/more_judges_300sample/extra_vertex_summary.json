@@ -1,0 +1,18 @@
+{
+  "wall_seconds_parallel": 290.4,
+  "gemini_2_5_pro": {
+    "wall_seconds": 206.4,
+    "invalid": 53,
+    "hallu": 0
+  },
+  "gemini_2_5_flash": {
+    "wall_seconds": 290.2,
+    "invalid": 112,
+    "hallu": 0
+  },
+  "gemini_3_1_flash_lite": {
+    "wall_seconds": 5.3,
+    "invalid": 13,
+    "hallu": 0
+  }
+}

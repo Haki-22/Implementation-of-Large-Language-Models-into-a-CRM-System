@@ -1,0 +1,70 @@
+{
+  "kind": "aspects",
+  "key": "7",
+  "status": "ok",
+  "seconds": 7.35,
+  "error": "",
+  "parsed": {
+    "aspects": [
+      {
+        "aspect": "výkon",
+        "sentiment": "negative",
+        "evidence": "Je dobře vyrobený, má pěkné uživatelské rozhraní, ale je pomalejší než konkurence."
+      },
+      {
+        "aspect": "uživatelské rozhraní",
+        "sentiment": "positive",
+        "evidence": "Webové rozhraní je velmi pěkné a použitelné."
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Kabely jsou dobře vyrobeny pro INTERNÍ použití."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "positive",
+        "evidence": "Opět to bylo vynikající z hlediska kompatibility a snadnosti použití."
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Jsou levné a od Monoprice za dobrou cenu."
+      }
+    ]
+  },
+  "provider": "codex",
+  "model": "gpt-5.5",
+  "tier": "low",
+  "prompt": "Zákazník Z-7 (anonymizován).\nRecenze (200, nejnovější první, zkráceno na 7999 znaků):\n<recenze>\nMonoprice 0,5m 30AWG interní Mini SAS 36pin (SFF-8087) samec s západkou na SATA 7pin samice (x4) průchozí kabel - černý: FUNGUJE PERFEKTNĚ v Dell Precision T7500 Použil jsem 0,5m kabel Monoprice Mini-SAS s 8-portovým RAID řadičem LSI SAS9211-8I od LSI. Ten byl umístěn v nejvzdálenějším 8X PCIe slotu od disků. Kabel se k diskům v horních předních slotech a ke čtyřem prostředním interním slotům dostal bez problémů a bez velkých smyček kabelů visících uvnitř. Délka byla tak akorát. Kabely jsou pěkně spojeny asi v polovině své délky a poté se rozevřou, což je ideální pro udržení pořádku v kabeláži. Nejsou to robustní kabely a jsou určeny pro interní použití: pro mě jsou dostatečně robustní. Západkový SFF konektor fungoval dobře a po stisknutí západky se snadno uvolnil. SAS/SATA konektor dobře seděl a držel. Kabely podporují datovou rychlost 6 GB/s LSI SAS9211-8I a jsou kompatibilní s disky SAS i SATA. Se dvěma z nich jsem schopen k LSI SAS9211-8I připojit 8 disků. Kabely jsou dobře vyrobeny pro INTERNÍ použití. Nejsou tak robustní jako některé interní kabely nebo většina externích kabelů, ale zdají se být více než dostačující. Každý z konektorů SAS/SATA má dva stíněné kabely vedoucí zpět do konektoru SFF. Obvykle je vidíme svázané v plastovém pouzdře, ale nenechte se tím odradit. Jsou štíhlejší a flexibilnější v těsných prostorech než většina kabelů SAS/SATA. Tyto kabely mi fungovaly dobře a umožnily mým rychlým SSD diskům pracovat s plnou kapacitou 6 GB. Tyto kabely se obvykle používají pouze s poměrně drahými adaptéry SAS/RAID. Jsou levné a od Monoprice za dobrou cenu. V minulosti jsem s jejich produkty měl štěstí. Zatím jsem velmi spokojený a dávám tomuto kabelu 5 hvězdiček! Doufám, že to někomu pomůže.\nWD My Cloud EX4 Diskless: Vysoce výkonný NAS, maximální spolehlivost, osobní cloudové úložiště (WDBWWD0000NBK-NESN): Vynikající uživatelské rozhraní a funkce, ale POMALÉ (AKTUALIZOVÁNO) Původní recenze je níže, ale podívejte se na aktualizaci na konci... V poslední době jsem používal a instaloval několik NAS serverů, takže jsem byl nadšený, co Western Digital nabízí se svým „expertním“ EX4. Byl jsem ohromen i zklamán zároveň. Je dobře vyrobený, má pěkné uživatelské rozhraní, ale je pomalejší než konkurence. Pokud chcete více informací o srovnání se základním Buffalo LS420 a profesionálním Synology DS214, čtěte dále. WD My Cloud EX4 8TB je pořádný hardware. Dodává se se čtyřmi 2TBWD NAS disky. Líbí se mi a v mých předchozích testech se zdá, že „firmware specifický pro NAS“ je v NAS aplikacích dělá o něco lepšími než disky WD Black nebo dokonce řady RE. Používal jsem je v domácích zařízeních založených na Synology a FreeNAS s vynikajícími výsledky. Samotná jednotka EX4 váží s nainstalovanými disky asi 5,5 až 7 kg. Hardware má mnoho profesionálních funkcí, jako jsou duální LAN připojení a duální napájecí vstupy. Napájecí zdroj je externí, jako u notebooku. Konstrukce se zdá být solidní a disky a přihrádky lze vyměnit bez nářadí. Pro tuto třídu zařízení je to prakticky standardní. Zadní strana má také 2 porty USB3 pro externí zálohovací disky nebo přidání médií přes USB. Skříň je atraktivní a má dvouřádkový LCD displej. Jsem slabý pro LCD displeje na serverech. Můžete procházet název serveru, volné místo na serveru, stav disku a IP adresu. Nemůžu říct, že by to bylo až tak užitečné, ale líbí se mi to. :-) Ujistěte se, že nezakrýváte boky - proudění vzduchu je důležité a to bylo zmíněno v instalačním listu a dokumentaci. Když jsem to nastavoval, byl jsem trochu zmatený absencí instalačního CD. Můj první dojem byl, že WD je opravdu levný. Ale mýlil jsem se. Pokyny mě nasměrovaly na instalační stránky, kde jsem našel vynikající pokyny k nastavení a jednoduchý instalační program. Velmi rychle mě to rozjelo. Trochu mě zaskočila licenční smlouva s koncovým uživatelem (EULA) instalačního programu, která začínala VELKÝMI PÍSMENY o \"ZÁVAZNÉ ARBITRÁŽI\". Jé! Při inicializaci je systém nakonfigurován jako RAID5. To znamená asi 6 TB využitelného prostoru. RAID 5 je skvělý pro případ selhání jednoho disku. Není to nejrychlejší možnost, ale pravděpodobně dobrý kompromis pro lidi, kteří chtějí nejvíce místa s vysokou integritou. Buffalo LS420 je ve srovnání s ním nakonfigurován jako RAID0 - nulová redundance (co si JEN mysleli??) a jeho překonfigurování na RAID1 trvalo hodiny. Když jsem změnil EX4 z RAID5 na RAID10, trvalo to jen pár minut a bylo to hračka. Pozor, změna RAIDu, jako jsem to udělal já, smaže všechna data na discích!! Zdá se, že systém - při prvním zapnutí - aktualizoval firmware. Možná to opravdu přišlo s nejnovější verzí firmwaru z června 2014, ale to by bylo poprvé v mé zkušenosti. Jedna funkce, kterou nenajdete, byla s nejnovějším firmwarem odstraněna: NFS. Pokud chcete sdílet v nativní Linux/Unixové síti, škoda. Odebírat z produktu funkce obvykle není dobrá věc, ale pravděpodobně to nemá vliv na velkou uživatelskou populaci. Jednou z funkcí, která se v novém firmwaru objevila, je zlepšení výkonu sítě. Vzhledem k tomu, že na mě tohle moc nepůsobí, zajímalo by mě, jaké to bylo předtím! Webové rozhraní je velmi pěkné a použitelné. Snadno jsem se orientoval a nastavil novou sdílenou složku ve Windows, přidával uživatele a skupiny a spravoval přístup. Rozhraní Synology DS214 je těsným konkurentem. Nemůžu se rozhodnout, které se mi líbí nejvíc. Příjemnou funkcí EX4 je snadné nastavení cílů iSCSI. Tato funkce se na domácích/stacionárních NAS serverech často nevyskytuje. To je skvělé pro virtuální počítače nebo pro vytváření méně náročné sítě SAN (Storage Area Network). iSCSI obvykle pracuje mnohem rychleji než sdílení souborů ve Windows, což je důležité, pokud provozujete virtuální počítač! Integrace s cloudem je velmi pěkná a přístup lze jemně ovládat pomocí grafického rozhraní. Připojil jsem svůj iPhone k soukromému cloudu EX4 a byl jsem spokojen s tím, jak dobře to fungovalo. Vynikající! Buffalo LS420 se vyznačuje absencí „ekosystému aplikací“. Synology DS214 nabízí desítky aplikací v dobře rozvinutém ekosystému. WD EX4 je někde uprostřed s několika aplikacemi, jako je Joomla, Wordpress, řadou streamovacích řešení a cloudovým zálohováním na Amazon S3 (proč ne dostupnější úložiště Amazon Glacier, které je určeno speciálně pro zálohování???). K dispozici je také poměrně stará verze phpMyAdmin pro správu databází MySQL. Je to začátek a pokud se to opravdu rozjede, mohlo by to být velké plus. S Linuxem pod kapotou by mělo být spousta možností. Při přístupu k sdíleným složkám Windows a mapování disků nebyl vůbec žádný problém. Opět to bylo vynikající z hlediska kompatibility a snadnosti použití. K zařízení jsem přistupoval z počítačů s Windows 7 Pro (notebook a pracovní stanice Dell T7500 s duálním Xeonem). Používal jsem ho také s malým systémem XP, který si nechávám pro konkrétní aplikaci. Vše v pořádku. Skutečným testem je výkon. Porovnal jsem EX4 s 2TB NAS serverem Buffalo LS420 a mým domácím FreeNAS serverem na starém serveru typu pizza-box s procesorem Core-Duo a několika disky WD Red. Provedl jsem testy kopírování 5,5GB složky s aktualizacemi a několika ISO soubory. Takže slušná kombinace velikostí souborů a myslel jsem si, že se jedná o docela reálně velkou kopii. Dělal jsem to na relativně tiché síti. Použil jsem 4000bajtové Jumbo pakety s přepínací infrastrukturou, která tyto velké snímky podporuje. Nastavil jsem to v nastavení EX4. FreeNAS a LS420 neměly povolené Jumbo pakety. Při testování s vypnutými Jumbo pakety na EX4 klesla propustnost asi o 20 %. Abych byl štědrý, používám pro srovnání měření s povolenými Jumbo pakety na EX4. Oba počítače, které jsem použil, četly z SSD disků. Samsung 840 EVO na mém notebooku Precision a Crucial M500 na mé pracovní stanici Precision T7500. Všude gigabitový Ethernet. S RAID5 EX4 jsem dosáhl rychlosti zápisu asi 16 MB/s a čtení asi 40 MB/s. Nebyl jsem moc ohromen. Pak jsem překonfiguroval EX4 na RAID10 - kombinaci RAID1 a RAID0, a to jak kvůli rychlosti, tak integritě, ale za cenu 50 % úbytku místa na disku. V R\n</recenze>\nVrať JSON.",
+  "system_prompt": "Jsi analytik sentimentu produktových recenzí. Dostaneš české recenze jednoho zákazníka. Vyber 3 až 5 vlastností produktů, které zákazník opakovaně hodnotí (například zvuk, kvalita zpracování, cena, kompatibilita, výdrž baterie, snadnost použití), a ke každé urči sentiment: positive, negative, neutral, nebo mixed. Ke každé vlastnosti připoj doklad: doslovný úryvek z recenzí, nejvýš jedna věta, zkopírovaný beze změny (nic neparafrázuj, doklad se strojově ověřuje proti textu recenzí). Vlastnost pojmenuj česky jedním až třemi slovy.\n\nVrať pouze JSON podle schématu: {\"aspects\": [{\"aspect\": \"...\", \"sentiment\": \"...\", \"evidence\": \"...\"}]}.",
+  "raw": {
+    "aspects": [
+      {
+        "aspect": "výkon",
+        "sentiment": "negative",
+        "evidence": "Je dobře vyrobený, má pěkné uživatelské rozhraní, ale je pomalejší než konkurence."
+      },
+      {
+        "aspect": "uživatelské rozhraní",
+        "sentiment": "positive",
+        "evidence": "Webové rozhraní je velmi pěkné a použitelné."
+      },
+      {
+        "aspect": "kvalita zpracování",
+        "sentiment": "positive",
+        "evidence": "Kabely jsou dobře vyrobeny pro INTERNÍ použití."
+      },
+      {
+        "aspect": "kompatibilita",
+        "sentiment": "positive",
+        "evidence": "Opět to bylo vynikající z hlediska kompatibility a snadnosti použití."
+      },
+      {
+        "aspect": "cena",
+        "sentiment": "positive",
+        "evidence": "Jsou levné a od Monoprice za dobrou cenu."
+      }
+    ]
+  }
+}

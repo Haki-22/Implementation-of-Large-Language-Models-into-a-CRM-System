@@ -1,0 +1,40 @@
+{
+  "contact_id": 246,
+  "reviewer_id": "A370XYLIZCSK1Y",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 90,
+  "reviews_used": 15,
+  "prompt_chars": 7691,
+  "status": "ok",
+  "seconds": 916.21,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.05,
+    "E": 3.35,
+    "A": 3.85,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "With experimenting I was able to overclock it to 4.5ghz at 1.385v. Idles at 35C, Load at 62C. To this day the overclock is still running solid.",
+      "C": "I finally got around to reprogramming VLC to use most keys I want. I've got it setup where 1 and 3 skip forward and back a small bit.",
+      "E": "I work IT for a living, fix PCs on the side. I'm the kind of guy that you call when you can't figure things like this out",
+      "A": "I'm the idiot though that thought it was bluetooth for some reason and didn't even bother checkig.",
+      "N": "I tried to contact Channel Master support for help and what a joke. It's basically an argument to try and convince them it really isn't working"
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.05,
+    "E": 3.35,
+    "N": 2.7,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "I'm the idiot though that thought it was bluetooth for some reason and didn't even bother checkig.",
+      "C": "I finally got around to reprogramming VLC to use most keys I want. I've got it setup where 1 and 3 skip forward and back a small bit.",
+      "E": "I work IT for a living, fix PCs on the side. I'm the kind of guy that you call when you can't figure things like this out",
+      "N": "I tried to contact Channel Master support for help and what a joke. It's basically an argument to try and convince them it really isn't working",
+      "O": "With experimenting I was able to overclock it to 4.5ghz at 1.385v. Idles at 35C, Load at 62C. To this day the overclock is still running solid."
+    }
+  }
+}

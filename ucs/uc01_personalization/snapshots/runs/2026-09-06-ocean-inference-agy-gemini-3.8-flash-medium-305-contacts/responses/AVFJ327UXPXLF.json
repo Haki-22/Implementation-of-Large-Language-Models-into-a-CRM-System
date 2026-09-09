@@ -1,0 +1,40 @@
+{
+  "contact_id": 238,
+  "reviewer_id": "AVFJ327UXPXLF",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 99,
+  "reviews_used": 15,
+  "prompt_chars": 9401,
+  "status": "ok",
+  "seconds": 882.21,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 3.3,
+    "A": 3.05,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "I am a SCUBA diver and I am always on the lookout for a good video camera that is easy to use and can go underwater.",
+      "C": "So, after some research, I decided to stay with Yamaha and go with the RX-V671BL.",
+      "E": "When I confronted him, he confessed to taking the tools and claimed that he was planning to return them but kept forgetting.",
+      "A": "I setup this camera without telling anyone what I was doing and connected it to the old VCR we had",
+      "N": "was real happy with it until the display stopped working and the cost to fix it was more than replacing it with a more economical receiver."
+    }
+  },
+  "raw": {
+    "A": 3.05,
+    "C": 4.1,
+    "E": 3.3,
+    "N": 2.35,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I setup this camera without telling anyone what I was doing and connected it to the old VCR we had",
+      "C": "So, after some research, I decided to stay with Yamaha and go with the RX-V671BL.",
+      "E": "When I confronted him, he confessed to taking the tools and claimed that he was planning to return them but kept forgetting.",
+      "N": "was real happy with it until the display stopped working and the cost to fix it was more than replacing it with a more economical receiver.",
+      "O": "I am a SCUBA diver and I am always on the lookout for a good video camera that is easy to use and can go underwater."
+    }
+  }
+}

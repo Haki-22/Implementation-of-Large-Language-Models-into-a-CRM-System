@@ -1,0 +1,985 @@
+{
+  "_schema": {
+    "version": "1.0",
+    "kind": "ocean_inferred_gemini_cli"
+  },
+  "source": {
+    "provider": "gemini",
+    "model": "gemini-3-flash-preview",
+    "system_prompt": "BFI-2 (Soto & John 2017), US population calibration",
+    "input": "substrate/snapshots/amazon/500-reviewers-en.json",
+    "script": "ucs/uc01_personalization/amazon_ocean_inference.py --provider gemini --model gemini-3-flash-preview",
+    "selection": "top-50 of Group A by word_count desc, residual after 67-cohort selection",
+    "max_reviews_per_user": 15,
+    "max_review_len_chars": 600,
+    "concurrency": 4,
+    "wall_seconds": 227,
+    "n_ok": 50,
+    "n_fail": 0,
+    "smoke_test_against_vertex": {
+      "model_compared": "gemini-3.1-pro-preview (Vertex AI, dead since 29/5)",
+      "test_users": 2,
+      "MAE_per_dim": [
+        0.16,
+        0.35
+      ],
+      "max_delta_per_dim": [
+        0.25,
+        0.65
+      ],
+      "verdict": "means within ~0.27, A dim variance compressed -57%, otherwise usable"
+    }
+  },
+  "users": {
+    "A1UQBFCERIP7VJ": {
+      "O": 4.25,
+      "C": 4.65,
+      "E": 3.4,
+      "A": 3.95,
+      "N": 2.65,
+      "evidence_quotes": {
+        "O": "crystalline aesthetic that seems to be influenced by early twentieth-century German Expressionism or Italian Futurism.",
+        "C": "inside dimensions of the ear pads are 1 1/4\" x 1 3/4\" and my ears are 1 1/2\" x 2 1/2\" so they simply don't fit well.",
+        "E": "I use it primarily while walking around in Manhattan and it certainly seems to be intended to be used as a handheld device rather than for driving.",
+        "A": "CAUTION: Don't be misled (as I was) by the claim that it can used with Thunderbolt and Firewire with an adapter...",
+        "N": "I called Pioneer to find out what could be done about it and was on hold forty minutes."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2WLNSZ9U0T1S3": {
+      "O": 4.1,
+      "C": 4.65,
+      "E": 3.8,
+      "A": 3.9,
+      "N": 2.45,
+      "evidence_quotes": {
+        "O": "True to my gadget envy, I acquired one of these dual band extreme base stations to see if they held up to the hype.",
+        "C": "The setup was as follows: A. Plug cable into new modem. B. Plug ethernet cable from modem to your computer. C. Power up modem.",
+        "E": "Hi All. So we are quite a large family with 3 kids that all want their own laptops. What to do? Netbooks are my answer.",
+        "A": "I am comparing this camera to a Flip Mino HD... it is the only way I could give an accurate review to this product.",
+        "N": "I was mildly irritated when I read the quick start guide. Most of you that have routers with a 192.168.0.x address will be ok."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A3OA4DV4L81N1D": {
+      "O": 4.28,
+      "C": 4.88,
+      "E": 3.42,
+      "A": 3.92,
+      "N": 1.68,
+      "evidence_quotes": {
+        "O": "The brushed satin finish of the metal barrel is handsome and matches the top plate finish... Lens scales are engraved and filled with enamel, adding to the vintage vibe.",
+        "C": "CONSTRUCTION: Save for optical elements and electronics, it's entirely made of plastic. Plastics are high quality... I could detect no wobble or play in the mount.",
+        "E": "slid on the VF-4 and was propelled into eyeball Nirvana! The 2.36 dot display is a knockout: remarkable clarity and the 1.48x magnification nips at the heels...",
+        "A": "Luckily all the needed updates are on the LaCie website. Took me about 10 seconds to google and download them.",
+        "N": "Not my favorite color--Crumpler calls it 'snot' green--but makes it easy to see inside! Lining is ultra soft and won't scratch camera delicates."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "AN81JUYW2SL24": {
+      "O": 4.35,
+      "C": 4.68,
+      "E": 3.1,
+      "A": 3.92,
+      "N": 2.24,
+      "evidence_quotes": {
+        "O": "I couldn't decide on whether I wanted the WS-802 or WS-803... After research, I found that I didn't need... the FM Radio... so the WS-802 wasn't needed.",
+        "C": "My particular 620 came equipped with the following: Intel Core i3-2120 (Dual-core 3.3 GHz)... 4GB of DDR3/1333 RAM... 1TB Seagate 7200 RPM HD... Onboard 5.1 audio.",
+        "E": "I chose to use VGA since that is what we typically do at work due to limitations for USB/drivers.",
+        "A": "I will simply add info that you won't find in most websites: Use a low ISO setting for reduced noise in the picture.",
+        "N": "It was a bit frustrating to get used to the Escort Passport 8500 x50's lack of voice alerts. However, it was not too hard to get used to..."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1N5FSCYN4796F": {
+      "O": 3.9,
+      "C": 4.7,
+      "E": 2.75,
+      "A": 3.75,
+      "N": 1.9,
+      "evidence_quotes": {
+        "O": "The back casing of the ASUS MeMO Pad FHD 10 makes most netbooks feel like they were made of prime materials by comparison.",
+        "C": "As in my other reviews I will focus on the music experience as I use my Motorola T305 for hands free calling.",
+        "E": "The iSport are my active use headphones while I plan to use the DNA for other settings - at my desk, Starbucks, etc.",
+        "A": "Logitech hit this one out of the park. My detailed usage based review follows.",
+        "N": "The sound could be a little better, but it is good enough for me."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A203OCQQ12MAVT": {
+      "O": 4.45,
+      "C": 4.75,
+      "E": 3.35,
+      "A": 3.95,
+      "N": 1.55,
+      "evidence_quotes": {
+        "O": "It's been over a year and a half since this product first came through my laboratory for testing and certification.",
+        "C": "This camera is still running strong - the only periodic maintenance is cleaning the lens on the front monthly.",
+        "E": "Have no fear - cheap CR123's are here!",
+        "A": "I ended up giving them away to friends and family who can use them more than I can.",
+        "N": "That unit is still running after driving the neighborhood drug dealers out of their rent free abandoned home"
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A3PD8JD9L4WEII": {
+      "O": 4.12,
+      "C": 4.45,
+      "E": 3.58,
+      "A": 3.85,
+      "N": 2.15,
+      "evidence_quotes": {
+        "O": "This is a very unusual and interesting design which is one of the things that first attracted me.",
+        "C": "Pros: Very compact, low price, excellent image quality, good color, good build quality, easy to use, good remote Cons: No HDMI input, lower resolution...",
+        "E": "Sounds like a five to me. ;)",
+        "A": "Please save your hard earned money and look elsewhere for 'magic.'",
+        "N": "I would have given it 5 stars, but the software is a bit buggy. I got it to work but it took some playing around."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A17BUUBOU0598B": {
+      "O": 4.15,
+      "C": 4.7,
+      "E": 3.25,
+      "A": 3.95,
+      "N": 2.1,
+      "evidence_quotes": {
+        "O": "I did a lot of research into the various models... I need drives for several computers, including Mac, Windows and Linux boxes.",
+        "C": "I have added most of these cons after long term use. These are mostly nit-picky cons... I will try to list as much info as possible to help.",
+        "E": "Overall, I would choose the 8 GB iPod Nano over the 4 GB nano... it's a no brainer.",
+        "A": "I've gone through a few new models recently and hope this extra info may help you.",
+        "N": "The pros FAR OUTWEIGH the cons... That was the first HD failure I've had with any of these WD external drives."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2PSD2R9A1CXG7": {
+      "O": 4.15,
+      "C": 4.65,
+      "E": 3.5,
+      "A": 3.9,
+      "N": 2.35,
+      "evidence_quotes": {
+        "O": "As a database administrator and programmer, I tend to enjoy tech toys... excited to be offered the D-Link DIR-685... as a more visually appealing and versatile router.",
+        "C": "The lens consists of eighteen elements in thirteen groups including one Super-UD glass element and three aspherical lenses to minimize chromatic aberration and distortion.",
+        "E": "I trained with a large group of runners with varying experience levels who were split between using nothing, a wrist trainer, or a smart phone.",
+        "A": "This seemingly simple piece of molded plastic was recommended to me by a professional photographer... light disperses more evenly and is less harsh on the subject.",
+        "N": "I ran into several issues in the process, but learned how to overcome them. ... The trick is ensuring you are transferring files to the card instead."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1URXSRV6WDHVY": {
+      "O": 4.1,
+      "C": 4.65,
+      "E": 3.8,
+      "A": 4.15,
+      "N": 2.1,
+      "evidence_quotes": {
+        "O": "The LG 55G2 is a revolutionary product... attractive/futuristic styling and a knockout out version of Google TV... an entertainment powerhouse!",
+        "C": "After much comparison, and much online and in-store research I decided to plunk down my hard earned cash on this bad boy.",
+        "E": "Interested? Then read on McDuff! But first just a bit of backstory.........<<<warning: Long but pretty detailed review>>>",
+        "A": "I purchased this unit for my 81 year old father... I needed something for him that had a very easy to follow menu system and worked WELL.",
+        "N": "ZERO issues, no dead pixels, no turning itself off , no screen issues, etc. A good solid product!"
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A6VPK7X53QNAQ": {
+      "O": 4.25,
+      "C": 4.65,
+      "E": 3.85,
+      "A": 4.15,
+      "N": 3.1,
+      "evidence_quotes": {
+        "O": "I learned that styluses tips are of 2 main types... with some additional quirky ones made of metal (O-Stylus) or even sausage (supposed to work like your finger!).",
+        "C": "Here is my take on the camera: Strengths: - 9MP CCD sensor with DigicIII processor... resulting in better pictures - Controls are intuitive and a separate replay start button",
+        "E": "take that video... and start 'flipping' your video directly into youtube... It's super easy with the Flip and so nice to share special moments with your far away family",
+        "A": "If you don't want to read the long review, here's the summary. Buy the SD1000 if you are looking for the tiniest camera that you can take everywhere.",
+        "N": "I carried it then I could not get in water and I spent more time worrying whether the sand would damage it than taking pics of my family."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1YEPFLLH42OU1": {
+      "O": 4.12,
+      "C": 4.55,
+      "E": 3.48,
+      "A": 3.92,
+      "N": 2.38,
+      "evidence_quotes": {
+        "O": "I've used a pretty wide variety of both PCs and Macs, both for personal use and for work. I've used them for gaming, development, and run-of-the-mill tasks.",
+        "C": "The G110... still only had 12 G-keys. Ditto the G19... I'm used to having 18 and probably can't live without them.",
+        "E": "the main reason I got this was to take pictures of myself. Not that I'm narcissistic, but... yeah. Anyway, this is definitely the best camera in its class",
+        "A": "I got one of these for a friend, someone who I know isn't going to be picky about hardware specs and speed.",
+        "N": "Mac laptops are just a lot less fuss. They don't break down or exhibit weird quirks as often as PC notebooks, generally last longer on battery power."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2ARDVMUGDFED6": {
+      "O": 4.2,
+      "C": 4.75,
+      "E": 3.3,
+      "A": 3.8,
+      "N": 2.65,
+      "evidence_quotes": {
+        "O": "Fisheye lenses are very fun - they give a totally different perspective compared to just about any lens out there.",
+        "C": "A correction to the amazon description: According to the box, it only holds up to 450 DVDs (not the 564 they list)",
+        "E": "I was excited to see Yongnuo introduce a new model - I love their flashes, the CTR-301P transmitters and the RF-602 transmitters.",
+        "A": "I'll start off by saying that this item IS compatible with the Rebel XTi (I've seen conflicting information floating around).",
+        "N": "Let me start off by saying that I'm not new to home theater equipment... but VERY confusing/overwhelming."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A18HE80910BTZI": {
+      "O": 4.15,
+      "C": 4.65,
+      "E": 3.6,
+      "A": 4.1,
+      "N": 3.05,
+      "evidence_quotes": {
+        "O": "supports community based DD-WRT which you can tweak to your heart's content... I strongly believe on this that - 'Internet Radio' is the future of radio technology.",
+        "C": "Remember... you must always consider the cost of SD/SDHC memory card and a good set of... Rechargeable Batteries... into the cost before you make your decision.",
+        "E": "For your background information, I am an 'Enterprise Systems Engineer' by profession... I told him - oh Yeah! I can build one for you.",
+        "A": "But for the benefit of others let me share how to make this work painlessly... he requested me to come up with a solution for him.",
+        "N": "There is always one thing or the other that disappoints me. May be it's me or I am too picky when it comes to quality."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A23NSKTMSPPBTR": {
+      "O": 4.15,
+      "C": 4.65,
+      "E": 2.8,
+      "A": 3.65,
+      "N": 3.1,
+      "evidence_quotes": {
+        "O": "I did lots of benchmarks and found that I got maximum speeds while doing multiple concurrent large inter-computer file transfers.",
+        "C": "I went to the Peerless website and found detailed technical drawings that gave every detail about measurement and construction.",
+        "E": "I don't make it a practice to read other reviews before writing my own...",
+        "A": "For the most part, they are not real problems with the case itself, but it's entirely reasonable that users may encounter them.",
+        "N": "What I got instead looked washed out, and lacking in detail... It still looked wrong."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "AGVWTYW0ULXHT": {
+      "O": 4.1,
+      "C": 4.45,
+      "E": 3.35,
+      "A": 4.2,
+      "N": 3.05,
+      "evidence_quotes": {
+        "O": "A little while with one of these was enough to show me it has huge potential, both for home use and in the classroom.",
+        "C": "I did a system test on a 1GB file transfer and found that with the USB 2.0 cable it writes 28.7 MB/s and reads 36.4 MB",
+        "E": "To all the haters and nay-sayers, I say: try one. It's smaller than I expected... once you get to using it, that impression goes away.",
+        "A": "I hope that all this detail is helpful. I do have experience with some of the higher-end action camcorders out there, so I'm basing my description...",
+        "N": "The screen cracked internally, under normal use... we are 1 down out of 3 and crossing our fingers that the other two don't break."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A12DQZKRKTNF5E": {
+      "O": 4.15,
+      "C": 4.7,
+      "E": 3.4,
+      "A": 4.1,
+      "N": 2.2,
+      "evidence_quotes": {
+        "O": "I've been looking for a way to 'easily' take tracks off of my old LP's... after stumbling upon the Audio Technica... I knew it was worth a try.",
+        "C": "It's important to understand the differences between the 3 Roku offerings so you can make an informed decision on your purchase.",
+        "E": "I am an avid Facebook user and recently learned that I will be having shoulder surgery, so I will be using voice activated software to keep up with Facebook...",
+        "A": "I purchased this PC for my Mom for under four hundred. At that price, it's an excellent deal for those who have basic needs...",
+        "N": "Yes, Windows 8 isn't a favorite, but get a book like Windows 8.1 For Dummies... and upgrade... for free out of the box."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "ATS2855497V0I": {
+      "O": 4.38,
+      "C": 4.62,
+      "E": 3.3,
+      "A": 4.12,
+      "N": 2.1,
+      "evidence_quotes": {
+        "O": "I bought two as I saw the opportunity for writing software for the big screen.",
+        "C": "This is a rewrite of my original review... it's time for retrospective reviews for a device few should buy given better valued alternatives.",
+        "E": "on long car trips when my car is filled with children and gadgets, a double socket makes for a lot less futzing.",
+        "A": "I've been waiting for a new computer for my wife, something that she can use... and still take along on business trips around the world.",
+        "N": "I do not regret for one minute paying more for a device I use several hours a day, and from which I derive my living."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A3QNQQKJTL76H0": {
+      "O": 4.25,
+      "C": 4.7,
+      "E": 3.4,
+      "A": 3.65,
+      "N": 3.05,
+      "evidence_quotes": {
+        "O": "With its exhaustive list of supported video codecs and network connectivity, it is nearly the perfect player, capable of playing everything from VCD to DVD to Blu-ray/HD DVD rips.",
+        "C": "shoot in AVCHD (format used by Blu-ray) or mp4 and edit directly from the digital files. The easiest to work with is mp4. You can trim clips in QuickTime Pro",
+        "E": "bring just the player over to a friend or relative's house for movie night without having to lug along an external hard drive as well.",
+        "A": "This is my first Denon and boy, am I happy with this unit! ... go take a shower or talk to your cat until then.",
+        "N": "I'm not thrilled with the loud buzz it makes during operation sometimes. ... drive was making noise like crazy doing something, but pushing down on the top stopped the noise."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1SB9BNNGKNX2Z": {
+      "O": 4.2,
+      "C": 4.85,
+      "E": 3.1,
+      "A": 3.95,
+      "N": 1.9,
+      "evidence_quotes": {
+        "O": "The Sonys are so clear I am amazed. I can hear subtleties",
+        "C": "It safely supports up to 13 lbs. (13.2 to be exact) of equipment",
+        "E": "I've been kind of a speaker addict since my late teens.",
+        "A": "I write this review with newbies and relative newbies to headphone purchasing in mind.",
+        "N": "I'm not knocking off any stars here because buying this cable - which I'm returning - was my mistake."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2WB7LZ595CR50": {
+      "O": 4.15,
+      "C": 4.65,
+      "E": 2.8,
+      "A": 3.85,
+      "N": 3.65,
+      "evidence_quotes": {
+        "O": "I've never hitched my wagon to one horse. I use Windows, Mac OS, and Linux.",
+        "C": "I agonized over a case selection... I had not yet used it because I was afraid I'd break it or jack it up with scuff marks.",
+        "E": "I'm a PC power user and I also work in the IT field.",
+        "A": "I recommend a cloth like the premium Quickie for interior dusting and cleaning of delicate surfaces and video screens.",
+        "N": "I'm not eager to go through the same headaches yet again after dishing out four figures for a new PC."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "AOEAD7DPLZE53": {
+      "O": 4.45,
+      "C": 4.85,
+      "E": 2.95,
+      "A": 3.7,
+      "N": 3.4,
+      "evidence_quotes": {
+        "O": "Since I'm an engineer, I just HAVE to open the case to see what's inside. I'm quite impressed by the high-quality components found",
+        "C": "I benchmarked the Kingston SD10G2 card upon its arrival. The result I got was so appalling that I have to re-run the tests on two different computers",
+        "E": "If any brave soul decide to order one to try out, I encourage you to exercise caution.",
+        "A": "My advice is to stay away from BC-9009 for now, until the situation has been rectified.",
+        "N": "One disturbing trend I noticed is that: the speed class rating for micro-SDHC is typically inflated."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2BMZRO0H7TFCS": {
+      "O": 4.2,
+      "C": 4.7,
+      "E": 3.15,
+      "A": 3.85,
+      "N": 2.7,
+      "evidence_quotes": {
+        "O": "I'm a headphone buff... I've also had more than a dozen Bluetooth headsets over the years... I was very excited to give the BackBeat GO 2 a try.",
+        "C": "The all plastic drive's top has a brushed metal appearance... While the enclosure looks sharp, it attracts a lot of dust on the sides and on the top.",
+        "E": "My main purpose for the webcam was to communicate with my family in another state, in both video and audio. I have to say, mission accomplished.",
+        "A": "I got the MK520 primarily for my parents to use and it suits them pretty well. PROS: Good keyboard encryption - Good overall value.",
+        "N": "My high-end Logitech Fusion webcam never worked properly... Logitech support wasn't able to help so I finally gave up and decided to try the LifeCam VX-3000."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "AQIJ3ZEEVCIKU": {
+      "O": 4.3,
+      "C": 4.45,
+      "E": 3.6,
+      "A": 3.5,
+      "N": 2.8,
+      "evidence_quotes": {
+        "O": "Form follows function on this slick, expertly designed, user friendly piece of futuristic tech art. Am I gushing? Yup, cuz this remote is that good.",
+        "C": "Tenvis: Horizontal 270; Vertical 90 Foscam: Horizontal 270; Vertical 120 That 30 difference in the vertical lens... I'll report some of what I found in my research...",
+        "E": "Every time I lay my hands on it, I'm thrilled I made this purchase... we loved this tab so much, we got a 2nd for my husband.",
+        "A": "I recently got an Epson printer and had nothing but trouble with the software setup... a tell-tale sign of a piece of junk in my book.",
+        "N": "My old Thrive started acting up... probably would not have qualified for an exchange... Yet to me, it was a sign of things to come."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A6VXZ1EEPRTLV": {
+      "O": 3.95,
+      "C": 4.65,
+      "E": 3.1,
+      "A": 3.65,
+      "N": 2.45,
+      "evidence_quotes": {
+        "O": "Obtaining decent results, may require that you take some time to explore the camera's capabilities.",
+        "C": "This 400X card has a maximum read speed of 90MB/sec, and more importantly a write speed of 60MB/sec.",
+        "E": "After doing some research, and reading a number of glowing reviews at different reputable photo related forums, I decided to take a chance.",
+        "A": "For under ten bucks, the Ravelli APLT2 tripod gives you about all you can reasonably expect for your money.",
+        "N": "It is very annoying to focus on the subject, lock on, and press the shutter button, only to have the camera fail to fire."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1JUBRIZMO0RJV": {
+      "O": 4.15,
+      "C": 4.6,
+      "E": 3.5,
+      "A": 3.85,
+      "N": 2.9,
+      "evidence_quotes": {
+        "O": "Apple is constantly innovating, and pushing the limit, in order to bring you the world's greatest products.",
+        "C": "The new 20 GB iPod with color display is 0.06 inches thicker than its 20 GB monochrome-display predecessor.",
+        "E": "I was excited to pick up the new iPod Touch at the Apple Store because I had never owned a first generation...",
+        "A": "I had intended to purchase my mother a Macbook for some time now. I wobbled between the several models I considered.",
+        "N": "I anxiously awaited this summer 2010 update to the iMac line... Fast, Loaded, but Check Your Display for Yellow."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A14JBDSWKPKTZA": {
+      "O": 4.1,
+      "C": 4.65,
+      "E": 3.8,
+      "A": 3.85,
+      "N": 2.4,
+      "evidence_quotes": {
+        "O": "When I first took it out of the box and saw these gleaming piano black finish towers for a smaller reasonably priced all in one system it was noteworthy.",
+        "C": "Step 1 remove the sticker covering the ports on the back, and then unplug this wire, and plug it in here etc. Each step... has individual screens.",
+        "E": "Full of Great Ideas. When Stuff is Cool, I get excited... Right away I put it to the test.",
+        "A": "I had setup a wireless Linksys router for a friend in his Win XP and ME machines, and it went without a glitch.",
+        "N": "You know the frustration you feel when a mouse doesn't work, restricting you to the mouse pad. Not this one."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2BX8DDQGCCG2J": {
+      "O": 4.15,
+      "C": 4.8,
+      "E": 3.4,
+      "A": 3.8,
+      "N": 2.2,
+      "evidence_quotes": {
+        "O": "Simply put, this device has near-iPad screen quality in a 3.5\" device. (960x640 resolution at 326 pixels per inch...)",
+        "C": "PLUSES: Takes 2gb memory module; SD card can be used for ReadyBoost; easy access to memory, PCI-e card slot, and hard drive via 'pop off' bottom cover;",
+        "E": "I almost bought one of these until I read the fine print... strikes me as a 'come on' - it omits the two essential features",
+        "A": "Here is an extremely useful, albeit technical, review of this particular Asus model AND of the Atom N450 on which it is based",
+        "N": "My original review focused on whether you can successfully use an 8 gb version... My conclusion... was, and remains, a resounding YES"
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "AVPNQUVZWMDSX": {
+      "O": 4.4,
+      "C": 4.85,
+      "E": 3.4,
+      "A": 4.1,
+      "N": 2.3,
+      "evidence_quotes": {
+        "O": "Unlike ordinary Network Attached Storage (NAS) devices, which use standard file sharing protocols... the Ximeta NetDisk takes a novel approach dubbed NDAS...",
+        "C": "A low current is gentle on the battery and maximizes its lifespan, but a full charge takes hours. A high current will recharge the battery much faster...",
+        "E": "I thought I would focus on a comparison of the two, to help you decide which system best fits your needs.",
+        "A": "In the process, I learned a few things that I hope will help you make the right decisions.",
+        "N": "Although this may seem like a good idea, it has serious drawbacks that make it unacceptable in my opinion."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A3A4ZAIBQWKOZS": {
+      "O": 4.15,
+      "C": 4.65,
+      "E": 3.45,
+      "A": 3.9,
+      "N": 2.3,
+      "evidence_quotes": {
+        "O": "For pixel peepers and those that care about DXO scores, this lens hits a 25. That's... really, really good.",
+        "C": "The booklet gives clear, easy to understand directions for the multitude of ways in which this device can be setup.",
+        "E": "If you're looking for a USB 'dock' for your laptop, and have a USB 3.0 capable laptop, look no further.",
+        "A": "I review all of the things I receive as if I had paid for them for maintaining my review integrity.",
+        "N": "I have missed shots and when I think I may want faster focus I put it on manual and adjust out."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2LCE1D0TW2XY0": {
+      "O": 4.35,
+      "C": 4.88,
+      "E": 3.1,
+      "A": 3.55,
+      "N": 2.15,
+      "evidence_quotes": {
+        "O": "This camera has top-tier image quality in a polished, compact package well-suited to travel.",
+        "C": "I've done some write benchmarks on the 16GB version of this card and others with my Canon 40D. Here are the results:",
+        "E": "I'm reviewing it from the perspective of a working professional, which means I'm at least as concerned about what it's missing as what it has.",
+        "A": "Save your money if you don't have a Canon 7D or 1D IV.",
+        "N": "The stability isn't there for larger gear; it's the sort of tripod where you'd leave image stabilization on."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "ADLVFFE4VBT8": {
+      "O": 4.25,
+      "C": 4.65,
+      "E": 3.4,
+      "A": 3.9,
+      "N": 1.95,
+      "evidence_quotes": {
+        "O": "the Nexus' 4-core CPU and its pure Android, more open makeup make it my preferred 7-incher.",
+        "C": "I will update my review as I learn and experience more if needed... let's do a quick inventory of features.",
+        "E": "we agreed to swap our new gadgets for a couple of days so we could each better decide what our second Android tablet was going to be.",
+        "A": "I did not think I needed yet another remote control... my wife was missing a 'magic wand' shaped remote... I bought one.",
+        "N": "it does it cheaper, usually faster and better, almost always worry-free and very much in style."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2AY4YUOX2N1BQ": {
+      "O": 4.1,
+      "C": 4.7,
+      "E": 3.6,
+      "A": 3.9,
+      "N": 2.05,
+      "evidence_quotes": {
+        "O": "I don't like to buy into hype however, so I decided to buy one and take it for a test spin (pun intended).",
+        "C": "Please excuse the fact that I have written in bullet points - there's so much to cover that full sentences would have gotten tiring to read.",
+        "E": "Let's start with this, repeat after me: 'I spent less than a hundred bucks on these...' Ok, we are ready to proceed.",
+        "A": "Initially, I was going to give this product a four star rating, however... I decided it could use the bump (to each their own, as they say).",
+        "N": "I am already feeling the rim starting to bend in places and ways it shouldn't, but I do not anticipate it breaking any time soon."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1E1LEVQ9VQNK": {
+      "O": 4.1,
+      "C": 4.45,
+      "E": 3.4,
+      "A": 4.15,
+      "N": 2.1,
+      "evidence_quotes": {
+        "O": "I wondered where the word 'Chambray' came from, so I looked it up. It refers to a cotton plain weave fabric... invented by a Frenchman named Jean-Baptiste Chambray...",
+        "C": "I don't have the sophisticated equipment to do really accurate speed comparison tests, but I did do some approximation tests using a stopwatch.",
+        "E": "Preliminary impression: Love at first sight!... so I was elated to see Nikon come up with the D3200. So far, I'm very impressed.",
+        "A": "When someone on Kindle Boards recommended the AmazonBasics Stylus, I decided to give it a try. After using it for a while, I like the stylus.",
+        "N": "I figured if it was a piece of junk, I had wasted a dollar, no big deal. Now that my HDX is in the case, I'm very glad..."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2XRMQA6PJ5ZJ8": {
+      "O": 4.18,
+      "C": 4.42,
+      "E": 3.62,
+      "A": 3.88,
+      "N": 2.12,
+      "evidence_quotes": {
+        "O": "I was one of the first to download the full-featured Nikon NX software on a trial basis in July 2006. I was immediately hooked.",
+        "C": "After considerable research, I went with the TC17E II on the theory (which is the common impression of many Nikon photo enthusiasts) that...",
+        "E": "Obviously, I am enamored with the Nikon D80. As one who has extensively used the D100, D70s, and D200, I was curious as to how the D80 would 'shake out'.",
+        "A": "This is a nice amenity for trips -- you can fit quite a few movies or TV shows on an iPhone... and watch the flicks on your TV.",
+        "N": "The keyboard installed on my desktop Windows machine in seconds as a Bluetooth device, and works flawlessly. I had no setup issues whatever. None."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A3R1WFO4KIUQXZ": {
+      "O": 4.25,
+      "C": 4.55,
+      "E": 3.6,
+      "A": 4.1,
+      "N": 2.35,
+      "evidence_quotes": {
+        "O": "digital cameras get past the gee-whiz-gadget stage and become true instruments of photography.",
+        "C": "I waited until today to review until I bought my own Air so I could do an actual hands-on test",
+        "E": "nothing included in my review will be techie, just real-life things that can help you decide if this is the camera for you.",
+        "A": "I have upped my rating to the same as the general consensus of other users, 3-stars, meaning the product does what it should",
+        "N": "Through updates the manufacturer seems to have responded to the issue and none of the original issues remain. I have upped my rating"
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A4WEZJOIZIV4U": {
+      "O": 3.5,
+      "C": 4.6,
+      "E": 3.45,
+      "A": 4.2,
+      "N": 2.1,
+      "evidence_quotes": {
+        "O": "To me this lens is a must buy for any new digital SLR owner and even advanced users.",
+        "C": "Be sure to click through each of the storage amounts because... the 500 GB was only $10 less than the 1 TB.",
+        "E": "Hello gamers if you're reading this review... my goal is to give you direction as to which one you should buy.",
+        "A": "TIP: YOU CAN USE ANY EXTERNAL HARD DRIVE WITH A MAC AND DON'T NEED A 'MAC COMPATIBLE' DRIVE.",
+        "N": "If you're a Mac user setting up or erasing this hard drive up with your computer is super easy follow these steps."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A38KK0SZYEH5UD": {
+      "O": 4.15,
+      "C": 4.65,
+      "E": 3.4,
+      "A": 3.7,
+      "N": 2.1,
+      "evidence_quotes": {
+        "O": "All I'll say is that in the right hands it is capable of producing stunning images. But at the same time, it isn't for everyone.",
+        "C": "I usually start my camera shopping by paying close attention to the lens, and the Sony comes with a Carl-Zeiss 4x zoom, biased towards the wide-angle end of the spectrum.",
+        "E": "I figured this would let me watch movies on a regular TV when I travel, as well as doing the occasional presentation for large groups.",
+        "A": "I won't insult anyone with comments about the quality of this camera or the pictures it takes. All I'll say is that in the right hands it is capable...",
+        "N": "I've been using my SB900 for several months now, and I've never experienced a problem with the unit shutting down, so I thought I'd try a simple test."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1G650TTTHEAL5": {
+      "O": 4.15,
+      "C": 4.85,
+      "E": 3.65,
+      "A": 4.25,
+      "N": 3.2,
+      "evidence_quotes": {
+        "O": "The design of this drive is unique, as it is diamond textured and able to swivel at a 360 degree angle. I really like the concept of this device.",
+        "C": "Build: The flash drive is very small and light (2.1 x 0.7 x 0.4 inches; 0.3 ounces). ... The dual power port is 2 x 1 inches.",
+        "E": "Traveling is usually a rough experience when you are on the road. ... HooToo has made the HooToo TripMate Nano ... as an electronic jackknife for the traveling man.",
+        "A": "Fortunately, iClever has made the Himbox HB01 ... which gives everyone a frustration free experience. ... I really liked that Brainwavz made earphones that weren't traditionally black.",
+        "N": "Traveling is usually a rough experience ... This leads to a frustrating experience when you are in a hotel with 'internet' but can't connect to it because the connection is wired."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1VQHH85U7PX0": {
+      "O": 4.1,
+      "C": 4.85,
+      "E": 2.9,
+      "A": 3.8,
+      "N": 3.2,
+      "evidence_quotes": {
+        "O": "This filter is a marvel of engineering. The build quality is simply top-notch... it increases color saturation and reduces (and in some cases completely eliminates) reflection.",
+        "C": "I have evaluated each unit individually (under the headers, MX REVOLUTION MOUSE, and MX 5500 KEYBOARD) and in combination (under the header MOUSE & KEYBOARD).",
+        "E": "As of this writing, the product title reads '... Memory Card Reader Writer SD MINISD ...' -- do not be misled!",
+        "A": "The Canon EF-S 55-250mm is a perfect choice if you shoot mostly wide angle shots and don't want to blow a ton of money on a telephoto zoom lens.",
+        "N": "Now, if only Apple hadn't nested the Bluetooth switch 3 menu levels deep! Grrr... the keyboard amd mouse started having connectivity problems."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "ABQWMANK4AR63": {
+      "O": 4.15,
+      "C": 4.85,
+      "E": 3.45,
+      "A": 3.6,
+      "N": 3.25,
+      "evidence_quotes": {
+        "O": "I got the very first Kindle when it came out... when the iPads came out I got one more out of curiosity than any real NEED.",
+        "C": "I tested this with two drives... with the same file set, and also ran the test with a USB 3 adapter, to give a comparison.",
+        "E": "I'm a multiple Microsoft MVP winner... I've been using tablets since their inception... knowledge is way, way up there.",
+        "A": "Each time I upgrade, I pass my replaced one to my son, and his replaced one goes to my mom.",
+        "N": "I spent about 6 hours beating my head against it, having things fail utterly... drove me nuts because I knew there was no problem."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A24HWYHR28JJ7A": {
+      "O": 4.2,
+      "C": 4.92,
+      "E": 4.12,
+      "A": 3.98,
+      "N": 1.82,
+      "evidence_quotes": {
+        "O": "I work in high tech and I am also a musician who plays guitars, harmonica, and world-beat/ethnic percussion.",
+        "C": "I have also uploaded 6 fully-annotated images to the 'View and share related images' Customer Images gallery that describe the differences.",
+        "E": "highly useful on a weekly basis for recording everything from... in-person meetings, to telephone conferences, to jam sessions with my other musician friends...",
+        "A": "Highly recommended with warm fuzzies! ... By installing a Windows or Mac driver, you can use either... which is great for transferring files in between both platforms.",
+        "N": "This thing really blows! And it doesn't suck after years of usage! ;-) ... My Rocket Airs are still going strong after several years of near-daily usage."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A3CW0ZLUO5X2B1": {
+      "O": 4.05,
+      "C": 4.75,
+      "E": 3.3,
+      "A": 3.45,
+      "N": 3.1,
+      "evidence_quotes": {
+        "O": "As an enthusiastic early adopter of digital photography... I wanted specific control of exposure or focus via shutter speed or aperature size.",
+        "C": "Three year update: still works fine; part of my daily data back-up plan. Two year update: still running strong.",
+        "E": "I've hauled it all over the U.S., and as it has gotten older, I've certainly stopped babying it.",
+        "A": "This was purchased for my mom, who is well into her 70s... Her product pictures on a very low end camera... really needed some help.",
+        "N": "The single star is for the overall experience... This eventually required a rollback from SP2 *and* an operating system reinstall."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A3FEGTOLCWXSV4": {
+      "O": 4.1,
+      "C": 4.65,
+      "E": 3.45,
+      "A": 3.95,
+      "N": 2.15,
+      "evidence_quotes": {
+        "O": "Its feature list reads like a dream: Dual band networks (2.4GHz and 5GHz)? Check! ... It means that the phrase 'top of the line router' just got redefined.",
+        "C": "Edited to add detailed setup instructions. ... entered my wireless network credentials, set up a DLink account from which to monitor the camera, and presto!",
+        "E": "I used it exclusively on a recent trip to St Louis, MO to watch my son's high school robotics team compete at the Robotics World Championships.",
+        "A": "In other words ... awesome work by the PDF Fusion team over at Corel! ... It is relatively intuitive to use, and you don't really need a manual.",
+        "N": "I've even forgotten that I swapped routers - the true test of a good invisible appliance :) ... The unit is very resilient to abrupt shutdowns."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A2FRKEXDXDN1KI": {
+      "O": 4.25,
+      "C": 4.9,
+      "E": 3.65,
+      "A": 3.95,
+      "N": 1.95,
+      "evidence_quotes": {
+        "O": "I have been an avid user of Wacom products for almost a decade now and for digital artwork, I still use my Intuous 3 Graphic Tablet.",
+        "C": "I. What's in the package? - Digital Recorder with built-in USB cable - Mini-HD Cable... NO SDCARD IS AVAILABLE. You will definitely want to purchase a Class 10 SDCard.",
+        "E": "Because I travel and cover so many events and there are times where our photographers are busy covering things, I figured...It would be great to have a DSLR.",
+        "A": "the reason why I purchased it was for the main purpose of giving my wife and child access to the DVR when I'm busing watching something on the main TV",
+        "N": "But a lot of these third party China-based connection kits are hit and miss... I figured that I can help others out there to decide if this device is for you."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "ACJT8MUC0LRF0": {
+      "O": 4.1,
+      "C": 4.65,
+      "E": 3.6,
+      "A": 4.15,
+      "N": 2.4,
+      "evidence_quotes": {
+        "O": "The versatility amazes me and I definitely have a long way to go before I master this software to my satisfaction.",
+        "C": "I put it through the 'how rugged are you really?' test. I soaked it and then threw it... It bounced like crazy and rolled.",
+        "E": "A lot of people are familiar with Runtastic via their apps... If you are working toward a particular goal like hitting that five minute mile...",
+        "A": "One of the things that always frustrated people I worked with who had limited or low vision, was how to tell time.",
+        "N": "If you have a dash cam running there will be no quibbling if you are in the right."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1QOK9LU90ACF7": {
+      "O": 4.2,
+      "C": 4.9,
+      "E": 3.35,
+      "A": 4.05,
+      "N": 2.1,
+      "evidence_quotes": {
+        "O": "Acer's server, when configured correctly, provides home users and small offices a powerful solution for automated backups, restores, remote access and media server capability.",
+        "C": "Check the bottom of my review for a comparison chart.",
+        "E": "My teenaged son absconded this Logitech Bluetooth audio adapter... He showed me how to quickly set up this device on my laptop tonight.",
+        "A": "Western Digital's ambition is actually praiseworthy: keep your data protected, and make it easy for you to do so.",
+        "N": "the few minor installation bumps I encountered were easily remedied."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "AT28RL25Q2OLK": {
+      "O": 4.12,
+      "C": 4.65,
+      "E": 3.38,
+      "A": 3.68,
+      "N": 2.05,
+      "evidence_quotes": {
+        "O": "I recently had the opportunity to test the Sony Alpha A37... As an avid life-long Nikon Shooter, I welcomed the opportunity to try another 'non-pro' brand.",
+        "C": "I conducted a great deal of research prior to purchase... I purchased this frame on July 2, 2007 and have had it running non-stop since...",
+        "E": "Trade in Your Beats for DNA's Now!: Here is the real deal folks... the Beats are marketed to the sucker parents of the 11-14 year old range.",
+        "A": "Having been dissapointed in the many Ipad cases my family went through (3 Ipads all owned by girls)... But I was shocked when I received this case.",
+        "N": "I am not considering this in my review rating but will provide additional notes... regardless of additional costs associated with the service."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "AEJAGHLC675A7": {
+      "O": 4.28,
+      "C": 4.62,
+      "E": 3.15,
+      "A": 4.08,
+      "N": 1.92,
+      "evidence_quotes": {
+        "O": "Read a good number of first-look previews, then decided that it was worth a second look. I luckily had a chance for a short hands-on local preview...",
+        "C": "reading its approximate dimensions of 5\" wide x 2-3/8\" high x 1-13/16\" deep can be misleading, so imagine it placed on its side on top of a dollar bill",
+        "E": "If you want just the highlights as to why, see my Short Notes below. If you want the full review, go to Detailed Notes further down.",
+        "A": "do not buy it like I did. Read the 'Add Kindle Accessories' section... and you'll see that you can get this Kindle PowerFast charger for $9",
+        "N": "I was skeptical at first as to whether a sling strap of any kind would be worthwhile, but I had a few things to learn."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    },
+    "A1J75JJ0Q2OEJN": {
+      "O": 4.1,
+      "C": 4.65,
+      "E": 3.6,
+      "A": 3.1,
+      "N": 2.4,
+      "evidence_quotes": {
+        "O": "For years now, I've been looking for something that could offer a set-top box experience that was close to a good HTPC without actually being an HTPC.",
+        "C": "My requirements were as follows:* It must protect the iPad from drops and impact.* It must have a latching top or zipper.* It must have padded separators...",
+        "E": "I love the heck out of this remote!!!... It's probably the best-feeling, best balanced, most responsive remote control I've ever owned.",
+        "A": "First of all, let's get the whining out of the way... honestly, do you really need that cruddy 640x480 video camera they put in the iPod nano...?",
+        "N": "I'm an Optical Technician. I dispense glasses for a living, so I know good eyewear when I see it. Now, the review: This is good eyewear."
+      },
+      "group": "A",
+      "_provider": "gemini",
+      "_model": "gemini-3-flash-preview",
+      "_inferred_at": "2026-06-01",
+      "_batch": "gemini-cli-refer-50"
+    }
+  }
+}

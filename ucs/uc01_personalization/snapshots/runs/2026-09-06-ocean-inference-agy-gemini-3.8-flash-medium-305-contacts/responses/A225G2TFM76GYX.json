@@ -1,0 +1,40 @@
+{
+  "contact_id": 119,
+  "reviewer_id": "A225G2TFM76GYX",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 140,
+  "reviews_used": 15,
+  "prompt_chars": 8310,
+  "status": "ok",
+  "seconds": 426.23,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.35,
+    "E": 3.05,
+    "A": 2.9,
+    "N": 3.25,
+    "evidence_quotes": {
+      "O": "I listened to orchestra, classic rock, and jazz and these phones sound good on everything. Of course they sound best with SACD or vinyl",
+      "C": "I then got out the manual and found out USB 1.0 was default and a procedure had to be followed to configure for USB 2.0",
+      "E": "If you are a true audiophile and truly know what a great headphone should sound like then stay away from the HD 650s.",
+      "A": "Apple has deliberately made the latest iPod incompatible with lots of earlier equipment and this unit unfortunately will not work with it.",
+      "N": "Even with all my whining and complaining Linksys or the others never once sued me or threatened me in any way."
+    }
+  },
+  "raw": {
+    "A": 2.9,
+    "C": 4.35,
+    "E": 3.05,
+    "N": 3.25,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "Apple has deliberately made the latest iPod incompatible with lots of earlier equipment and this unit unfortunately will not work with it.",
+      "C": "I then got out the manual and found out USB 1.0 was default and a procedure had to be followed to configure for USB 2.0",
+      "E": "If you are a true audiophile and truly know what a great headphone should sound like then stay away from the HD 650s.",
+      "N": "Even with all my whining and complaining Linksys or the others never once sued me or threatened me in any way.",
+      "O": "I listened to orchestra, classic rock, and jazz and these phones sound good on everything. Of course they sound best with SACD or vinyl"
+    }
+  }
+}

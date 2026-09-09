@@ -1,0 +1,40 @@
+{
+  "contact_id": 264,
+  "reviewer_id": "A3L1VJMHFWONCB",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 94,
+  "reviews_used": 15,
+  "prompt_chars": 8390,
+  "status": "ok",
+  "seconds": 980.63,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.1,
+    "E": 2.5,
+    "A": 3.85,
+    "N": 2.25,
+    "evidence_quotes": {
+      "O": "That date on an old coin, a bugs head or the intricate patterns on the wing of dragonfly.",
+      "C": "I ordered this 12v Human Motion IR Sensor Automatic Light Switch Infrared after reading reviews on several other IR switches and studying their uses.",
+      "E": "I have a TV need upstairs, in my cave, from the Satalite Receiver, which is in the living room,.",
+      "A": "I will include these specs for you to ponder while considering this review, but mostly the price $150.00 delivered with a Prime membership.",
+      "N": "One fell off a speaker stand, twice due to my inept mentality. Still works and sounds fine, but it is dinged up, so I ordered another pair."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.1,
+    "E": 2.5,
+    "N": 2.25,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I will include these specs for you to ponder while considering this review, but mostly the price $150.00 delivered with a Prime membership.",
+      "C": "I ordered this 12v Human Motion IR Sensor Automatic Light Switch Infrared after reading reviews on several other IR switches and studying their uses.",
+      "E": "I have a TV need upstairs, in my cave, from the Satalite Receiver, which is in the living room,.",
+      "N": "One fell off a speaker stand, twice due to my inept mentality. Still works and sounds fine, but it is dinged up, so I ordered another pair.",
+      "O": "That date on an old coin, a bugs head or the intricate patterns on the wing of dragonfly."
+    }
+  }
+}

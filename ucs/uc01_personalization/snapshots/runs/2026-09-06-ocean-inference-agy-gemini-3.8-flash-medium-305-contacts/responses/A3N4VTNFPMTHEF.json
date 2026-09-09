@@ -1,0 +1,40 @@
+{
+  "contact_id": 176,
+  "reviewer_id": "A3N4VTNFPMTHEF",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 114,
+  "reviews_used": 15,
+  "prompt_chars": 9888,
+  "status": "ok",
+  "seconds": 658.21,
+  "error": "",
+  "profile": {
+    "O": 4.25,
+    "C": 4.2,
+    "E": 3.1,
+    "A": 3.9,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "The shake reduction was perfect for our visits to dimly lit museums.",
+      "C": "After doing a lot of research, I decided on the Pentax 50-200mm because of its compact size and much lighter weight.",
+      "E": "Since I didn't want to spend most of our trip adjusting my camera for each photograph, I usually just used Aperture Priority mode and auto focus.",
+      "A": "I uploaded two images to the user gallery above, showing the 18-55mm next to the 50-200mm.",
+      "N": "Luckily, I was still able to figure out what my code was and the card didn't go to waste."
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 4.2,
+    "E": 3.1,
+    "N": 2.3,
+    "O": 4.25,
+    "evidence_quotes": {
+      "A": "I uploaded two images to the user gallery above, showing the 18-55mm next to the 50-200mm.",
+      "C": "After doing a lot of research, I decided on the Pentax 50-200mm because of its compact size and much lighter weight.",
+      "E": "Since I didn't want to spend most of our trip adjusting my camera for each photograph, I usually just used Aperture Priority mode and auto focus.",
+      "N": "Luckily, I was still able to figure out what my code was and the card didn't go to waste.",
+      "O": "The shake reduction was perfect for our visits to dimly lit museums."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 225,
+  "reviewer_id": "A4D5B7Q8A7PA6",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 100,
+  "reviews_used": 15,
+  "prompt_chars": 9529,
+  "status": "ok",
+  "seconds": 824.24,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 3.75,
+    "E": 3.3,
+    "A": 3.9,
+    "N": 2.7,
+    "evidence_quotes": {
+      "O": "I compose music for my own personal entertainment and also for our company video demos.",
+      "C": "until I get the chance to replace the capacitors on my larger screen.",
+      "E": "if things are running late or we're just making too much noise then on they go.",
+      "A": "Sigh, I loath having to knock something down to one star due to the bundled software",
+      "N": "Imagine my dismay after taking the old one out and putting this one in to see that my ancient asus was a 20 pin"
+    }
+  },
+  "raw": {
+    "A": 3.9,
+    "C": 3.75,
+    "E": 3.3,
+    "N": 2.7,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "Sigh, I loath having to knock something down to one star due to the bundled software",
+      "C": "until I get the chance to replace the capacitors on my larger screen.",
+      "E": "if things are running late or we're just making too much noise then on they go.",
+      "N": "Imagine my dismay after taking the old one out and putting this one in to see that my ancient asus was a 20 pin",
+      "O": "I compose music for my own personal entertainment and also for our company video demos."
+    }
+  }
+}

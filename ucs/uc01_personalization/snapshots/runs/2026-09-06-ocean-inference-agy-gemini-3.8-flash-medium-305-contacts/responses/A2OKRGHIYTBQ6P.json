@@ -1,0 +1,40 @@
+{
+  "contact_id": 276,
+  "reviewer_id": "A2OKRGHIYTBQ6P",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 87,
+  "reviews_used": 15,
+  "prompt_chars": 9985,
+  "status": "ok",
+  "seconds": 1032.76,
+  "error": "",
+  "profile": {
+    "O": 4.2,
+    "C": 4.4,
+    "E": 2.75,
+    "A": 3.85,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "there is an elegance about its design that appeals to me; especially when I need a versatile printer while traveling.",
+      "C": "buying one for my stepson just prior to his trip to Kenya but tested extensively myself ahead-of-time.",
+      "E": "Not having to rush to get in front of the camera before the self-timer trips the shutter is a luxury for those who want to photograph themselves alone",
+      "A": "This year I bought this newer model for my wife, but also tested it before giving it to her.",
+      "N": "Unfortunately, after spending more than an hour downloading software and an Android app, and making repeated attempts to connect the Chromecast to my Wi-Fi network, I was not successful."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.4,
+    "E": 2.75,
+    "N": 2.15,
+    "O": 4.2,
+    "evidence_quotes": {
+      "A": "This year I bought this newer model for my wife, but also tested it before giving it to her.",
+      "C": "buying one for my stepson just prior to his trip to Kenya but tested extensively myself ahead-of-time.",
+      "E": "Not having to rush to get in front of the camera before the self-timer trips the shutter is a luxury for those who want to photograph themselves alone",
+      "N": "Unfortunately, after spending more than an hour downloading software and an Android app, and making repeated attempts to connect the Chromecast to my Wi-Fi network, I was not successful.",
+      "O": "there is an elegance about its design that appeals to me; especially when I need a versatile printer while traveling."
+    }
+  }
+}

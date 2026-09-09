@@ -1,0 +1,35 @@
+{
+  "contact_id": 374,
+  "status": "ok",
+  "seconds": 12.83,
+  "error": "",
+  "ranking": null,
+  "missing": 0,
+  "reused_from": "2026-09-07-model-methods-rank-candidates-describe-and-retrieve-codex-gpt-5.6-terra-low-en-cs-100-customers-2",
+  "parsed": {
+    "next_purchases": [
+      "Náhradní náušníky pro lehká skládací sluchátka Sennheiser PX 100",
+      "HDMI kabel pro propojení Samsung 3D Blu-ray přehrávače s televizorem LG 55LA6900",
+      "Ochranné pouzdro pro objektivový fotoaparát Sony DSC-QX100"
+    ]
+  },
+  "hidden_dropped": false,
+  "method": "describe_and_retrieve",
+  "lang": "cs",
+  "provider": "codex",
+  "model": "gpt-5.6-terra",
+  "tier": "low",
+  "provider_cli_version": "codex-cli 0.153.4",
+  "prompt_version": "1.0.2",
+  "database_sha256": "614653ee42a3a11aa7bd8ac6d19984c27c3f73331692eb3a1ba9a828cdd05ad2",
+  "prompt": "Zákazník Z-374 (anonymizováno). Názvy produktů česky.\nNákupní historie (34 nákupů, od nejstaršího):\n- 2010-02-01 ★5 Lehká skládací sluchátka Sennheiser PX 100 (výrobce ukončil výrobu)\n- 2010-10-28 ★5 Bezdrátová laserová myš Logitech V450\n- 2010-10-28 ★3 Chladič notebooku ThermaPAK HS15A HeatShift pro notebooky do 15\" (černý)\n- 2010-10-30 ★4 Case Logic MSEC-2 pouzdro na kompaktní fotoaparát z lisované EVA tkaniny (modré)\n- 2010-10-30 ★5 Produkty s průvodcem ReSleeve View Obal na CD z recyklovaného kartonu, balení 25 ks (GDP00083)\n- 2010-11-27 ★5 Adaptér pro sluchátka Headset Buddy 2,5mm samice na 3,5mm samec, barva se může lišit od obrázku.\n- 2011-03-23 ★4 Veebeam HD | Bezdrátové propojení počítače s televizorem | 1080p\n- 2011-04-15 ★5 Autonabíječka Targus DC pro Apple iPad, iPad 2, iPad 3 a iPad 4. generace, iPad mini, 16 GB, 32 GB, 64 GB WiFi, 4G, iPho\n- 2011-05-30 ★1 Archos Vision 30c 8 GB video MP3 přehrávač s 3palcovou dotykovou obrazovkou a FM rádiem (stříbrný)\n- 2011-07-24 ★3 Kabel Belkin Micra Digital HDMI na Micro-HDMI (1,8 m)\n- 2011-07-26 ★5 Belkin Ultra Slim Aluminium Series 7-portový USB 2.0 Hub (F4U039fcAPL)\n- 2011-08-02 ★5 Klávesnice pro tablet Logitech 920-003390 s Androidem 3.0 Plus\n- 2011-08-14 ★2 3D kamera Sony Bloggie (černá)\n- 2011-08-14 ★4 Bezdrátový router Belkin N450 (nejnovější generace)\n- 2011-11-23 ★5 Motorola MOTOACTV Clip (Ukončeno výrobcem)\n- 2011-11-26 ★4 MOTOACTV 8 GB GPS fitness tracker a hudební přehrávač (výrobce ukončil výrobu)\n- 2012-02-22 ★3 Pogoplug Series 4 Backup Device\n- 2012-04-08 ★3 Bluetooth headset Samsung HM1700 (šedý)\n- 2012-05-06 ★4 Pouzdro Thule Gauntlet TMAS-113 na displej MacBooku Air a Pro Retina 13,3\" (černé)\n- 2012-05-22 ★4 Digitální fotoaparát Sony Cyber-shot DSC-TX66 s 18,2 MP senzorem Exmor R CMOS, 5násobným optickým zoomem a 3,3palcovým O\n- 2012-05-24 ★5 Dokovací stanice Sony RDPX500iP pro iPod, iPhone a iPad\n- 2012-07-10 ★5 Kompatibilní lithium-iontová baterie Canon NB-6L + nabíječka pro digitální fotoaparáty PowerShot D10 / PowerShot SD1200 \n- 2012-08-02 ★4 Pouzdro Belkin UltraThin Folio pro tablet Acer 10,1\" (půlnoční černá)\n- 2013-05-05 ★4 LG Electronics 55LA6900 55palcové plátno Cinema 3D 1080p 120Hz LED-LCD HDTV s chytrou televizí a čtyřmi páry 3D brýlí (m\n- 2013-08-31 ★5 Belkin MiXiT Aux / Auxiliary kabel odolný proti zamotávání, 90 cm (červený)\n- 2013-09-11 ★4 Streamovací multimediální přehrávač Google Chromecast HDMI\n- 2013-09-18 ★3 Blu-ray přehrávač Samsung BD-E5400 s Wi-Fi (černý) (model 2012)\n- 2013-09-28 ★4 iHome iDL91 Duální nabíjení Stereo FM rádiobudík s Lightning Dock a USB nabíjením/přehráváním pro iPhone/iPod/iPad\n- 2013-10-13 ★3 Bezdrátová Bluetooth headset Jabra STYLE - černá\n- 2013-10-26 ★4 Genius 2.4 GHz 1600dpi Laser Mouse for glass surface (Traveler 9010LS)\n- 2013-10-30 ★5 Duracell Powermat GoPower Overnighter záložní baterie, powerbanka pro iPhone 5S/5C/5, Samsung Galaxy S4, další chytré te\n- 2014-02-26 ★5 Digitální rám z masivního dřeva Nexxt Gallery Series, 12 x 18 palců, černý\n- 2014-04-12 ★3 Fotoaparát Sony DSC-QX100 s připojitelným objektivem k chytrému telefonu\n- 2014-06-25 ★4 3D Blu-ray přehrávač Samsung BD-H5900\nVrať JSON.",
+  "system_prompt": "Jsi doporučovací systém českého e-shopu s elektronikou a příslušenstvím. Z celé nákupní historie jednoho zákazníka (od nejstaršího nákupu: datum, hodnocení hvězdičkami, název produktu) popiš nejpravděpodobnější příští nákup zákazníka jako řádek z nabídky obchodu: typ produktu, značku, pokud ji historie naznačuje, a vlastnost, na které záleží (velikost, kapacita, kompatibilita, modelová řada). Napiš tři takové řádky, nejpravděpodobnější první, v jazyce názvů, které čteš. Nejmenuj produkt, který zákazník už koupil. Odpověz pouze JSON: {\"next_purchases\": [\"<řádek 1>\", \"<řádek 2>\", \"<řádek 3>\"]}.\n\nPříklad. Historie: 2013-01-04 ★5 Sluchátka Sony MDR-7506; 2013-02-11 ★4 USB zesilovač FiiO E10. Odpověď: {\"next_purchases\": [\"Redukce 3,5 mm na 6,3 mm jack pro sluchátka\", \"Stojan na sluchátka přes uši\", \"Náhradní náušníky pro Sony MDR-7506\"]}\n\nOdpověz rovnou v tomto tahu z toho, co jsi přečetl. Nespouštěj příkazy, nezapisuj soubory a nepoužívej žádné nástroje; odpověz jen JSON objektem.",
+  "raw": {
+    "next_purchases": [
+      "Náhradní náušníky pro lehká skládací sluchátka Sennheiser PX 100",
+      "HDMI kabel pro propojení Samsung 3D Blu-ray přehrávače s televizorem LG 55LA6900",
+      "Ochranné pouzdro pro objektivový fotoaparát Sony DSC-QX100"
+    ]
+  },
+  "held_out": "B00K4PAPG0"
+}

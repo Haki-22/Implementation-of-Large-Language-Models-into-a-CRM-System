@@ -1,0 +1,117 @@
+# Model Catalog curated overlay.
+#
+# This is the only hand-edited data file in the project. Everything else in
+# data/catalog.json is generated from deterministic local CLI sources and
+# public, no-key upstream catalogs.
+#
+# Keep this file small. It carries curated policy and last-resort fallbacks:
+# - Vendor-recommended defaults per provider, derived from CLI-distributed
+#   signals: claude's own `default` alias ("Default (recommended)" in its
+#   menu), top-of-menu/cache order for codex and agy. Never the user's
+#   personal settings; those never enter the catalog.
+# - Claude alias fallback map, used only when extraction from the installed
+#   Claude Code binary fails.
+# - agy fallback model list, used only when both `agy models` and the
+#   last-good cache are unavailable.
+# - Conservative allow/deny lists.
+
+[overlay]
+version = "2026-08-29"
+
+[providers.codex]
+cli = "codex"
+binary = "codex"
+# Fallback only: the updater derives the codex default from cache order
+# (menu top-first = vendor recommendation); this value applies only when
+# the cache is missing. Matched the derived value on 2026-08-29.
+default_model = "gpt-5.6-sol"
+default_tier = "medium"
+model_string_format = "{model} {tier}"
+# Used only when ~/.codex/models_cache.json is missing. When the cache exists,
+# the visible Codex menu comes from cache entries with visibility == "list".
+# Kept in vendor menu order (refreshed 2026-08-29) — the first entry doubles
+# as the derived default on this fallback path.
+fallback_allow = ["gpt-5.6-sol", "gpt-5.6-terra", "gpt-5.6-luna", "gpt-5.5", "gpt-5.4", "gpt-5.4-mini"]
+deny = ["codex-auto-review"]
+
+[providers.codex.dispatch]
+# The wrapper runs `codex exec --sandbox danger-full-access` in the caller's
+# working directory, so Codex opens files itself: a review or a task prompt
+# names paths, it does not embed file contents (learned 2026-09-05, when a
+# 200 KB inline bundle hit the argument limit). Above the limit the wrapper
+# pipes the prompt through stdin.
+reads_workspace = true
+prompt_arg_limit_bytes = 100000
+notes = "Point it at paths in the working directory; it reads, greps and runs tests on its own."
+
+[providers.claude]
+cli = "claude"
+binary = "claude"
+# The CLI's own "Default (recommended)": the `default` alias, which resolves
+# to claude-opus-5[1m] (live-verified 2026-08-29 via `claude -p --model default`).
+default_model = "default"
+default_tier = "medium"
+effort_tiers = ["low", "medium", "high", "xhigh", "max"]
+# [1m] variants exist only for opus and sonnet: binary-verified 2026-08-29
+# (claude-fable-5[1m] and claude-haiku-4-5[1m] occur nowhere in the bundle,
+# and the interactive /model menu offers 1M context on Opus only).
+allow = [
+  "claude-opus-5",
+  "claude-opus-5[1m]",
+  "claude-sonnet-5",
+  "claude-sonnet-5[1m]",
+  "claude-haiku-4-5",
+  "claude-fable-5",
+]
+
+[providers.claude.aliases]
+# Fallback only. The primary alias source is the map extracted from the
+# installed Claude Code binary; these values are used when extraction fails.
+# Verified against the installed binary and code.claude.com docs 2026-08-25;
+# `default` corrected 2026-08-29 by live probe (`claude -p --model default`
+# answered from claude-opus-5[1m], matching the /model menu's
+# "Default (recommended): Opus 5 with 1M context") — not haiku.
+opus = "claude-opus-5"
+sonnet = "claude-sonnet-5"
+haiku = "claude-haiku-4-5"
+fable = "claude-fable-5"
+best = "fable"
+default = "claude-opus-5[1m]"
+opusplan = "opus"
+
+[providers.claude.dispatch]
+# `claude -p` runs with its tools in the working directory: it reads files by
+# path. Headless writes are denied (the known Write-denial bug), so a task that
+# must write files goes through the in-session Agent tool instead.
+reads_workspace = true
+notes = "Reads paths in the working directory; cannot write files headless."
+
+[providers.agy]
+cli = "agy"
+binary = "agy"
+# Fallback only: the updater derives the agy default from list order (menu
+# top-first = vendor recommendation); the fallback_allow list below keeps the
+# same order, so this value applies only to the empty-rows edge.
+default_model = "gemini-3.7-flash"
+default_tier = "medium"
+model_string_format = "{model}-{tier}"
+# The primary source is live `agy models` (then the last-good cache). This
+# list is the last-resort fallback only. agy serves everything it can route,
+# including non-Gemini models; ids ending in -low/-medium/-high fold into one
+# base model with reasoning tiers.
+fallback_allow = [
+  "gemini-3.7-flash-high",
+  "gemini-3.7-flash-medium",
+  "gemini-3.7-flash-low",
+  "gemini-3.6-flash-high",
+  "gemini-3.6-flash-medium",
+  "gemini-3.6-flash-low",
+  "gemini-3.5-flash-high",
+  "gemini-3.5-flash-medium",
+  "gemini-3.5-flash-low",
+  "gemini-3.1-pro-high",
+  "gemini-3.1-pro-low",
+  "claude-sonnet-4-6",
+  "claude-opus-4-6-thinking",
+  "gpt-oss-120b-medium",
+]

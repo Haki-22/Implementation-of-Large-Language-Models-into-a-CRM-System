@@ -1,0 +1,40 @@
+{
+  "contact_id": 158,
+  "reviewer_id": "A1W415JP5WEAJK",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 108,
+  "reviews_used": 15,
+  "prompt_chars": 9814,
+  "status": "ok",
+  "seconds": 589.92,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.35,
+    "E": 3.8,
+    "A": 4.25,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "no matter how old you get, you never lose your imagination.",
+      "C": "So I gave this particular set of earphones a solid \"going-over\" to see if I would be comfortable with them. Test #1 - The comfort test.",
+      "E": "I am a pastor who uses my iPad for preaching. While I usually have a podium, I find myself balancing things at weddings, funerals, baptisms, and even communion.",
+      "A": "the gentleman who assisted me was so warm and wonderful, he won my heart for all Mint products.",
+      "N": "So, I tried the \"external monitor\" cord (also included) and the situation was quickly resolved!"
+    }
+  },
+  "raw": {
+    "A": 4.25,
+    "C": 4.35,
+    "E": 3.8,
+    "N": 2.2,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "the gentleman who assisted me was so warm and wonderful, he won my heart for all Mint products.",
+      "C": "So I gave this particular set of earphones a solid \"going-over\" to see if I would be comfortable with them. Test #1 - The comfort test.",
+      "E": "I am a pastor who uses my iPad for preaching. While I usually have a podium, I find myself balancing things at weddings, funerals, baptisms, and even communion.",
+      "N": "So, I tried the \"external monitor\" cord (also included) and the situation was quickly resolved!",
+      "O": "no matter how old you get, you never lose your imagination."
+    }
+  }
+}

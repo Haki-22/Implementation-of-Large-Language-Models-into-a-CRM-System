@@ -1,0 +1,40 @@
+{
+  "contact_id": 314,
+  "reviewer_id": "A2VW4FYZILSXF2",
+  "group": "B",
+  "sources": "previous",
+  "reviews_total": 45,
+  "reviews_used": 15,
+  "prompt_chars": 10237,
+  "status": "ok",
+  "seconds": 298.61,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.55,
+    "E": 3.2,
+    "A": 3.75,
+    "N": 2.3,
+    "evidence_quotes": {
+      "O": "The company encourages innovation",
+      "C": "[DISCLOSURE: I received a device from Anker so that I could do this review. Note, however, that the review was not vetted with Anker prior to posting",
+      "E": "Works well with Dragon for voice dictation and Skype",
+      "A": "? Quality control--my first unit had a defective USB dongle (on subsequent return/replacement this problem was solved)",
+      "N": "Not ideal, but it works."
+    }
+  },
+  "raw": {
+    "A": 3.75,
+    "C": 4.55,
+    "E": 3.2,
+    "N": 2.3,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "? Quality control--my first unit had a defective USB dongle (on subsequent return/replacement this problem was solved)",
+      "C": "[DISCLOSURE: I received a device from Anker so that I could do this review. Note, however, that the review was not vetted with Anker prior to posting",
+      "E": "Works well with Dragon for voice dictation and Skype",
+      "N": "Not ideal, but it works.",
+      "O": "The company encourages innovation"
+    }
+  }
+}

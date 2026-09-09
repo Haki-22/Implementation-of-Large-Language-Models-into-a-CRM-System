@@ -1,0 +1,40 @@
+{
+  "contact_id": 180,
+  "reviewer_id": "A1MRPX3RM48T2I",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 110,
+  "reviews_used": 15,
+  "prompt_chars": 9756,
+  "status": "ok",
+  "seconds": 672.81,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.25,
+    "E": 3.1,
+    "A": 3.85,
+    "N": 2.5,
+    "evidence_quotes": {
+      "O": "I did a lot of research before choosing the Meade CaptureView 8x42 2MP Digital Camera Binocular. This one offers the most for a reasonable price.",
+      "C": "I've been using a UPS to protect my equipment for years, and I can't recommend this practice enough.",
+      "E": "I am extremely happy with my Passport Max, having stepped up from a Passport 8500.",
+      "A": "if you are a Mac User you should be aware that there are some compatibility issues that may be a serious show-stopper for you.",
+      "N": "The problem is that I hate fiddling with the batteries--the hassle of tracking them down online, price-shopping, and then shutting everything down and taking the thing apart."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.25,
+    "E": 3.1,
+    "N": 2.5,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "if you are a Mac User you should be aware that there are some compatibility issues that may be a serious show-stopper for you.",
+      "C": "I've been using a UPS to protect my equipment for years, and I can't recommend this practice enough.",
+      "E": "I am extremely happy with my Passport Max, having stepped up from a Passport 8500.",
+      "N": "The problem is that I hate fiddling with the batteries--the hassle of tracking them down online, price-shopping, and then shutting everything down and taking the thing apart.",
+      "O": "I did a lot of research before choosing the Meade CaptureView 8x42 2MP Digital Camera Binocular. This one offers the most for a reasonable price."
+    }
+  }
+}

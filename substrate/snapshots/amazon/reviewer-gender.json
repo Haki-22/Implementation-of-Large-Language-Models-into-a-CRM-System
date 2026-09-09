@@ -1,0 +1,3845 @@
+{
+  "_meta": {
+    "method": "first given-name token against Faker en_US name lists (unisex excluded) + self-reference cues in the English reviews; name wins, a conflict stays unknown",
+    "faker_version": "40.18.0",
+    "reviewers": 425,
+    "with_name": 424,
+    "name_verdicts": 155,
+    "cue_verdicts": 240,
+    "both_known": 86,
+    "both_agree": 82,
+    "conflicts": 4,
+    "gender_counts": {
+      "m": 258,
+      "unknown": 120,
+      "f": 47
+    }
+  },
+  "reviewers": {
+    "A100UD67AHFODS": {
+      "name": "Expressed Reviews \"Expressed Reviews\"",
+      "name_gender": null,
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A100WO06OQR8BQ": {
+      "name": "Duffer. \"Bo\"",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A108XABRHAA9E7": {
+      "name": "YSC",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A10PEXB6XAQ5XF": {
+      "name": "Michael Gallagher",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A10Y058K7B96C6": {
+      "name": "midnight821",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A10ZFE6YE0UHW8": {
+      "name": "C. MacPhail",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A11D1KHM7DVOQK": {
+      "name": "Person \"qazwsx34651\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A11FX8HL2ANK6T": {
+      "name": "Peter Suslock",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A11I1I9QLMAM1A": {
+      "name": "S. Power",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A11KZ906QD08C5": {
+      "name": "Bill McLean \"Trust But Verify\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A11OTLEDSW8ZXD": {
+      "name": "CGScammell",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 2,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A11T807LX2EF00": {
+      "name": "Michael",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A12B7ZMXFI6IXY": {
+      "name": "Hyoun Kim \"Faluzure\"",
+      "name_gender": null,
+      "cue_male": 21,
+      "cue_female": 4,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A12DQZKRKTNF5E": {
+      "name": "Andrea Polk",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 7,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A149RNR5RH19YY": {
+      "name": "matt.mingkee",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A14JBDSWKPKTZA": {
+      "name": "Bob Feeser \"MillCrafters.com\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A15QYHQH80W30L": {
+      "name": "Edgar H. Tan, MD \"The Healer\"",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A15T9G38F589KM": {
+      "name": "knitting ninja \"knitting ninja\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A16QODENBJVUI1": {
+      "name": "Robert Moore",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A17BUUBOU0598B": {
+      "name": "Mark \"Technology, Music and Movies\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A17HMM1M7T9PJ1": {
+      "name": "Timothy B. Riley",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A17V9XL4CWTQ6G": {
+      "name": "Chandler",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 4,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A18FLOC8YQY0P8": {
+      "name": "E. Tam",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A18HE80910BTZI": {
+      "name": "rbhatta \"A Dinosaur you can trust!\"",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A18S2VGUH9SCV5": {
+      "name": "Margaux Paschke",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 20,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A18U9BQQQ0U8F5": {
+      "name": "Grieger",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A195EZSQDW3E21": {
+      "name": "Rick Bennette \"Rick Bennette\"",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A197T2N6RU7K56": {
+      "name": "Suz",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A19UTUEBWKIZFT": {
+      "name": "AKN",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A19W47CXJJP1MI": {
+      "name": "Amazonian Consumer",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A19X4BF861LQST": {
+      "name": "D. Adams",
+      "name_gender": null,
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A19XMHRB3G4DIR": {
+      "name": "javajunki",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1ATVMMJZP3Q4X": {
+      "name": "Coug Moog \"s_gil\"",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1B4MIXYVIKMU2": {
+      "name": "D. Truong \"-The Duke-\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1BJOHHLG0D965": {
+      "name": "M.D. Edwards \"Avid Aesthete\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1BT6TL7UCIC5Y": {
+      "name": "Quoad Toad",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 2,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1C5WS021EL3WO": {
+      "name": "CJ \"I'll make it work\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1CMD08Z49PGKQ": {
+      "name": "okiedan \"Pro Bono Publico\"",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1CPRP3VFJRS1R": {
+      "name": "M. Anderson",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1CWE28BRV6JP0": {
+      "name": "now what",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1D27BCSYV7VWH": {
+      "name": "C. James",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1E1LEVQ9VQNK": {
+      "name": "J. Chambers",
+      "name_gender": null,
+      "cue_male": 33,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1E3OB6QMBKRYZ": {
+      "name": "MagnumMan",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1EH2S92FHWZRP": {
+      "name": "Just a guy",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1EKSETIBS9ETQ": {
+      "name": null,
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1EVV74UQYVKRY": {
+      "name": "K. Groh",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 7,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1EXGL6L0QQ0M5": {
+      "name": "Shane O. Laake \"camera nerd\"",
+      "name_gender": "m",
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1F1A0QQP2XVH5": {
+      "name": "Mark B",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1F50KG7O9A0JD": {
+      "name": "C. Franz",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1F7YU6O5RU432": {
+      "name": "Angela Streiff",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 14,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1F9Z42CFF9IAY": {
+      "name": "T. Tom",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1G650TTTHEAL5": {
+      "name": "Charles Spanky \"Zumina Reviews\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1GBT4UN2RW7XY": {
+      "name": "For Real \"HAND\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 4,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1GPGBHBI6T2HJ": {
+      "name": "Jeff Edwards \"RadioJeff\"",
+      "name_gender": "m",
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1H0D7635GEEJ1": {
+      "name": "Jeremy",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1ILWPH1GHUXE2": {
+      "name": "JB",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1IU7S4HCK1XK0": {
+      "name": "Joanna Daneman",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1J5HIF41ENSMZ": {
+      "name": "Adam Wood",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1J5IDFDIXRAQU": {
+      "name": "Katun",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1J75JJ0Q2OEJN": {
+      "name": "Raven A. Wind",
+      "name_gender": "f",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": true,
+      "gender": null
+    },
+    "A1JE04PMENX23K": {
+      "name": "Randy Wakeman \"Randy Wakeman\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1JUBRIZMO0RJV": {
+      "name": "Steve H \"books911\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1JZFGZEZVWQPY": {
+      "name": "Carter H \"1amazonreviewer@gmail . com\"",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1KKE6VX8VPWZK": {
+      "name": "Geekdomo \"GeekDomo\"",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1L64KDYO5BOJA": {
+      "name": "Floyd Goodrich \"Jim G.\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1LAGS8H4A2DR7": {
+      "name": "Bill Nicholas",
+      "name_gender": "m",
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1MRPX3RM48T2I": {
+      "name": "Winter",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1MZL91Z44RN06": {
+      "name": "MussSyke",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1N5FSCYN4796F": {
+      "name": "Philip R. Heath \"Gadgets, Music, & Books\"",
+      "name_gender": "m",
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1NB945QH1SSJ9": {
+      "name": "GC",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1NGFGBX2VCQS8": {
+      "name": "Ralph Furlong",
+      "name_gender": "m",
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1O229NVVDJUX2": {
+      "name": "Anthony Pantliano \"The Photo Guy\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1ODOGXEYECQQ8": {
+      "name": "Nuknuk",
+      "name_gender": null,
+      "cue_male": 13,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1OMXVXXP07F05": {
+      "name": "D. Couse \"darkman1969\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1OZA52DFY3SHD": {
+      "name": "Gaz Rendar",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1P0JSFW184ZXJ": {
+      "name": "Jen \"Geek Girl\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 25,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1QNYLBG73QRNF": {
+      "name": "Neurasthenic \"neurasthenic\"",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1QOK9LU90ACF7": {
+      "name": "William W. Davis \"famousdavis\"",
+      "name_gender": "m",
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1QQA7Y92L4F9R": {
+      "name": "Wavey Davey",
+      "name_gender": null,
+      "cue_male": 12,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1QVFHPY8418HC": {
+      "name": "monkuboy",
+      "name_gender": null,
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1R377IPZOKLMM": {
+      "name": "Gina B. \"It's a dry heat!\"",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1RGK6Q5WUZUBA": {
+      "name": "Robbster",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1RL1OTV8IJMVD": {
+      "name": "William Grose \"Tzu Crazy\"",
+      "name_gender": "m",
+      "cue_male": 16,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1RPTVW5VEOSI": {
+      "name": "Michael J. Edelman",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1S88XU6PWCTUD": {
+      "name": "Mark Midura",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1SB9BNNGKNX2Z": {
+      "name": "Jim",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1T1YSCDW0PD25": {
+      "name": "A. Wiersch",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1TQZUSOU22E9M": {
+      "name": "Sidarta Tanu",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1U5IJHJK84S54": {
+      "name": "Daniel A. Koblosh",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1U5NWJOYH2QQH": {
+      "name": "Old geek",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1UQBFCERIP7VJ": {
+      "name": "Margaret Picky",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "A1URXSRV6WDHVY": {
+      "name": "Marty Gillis",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1V3TRGWOMA8LC": {
+      "name": "James Beswick \"Thanks for your time\"",
+      "name_gender": "m",
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1V4VVBQBFXRHC": {
+      "name": "Big-D",
+      "name_gender": null,
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1VFX417XDNWIU": {
+      "name": "Canis Majoris",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1VHCO8RQFIGQJ": {
+      "name": "Indie Film Lover",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1VLVWTLV3LVHR": {
+      "name": "Tim E Robertson \"Publisher MyMac\"",
+      "name_gender": "m",
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1VQHH85U7PX0": {
+      "name": "MyBeesWax \"A Music Fan\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1VTCSCH8FFC76": {
+      "name": "Parker Hallam",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1W415JP5WEAJK": {
+      "name": "Alex S",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 20,
+      "cue_gender": "f",
+      "conflict": true,
+      "gender": null
+    },
+    "A1WUQF5HWBAQJU": {
+      "name": "JJG",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1WXG10FJ353K0": {
+      "name": "MickeyJoe",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A1X1CEGHTHMBL1": {
+      "name": "jjceo",
+      "name_gender": null,
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1YEPFLLH42OU1": {
+      "name": "Yu-jin & Tracy Chia \"Yu-Jin Chia\"",
+      "name_gender": null,
+      "cue_male": 15,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1Z16630QMH8Q6": {
+      "name": "Bill Raley \"Vista Bill\"",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1ZCSSCAGBCD49": {
+      "name": "Joseph Spiegel \"Joe\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1ZM846Y7AUYD": {
+      "name": "M. Pickering",
+      "name_gender": null,
+      "cue_male": 12,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A1ZU55TM45Y2R8": {
+      "name": "J. Haggard",
+      "name_gender": null,
+      "cue_male": 18,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A203OCQQ12MAVT": {
+      "name": "HMMWV \"God, Country, Corps\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A20DDH4NT6Q1E8": {
+      "name": "Koala1356",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A20DZX38KRBIT8": {
+      "name": "Deimos \".\"",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A20OBCQWBKCGZT": {
+      "name": "Flaherty",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 1,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A20VG5W98SX99L": {
+      "name": "Y. Kim \"Zelium\"",
+      "name_gender": "f",
+      "cue_male": 11,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": true,
+      "gender": null
+    },
+    "A20WS8TZ5840ND": {
+      "name": "Adam Dachis \"adachis\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A213J54E63SYOP": {
+      "name": "Rl Shuey",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A21Q9JVG4SII51": {
+      "name": "electronics guy",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A225G2TFM76GYX": {
+      "name": "J. White",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A22CW0ZHY3NJH8": {
+      "name": "Noname",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 22,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A22I55P15NSAOX": {
+      "name": "Two kids mom \"scienceteachermom\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 5,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A22MANL4US4RMY": {
+      "name": "Book Carpenter",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A22S7D0LP8GRDH": {
+      "name": "Jacob Hantla \"hantla.com\"",
+      "name_gender": "m",
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A231WM2Z2JL0U3": {
+      "name": "Rheumor",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A23GFTVIETX7DS": {
+      "name": "Debbie Lee Wesselmann",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 25,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A23NSKTMSPPBTR": {
+      "name": "Wayne",
+      "name_gender": "m",
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A23ONMGKEWDG4M": {
+      "name": "R. Sutton",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A23QII83UGZP5U": {
+      "name": "Wayne \"Omegafiler\"",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A23R3EOZ837242": {
+      "name": "Colin Brown \"Colin Brown Microsoft MVP\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A23ZNGL704AW7O": {
+      "name": "Jennifer Ray",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "A244CRJ2QSVLZ4": {
+      "name": "J. B. Hoyos",
+      "name_gender": null,
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A24HWYHR28JJ7A": {
+      "name": "ƒůŽźŸ ωŬ&#...",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A24J2Y1O22JYZX": {
+      "name": "Chris Boylan \"MrBoylan\"",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2503LT8PZIHAD": {
+      "name": "Gertrude, the Innocent \"Live well, laugh loud...",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 31,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A250AXLRBVYKB4": {
+      "name": "Nathan Beauchamp \"ConsumerAdvocate (nathan(at...",
+      "name_gender": "m",
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A259MPG6SOL02P": {
+      "name": "Josh-Daniel S. Davis \"xaminmo\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A25C2M3QF9G7OQ": {
+      "name": "Comdet",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A25FL6VLD7S23S": {
+      "name": "OILMAN \"OWEN\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A25QJBK33C4O0R": {
+      "name": "terpfan1980 \"Barry\"",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 4,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A25UZ7MA72SMKM": {
+      "name": "Brent Butler",
+      "name_gender": "m",
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A268EEWUXYCA8Q": {
+      "name": "Terry Mesnard",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A26KXNN6H1IL0I": {
+      "name": "A. Tegtmeier",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A27ADCSD15F3GL": {
+      "name": "Schwartz",
+      "name_gender": null,
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A27DDHWHE540I5": {
+      "name": "Pie Grrrl",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 9,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A27H0T39U3FZB5": {
+      "name": "P. MSakamoto \"boy clothes\"",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A27M75LRSJ788H": {
+      "name": "Bruce Sobocinski",
+      "name_gender": "m",
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A27QXQQOLAMRRR": {
+      "name": "Bone \"JLLaser-net\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A28UMA3GW9L124": {
+      "name": "Paul",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A294SHLWPSG1BP": {
+      "name": "Ryan Winkleman",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2AC6GQ24S45GA": {
+      "name": "Patrick O",
+      "name_gender": "m",
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2AF0NOCM71J0B": {
+      "name": "G. Cox \"Shanghaied\"",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2ARDVMUGDFED6": {
+      "name": "MiRSD",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2AWVROFGSZU4E": {
+      "name": "My Fake Name",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2AY4YUOX2N1BQ": {
+      "name": "Ciaran",
+      "name_gender": null,
+      "cue_male": 23,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2B7BUH8834Y6M": {
+      "name": "Shelley Gammon \"Geek\"",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 12,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2BLFCOPSMBOZ9": {
+      "name": "Dave Edmiston",
+      "name_gender": "m",
+      "cue_male": 26,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2BMZRO0H7TFCS": {
+      "name": "Ed",
+      "name_gender": null,
+      "cue_male": 10,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2BX8DDQGCCG2J": {
+      "name": "MWebb",
+      "name_gender": null,
+      "cue_male": 17,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2BYV7S1QP2YIG": {
+      "name": "Dr. Oceanfront \"Oceanfront\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 1,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2D1LPEUCTNT8X": {
+      "name": "Ali Julia",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 12,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2DG63DN704LOI": {
+      "name": "ESlayd",
+      "name_gender": null,
+      "cue_male": 13,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2DKQQIZ793AV5": {
+      "name": "Twister",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2F0E69BAX0T0T": {
+      "name": "Dan Leithauser",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2F7CSE6KT7NI4": {
+      "name": "Dougie Fresh",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2FRKEXDXDN1KI": {
+      "name": "Dennis A. Amith (kndy)",
+      "name_gender": "m",
+      "cue_male": 14,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2HMF8ZR67BNZS": {
+      "name": "Bill A. Belt",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2HRHF83I3NDGT": {
+      "name": "WiseShopper",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2HXE29CU1I24Y": {
+      "name": "R. Ocampo \"Artisan\"",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2I18AO597DSDI": {
+      "name": "David Pearlman \"sound fanatic\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2I357I10ZY7CI": {
+      "name": "M. Nguyen",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2I60HCAVEF3RC": {
+      "name": "Tiger",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2IFGGXG3YV3Y6": {
+      "name": "Scott Anderson \"Sharpsburg\"",
+      "name_gender": "m",
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2J8T58Z4X15IO": {
+      "name": "ScOObydoo",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2JE071UW97J2A": {
+      "name": "Kenneth Depree",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2JMJVNTBL7K7E": {
+      "name": "K. Lin \"yesuaini99\"",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2JP9E1H0SF392": {
+      "name": "TobycW",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2K5RRMPICZ606": {
+      "name": "Nathaniel Allen",
+      "name_gender": "m",
+      "cue_male": 11,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2K767PO8Y3944": {
+      "name": "Anthony M",
+      "name_gender": "m",
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2KHG3JOFXQ4CE": {
+      "name": "USMC Combat Vet \"Retired!\"",
+      "name_gender": null,
+      "cue_male": 23,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2KOV8XWZOZ0FQ": {
+      "name": "Juniorverse1",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2KYRPDKVBI2R4": {
+      "name": "Techy Owl \"Blaine Miller\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2L0F2T1DLTNT8": {
+      "name": "A. Abrams \"Vermonter\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2LB4FLRZG6CUV": {
+      "name": "Orlando Echeverria",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2LCE1D0TW2XY0": {
+      "name": "D. Alexander",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2LEIANN1UZTHP": {
+      "name": "brainout",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2LW5AL0KQ9P1M": {
+      "name": "Dr. E",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 8,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2LXX47A0KMJVX": {
+      "name": "M. Erb",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2M14CFAMF8J7I": {
+      "name": "Techie",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2N75ADJSRW0AH": {
+      "name": "Jeff Kraus",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2NB2E5DXE319Z": {
+      "name": "S. Lionel",
+      "name_gender": null,
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2NOW4U7W3F7RI": {
+      "name": "rpv",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2NVQZ4Y7Y0J1R": {
+      "name": "Traveler",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2NYK9KWFMJV4Y": {
+      "name": "Mike Tarrani \"Jazz Drummer\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2OBDNQ5ZYU1L8": {
+      "name": "Diana De Avila \"MS Gkygrl\"",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2OKRGHIYTBQ6P": {
+      "name": "Lewis A. Edge Jr. \"Happy Traveler\"",
+      "name_gender": null,
+      "cue_male": 18,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2OWR5G2OAQF7C": {
+      "name": "Sincerely Yours",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 3,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2PSD2R9A1CXG7": {
+      "name": "L. T. Beasimer \"www.LBphoto.net\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2PZXXPGLXXKZU": {
+      "name": "AK529",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2Q2A6JKY95RTP": {
+      "name": "R. Garrelts",
+      "name_gender": null,
+      "cue_male": 14,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2QI2NTDTMK2FV": {
+      "name": "Jerry Palmerino Jr",
+      "name_gender": "m",
+      "cue_male": 10,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2QNS95WGN35G9": {
+      "name": "Jason",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2QRXQPHDMFCQV": {
+      "name": "SanjeevP \"Bottom Line\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2R6RA8FRBS608": {
+      "name": "Matthew G. Sherwin",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2RGWCT6K2C3EZ": {
+      "name": "Tim Kimzey \"fstop\"",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2ROZACRW31PC2": {
+      "name": "Tom Servo",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2RU4U1JZ3DMP5": {
+      "name": "Omega Man \"Technoanalyst\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2S26YGSVXBCFL": {
+      "name": "Morley Dotes \"morleydotes\"",
+      "name_gender": null,
+      "cue_male": 17,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2SH6A32BE6NEV": {
+      "name": "Comp Expert \"Comp\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2SKEQT0WTB954": {
+      "name": "Big-Z",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2SPV96SGOEO2": {
+      "name": "The Travelin' Hrncirs",
+      "name_gender": null,
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2TCHXH4SIN2OF": {
+      "name": "Severian \"Severian\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2TZYC3TD9RIGQ": {
+      "name": "Glenn Carpenter",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2UOHALGF2X77Q": {
+      "name": "D. Hentze",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2UWPPU5GZLMQZ": {
+      "name": "Michael McKee \"mystic cowboy\"",
+      "name_gender": "m",
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2V1J3JT5OOZFO": {
+      "name": "Dragonwort Castle",
+      "name_gender": null,
+      "cue_male": 10,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2V5M5EJPOD2IU": {
+      "name": "David Bradshaw",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2VODABWSVHV8E": {
+      "name": "Ray \"A Reader\"",
+      "name_gender": "m",
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2VW4FYZILSXF2": {
+      "name": "Jojoleb \"jojoleb\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A2W9GX82SLKROQ": {
+      "name": "Lenny",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2W9I628I6SE1U": {
+      "name": "Kort \"Art, Music, Book & Movie Enthusiast\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2WB7LZ595CR50": {
+      "name": "J. Harley",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2WC9NFLG57W4H": {
+      "name": "Momma Mary \"Expert Mom!\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 2,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2WLNSZ9U0T1S3": {
+      "name": "Tarun Chachra \"Tarun Chachra\"",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2WPL6Y08K6ZQH": {
+      "name": "Narut Ujnat \"Enthusiasm is contagious.\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2WW57XX2UVLM6": {
+      "name": "Talvi",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 7,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A2X8KN82L07RSK": {
+      "name": "C. Johnson",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2XCCN239AR1XK": {
+      "name": "Kilgore Gagarin \"Those who believe in telekin...",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2XPK6XCL0UH1S": {
+      "name": "Paul Christensen \"gadget geek\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2XRMQA6PJ5ZJ8": {
+      "name": "Roger J. Buffington",
+      "name_gender": "m",
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2Y3WWPUKIJ59I": {
+      "name": "Veil_Lord",
+      "name_gender": null,
+      "cue_male": 22,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A2ZY49IDE6TY5I": {
+      "name": "Crabigail Cassidy \"Crabby Abby\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 33,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A303SNZ4AR7TDQ": {
+      "name": "SirStinky",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A30C8WHQ2CYFO4": {
+      "name": "David Siegfried",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A30X750M8V1XXW": {
+      "name": "Scott",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A30XZK10EZN9V4": {
+      "name": "dwarf",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A31N0XY2UTB25C": {
+      "name": "Stephanie Sullivan",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "A3223W5IROMYTY": {
+      "name": "MOAR COARS",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3284KYDZ00BZA": {
+      "name": "Erich Maria Remarque",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A32O5FZH994CNY": {
+      "name": "G. Ware Cornell Jr. \"anotherlawyer\"",
+      "name_gender": null,
+      "cue_male": 15,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A33775AIB1A664": {
+      "name": "Mark Colan \"duke-of-url\"",
+      "name_gender": "m",
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A33HIV8RXRDM88": {
+      "name": "Kanishk Rastogi \"Freelenser\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A33YZNZIRA3H97": {
+      "name": "l2",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A34BZM6S9L7QI4": {
+      "name": "Candy Cane \"Is it just me?\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A34C9AFFZOI45T": {
+      "name": "T. Sessoms",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A34CSXOGVYF94S": {
+      "name": "Joel Avrunin \"Electrical Engineer who loves S...",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 1,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A34UVV757IKPVB": {
+      "name": "justsomeguy",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A34VRVI4CSI5RQ": {
+      "name": "Matthew K. Morgan",
+      "name_gender": "m",
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A353U0L2HAMSHV": {
+      "name": "Cricket \"Living life and loving it!\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 2,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A35Q0RBM3YNQNF": {
+      "name": "M. Hill",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A36A1ZYZH8568P": {
+      "name": "Ethan Winning \"Ethan Winning\"",
+      "name_gender": "m",
+      "cue_male": 56,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A36IHC0K68NS2": {
+      "name": "Jeffrey N. Fritz \"Nikon Jeff\"",
+      "name_gender": "m",
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A36K2N527TXXJN": {
+      "name": "Dr. Bojan Tunguz",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A370XYLIZCSK1Y": {
+      "name": "Jordan Austin",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A376OJHLE6SU9Q": {
+      "name": "M. Wolf",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 2,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A37CEYB95LK6R6": {
+      "name": "Dovetail65",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A37IRE9GZ0CZ7I": {
+      "name": "Aliza M. Beer \"Books & Belongings By Beverly ...",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 15,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A37QUQPYFMR9Y9": {
+      "name": "M.D.C. \"Tempting Reviews\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A38KK0SZYEH5UD": {
+      "name": "Busy Executive",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A38NELQT98S4H8": {
+      "name": "W. B. Halper",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A38NHXL5257E3B": {
+      "name": "Big Dawg \"Big Dawg\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A38RMU1Y5TDP9": {
+      "name": "Bob Tobias \"Robert Tobias\"",
+      "name_gender": "m",
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3977M5S0GIG5H": {
+      "name": "Joel Dauteuil",
+      "name_gender": "m",
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3A4ZAIBQWKOZS": {
+      "name": "Stephen M. Lerch",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 11,
+      "cue_gender": "f",
+      "conflict": true,
+      "gender": null
+    },
+    "A3A8BQ0NVIUCRM": {
+      "name": "Roger",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3AG5QAT8L0I3R": {
+      "name": "J. Maxon",
+      "name_gender": null,
+      "cue_male": 10,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3AYSYSLHU26U9": {
+      "name": "Amazon Deity",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 12,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A3BACUOZV1M0WM": {
+      "name": "L. G. CHARLOT",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3BVN2QBNPBHCR": {
+      "name": "Lincoln",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3CG93783LP0FO": {
+      "name": "Yarii \"fifty shades of blonde\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3CP1WGNTOSKDA": {
+      "name": "Tim Naff \"Tim\"",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3CW0ZLUO5X2B1": {
+      "name": "35-year Technology Consumer \"8-tracks to 802.11\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3D0UM4ZD2CMAW": {
+      "name": "Mauro serrano",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 1,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3D5B2CBFNJB0K": {
+      "name": "ut158",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3D7BGK0P5QY0X": {
+      "name": "Neil E. Isenberg",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3DOPYDOS49I3T": {
+      "name": "Confucious",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3DWO5RJDA430F": {
+      "name": "L. Da Vinci \"Renaissance Man\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3EXWV8FNSSFL6": {
+      "name": "Daniel G. Lebryk",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3EZEP0FX5BC1P": {
+      "name": "A Conrad \"Ask Conrad\"",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3EZFFPVS34AMO": {
+      "name": "PD",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3F3B6HY9RJI04": {
+      "name": "James Duckett",
+      "name_gender": "m",
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3FEGTOLCWXSV4": {
+      "name": "Ammy_Evaluator",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3FOSLM5G1BO63": {
+      "name": "Eugene Tenenbaum \"reluctant reader\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3FPSY1M6G7XIB": {
+      "name": "RonAnnArbor",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3GVXKCTFN3YDN": {
+      "name": "Lawrence H. Bulk \"Lawrence H. Bulk\"",
+      "name_gender": "m",
+      "cue_male": 50,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3H4S6YO9VNGDZ": {
+      "name": "Anthony J.",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3HPCRD9RX351S": {
+      "name": "Spudman",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3HR0ZZOFKQ97N": {
+      "name": "RLC",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3IOQ7NVVLAUEE": {
+      "name": "I. Guch",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3IY316DRNF5F2": {
+      "name": "ElmoTheCat",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3J8A5L5AF5TX9": {
+      "name": "Richard La Barca",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3JUHP1E3WUHEA": {
+      "name": "Dr. Stuart Gitlow",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3L1VJMHFWONCB": {
+      "name": "CDP \"Double00Buck\"",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3L9E0YI7C5G0W": {
+      "name": "P. Collins",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3LDPF5FMB782Z": {
+      "name": "Alan Houston",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3LGT6UZL99IW1": {
+      "name": "Richard C. Drew \"Anaal Nathra/Uthe vas Bethod...",
+      "name_gender": "m",
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3LWC833HQIG7J": {
+      "name": "austin_Larry",
+      "name_gender": "m",
+      "cue_male": 11,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3MFORLOKIOEQY": {
+      "name": "Amazon Customer",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3MQAQT8C6D1I7": {
+      "name": "AverageReviewer",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3MU9G6YWKTGTA": {
+      "name": "Cary L. Brown",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3N4VTNFPMTHEF": {
+      "name": "James Lin",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3NEAETOSXDBOM": {
+      "name": "Stephen M. Charme",
+      "name_gender": "m",
+      "cue_male": 21,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3NGOG8Z78AZSD": {
+      "name": "Edward Barnett",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3NHUQ33CFH3VM": {
+      "name": "Citizen John",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3NXJDNTQK2YJL": {
+      "name": "Andy in Washington \"Andy\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3OA4DV4L81N1D": {
+      "name": "P.K. Frary \"Gochugogi\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3OXHLG6DIBRW8": {
+      "name": "C. Hill \"CFH\"",
+      "name_gender": null,
+      "cue_male": 53,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3PD8JD9L4WEII": {
+      "name": "Bron \"Bron\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3Q4TYJVAM4IRM": {
+      "name": "Omar Siddique",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3QJU4FEN8PQSZ": {
+      "name": "Grimmy \"Grimmy\"",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3QMJMTLJC34QC": {
+      "name": "Vincent E. Martin \"Darkbard\"",
+      "name_gender": "m",
+      "cue_male": 14,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3QNQQKJTL76H0": {
+      "name": "buru buru piggu",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3R19YKNL641X3": {
+      "name": "Thomas Duff \"Duffbert\"",
+      "name_gender": "m",
+      "cue_male": 12,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3R1WFO4KIUQXZ": {
+      "name": "PhotoGraphics",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3R4794K2RVU1S": {
+      "name": "Danny Yu",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3REK3OFONWB1Q": {
+      "name": "Paul M. Provencher \"ppro\"",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3S3R88HA0HZG3": {
+      "name": "PT Cruiser",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 17,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A3S5EXYZDEBF3K": {
+      "name": "Brian Morris",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3SL0HA6422W4M": {
+      "name": "Dale Thorn",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3T4OHEAHOJ700": {
+      "name": "B. Colonna",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3T7V207KRDE2O": {
+      "name": "SMXSteve",
+      "name_gender": null,
+      "cue_male": 10,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3TAS1AG6FMBQW": {
+      "name": "Jeri Zerr \"formerly a Road Warrior of the Nth...",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 13,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A3U41ZL33SS92P": {
+      "name": "Kevin Nicholls \"jaded, aging hipster\"",
+      "name_gender": "m",
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3V0YR50F1XSKP": {
+      "name": "Mcomeau",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3V5F050GVZ56Q": {
+      "name": "Dre",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3V7D0LH8L7BG0": {
+      "name": "H. Dinh \"shooter\"",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A3VBXQKRM7A4JR": {
+      "name": "eyecore",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3VI2VETB90ZG5": {
+      "name": "J. Sullivan",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A3W4D8XOGLWUN5": {
+      "name": "Michael Kerner \"Michael Kerner\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A4D5B7Q8A7PA6": {
+      "name": "Vynny \"Vynrod\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A4H4KYSM2KQ85": {
+      "name": "Erika Mitchell",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 1,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A4U27URFECK1U": {
+      "name": "Chris Damon \"Classic TV & Tech Guy\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A4WEZJOIZIV4U": {
+      "name": "Chuck Bittner \"Disabled comedian & gamer!\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A506HOOCVL8GW": {
+      "name": "J. Kurz \"J. Q. Public\"",
+      "name_gender": null,
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A54S9CIUV5VNB": {
+      "name": "Dave \"Sonic\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A5JLAU2ARJ0BO": {
+      "name": "Gadgester \"No Time, No Money\"",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 1,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A5KMMY627T3W": {
+      "name": "Kate Stokes",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 1,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A680RUE1FDO8B": {
+      "name": "Jerry Saperstein",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A6FIAB28IS79": {
+      "name": "Samuel Chell",
+      "name_gender": "m",
+      "cue_male": 49,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A6VPK7X53QNAQ": {
+      "name": "AmazonDiva \"Keep Calm and Carry On.\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 1,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "A6VXZ1EEPRTLV": {
+      "name": "trebe",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "A7FDGFK0KN7QG": {
+      "name": "shuTTL3bus \"shuTTL3bus @gmail .com\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "A7QMQBGJ2TCQG": {
+      "name": "Paul Garland",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A84FLVDK2R5JF": {
+      "name": "Nathan M. Rose \"Movie Guy from FlickDirect\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A8CKH8XB33XGN": {
+      "name": "Dave the Pear",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "A9Y5O2R4D6EH5": {
+      "name": "Careful shopper",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AAA0TUKS5VBSA": {
+      "name": "Nerd Alert",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AAK6SOEJY30YG": {
+      "name": "Steven L.",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AAQ9NJ480N9W5": {
+      "name": "P. Mulloy",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "ABDR6IJ93HFIO": {
+      "name": "Daisy \"Daisy S\"",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "ABIVKBMSIPEDY": {
+      "name": "Kiyo M.",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "ABQWMANK4AR63": {
+      "name": "John S. Dean \"John\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "ABUWUTWYZ8V1R": {
+      "name": "Justin McBride \"TheGame21x\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "ABVYGB2TKBO8F": {
+      "name": "J. Donaldson \"Cal-diver\"",
+      "name_gender": null,
+      "cue_male": 12,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AC1YLEFC9AN5X": {
+      "name": "M. Kelley \"mpkelley20\"",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "ACHTDPEQYSEQL": {
+      "name": "mhnstr",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "ACJT8MUC0LRF0": {
+      "name": "D. Fowler",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 2,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "AD73VMNYB8XVX": {
+      "name": "S. Lee \"spamination\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "ADLVFFE4VBT8": {
+      "name": "A. Dent \"Aragorn\"",
+      "name_gender": null,
+      "cue_male": 7,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "ADOR3TR7GDF68": {
+      "name": "F T. A.",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "ADPKRJ2BSFJ0I": {
+      "name": "Rolla Gravett \"Rolla Gravett\"",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AEGQWVR6KWBV": {
+      "name": "Ron Cronovich \"Ron\"",
+      "name_gender": null,
+      "cue_male": 8,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AEJAGHLC675A7": {
+      "name": "John Williamson",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "AEL6CQNQXONBX": {
+      "name": "Cute Chihuahua",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AENLD33KQ6MJ4": {
+      "name": "Scott Showalter",
+      "name_gender": "m",
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AEWYUPCNDV7HY": {
+      "name": "Modern Blue Argonaut \"No I do not have a shoe...",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 12,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "AFNG8O2DXRCUV": {
+      "name": "Amazon Customer",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AG35JCCQWDRCS": {
+      "name": "M. Winchester",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AGGAQLXPVGM5D": {
+      "name": "Eagle Vision",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AGOH8N902URMW": {
+      "name": "Zeb \"zebra01\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AGVWTYW0ULXHT": {
+      "name": "Nathan Andersen \"Gadget lover and author of S...",
+      "name_gender": "m",
+      "cue_male": 18,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AGXMC3ITWZASE": {
+      "name": "JDP",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AHNHLGKIZ2N3B": {
+      "name": "D. R. Jeanclerc \"Reader, Listener & Obsessive...",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AHPV4F8IVSC39": {
+      "name": "Douglas B. Moran \"Computer+History/Politics\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "AHQRU3MRORIWQ": {
+      "name": "EMTP EJ \"EJ\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AI0BCEWRE04G0": {
+      "name": "Stoney",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AI8EMB0HUC6Z5": {
+      "name": "Tyler Forge \"realist\"",
+      "name_gender": "m",
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AIBRTGBN07D6A": {
+      "name": "Scott",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "AIJQU979J6UFY": {
+      "name": "Nick \"whereishawkins\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AKT8TGIT6VVZ5": {
+      "name": "John Kwok",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "ALDAF4VVLFRHP": {
+      "name": "Patricia Brouillette",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 9,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "ALYU98KL3VUGF": {
+      "name": "Enche Tjin",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AMS2CPERWN7JV": {
+      "name": "E. Byers",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AMUP8DYE7EAN2": {
+      "name": "mateo52 \"invisible man\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AMVXR3NPL0GWX": {
+      "name": "Patrick Perdu",
+      "name_gender": "m",
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AN81JUYW2SL24": {
+      "name": "Gearhead Mania",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "ANW6EGY12V5XS": {
+      "name": "Henri Savin",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AO2EURP2Y4JZM": {
+      "name": "Karl",
+      "name_gender": "m",
+      "cue_male": 9,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AOEAD7DPLZE53": {
+      "name": "NLee the Engineer",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AOEDWQLH2WKKW": {
+      "name": "E. J Tastad \"ejt\"",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AOMEH9W6LHC4S": {
+      "name": "Personne",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AONUCJBC85BL": {
+      "name": "KindlePad",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "APBDZ88BBTN4F": {
+      "name": "R. McAdams",
+      "name_gender": null,
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "APQQK1V695AUE": {
+      "name": "Ann E. Revelle",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "AQIJ3ZEEVCIKU": {
+      "name": "Kaio",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 4,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "AR3EVUQF0AC7R": {
+      "name": "morning fog",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AR74YY08IP2WE": {
+      "name": "Dave \"Dave\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "ARBKYIVNYWK3C": {
+      "name": "RST10",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "ARX7Z3NI6O0F7": {
+      "name": "Lynn May",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "ARXU3FESTWMJJ": {
+      "name": "Mary Jo Sminkey \"15 years of Amazon Reviews!\"",
+      "name_gender": "f",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "f"
+    },
+    "ASCBJEPXTOU0V": {
+      "name": "Bacon",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "ASFP250F22MDZ": {
+      "name": "But I'm feeling much better now...",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "ASJSX783R5HTZ": {
+      "name": "Preston S. Page \"Preston Page\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "ASR7145BJLFIW": {
+      "name": "Terrance S.",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "AT09WGFUM934H": {
+      "name": "John",
+      "name_gender": "m",
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AT28RL25Q2OLK": {
+      "name": "NyReckDiver",
+      "name_gender": null,
+      "cue_male": 4,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AT2J7H5TRZM8Z": {
+      "name": "A Customer",
+      "name_gender": null,
+      "cue_male": 5,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AT6CZDCP4TRGA": {
+      "name": "Eduarrdo Nietzsche",
+      "name_gender": null,
+      "cue_male": 2,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "ATS2855497V0I": {
+      "name": "Glenn R. Howes",
+      "name_gender": "m",
+      "cue_male": 49,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AU5U16YWAIYZP": {
+      "name": "Grant Brummett",
+      "name_gender": "m",
+      "cue_male": 3,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AU90FZYTYG0FT": {
+      "name": "R. Ding",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AUCIFMWP3DU8R": {
+      "name": "R.S. Eisenberg \"Keeping it real since 1959\"",
+      "name_gender": null,
+      "cue_male": 1,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AUITG1DJ3QUGK": {
+      "name": "E. Swope",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 11,
+      "cue_gender": "f",
+      "conflict": false,
+      "gender": "f"
+    },
+    "AVAW0HU8BXXKT": {
+      "name": "zemes",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AVBLGXSWRN666": {
+      "name": "S. Jentsch",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AVFJ327UXPXLF": {
+      "name": "Jerry Helsing \"jlhelsing\"",
+      "name_gender": "m",
+      "cue_male": 15,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AVPNQUVZWMDSX": {
+      "name": "esanta \"esanta\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AWNJAY0M5UI70": {
+      "name": "ANK2",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AWPODHOB4GFWL": {
+      "name": "Martin A Hogan \"Marty From SF\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "AX7317G153T8W": {
+      "name": "P. Colin McGraw \"AV, Computer & EnviroTech Nut\"",
+      "name_gender": "m",
+      "cue_male": 11,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AX9FIZX89LNFQ": {
+      "name": "C.V. May \"Searching for The Good Stuff\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AXU3VKZE848IY": {
+      "name": "Chris Zee Shutterbug",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "AY6A8KPYCE6B0": {
+      "name": "Tyson",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AYB4ELCS5AM8P": {
+      "name": "John B. Goode \"JBG\"",
+      "name_gender": "m",
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": "m"
+    },
+    "AYNAH993VDECT": {
+      "name": "bsg2004",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    },
+    "AZ515FFZ7I2P7": {
+      "name": "Jerry Jackson Jr.",
+      "name_gender": "m",
+      "cue_male": 14,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AZAC8O310IK4E": {
+      "name": "Hoppaguy",
+      "name_gender": null,
+      "cue_male": 6,
+      "cue_female": 0,
+      "cue_gender": "m",
+      "conflict": false,
+      "gender": "m"
+    },
+    "AZMY6E8B52L2T": {
+      "name": "JP \"J.P.\"",
+      "name_gender": null,
+      "cue_male": 0,
+      "cue_female": 0,
+      "cue_gender": null,
+      "conflict": false,
+      "gender": null
+    }
+  }
+}

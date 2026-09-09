@@ -1,0 +1,40 @@
+{
+  "contact_id": 365,
+  "reviewer_id": "A2F0E69BAX0T0T",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 34,
+  "reviews_used": 15,
+  "prompt_chars": 9795,
+  "status": "ok",
+  "seconds": 1184.28,
+  "error": "",
+  "profile": {
+    "O": 4.35,
+    "C": 4.15,
+    "E": 3.1,
+    "A": 3.65,
+    "N": 2.4,
+    "evidence_quotes": {
+      "O": "I am an audio and video lover and read a number of AV magazines like Sound and Vision.",
+      "C": "I decided to bring home a surface temperature measurement gun (a Raytec MiniTemp MT).",
+      "E": "I definitely have a preference for a heavy mouse, customizable LED colors, and a nice scroll wheel.",
+      "A": "Each headphone has had its positives and negatives based on what an individual user may prefer.",
+      "N": "It charged my laptop, no problem, but I was stunned how hot the charger was during the charge."
+    }
+  },
+  "raw": {
+    "A": 3.65,
+    "C": 4.15,
+    "E": 3.1,
+    "N": 2.4,
+    "O": 4.35,
+    "evidence_quotes": {
+      "A": "Each headphone has had its positives and negatives based on what an individual user may prefer.",
+      "C": "I decided to bring home a surface temperature measurement gun (a Raytec MiniTemp MT).",
+      "E": "I definitely have a preference for a heavy mouse, customizable LED colors, and a nice scroll wheel.",
+      "N": "It charged my laptop, no problem, but I was stunned how hot the charger was during the charge.",
+      "O": "I am an audio and video lover and read a number of AV magazines like Sound and Vision."
+    }
+  }
+}

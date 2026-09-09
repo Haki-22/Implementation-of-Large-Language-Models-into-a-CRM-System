@@ -1,0 +1,40 @@
+{
+  "contact_id": 358,
+  "reviewer_id": "A1J5IDFDIXRAQU",
+  "group": "C",
+  "sources": "sample:model-arms-100",
+  "reviews_total": 12,
+  "reviews_used": 12,
+  "prompt_chars": 7876,
+  "status": "ok",
+  "seconds": 474.23,
+  "error": "",
+  "profile": {
+    "O": 4.3,
+    "C": 4.5,
+    "E": 3.6,
+    "A": 3.85,
+    "N": 2.35,
+    "evidence_quotes": {
+      "O": "curiosity killed me yet once again, and I gave in and bought the Ultrasone Pro 900 due to intriguing reviews.",
+      "C": "There is a \"Build\" and \"Sound\" section in this comparison. The build section covers both",
+      "E": "Basics here folks. This section will get you situated with some of my brief history regarding the HE-4 and HE-500",
+      "A": "I luckily didn't find it too big for \"my\" ears, but that really doesn't say to much for those reading this.",
+      "N": "I was beginning to lose hope in finding that \"perfect\" headphone for me."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.5,
+    "E": 3.6,
+    "N": 2.35,
+    "O": 4.3,
+    "evidence_quotes": {
+      "A": "I luckily didn't find it too big for \"my\" ears, but that really doesn't say to much for those reading this.",
+      "C": "There is a \"Build\" and \"Sound\" section in this comparison. The build section covers both",
+      "E": "Basics here folks. This section will get you situated with some of my brief history regarding the HE-4 and HE-500",
+      "N": "I was beginning to lose hope in finding that \"perfect\" headphone for me.",
+      "O": "curiosity killed me yet once again, and I gave in and bought the Ultrasone Pro 900 due to intriguing reviews."
+    }
+  }
+}

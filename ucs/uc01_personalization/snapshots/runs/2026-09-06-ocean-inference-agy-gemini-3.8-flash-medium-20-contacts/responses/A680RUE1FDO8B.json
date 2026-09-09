@@ -1,0 +1,40 @@
+{
+  "contact_id": 15,
+  "reviewer_id": "A680RUE1FDO8B",
+  "group": "A",
+  "sources": "previous",
+  "reviews_total": 352,
+  "reviews_used": 15,
+  "prompt_chars": 10079,
+  "status": "ok",
+  "seconds": 47.4,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.2,
+    "E": 3.1,
+    "A": 2.75,
+    "N": 2.9,
+    "evidence_quotes": {
+      "O": "From a butte with a 50+ mile view, landscapes of wheat fields were crisp and highly detailed and the 10 megapixel images withstood enlargement well.",
+      "C": "My tests were conducted on a laptop running a Pentium M 1.6 Ghz CPU.",
+      "E": "I'd love to do a video review of the Flip Video Ultra, but there's so much detail to be covered, I think the video format might get boring.",
+      "A": "This does not mean that hard drives don't fail - they do and anyone who keeps only one copy of critical data is a fool.",
+      "N": "If I could reduce my Amazon rating of this product to one or fewer stars, I would."
+    }
+  },
+  "raw": {
+    "A": 2.75,
+    "C": 4.2,
+    "E": 3.1,
+    "N": 2.9,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "This does not mean that hard drives don't fail - they do and anyone who keeps only one copy of critical data is a fool.",
+      "C": "My tests were conducted on a laptop running a Pentium M 1.6 Ghz CPU.",
+      "E": "I'd love to do a video review of the Flip Video Ultra, but there's so much detail to be covered, I think the video format might get boring.",
+      "N": "If I could reduce my Amazon rating of this product to one or fewer stars, I would.",
+      "O": "From a butte with a 50+ mile view, landscapes of wheat fields were crisp and highly detailed and the 10 megapixel images withstood enlargement well."
+    }
+  }
+}

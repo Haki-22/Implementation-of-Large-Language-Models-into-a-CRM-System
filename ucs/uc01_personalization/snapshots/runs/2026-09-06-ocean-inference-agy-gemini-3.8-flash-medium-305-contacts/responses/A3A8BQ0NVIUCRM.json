@@ -1,0 +1,40 @@
+{
+  "contact_id": 409,
+  "reviewer_id": "A3A8BQ0NVIUCRM",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 44,
+  "reviews_used": 15,
+  "prompt_chars": 9645,
+  "status": "ok",
+  "seconds": 1406.47,
+  "error": "",
+  "profile": {
+    "O": 4.15,
+    "C": 4.4,
+    "E": 2.65,
+    "A": 3.45,
+    "N": 2.15,
+    "evidence_quotes": {
+      "O": "I just acquired this item today and noticed chip model numbers are not disclosed within the literature. Since it's a recent item, not seeing much within Internet searches either.",
+      "C": "Ran memtest on these four sticks of ram (4x8GB=32GB) over night with default options and passed without problems.",
+      "E": "Since I'm really only using these devices while at home or in a vehicle, it's more desirable to have a base unit.",
+      "A": "I prefer versatille code, so the only reason I'm giving it 4 stars and not 5 stars!",
+      "N": "(Not to fret, Linux/Mac users can run the BCD996T scanner software under Wine. Some but not all Windows bugs are eliminated using Wine.)"
+    }
+  },
+  "raw": {
+    "A": 3.45,
+    "C": 4.4,
+    "E": 2.65,
+    "N": 2.15,
+    "O": 4.15,
+    "evidence_quotes": {
+      "A": "I prefer versatille code, so the only reason I'm giving it 4 stars and not 5 stars!",
+      "C": "Ran memtest on these four sticks of ram (4x8GB=32GB) over night with default options and passed without problems.",
+      "E": "Since I'm really only using these devices while at home or in a vehicle, it's more desirable to have a base unit.",
+      "N": "(Not to fret, Linux/Mac users can run the BCD996T scanner software under Wine. Some but not all Windows bugs are eliminated using Wine.)",
+      "O": "I just acquired this item today and noticed chip model numbers are not disclosed within the literature. Since it's a recent item, not seeing much within Internet searches either."
+    }
+  }
+}

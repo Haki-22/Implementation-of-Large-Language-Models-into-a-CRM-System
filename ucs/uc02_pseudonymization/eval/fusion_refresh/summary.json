@@ -1,0 +1,1041 @@
+{
+  "rule": {
+    "overall": {
+      "tp": 144,
+      "fp": 12,
+      "fn": 51,
+      "precision": 0.923077,
+      "recall": 0.738462,
+      "f1": 0.820513
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "BBAN": {
+        "tp": 0,
+        "fp": 12,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IBAN_CZ": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.454545,
+        "f1": 0.625
+      },
+      "ICO": {
+        "tp": 22,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 19,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "PHONE": {
+        "tp": 37,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 144,
+      "fp": 12,
+      "fn": 51
+    },
+    "detector": "rule",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "rule+gliner": {
+    "overall": {
+      "tp": 162,
+      "fp": 46,
+      "fn": 33,
+      "precision": 0.778846,
+      "recall": 0.830769,
+      "f1": 0.80397
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "BBAN": {
+        "tp": 0,
+        "fp": 12,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IBAN_CZ": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.454545,
+        "f1": 0.625
+      },
+      "ICO": {
+        "tp": 22,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 0,
+        "fp": 8,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "PERSON": {
+        "tp": 18,
+        "fp": 26,
+        "fn": 1,
+        "precision": 0.409091,
+        "recall": 0.947368,
+        "f1": 0.571429
+      },
+      "PHONE": {
+        "tp": 37,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 162,
+      "fp": 46,
+      "fn": 33
+    },
+    "detector": "rule+gliner",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "rule+presidio": {
+    "overall": {
+      "tp": 155,
+      "fp": 338,
+      "fn": 40,
+      "precision": 0.314402,
+      "recall": 0.794872,
+      "f1": 0.450581
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 20,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "BBAN": {
+        "tp": 0,
+        "fp": 12,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DATE": {
+        "tp": 0,
+        "fp": 5,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IBAN_CZ": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.454545,
+        "f1": 0.625
+      },
+      "ICO": {
+        "tp": 22,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 11,
+        "fp": 301,
+        "fn": 8,
+        "precision": 0.035256,
+        "recall": 0.578947,
+        "f1": 0.066465
+      },
+      "PHONE": {
+        "tp": 37,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 155,
+      "fp": 338,
+      "fn": 40
+    },
+    "detector": "rule+presidio",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "rule+bardsai": {
+    "overall": {
+      "tp": 161,
+      "fp": 21,
+      "fn": 34,
+      "precision": 0.884615,
+      "recall": 0.825641,
+      "f1": 0.854111
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 6,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "BBAN": {
+        "tp": 0,
+        "fp": 12,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IBAN_CZ": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.454545,
+        "f1": 0.625
+      },
+      "ICO": {
+        "tp": 22,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 17,
+        "fp": 3,
+        "fn": 2,
+        "precision": 0.85,
+        "recall": 0.894737,
+        "f1": 0.871795
+      },
+      "PHONE": {
+        "tp": 37,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 161,
+      "fp": 21,
+      "fn": 34
+    },
+    "detector": "rule+bardsai",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "rule+richielo": {
+    "overall": {
+      "tp": 162,
+      "fp": 62,
+      "fn": 33,
+      "precision": 0.723214,
+      "recall": 0.830769,
+      "f1": 0.77327
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 38,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "BBAN": {
+        "tp": 0,
+        "fp": 12,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IBAN_CZ": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.454545,
+        "f1": 0.625
+      },
+      "ICO": {
+        "tp": 22,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "ORG": {
+        "tp": 0,
+        "fp": 10,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "PERSON": {
+        "tp": 18,
+        "fp": 2,
+        "fn": 1,
+        "precision": 0.9,
+        "recall": 0.947368,
+        "f1": 0.923077
+      },
+      "PHONE": {
+        "tp": 37,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 162,
+      "fp": 62,
+      "fn": 33
+    },
+    "detector": "rule+richielo",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "rule+nametag3": {
+    "overall": {
+      "tp": 163,
+      "fp": 33,
+      "fn": 32,
+      "precision": 0.831633,
+      "recall": 0.835897,
+      "f1": 0.83376
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 21,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "BBAN": {
+        "tp": 0,
+        "fp": 12,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IBAN_CZ": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.454545,
+        "f1": 0.625
+      },
+      "ICO": {
+        "tp": 22,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "tp": 37,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "RC": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      }
+    },
+    "counts": {
+      "tp": 163,
+      "fp": 33,
+      "fn": 32
+    },
+    "detector": "rule+nametag3",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "gliner": {
+    "overall": {
+      "tp": 38,
+      "fp": 55,
+      "fn": 157,
+      "precision": 0.408602,
+      "recall": 0.194872,
+      "f1": 0.263889
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 20,
+        "fp": 11,
+        "fn": 0,
+        "precision": 0.645161,
+        "recall": 1.0,
+        "f1": 0.784314
+      },
+      "DIC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 23,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "EMAIL": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 33,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "IBAN_CZ": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ICO": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ORG": {
+        "tp": 0,
+        "fp": 11,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "PERSON": {
+        "tp": 18,
+        "fp": 33,
+        "fn": 1,
+        "precision": 0.352941,
+        "recall": 0.947368,
+        "f1": 0.514286
+      },
+      "PHONE": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 37,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "RC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 19,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "counts": {
+      "tp": 38,
+      "fp": 55,
+      "fn": 157
+    },
+    "detector": "gliner",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "presidio": {
+    "overall": {
+      "tp": 118,
+      "fp": 389,
+      "fn": 77,
+      "precision": 0.232742,
+      "recall": 0.605128,
+      "f1": 0.336182
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 21,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DATE": {
+        "tp": 0,
+        "fp": 22,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 23,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "EMAIL": {
+        "tp": 33,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "IBAN_CZ": {
+        "tp": 10,
+        "fp": 0,
+        "fn": 12,
+        "precision": 1.0,
+        "recall": 0.454545,
+        "f1": 0.625
+      },
+      "ICO": {
+        "tp": 22,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PERSON": {
+        "tp": 11,
+        "fp": 301,
+        "fn": 8,
+        "precision": 0.035256,
+        "recall": 0.578947,
+        "f1": 0.066465
+      },
+      "PHONE": {
+        "tp": 0,
+        "fp": 38,
+        "fn": 37,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "RC": {
+        "tp": 19,
+        "fp": 7,
+        "fn": 0,
+        "precision": 0.730769,
+        "recall": 1.0,
+        "f1": 0.844444
+      }
+    },
+    "counts": {
+      "tp": 118,
+      "fp": 389,
+      "fn": 77
+    },
+    "detector": "presidio",
+    "message_count": 69,
+    "restored_exact_count": 55,
+    "restored_exact_rate": 0.797101
+  },
+  "bardsai": {
+    "overall": {
+      "tp": 33,
+      "fp": 19,
+      "fn": 162,
+      "precision": 0.634615,
+      "recall": 0.169231,
+      "f1": 0.267206
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 16,
+        "fp": 12,
+        "fn": 4,
+        "precision": 0.571429,
+        "recall": 0.8,
+        "f1": 0.666667
+      },
+      "DIC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 23,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "EMAIL": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 33,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "IBAN_CZ": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ICO": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ORG": {
+        "tp": 0,
+        "fp": 4,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "PERSON": {
+        "tp": 17,
+        "fp": 3,
+        "fn": 2,
+        "precision": 0.85,
+        "recall": 0.894737,
+        "f1": 0.871795
+      },
+      "PHONE": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 37,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "RC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 19,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "counts": {
+      "tp": 33,
+      "fp": 19,
+      "fn": 162
+    },
+    "detector": "bardsai",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "richielo": {
+    "overall": {
+      "tp": 18,
+      "fp": 141,
+      "fn": 177,
+      "precision": 0.113208,
+      "recall": 0.092308,
+      "f1": 0.101695
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 0,
+        "fp": 46,
+        "fn": 20,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "DIC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 23,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "EMAIL": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 33,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "IBAN_CZ": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ICO": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ORG": {
+        "tp": 0,
+        "fp": 27,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "PERSON": {
+        "tp": 18,
+        "fp": 68,
+        "fn": 1,
+        "precision": 0.209302,
+        "recall": 0.947368,
+        "f1": 0.342857
+      },
+      "PHONE": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 37,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "RC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 19,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "counts": {
+      "tp": 18,
+      "fp": 141,
+      "fn": 177
+    },
+    "detector": "richielo",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  },
+  "nametag3": {
+    "overall": {
+      "tp": 69,
+      "fp": 45,
+      "fn": 126,
+      "precision": 0.605263,
+      "recall": 0.353846,
+      "f1": 0.446602
+    },
+    "by_type": {
+      "ADDRESS": {
+        "tp": 13,
+        "fp": 21,
+        "fn": 7,
+        "precision": 0.382353,
+        "recall": 0.65,
+        "f1": 0.481481
+      },
+      "DIC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 23,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "EMAIL": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 33,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "IBAN_CZ": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ICO": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 22,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "PERSON": {
+        "tp": 19,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "PHONE": {
+        "tp": 37,
+        "fp": 24,
+        "fn": 0,
+        "precision": 0.606557,
+        "recall": 1.0,
+        "f1": 0.755102
+      },
+      "RC": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 19,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "counts": {
+      "tp": 69,
+      "fp": 45,
+      "fn": 126
+    },
+    "detector": "nametag3",
+    "message_count": 69,
+    "restored_exact_count": 69,
+    "restored_exact_rate": 1.0
+  }
+}

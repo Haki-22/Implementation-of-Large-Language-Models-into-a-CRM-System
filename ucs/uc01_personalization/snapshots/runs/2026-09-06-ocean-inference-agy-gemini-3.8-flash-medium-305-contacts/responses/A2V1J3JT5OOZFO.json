@@ -1,0 +1,40 @@
+{
+  "contact_id": 280,
+  "reviewer_id": "A2V1J3JT5OOZFO",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 92,
+  "reviews_used": 15,
+  "prompt_chars": 8197,
+  "status": "ok",
+  "seconds": 1051.13,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.25,
+    "E": 3.4,
+    "A": 3.85,
+    "N": 2.2,
+    "evidence_quotes": {
+      "O": "Not everyone likes the same things and not everyone is creative or can figure out how to use them.",
+      "C": "be careful to align the protector right and apply as directed (lift it up and straighten as needed and reapply).",
+      "E": "used it over a month with 200 plus photo's of graduation and grandchildren, including crystal clear movies, 10 out of 10.",
+      "A": "Having some hearing loss I chose wireless headphones so my wife could enjoy TV at a reasonable volume.",
+      "N": "Maybe I got a bad one. In reading all of the rave reviews it must be a fluke."
+    }
+  },
+  "raw": {
+    "A": 3.85,
+    "C": 4.25,
+    "E": 3.4,
+    "N": 2.2,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "Having some hearing loss I chose wireless headphones so my wife could enjoy TV at a reasonable volume.",
+      "C": "be careful to align the protector right and apply as directed (lift it up and straighten as needed and reapply).",
+      "E": "used it over a month with 200 plus photo's of graduation and grandchildren, including crystal clear movies, 10 out of 10.",
+      "N": "Maybe I got a bad one. In reading all of the rave reviews it must be a fluke.",
+      "O": "Not everyone likes the same things and not everyone is creative or can figure out how to use them."
+    }
+  }
+}

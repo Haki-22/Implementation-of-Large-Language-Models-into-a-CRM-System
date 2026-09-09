@@ -1,0 +1,40 @@
+{
+  "contact_id": 69,
+  "reviewer_id": "A1GBT4UN2RW7XY",
+  "group": "A",
+  "sources": "all",
+  "reviews_total": 85,
+  "reviews_used": 15,
+  "prompt_chars": 9774,
+  "status": "ok",
+  "seconds": 225.13,
+  "error": "",
+  "profile": {
+    "O": 4.1,
+    "C": 4.15,
+    "E": 3.5,
+    "A": 2.65,
+    "N": 3.45,
+    "evidence_quotes": {
+      "O": "I was able to find the tool, and also the firmware updater, by simply Binging FlashAir.exe, turns out the software is hosted on Toshiba's Japan site.",
+      "C": "Its actual weight is 15.7 oz. (445 grams), not the 1.1 lbs. stated on this page.",
+      "E": "We're a family into water sports, so we buy and use a bunch of different waterproof cameras, including Sony, Fujifilm, Olympus, and those drugstore disposables.",
+      "A": "The naysayers here don't like it because they don't know what to expect or how to use it properly.",
+      "N": "The Cruz T410's touchscreen became increaseingly difficult to use after the honeymoon period was over, and it's now a royal pain in the butt to use!"
+    }
+  },
+  "raw": {
+    "A": 2.65,
+    "C": 4.15,
+    "E": 3.5,
+    "N": 3.45,
+    "O": 4.1,
+    "evidence_quotes": {
+      "A": "The naysayers here don't like it because they don't know what to expect or how to use it properly.",
+      "C": "Its actual weight is 15.7 oz. (445 grams), not the 1.1 lbs. stated on this page.",
+      "E": "We're a family into water sports, so we buy and use a bunch of different waterproof cameras, including Sony, Fujifilm, Olympus, and those drugstore disposables.",
+      "N": "The Cruz T410's touchscreen became increaseingly difficult to use after the honeymoon period was over, and it's now a royal pain in the butt to use!",
+      "O": "I was able to find the tool, and also the firmware updater, by simply Binging FlashAir.exe, turns out the software is hosted on Toshiba's Japan site."
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "contact_id": 402,
+  "reviewer_id": "A2X8KN82L07RSK",
+  "group": "C",
+  "sources": "all",
+  "reviews_total": 54,
+  "reviews_used": 15,
+  "prompt_chars": 10041,
+  "status": "ok",
+  "seconds": 1366.59,
+  "error": "",
+  "profile": {
+    "O": 3.9,
+    "C": 4.1,
+    "E": 2.6,
+    "A": 2.9,
+    "N": 3.2,
+    "evidence_quotes": {
+      "O": "I had purchased a 160GB Samsung to start building my new PC.",
+      "C": "Luckily I had the insight to back up the most important file earlier today, so all is not lost",
+      "E": "I purchased and used these headphones at work to drown out annoying sounds of other co-workers.",
+      "A": "this item is nothing but another nickel and dime attempt by Microsoft.",
+      "N": "I initially had some issues with it and I even feared that it had fried a couple of my old HDs."
+    }
+  },
+  "raw": {
+    "A": 2.9,
+    "C": 4.1,
+    "E": 2.6,
+    "N": 3.2,
+    "O": 3.9,
+    "evidence_quotes": {
+      "A": "this item is nothing but another nickel and dime attempt by Microsoft.",
+      "C": "Luckily I had the insight to back up the most important file earlier today, so all is not lost",
+      "E": "I purchased and used these headphones at work to drown out annoying sounds of other co-workers.",
+      "N": "I initially had some issues with it and I even feared that it had fried a couple of my old HDs.",
+      "O": "I had purchased a 160GB Samsung to start building my new PC."
+    }
+  }
+}
